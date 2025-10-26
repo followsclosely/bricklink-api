@@ -7,14 +7,14 @@ plugins {
 dependencies {
     // For logging
     compileOnly('org.slf4j:slf4j-api:2.0.17')
-    compileOnly('ch.qos.logback:logback-classic:1.5.17')
+    compileOnly('ch.qos.logback:logback-classic:1.5.19')
 
     implementation(project(':bricklink-api'))
     implementation('org.apache.commons:commons-csv:1.14.1')
 
     // For testing
     testImplementation(project(':bricklink-api'))
-    testImplementation('ch.qos.logback:logback-classic:1.5.17')
+    testImplementation('ch.qos.logback:logback-classic:1.5.19')
     testImplementation('org.junit.jupiter:junit-jupiter-api:5.11.0')
     testRuntimeOnly('org.junit.jupiter:junit-jupiter-engine:5.11.0')
 }
