@@ -13,7 +13,22 @@ import java.util.concurrent.TimeUnit;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
-
+/**
+ * Utility class to sign requests to the Bricklink API using OAuth 1.0a.
+ * Based on the OAuth 1.0a specification.
+ * See: <a href="https://oauth.net/core/1.0a/">OAuth Core 1.0 Revision A</a>
+ *
+ * Sample usage:
+ * <pre>
+ *   BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
+ *     .verb(BlinkAuthSigner.Method.GET).uri("colors/" + id);
+ *
+ *   return restClient.get()
+ *     .uri(signatureBuilder.buildUrl())
+ *     .header(BlinkAuthSigner.HEADER, signatureBuilder.buildAuthorizationHeader())
+ *     .retrieve().body(BLINK_COLOR_TYPE_REF);
+ * </pre>
+ */
 public class BlinkAuthSigner {
 
     public static final String VERSION_VALUE = "1.0";
@@ -51,6 +66,14 @@ public class BlinkAuthSigner {
 
     private String baseUrl = "https://api.bricklink.com/api/store/v1/";
 
+    /**
+     * Constructor for BlinkAuthSigner.
+     *
+     * @param consumerKey    The OAuth consumer key.
+     * @param consumerSecret The OAuth consumer secret.
+     * @param tokenValue     The OAuth token value.
+     * @param tokenSecret    The OAuth token secret.
+     */
     public BlinkAuthSigner(String consumerKey, String consumerSecret, String tokenValue, String tokenSecret) {
         this.consumerKey = consumerKey;
         this.consumerSecret = consumerSecret;
@@ -67,9 +90,7 @@ public class BlinkAuthSigner {
 
     /**
      * Set the base URL for the API endpoints.
-     * <p>
      * Note: This method ensures that the base URL ends with a trailing slash.
-     * </p>
      */
     public void setBaseUrl(String baseUrl) {
         this.baseUrl = baseUrl;
@@ -78,6 +99,13 @@ public class BlinkAuthSigner {
         }
     }
 
+    /**
+     * Signs the given string using HMAC-SHA1 with the provided key.
+     *
+     * @param toSign    The string to sign.
+     * @param keyString The signing key.
+     * @return The Base64-encoded signature.
+     */
     private String doSign(String toSign, String keyString) {
         try {
             SecretKeySpec key = new SecretKeySpec(keyString.getBytes(CHARSET), HMAC_SHA1);
@@ -92,6 +120,11 @@ public class BlinkAuthSigner {
         }
     }
 
+    /**
+     * Creates a new SignatureBuilder instance that is thread-safe.
+     *
+     * @return A new SignatureBuilder.
+     */
     public SignatureBuilder signatureBuilder() {
         return new SignatureBuilder();
     }
@@ -100,6 +133,11 @@ public class BlinkAuthSigner {
         GET, POST, DELETE
     }
 
+    /**
+     * Builder class for constructing OAuth-signed requests.
+     * Unlike the typical builder pattern, this class does not have one final build() method.
+     * Instead, it provides methods to build the final URL and Authorization header separately.
+     */
     public class SignatureBuilder {
 
         private final Map<String, String> oauthParameters = new HashMap<>();
@@ -107,6 +145,14 @@ public class BlinkAuthSigner {
         private String url = null;
         private Method method = null;
 
+        /**
+         * Sets the URL for the request.
+         * If the provided URL does not start with "http", it is treated as a relative path
+         * and appended to the base URL.
+         *
+         * @param url The URL or relative path.
+         * @return The current SignatureBuilder instance.
+         */
         public SignatureBuilder url(String url) {
             if (url.startsWith("http")) {
                 this.url = url;
@@ -116,16 +162,34 @@ public class BlinkAuthSigner {
             return this;
         }
 
+        /**
+         * Sets the URL for the request by concatenating the string representations of the provided objects.
+         *
+         * @param objects The objects to concatenate into a URL or relative path.
+         * @return The current SignatureBuilder instance.
+         */
         public SignatureBuilder uri(Object... objects) {
-            this.url = Arrays.stream(objects).map(Object::toString).collect(Collectors.joining(""));
-            return this;
+            return this.url(Arrays.stream(objects).map(Object::toString).collect(Collectors.joining("")));
         }
 
+        /**
+         * Sets the HTTP method (verb) for the request.
+         *
+         * @param method The HTTP method.
+         * @return The current SignatureBuilder instance.
+         */
         public SignatureBuilder verb(Method method) {
             this.method = method;
             return this;
         }
 
+        /**
+         * Adds an OAuth parameter to the request.
+         *
+         * @param key   The parameter key.
+         * @param value The parameter value ( calls .name() to get value).
+         * @return The current SignatureBuilder instance.
+         */
         public SignatureBuilder parameter(String key, Enum<?> value) {
             if (value != null) {
                 this.queryParameters.put(key, value.name());
@@ -133,6 +197,13 @@ public class BlinkAuthSigner {
             return this;
         }
 
+        /**
+         * Adds an OAuth parameter to the request.
+         *
+         * @param key   The parameter key.
+         * @param value The parameter value ( converts to true|false).
+         * @return The current SignatureBuilder instance.
+         */
         public SignatureBuilder parameter(String key, Boolean value) {
             if (value != null) {
                 this.queryParameters.put(key, value ? "true" : "false");
@@ -140,6 +211,12 @@ public class BlinkAuthSigner {
             return this;
         }
 
+        /**
+         * Adds an OAuth parameter to the request.
+         * @param key
+         * @param value
+         * @return
+         */
         public SignatureBuilder parameter(String key, String value) {
             if (value != null) {
                 this.queryParameters.put(key, value);
@@ -147,6 +224,12 @@ public class BlinkAuthSigner {
             return this;
         }
 
+        /**
+         * Adds multiple OAuth parameters to the request.
+         *
+         * @param parameters A map of parameter key-value pairs.
+         * @return The current SignatureBuilder instance.
+         */
         public SignatureBuilder parameters(Map<String, String> parameters) {
             if (parameters != null) {
                 this.queryParameters.putAll(parameters);
@@ -154,6 +237,11 @@ public class BlinkAuthSigner {
             return this;
         }
 
+        /**
+         * Builds the final URL with query parameters.
+         *
+         * @return The complete URL as a string.
+         */
         public String buildUrl() {
             if (queryParameters.isEmpty()) {
                 return this.url;
@@ -175,6 +263,12 @@ public class BlinkAuthSigner {
 
         }
 
+        /**
+         * Builds the OAuth Authorization header. This should be included in the HTTP request headers with the
+         * key named "Authorization"
+         *
+         * @return The Authorization header value.
+         */
         public String buildAuthorizationHeader() {
             Map<String, String> fullParameters = getFinalOAuthParams();
             StringBuilder header = new StringBuilder();
@@ -189,7 +283,7 @@ public class BlinkAuthSigner {
             return HEADER_VALUES_PREFIX + header.toString();
         }
 
-        public Map<String, String> getFinalOAuthParams() {
+        private Map<String, String> getFinalOAuthParams() {
             //The computeSignature method also adds required OAuth parameters, so do this first!
             oauthParameters.put(VERSION, VERSION_VALUE);
             //Get current timestamp in seconds

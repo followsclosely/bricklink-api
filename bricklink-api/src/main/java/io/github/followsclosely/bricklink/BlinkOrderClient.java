@@ -7,10 +7,29 @@ import lombok.Data;
 
 import java.util.List;
 
+/**
+ * Client interface for interacting with Bricklink orders.
+ */
 public interface BlinkOrderClient {
 
+    /**
+     * Retrieves a specific order by its ID.
+     *
+     * @param id The ID of the order to retrieve.
+     * @return A BlinkResponse containing the order details.
+     *
+     * @see <a href="https://www.bricklink.com/v3/api.page?page=get-order">Bricklink API Guide - Get Order</a>
+     */
     BlinkResponse<BlinkOrder> getOrder(Integer id);
 
+    /**
+     * Retrieves a list of orders based on the provided query parameters.
+     *
+     * @param query The query parameters for filtering orders.
+     * @return A BlinkResponse containing a list of orders matching the query.
+     *
+     * @see <a href="https://www.bricklink.com/v3/api.page?page=get-orders">Bricklink API Guide - Get Orders</a>
+     */
     BlinkResponse<List<BlinkOrder>> getOrders(Query query);
 
     @Data
