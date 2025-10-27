@@ -4,9 +4,9 @@ import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
-import java.util.Map;
-import java.util.HashMap;
 import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * Enumeration representing different types of items in the BrickLink catalog.<br>
@@ -28,6 +28,16 @@ public enum ItemType {
     UNSORTED_LOT("U", "Unsorted Lot"),
     UNKNOWN("?", "Unknown");
 
+    private static final Map<String, ItemType> ID_MAP;
+
+    static {
+        Map<String, ItemType> map = new HashMap<>();
+        for (ItemType type : values()) {
+            map.put(type.id, type);
+        }
+        ID_MAP = Collections.unmodifiableMap(map);
+    }
+
     /**
      * The unique identifier for the item type (e.g., "S" for Set).
      */
@@ -36,15 +46,6 @@ public enum ItemType {
      * The descriptive name of the item type (e.g., "Set").
      */
     private final String name;
-
-    private static final Map<String, ItemType> ID_MAP;
-    static {
-        Map<String, ItemType> map = new HashMap<>();
-        for (ItemType type : values()) {
-            map.put(type.id, type);
-        }
-        ID_MAP = Collections.unmodifiableMap(map);
-    }
 
     /**
      * Returns the {@code ItemType} corresponding to the given identifier.<br>

@@ -1,2 +1,3 @@
 include 'bricklink-api'
 include 'bricklink-catalog-loaders'
+include 'bricklink-spring-rest-client'
