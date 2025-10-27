@@ -20,10 +20,11 @@ dependencies {
     testImplementation('org.springframework:spring-web:6.2.11')
 
     testImplementation('commons-codec:commons-codec:1.13')
+    testImplementation('org.slf4j:slf4j-api:2.0.17')
+    testImplementation('ch.qos.logback:logback-classic:1.5.17')
 
     testRuntimeOnly('org.junit.jupiter:junit-jupiter-engine:5.11.0')
-    testRuntimeOnly('org.slf4j:slf4j-api:2.0.17')
-    testRuntimeOnly('ch.qos.logback:logback-classic:1.5.17')
+
 }
 
 tasks.register('sourcesJar', Jar) {
