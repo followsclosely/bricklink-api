@@ -32,7 +32,7 @@ public interface BlinkItemClient {
      * @return A BlinkResponse containing the item details.
      * @see <a href="https://www.bricklink.com/v3/api.page?page=get-item">Bricklink API Guide - Get Item</a>
      */
-    BlinkResponse<BlinkItem> getItem(BlinkItemType type, String number );
+    BlinkResponse<BlinkItem> getItem(BlinkItem.Type type, String number );
 
     /**
      * Retrieves the price guide for a specific item type and number, with optional query parameters.
@@ -43,7 +43,7 @@ public interface BlinkItemClient {
      * @return A BlinkResponse containing the price guide information associated with the specified item.
      * @see <a href="https://www.bricklink.com/v3/api.page?page=get-price-guide">Bricklink API Guide - Get Price Guide</a>
      */
-    BlinkResponse<BlinkItem.BlinkPriceGuide> getPriceGuide(BlinkItemType type, String number, PriceGuideQuery priceGuideQuery);
+    BlinkResponse<BlinkItem.BlinkPriceGuide> getPriceGuide(BlinkItem.Type type, String number, PriceGuideQuery priceGuideQuery);
 
     @Data
     @Builder
@@ -135,7 +135,7 @@ public interface BlinkItemClient {
      * @return A BlinkResponse containing a list of known colors associated with the specified item.
      * @see <a href="https://www.bricklink.com/v3/api.page?page=get-known-colors">Bricklink API Guide - Get Known Colors</a>
      */
-    BlinkResponse<List<BlinkItem.KnownColor>> getKnownColors(BlinkItemType type, String number);
+    BlinkResponse<List<BlinkItem.KnownColor>> getKnownColors(BlinkItem.Type type, String number);
 
     /**
      * Retrieves the image information for a specific item type, number, and optional color.
@@ -146,7 +146,7 @@ public interface BlinkItemClient {
      * @return A BlinkResponse containing the image information associated with the specified item.
      * @see <a href="https://www.bricklink.com/v3/api.page?page=get-item-image">Bricklink API Guide - Get Item Image</a>
      */
-    BlinkResponse<BlinkItem.Image> getImage(BlinkItemType type, String number, Integer color);
+    BlinkResponse<BlinkItem.Image> getImage(BlinkItem.Type type, String number, Integer color);
 
     /**
      * Retrieves the element ID mappings for a specific item type and number.
@@ -156,5 +156,5 @@ public interface BlinkItemClient {
      * @return A BlinkResponse containing a list of element ID mappings associated with the specified item.
      * @see <a href="https://www.bricklink.com/v3/api.page?page=get-item-element-ids">Bricklink API Guide - Get Item Element IDs</a>
      */
-    BlinkResponse<List<BlinkItem.ElementIdMapping>> getElementId(BlinkItemType type, String number);
+    BlinkResponse<List<BlinkItem.ElementIdMapping>> getElementId(BlinkItem.Type type, String number);
 }

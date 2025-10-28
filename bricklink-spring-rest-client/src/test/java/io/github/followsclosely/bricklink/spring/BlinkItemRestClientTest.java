@@ -2,8 +2,6 @@ package io.github.followsclosely.bricklink.spring;
 
 import io.github.followsclosely.bricklink.BlinkItemClient;
 import io.github.followsclosely.bricklink.dto.BlinkItem;
-import io.github.followsclosely.bricklink.dto.BlinkItemType;
-import io.github.followsclosely.bricklink.dto.BlinkOrder;
 import io.github.followsclosely.bricklink.dto.BlinkResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
@@ -19,7 +17,7 @@ class BlinkItemRestClientTest {
     @Test
     void testGetItem() throws Exception {
         BlinkItemRestClient client = new BlinkItemRestClient(BlinkAuthSignerFactory.newInstance());
-        BlinkResponse<BlinkItem> response = client.getItem(BlinkItemType.SET, "10350-1");
+        BlinkResponse<BlinkItem> response = client.getItem(BlinkItem.Type.SET, "10350-1");
         assertNotNull(response);
         assertNotNull(response.getData());
         log.info("Retrieved item: {}", response.getData().getName());
@@ -28,7 +26,7 @@ class BlinkItemRestClientTest {
     @Test
     void testGetPriceGuide() throws Exception {
         BlinkItemRestClient client = new BlinkItemRestClient(BlinkAuthSignerFactory.newInstance());
-        BlinkResponse<BlinkItem.BlinkPriceGuide> response = client.getPriceGuide(BlinkItemType.SET, "10350-1",
+        BlinkResponse<BlinkItem.BlinkPriceGuide> response = client.getPriceGuide(BlinkItem.Type.SET, "10350-1",
                 BlinkItemClient.PriceGuideQuery.builder()
                         .condition(BlinkItemClient.PriceGuideQuery.Condition.USED)
                         .guideType(BlinkItemClient.PriceGuideQuery.GuideType.SOLD)
@@ -42,7 +40,7 @@ class BlinkItemRestClientTest {
     @Test
     void testGetKnownColors() throws IOException {
         BlinkItemRestClient client = new BlinkItemRestClient(BlinkAuthSignerFactory.newInstance());
-        BlinkResponse<List<BlinkItem.KnownColor>> response = client.getKnownColors(BlinkItemType.PART, "3001");
+        BlinkResponse<List<BlinkItem.KnownColor>> response = client.getKnownColors(BlinkItem.Type.PART, "3001");
 
         assertNotNull(response);
         assertNotNull(response.getData());
@@ -53,7 +51,7 @@ class BlinkItemRestClientTest {
     @Test
     void testGetImages() throws IOException {
         BlinkItemRestClient client = new BlinkItemRestClient(BlinkAuthSignerFactory.newInstance());
-        BlinkResponse<BlinkItem.Image> response = client.getImage(BlinkItemType.PART, "3001", 0);
+        BlinkResponse<BlinkItem.Image> response = client.getImage(BlinkItem.Type.PART, "3001", 0);
 
         assertNotNull(response);
         assertNotNull(response.getData());
@@ -64,7 +62,7 @@ class BlinkItemRestClientTest {
     @Test
     void testGetElementId() throws IOException {
         BlinkItemRestClient client = new BlinkItemRestClient(BlinkAuthSignerFactory.newInstance());
-        BlinkResponse<List<BlinkItem.ElementIdMapping>> response = client.getElementId(BlinkItemType.PART, "3001");
+        BlinkResponse<List<BlinkItem.ElementIdMapping>> response = client.getElementId(BlinkItem.Type.PART, "3001");
 
         assertNotNull(response);
         assertNotNull(response.getData());

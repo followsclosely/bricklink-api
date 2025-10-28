@@ -3,7 +3,6 @@ package io.github.followsclosely.bricklink.spring;
 import static io.github.followsclosely.bricklink.spring.TypeReferences.*;
 import io.github.followsclosely.bricklink.BlinkItemClient;
 import io.github.followsclosely.bricklink.dto.BlinkItem;
-import io.github.followsclosely.bricklink.dto.BlinkItemType;
 import io.github.followsclosely.bricklink.dto.BlinkResponse;
 import io.github.followsclosely.bricklink.oauth.BlinkAuthSigner;
 import org.springframework.web.client.RestClient;
@@ -20,7 +19,7 @@ public class BlinkItemRestClient extends AbstractBlinkRestClient implements Blin
         super(blinkAuthSigner, restClient);
     }
 
-    public BlinkResponse<BlinkItem> getItem(BlinkItemType type, String number) {
+    public BlinkResponse<BlinkItem> getItem(BlinkItem.Type type, String number) {
         BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("items/" + type.name() + "/" + number);
@@ -32,7 +31,7 @@ public class BlinkItemRestClient extends AbstractBlinkRestClient implements Blin
     }
 
     @Override
-    public BlinkResponse<BlinkItem.BlinkPriceGuide> getPriceGuide(BlinkItemType type, String number, PriceGuideQuery priceGuideQuery) {
+    public BlinkResponse<BlinkItem.BlinkPriceGuide> getPriceGuide(BlinkItem.Type type, String number, PriceGuideQuery priceGuideQuery) {
 
         BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
             .verb(BlinkAuthSigner.Method.GET)
@@ -55,7 +54,7 @@ public class BlinkItemRestClient extends AbstractBlinkRestClient implements Blin
     }
 
     @Override
-    public BlinkResponse<List<BlinkItem.KnownColor>> getKnownColors(BlinkItemType type, String number){
+    public BlinkResponse<List<BlinkItem.KnownColor>> getKnownColors(BlinkItem.Type type, String number){
         BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("items/" + type.name() + "/" + number + "/colors");
@@ -66,7 +65,7 @@ public class BlinkItemRestClient extends AbstractBlinkRestClient implements Blin
                 .retrieve().body(BLINK_ITEM_KNOWN_COLOR);
     }
 
-    public BlinkResponse<BlinkItem.Image> getImage(BlinkItemType type, String number, Integer color){
+    public BlinkResponse<BlinkItem.Image> getImage(BlinkItem.Type type, String number, Integer color){
         BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("items/" + type.name() + "/" + number + "/images/" + color);
@@ -77,7 +76,7 @@ public class BlinkItemRestClient extends AbstractBlinkRestClient implements Blin
                 .retrieve().body(BLINK_ITEM_IMAGE);
     }
 
-    public BlinkResponse<List<BlinkItem.ElementIdMapping>> getElementId(BlinkItemType type, String number) {
+    public BlinkResponse<List<BlinkItem.ElementIdMapping>> getElementId(BlinkItem.Type type, String number) {
         BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("item_mapping/" + type.name() + "/" + number);

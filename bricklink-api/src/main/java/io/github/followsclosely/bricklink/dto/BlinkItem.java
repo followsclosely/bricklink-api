@@ -1,11 +1,14 @@
 package io.github.followsclosely.bricklink.dto;
 
+import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import lombok.Data;
-import lombok.ToString;
+import lombok.*;
 
+import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 @Data
 @ToString(of = {"number", "type", "name"})
@@ -14,7 +17,7 @@ public class BlinkItem {
     @JsonProperty("no")
     private String number;
     @JsonProperty("type")
-    private BlinkItemType type;
+    private Type type;
     @JsonProperty("name")
     private String name;
     @JsonProperty("category_id")
@@ -25,6 +28,58 @@ public class BlinkItem {
     private Integer yearReleased;
     @JsonProperty("description")
     private String description;
+
+    /**
+     * Enumeration representing different types of items in the BrickLink catalog.<br>
+     * Each item type has a unique identifier and a descriptive name.<br>
+     * Provides a lookup method to retrieve an ItemType by its identifier.
+     */
+    @Getter
+    @RequiredArgsConstructor(access = AccessLevel.PACKAGE)
+    public enum Type {
+
+        SET("S", "Set"),
+        PART("P", "Part"),
+        MINIFIGURE("M", "Minifigure"),
+        BOOK("B", "Book"),
+        GEAR("G", "Gear"),
+        CATALOG("C", "Catalog"),
+        INSTRUCTION("I", "Instruction"),
+        ORIGINAL_BOX("O", "Original Box"),
+        UNSORTED_LOT("U", "Unsorted Lot"),
+        UNKNOWN("?", "Unknown");
+
+        private static final Map<String, Type> ID_MAP;
+
+        static {
+            Map<String, Type> map = new HashMap<>();
+            for (Type type : values()) {
+                map.put(type.name(), type);
+            }
+            ID_MAP = Collections.unmodifiableMap(map);
+        }
+
+        /**
+         * The unique identifier for the item type (e.g., "S" for Set).
+         */
+        private final String value;
+        /**
+         * The descriptive name of the item type (e.g., "Set").
+         */
+        private final String displayName;
+
+        /**
+         * Returns the {@code ItemType} corresponding to the given identifier.<br>
+         * If the identifier does not match any known item type, {@link #UNKNOWN} is returned.
+         *
+         * @param id the item type identifier (e.g., "S", "P")
+         * @return the matching {@code ItemType}, or {@link #UNKNOWN} if not found
+         */
+        @JsonCreator
+        public static Type fromId(String id) {
+            return ID_MAP.getOrDefault(id, UNKNOWN);
+        }
+    }
 
     @Data
     @JsonIgnoreProperties(ignoreUnknown = true)
@@ -87,7 +142,7 @@ public class BlinkItem {
             @JsonProperty("no")
             private String number;
             @JsonProperty("type")
-            private BlinkItemType type;
+            private Type type;
         }
     }
 }
