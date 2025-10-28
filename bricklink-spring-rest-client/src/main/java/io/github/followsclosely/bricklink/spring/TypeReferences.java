@@ -4,7 +4,6 @@ import io.github.followsclosely.bricklink.dto.BlinkItem;
 import io.github.followsclosely.bricklink.dto.BlinkColor;
 import io.github.followsclosely.bricklink.dto.BlinkOrder;
 import io.github.followsclosely.bricklink.dto.BlinkResponse;
-import io.github.followsclosely.bricklink.dto.BlinkPriceGuide;
 import org.springframework.core.ParameterizedTypeReference;
 
 import java.util.List;
@@ -26,6 +25,13 @@ public class TypeReferences {
     };
     public final static ParameterizedTypeReference<BlinkResponse<BlinkItem>> BLINK_CATALOG_ITEM = new ParameterizedTypeReference<>() {
     };
-    public final static ParameterizedTypeReference<BlinkResponse<BlinkPriceGuide>> BLINK_PRICE_GUIDE = new ParameterizedTypeReference<>() {
+    public final static ParameterizedTypeReference<BlinkResponse<BlinkItem.BlinkPriceGuide>> BLINK_ITEM_PRICE_GUIDE = new ParameterizedTypeReference<>() {
     };
+    public final static ParameterizedTypeReference<BlinkResponse<List<BlinkItem.KnownColor>>> BLINK_ITEM_KNOWN_COLOR = new ParameterizedTypeReference<>() {
+    };
+    public final static ParameterizedTypeReference<BlinkResponse<BlinkItem.Image>> BLINK_ITEM_IMAGE = new ParameterizedTypeReference<>() {
+    };
+    public final static ParameterizedTypeReference<BlinkResponse<List<BlinkItem.ElementIdMapping>>> BLINK_ITEM_ELEMENT_ID_MAPPING = new ParameterizedTypeReference<>() {
+    };
+
 }

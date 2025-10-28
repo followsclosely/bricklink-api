@@ -34,7 +34,7 @@ public enum BlinkItemType {
     static {
         Map<String, BlinkItemType> map = new HashMap<>();
         for (BlinkItemType type : values()) {
-            map.put(type.value, type);
+            map.put(type.name(), type);
         }
         ID_MAP = Collections.unmodifiableMap(map);
     }
