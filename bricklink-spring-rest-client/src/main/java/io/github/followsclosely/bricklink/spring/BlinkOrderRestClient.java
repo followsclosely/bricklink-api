@@ -2,10 +2,7 @@ package io.github.followsclosely.bricklink.spring;
 
 import io.github.followsclosely.bricklink.BlinkOrderClient;
 import io.github.followsclosely.bricklink.dto.BlinkOrder;
-import io.github.followsclosely.bricklink.dto.BlinkOrderItem;
 import io.github.followsclosely.bricklink.dto.BlinkResponse;
-import io.github.followsclosely.bricklink.dto.BlinkOrderMessage;
-import io.github.followsclosely.bricklink.dto.BlinkOrderFeedback;
 import io.github.followsclosely.bricklink.oauth.BlinkAuthSigner;
 import org.springframework.web.client.RestClient;
 
@@ -54,7 +51,7 @@ public class BlinkOrderRestClient extends AbstractBlinkRestClient implements Bli
     }
 
     @Override
-    public BlinkResponse<List<List<BlinkOrderItem>>> getOrderItems(Integer id) {
+    public BlinkResponse<List<List<BlinkOrder.OrderItem>>> getOrderItems(Integer id) {
 
         BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
@@ -67,7 +64,7 @@ public class BlinkOrderRestClient extends AbstractBlinkRestClient implements Bli
     }
 
     @Override
-    public BlinkResponse<List<BlinkOrderMessage>> getOrderMessages(Integer id) {
+    public BlinkResponse<List<BlinkOrder.Message>> getOrderMessages(Integer id) {
         BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("orders/" + id + "/messages");
@@ -79,7 +76,7 @@ public class BlinkOrderRestClient extends AbstractBlinkRestClient implements Bli
     }
 
     @Override
-    public BlinkResponse<List<BlinkOrderFeedback>> getOrderFeedback(Integer orderId) {
+    public BlinkResponse<List<BlinkOrder.Feedback>> getOrderFeedback(Integer orderId) {
         BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("orders/" + orderId + "/feedback");

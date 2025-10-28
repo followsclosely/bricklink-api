@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
  * Utility class to sign requests to the Bricklink API using OAuth 1.0a.
  * Based on the OAuth 1.0a specification.
  * See: <a href="https://oauth.net/core/1.0a/">OAuth Core 1.0 Revision A</a>
- *
+ * <p>
  * Sample usage:
  * <pre>
  *   BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
@@ -213,6 +213,7 @@ public class BlinkAuthSigner {
 
         /**
          * Adds an OAuth parameter to the request.
+         *
          * @param key
          * @param value
          * @return
