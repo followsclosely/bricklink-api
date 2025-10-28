@@ -1,5 +1,6 @@
 package io.github.followsclosely.bricklink.dto;
 
+import com.fasterxml.jackson.annotation.JsonCreator;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -33,7 +34,7 @@ public enum BlinkItemType {
     static {
         Map<String, BlinkItemType> map = new HashMap<>();
         for (BlinkItemType type : values()) {
-            map.put(type.id, type);
+            map.put(type.value, type);
         }
         ID_MAP = Collections.unmodifiableMap(map);
     }
@@ -41,7 +42,7 @@ public enum BlinkItemType {
     /**
      * The unique identifier for the item type (e.g., "S" for Set).
      */
-    private final String id;
+    private final String value;
     /**
      * The descriptive name of the item type (e.g., "Set").
      */
@@ -54,6 +55,7 @@ public enum BlinkItemType {
      * @param id the item type identifier (e.g., "S", "P")
      * @return the matching {@code ItemType}, or {@link #UNKNOWN} if not found
      */
+    @JsonCreator
     public static BlinkItemType fromId(String id) {
         return ID_MAP.getOrDefault(id, UNKNOWN);
     }

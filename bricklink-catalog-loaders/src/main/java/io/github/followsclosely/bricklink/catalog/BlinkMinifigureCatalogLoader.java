@@ -5,7 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.csv.CSVRecord;
 
 @Slf4j
-public class BlinkMinifigureCatalogLoader extends AbstractCatalogLoader<BlinkMinifigureDetails> implements BlinkMinifigureCatalog {
+public class BlinkMinifigureCatalogLoader extends AbstractCatalogLoader<BlinkMinifigureDetails>  {
 
     public BlinkMinifigureCatalogLoader() {
         super("../catalog/Minifigures.txt");

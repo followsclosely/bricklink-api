@@ -2,6 +2,7 @@ package io.github.followsclosely.bricklink.spring;
 
 import io.github.followsclosely.bricklink.dto.BlinkItem;
 import io.github.followsclosely.bricklink.dto.BlinkItemType;
+import io.github.followsclosely.bricklink.dto.BlinkPriceGuide;
 import io.github.followsclosely.bricklink.dto.BlinkResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
@@ -9,7 +10,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 @Slf4j
-class BlinkCatalogItemRestClientTest {
+class BlinkItemRestClientTest {
 
     @Test
     void testGetItem() throws Exception {
@@ -18,6 +19,15 @@ class BlinkCatalogItemRestClientTest {
         assertNotNull(response);
         assertNotNull(response.getData());
         log.info("Retrieved item: {}", response.getData().getName());
+    }
+
+    @Test
+    void testGetPriceGuide() throws Exception {
+        BlinkItemRestClient client = new BlinkItemRestClient(BlinkAuthSignerFactory.newInstance());
+        BlinkResponse<BlinkPriceGuide> response = client.getPriceGuide(BlinkItemType.SET, "10350-1", null);
+        assertNotNull(response);
+        assertNotNull(response.getData());
+        log.info("Retrieved item: {}", response.getData());
     }
 }
 

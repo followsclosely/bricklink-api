@@ -5,7 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.csv.CSVRecord;
 
 @Slf4j
-public class BlinkGearCatalogLoader extends AbstractCatalogLoader<BlinkGearDetails> implements BlinkGearCatalog {
+public class BlinkGearCatalogLoader extends AbstractCatalogLoader<BlinkGearDetails> {
 
     public BlinkGearCatalogLoader() {
         super("../catalog/Gear.txt");

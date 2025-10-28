@@ -225,6 +225,13 @@ public class BlinkAuthSigner {
             return this;
         }
 
+        public SignatureBuilder parameter(String key, Integer value){
+            if (value != null) {
+                this.queryParameters.put(key, String.valueOf(value));
+            }
+            return this;
+        }
+
         /**
          * Adds multiple OAuth parameters to the request.
          *
