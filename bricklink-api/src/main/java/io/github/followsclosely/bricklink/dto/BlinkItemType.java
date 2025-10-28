@@ -15,7 +15,7 @@ import java.util.Map;
  */
 @Getter
 @RequiredArgsConstructor(access = AccessLevel.PACKAGE)
-public enum ItemType {
+public enum BlinkItemType {
 
     SET("S", "Set"),
     PART("P", "Part"),
@@ -28,11 +28,11 @@ public enum ItemType {
     UNSORTED_LOT("U", "Unsorted Lot"),
     UNKNOWN("?", "Unknown");
 
-    private static final Map<String, ItemType> ID_MAP;
+    private static final Map<String, BlinkItemType> ID_MAP;
 
     static {
-        Map<String, ItemType> map = new HashMap<>();
-        for (ItemType type : values()) {
+        Map<String, BlinkItemType> map = new HashMap<>();
+        for (BlinkItemType type : values()) {
             map.put(type.id, type);
         }
         ID_MAP = Collections.unmodifiableMap(map);
@@ -45,7 +45,7 @@ public enum ItemType {
     /**
      * The descriptive name of the item type (e.g., "Set").
      */
-    private final String name;
+    private final String displayName;
 
     /**
      * Returns the {@code ItemType} corresponding to the given identifier.<br>
@@ -54,7 +54,7 @@ public enum ItemType {
      * @param id the item type identifier (e.g., "S", "P")
      * @return the matching {@code ItemType}, or {@link #UNKNOWN} if not found
      */
-    public static ItemType fromId(String id) {
+    public static BlinkItemType fromId(String id) {
         return ID_MAP.getOrDefault(id, UNKNOWN);
     }
 }

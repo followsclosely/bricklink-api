@@ -15,6 +15,7 @@ public interface BlinkColorClient {
      *
      * @param id The ID of the color to retrieve.
      * @return A BlinkResponse containing the color details.
+     * @see <a href="https://www.bricklink.com/v3/api.page?page=get-color">Bricklink API Guide - Get Color</a>
      */
     BlinkResponse<BlinkColor> getColor(Integer id);
 
@@ -22,6 +23,7 @@ public interface BlinkColorClient {
      * Retrieves a list of all colors available in the Bricklink database.
      *
      * @return A BlinkResponse containing a list of colors.
+     * @see <a href="https://www.bricklink.com/v3/api.page?page=get-color-list">Bricklink API Guide - Get Color List</a>
      */
     BlinkResponse<List<BlinkColor>> getColors();
 }
