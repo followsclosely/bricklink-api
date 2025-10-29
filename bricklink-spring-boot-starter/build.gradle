@@ -1,0 +1,32 @@
+plugins {
+    id 'java'
+    id 'maven-publish'
+    id 'io.freefair.lombok' version '9.0.0'
+}
+
+dependencies {
+
+    implementation('org.slf4j:slf4j-api:2.0.17')
+
+    compileOnly('org.springframework:spring-web:6.2.11')
+    compileOnly("org.springframework.boot:spring-boot:3.5.6")
+    compileOnly('org.springframework.boot:spring-boot-autoconfigure:3.5.6')
+
+    compileOnly(project(':bricklink-api'))
+    compileOnly(project(':bricklink-catalog-loaders'))
+    compileOnly(project(':bricklink-spring-rest-client'))
+}
+
+tasks.register('sourcesJar', Jar) {
+    from sourceSets.main.allJava
+    archiveClassifier.set('sources')
+}
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+            artifact tasks.sourcesJar
+        }
+    }
+}

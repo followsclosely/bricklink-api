@@ -1,0 +1,2 @@
+io.github.followsclosely.bricklink.spring.BlinkRestClientConfiguration
+io.github.followsclosely.bricklink.catalog.BlinkCatalogLoaderConfiguration
