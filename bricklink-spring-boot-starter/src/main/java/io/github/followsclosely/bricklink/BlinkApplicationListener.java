@@ -5,10 +5,12 @@ import org.springframework.boot.context.event.ApplicationEnvironmentPreparedEven
 import org.springframework.context.ApplicationListener;
 import org.springframework.util.StringUtils;
 
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
 @Slf4j
-public class RebrkApplicationListener implements ApplicationListener<ApplicationEnvironmentPreparedEvent> {
+public class BlinkApplicationListener implements ApplicationListener<ApplicationEnvironmentPreparedEvent> {
 
     private static final List<String> REQUIRED_KEYS = List.of(
             "bricklink.consumerKey", "bricklink.consumerSecret", "bricklink.tokenValue", "bricklink.tokenSecret"
@@ -36,7 +38,7 @@ public class RebrkApplicationListener implements ApplicationListener<Application
             String keyValue = event.getEnvironment().getProperty(key);
 
             if (!StringUtils.hasLength(keyValue)) {
-                //throw new RuntimeException("Missing Resource: \"" + keyName + "\" is required to initialize the RestClient bean.");
+                throw new RuntimeException("Missing Resources " + String.join(",", REQUIRED_KEYS) + " are required to initialize the RestClient bean.");
             } else {
                 log.info("Found Resource: \"{}\" is set to: {}", key, obfuscateKey(keyValue, 10));
             }
