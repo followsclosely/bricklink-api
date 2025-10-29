@@ -8,6 +8,9 @@ import org.springframework.web.client.RestClient;
 
 import java.util.List;
 
+/**
+ * REST client implementation for Bricklink colors.
+ */
 public class BlinkColorRestClient extends AbstractBlinkRestClient implements BlinkColorClient {
 
     public BlinkColorRestClient(BlinkAuthSigner blinkAuthSigner) {

@@ -8,6 +8,9 @@ import org.springframework.web.client.RestClient;
 
 import java.util.List;
 
+/**
+ * REST client implementation for Bricklink items.
+ */
 public class BlinkOrderRestClient extends AbstractBlinkRestClient implements BlinkOrderClient {
 
     public BlinkOrderRestClient(BlinkAuthSigner blinkAuthSigner) {
@@ -65,6 +68,7 @@ public class BlinkOrderRestClient extends AbstractBlinkRestClient implements Bli
 
     @Override
     public BlinkResponse<List<BlinkOrder.Message>> getOrderMessages(Integer id) {
+
         BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("orders/" + id + "/messages");
@@ -77,6 +81,7 @@ public class BlinkOrderRestClient extends AbstractBlinkRestClient implements Bli
 
     @Override
     public BlinkResponse<List<BlinkOrder.Feedback>> getOrderFeedback(Integer orderId) {
+
         BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("orders/" + orderId + "/feedback");

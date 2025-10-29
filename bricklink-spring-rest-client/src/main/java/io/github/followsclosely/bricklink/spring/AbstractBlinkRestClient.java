@@ -4,6 +4,9 @@ import io.github.followsclosely.bricklink.oauth.BlinkAuthSigner;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.client.RestClient;
 
+/**
+ * Abstract base class for Bricklink REST clients.
+ */
 @RequiredArgsConstructor
 public class AbstractBlinkRestClient {
     public static final String API_BASE_URL = "https://api.bricklink.com/api/store/v1/";
@@ -11,6 +14,11 @@ public class AbstractBlinkRestClient {
     protected final BlinkAuthSigner blinkAuthSigner;
     protected final RestClient restClient;
 
+    /**
+     * Constructs an AbstractBlinkRestClient with the specified BlinkAuthSigner and RestClient.
+     *
+     * @param blinkAuthSigner The authentication signer for Bricklink API requests.
+     */
     public AbstractBlinkRestClient(BlinkAuthSigner blinkAuthSigner) {
         this(blinkAuthSigner, RestClient.builder().baseUrl(API_BASE_URL).build());
     }

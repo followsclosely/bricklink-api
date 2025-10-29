@@ -4,6 +4,15 @@ import io.github.followsclosely.bricklink.catalog.dto.BlinkOriginalBoxDetails;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.csv.CSVRecord;
 
+/**
+ * Loads and maps data from the BrickLink Original Boxes catalog file (Original Boxes.txt).
+ * <p>
+ * The file structure is: Category ID / Category Name / Number / Name / Year Released / Weight (in Grams) / Dimensions
+ * <p>
+ * Each record is mapped to a {@link io.github.followsclosely.bricklink.catalog.dto.BlinkOriginalBoxDetails} DTO.
+ * <p>
+ * Usage: Instantiate and call {@code stream()} to process records as domain objects.
+ */
 @Slf4j
 public class BlinkOriginalBoxCatalogLoader extends AbstractCatalogLoader<BlinkOriginalBoxDetails> {
 
@@ -31,4 +40,3 @@ public class BlinkOriginalBoxCatalogLoader extends AbstractCatalogLoader<BlinkOr
                 .build();
     }
 }
-

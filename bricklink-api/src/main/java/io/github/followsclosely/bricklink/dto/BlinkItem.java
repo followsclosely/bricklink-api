@@ -108,7 +108,7 @@ public class BlinkItem {
 
     @Data
     @JsonIgnoreProperties(ignoreUnknown = true)
-    public static class KnownColor{
+    public static class KnownColor {
         @JsonProperty("color_id")
         private String colorId;
         @JsonProperty("quantity")

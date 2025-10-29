@@ -4,6 +4,15 @@ import io.github.followsclosely.bricklink.catalog.dto.BlinkPartDetails;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.csv.CSVRecord;
 
+/**
+ * Loads and maps data from the BrickLink Parts catalog file (Parts.txt).
+ * <p>
+ * The file structure is: Category ID / Category Name / Number / Name / Alternate Item Number / Weight (in Grams) / Dimensions
+ * <p>
+ * Each record is mapped to a {@link io.github.followsclosely.bricklink.catalog.dto.BlinkPartDetails} DTO.
+ * <p>
+ * Usage: Instantiate and call {@code stream()} to process records as domain objects.
+ */
 @Slf4j
 public class BlinkPartCatalogLoader extends AbstractCatalogLoader<BlinkPartDetails> {
 
@@ -31,4 +40,3 @@ public class BlinkPartCatalogLoader extends AbstractCatalogLoader<BlinkPartDetai
                 .build();
     }
 }
-

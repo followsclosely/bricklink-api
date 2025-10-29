@@ -4,6 +4,15 @@ import io.github.followsclosely.bricklink.catalog.dto.BlinkMinifigureDetails;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.csv.CSVRecord;
 
+/**
+ * Loads and maps data from the BrickLink Minifigures catalog file (Minifigures.txt).
+ * <p>
+ * The file structure is: Category ID / Category Name / Number / Name / Year Released / Weight (in Grams)
+ * <p>
+ * Each record is mapped to a {@link io.github.followsclosely.bricklink.catalog.dto.BlinkMinifigureDetails} DTO.
+ * <p>
+ * Usage: Instantiate and call {@code stream()} to process records as domain objects.
+ */
 @Slf4j
 public class BlinkMinifigureCatalogLoader extends AbstractCatalogLoader<BlinkMinifigureDetails>  {
 
@@ -30,4 +39,3 @@ public class BlinkMinifigureCatalogLoader extends AbstractCatalogLoader<BlinkMin
                 .build();
     }
 }
-

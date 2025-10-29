@@ -14,20 +14,25 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 /**
- * Utility class to sign requests to the Bricklink API using OAuth 1.0a.
- * Based on the OAuth 1.0a specification.
+ * Utility class to sign requests to the BrickLink API using OAuth 1.0a.
+ * <p>
+ * This class provides methods for generating OAuth 1.0a signatures and constructing signed requests for the BrickLink API.
+ * It supports setting the base API URL, building signed URLs, and generating the required Authorization header for requests.
+ * <p>
+ * <b>Sample usage:</b>
+ * <pre>
+ *   BlinkAuthSigner signer = new BlinkAuthSigner(consumerKey, consumerSecret, tokenValue, tokenSecret);
+ *   BlinkAuthSigner.SignatureBuilder signatureBuilder = signer.signatureBuilder()
+ *     .verb(BlinkAuthSigner.Method.GET)
+ *     .uri("colors/" + id);
+ *
+ *   String url = signatureBuilder.buildUrl();
+ *   String authHeader = signatureBuilder.buildAuthorizationHeader();
+ *   // Use url and authHeader in your HTTP request
+ * </pre>
+ * <p>
  * See: <a href="https://oauth.net/core/1.0a/">OAuth Core 1.0 Revision A</a>
  * <p>
- * Sample usage:
- * <pre>
- *   BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
- *     .verb(BlinkAuthSigner.Method.GET).uri("colors/" + id);
- *
- *   return restClient.get()
- *     .uri(signatureBuilder.buildUrl())
- *     .header(BlinkAuthSigner.HEADER, signatureBuilder.buildAuthorizationHeader())
- *     .retrieve().body(BLINK_COLOR_TYPE_REF);
- * </pre>
  */
 public class BlinkAuthSigner {
 
@@ -214,9 +219,9 @@ public class BlinkAuthSigner {
         /**
          * Adds an OAuth parameter to the request.
          *
-         * @param key
-         * @param value
-         * @return
+         * @param key   The parameter key.
+         * @param value The parameter value.
+         * @return The current SignatureBuilder instance.
          */
         public SignatureBuilder parameter(String key, String value) {
             if (value != null) {
@@ -225,7 +230,14 @@ public class BlinkAuthSigner {
             return this;
         }
 
-        public SignatureBuilder parameter(String key, Integer value){
+        /**
+         * Adds an OAuth parameter to the request.
+         *
+         * @param key   The parameter key.
+         * @param value The parameter value.
+         * @return The current SignatureBuilder instance.
+         */
+        public SignatureBuilder parameter(String key, Integer value) {
             if (value != null) {
                 this.queryParameters.put(key, String.valueOf(value));
             }
@@ -291,6 +303,10 @@ public class BlinkAuthSigner {
             return HEADER_VALUES_PREFIX + header.toString();
         }
 
+        /**
+         * Computes the final OAuth parameters including the signature.
+         * @return A map of all OAuth parameters including the signature.
+         */
         private Map<String, String> getFinalOAuthParams() {
             //The computeSignature method also adds required OAuth parameters, so do this first!
             oauthParameters.put(VERSION, VERSION_VALUE);
@@ -308,6 +324,10 @@ public class BlinkAuthSigner {
             return params;
         }
 
+        /**
+         * Constructs the OAuth base string for signature generation.
+         * @return The OAuth base string.
+         */
         private String getBaseString() {
             List<String> params = new ArrayList<>();
 
