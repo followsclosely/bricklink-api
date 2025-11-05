@@ -1,7 +1,4 @@
-package io.github.followsclosely.bricklink.spring;
-
-import io.github.followsclosely.bricklink.oauth.BlinkAuthSigner;
-import lombok.extern.slf4j.Slf4j;
+package io.github.followsclosely.bricklink.oauth;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -9,7 +6,15 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Properties;
 
-@Slf4j
+/**
+ * Factory class to create BlinkAuthSigner instances from properties files.
+ * <p>
+ * This is designed to be used for testing or simple applications where
+ * configuration is stored in a properties file within the classpath.
+ * <p>
+ * Warning: This is not suitable for production use where more secure
+ * handling of credentials is required!
+ */
 public class BlinkAuthSignerFactory {
 
     private static final String DEFAULT_RESOURCE_NAME = "bricklink.properties";

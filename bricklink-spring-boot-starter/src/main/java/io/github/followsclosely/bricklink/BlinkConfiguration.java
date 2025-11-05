@@ -7,6 +7,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 @ConfigurationProperties(prefix = "bricklink", ignoreUnknownFields = false)
 public class BlinkConfiguration {
 
+    private String catalog = null;
     private String baseUrl = "https://rebrickable.com/api/v3/lego/";
 
     private String consumerKey = null;

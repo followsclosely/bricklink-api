@@ -239,7 +239,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0016	Hoth Rebel (Yellow Head, Brown Visor)	1999	4.42
 65	Star Wars / Star Wars Episode 1	sw0017	Jar Jar Binks	1999	4.5
 65	Star Wars / Star Wars Episode 4/5/6	sw0018	Luke Skywalker (Endor)	1999	3.36
-65	Star Wars / Star Wars Episode 4/5/6	sw0019	Luke Skywalker with Dark Gray Hips (Pilot)	1999	4.6
+65	Star Wars / Star Wars Episode 4/5/6	sw0019	Luke Skywalker - Pilot Suit, Simple Torso and Helmet, Dark Gray Hips, Yellow Head	1999	4.6
 65	Star Wars / Star Wars Episode 4/5/6	sw0020	Luke Skywalker (Skiff)	2000	3.36
 65	Star Wars / Star Wars Episode 4/5/6	sw0021	Luke Skywalker (Tatooine)	1999	3.44
 65	Star Wars / Star Wars Episode 1	sw0022	Naboo Security Officer	2000	3.4
@@ -2109,7 +2109,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 473	Sports / Basketball	nba054	NBA  Player White Torso, White Legs #5	2003	3.6
 67	Town / World City / Police	wc023	Police - World City Patrolman, Dark Blue Shirt with Badge and Radio, Black Legs, White Helmet, Black Visor	2003	3.68
 65	Star Wars / Star Wars Episode 4/5/6	sw0012a	Dak Ralter (with Dark Bluish Gray Hips)	2004	3.6
-65	Star Wars / Star Wars Episode 4/5/6	sw0019a	Luke Skywalker (Pilot with Dark Bluish Gray Hips)	2004	3.58
+65	Star Wars / Star Wars Episode 4/5/6	sw0019a	Luke Skywalker - Pilot Suit, Simple Torso and Helmet, Dark Bluish Gray Hips, Yellow Head	2004	3.58
 167	DUPLO / Western	4555pb080	Duplo Figure, Male, Brown Legs, Nougat Top with White Stripes (Native American Chief)	1998	21.01
 294	Primo	baby003	Primo Figure Boy with Green Base with White Stripes, Red Top, Medium Orange Hair	1999	35.5
 294	Primo	baby004	Primo Figure Girl with White Base with Red Dots, Red Top with Crown Pattern, Black Hair	1999	36
@@ -2465,7 +2465,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 48	Belville	belvfemale49	Belville Female, Adult Woman (Stella) - Medium Blue Top with Stars Pattern, White Hair, White Shoes (4129894)	2000	16
 48	Belville	belvfairy06a	Belville Fairy (Millimy) - White with Flowers Pattern, Wings, Bow	2000	4.89
 167	DUPLO / Castle	47394pb007	Duplo Figure Lego Ville, Male Castle, Dark Bluish Gray Legs, White Chest, Blue Arms, Dark Bluish Gray Hands	2004	12.54
-167	DUPLO / Castle	47394pb008	Duplo Figure Lego Ville, Male Castle, Dark Bluish Gray Legs, White Chest, Dark Bluish Gray Arms, Yellow Hands	2008	12.52
+167	DUPLO / Castle	47394pb008	Duplo Figure Lego Ville, Male Castle, Dark Bluish Gray Legs, White Chest, Dark Bluish Gray Arms, Yellow Hands	2004	12.52
 170	Alpha Team / Mission Deep Freeze	alp030	Zed	2005	3.32
 167	DUPLO / DUPLO, Town / Fire	4555pb162	Duplo Figure, Male Fireman, Black Legs, Black Top (no buttons), Red Fire Helmet	?	16
 167	DUPLO / Ferrari	47394pb009	Duplo Figure Lego Ville, Male, Red Legs, Red Top with Ferrari / Shell / Vodafone Pattern, Red Helmet (4233467)	2004	16
@@ -3027,7 +3027,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Construction	cty0031	Construction Worker - Orange Zipper, Safety Stripes, Orange Arms, Orange Legs, Red Construction Helmet, Brown Eyebrows, Thin Grin	2006	3.2
 67	Town / City / Construction	cty0032	Construction Worker - Orange Zipper, Safety Stripes, Orange Arms, Orange Legs, Red Construction Helmet, Beard and Glasses	2006	3.3
 167	DUPLO / DUPLO, Town / Race	4555pb201	Duplo Figure, Male, Black Legs, Black Top with Blue Straps and Racer Diagonal Zipper, Yellow Racing Helmet	2002	17.6
-65	Star Wars / Star Wars Episode 4/5/6	sw0090	Luke Skywalker - Light Nougat, X-wing Pilot Suit, Simple Torso and Helmet	2006	3.6
+65	Star Wars / Star Wars Episode 4/5/6	sw0090	Luke Skywalker - Pilot Suit, Simple Torso and Helmet, Light Nougat Head	2006	3.6
 65	Star Wars / Star Wars Episode 4/5/6	sw0088	Han Solo - Light Nougat, Reddish Brown Legs with Holster	2006	3.32
 167	DUPLO / DUPLO, Town / Airport	47394pb042	Duplo Figure Lego Ville, Male, Dark Blue Legs & Jumpsuit with Yellow Vest, Radio, ID Badge, Yellow Cap with Headset, Slight Smile	2005	16.12
 167	DUPLO	47394pb043	Duplo Figure Lego Ville, Male, Dark Blue Legs, Red Top with Open Collar, Black Hair, VIP Badge	2005	15.65
@@ -3417,7 +3417,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO	4555pb253	Duplo Figure, Female, Blue Legs, Red Top with Blue Overalls, Brown Hair, Turned Up Nose	1995	16
 167	DUPLO	4555pb254	Duplo Figure, Female, Blue Legs, Red Top With Yellow And Red Polka Dot Scarf, Blue Arms, Black Hair, without Nose	1986	16
 167	DUPLO / DUPLO, Town / Hospital	47394pb086	Duplo Figure Lego Ville, Male Medic, Orange Legs, White Top with ID Badge and EMT Star of Life Pattern, Black Hair, Brown Eyes	2007	15.5
-167	DUPLO	47394pb087	Duplo Figure Lego Ville, Male, Blue Legs, Bright Green Top with White Undershirt, Blue Cap	2007	15.7
+167	DUPLO	47394pb087	Duplo Figure Lego Ville, Male, Blue Legs, Bright Green Top with White Undershirt, Blue Cap (4558055)	2007	15.7
 167	DUPLO / Pirates	47394pb088	Duplo Figure Lego Ville, Male Pirate, Dark Green Legs, Nougat Top with Strap and Dynamite, Bald Head, Eye Patch	2006	13
 167	DUPLO / Pirates	47394pb089	Duplo Figure Lego Ville, Male Pirate, Medium Blue Legs, Dark Blue Top with Buttons, Bald Head, Eye Patch, Peg Leg	2006	12.22
 167	DUPLO / Pirates	47394pb090	Duplo Figure Lego Ville, Male Pirate, Red Legs, White Top with Buttons and Green Spots, Reddish Brown Pirate Hat, Eye Patch, Peg Leg	2006	14
@@ -4050,7 +4050,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Farm	cty0136	Overalls Farmer Green, Blue Cap	2009	3.34
 34	Space / Classic Space	sp003new	Classic Space - Black with Air Tanks and Motorcycle (Standard) Helmet (Reissue)	2009	4.14
 34	Space / Classic Space	sp006new	Classic Space - White with Air Tanks and Motorcycle (Standard) Helmet (Reissue)	2009	4.14
-65	Star Wars / Star Wars Episode 4/5/6	sw0232	Darth Vader (Death Star torso - no Eyebrows)	2009	4
+65	Star Wars / Star Wars Episode 4/5/6	sw0232	Darth Vader (Death Star torso - without Eyebrows)	2009	4
 167	DUPLO / Basic Set	dupfig041	Duplo 2 x 2 x 2 Figure Brick Early, Male on Blue Base, Brown Aviator Hat, Freckles	1977	11
 284	Ninja	cas050new	Ninja - Red (Reissue)	2009	4
 61	Pirates / Pirates I	pi013new	Pirate Anchor Light Purple Vest, Blue Legs, Red Bandana (Reissue)	2009	3.4
@@ -4523,7 +4523,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 153	Fabuland	fab4h	Fabuland Bird - Charlie / Joe Crow, Black Head, Red Pilot Helmet, White Eyes	1989	9.5
 153	Fabuland	fab5i	Fabuland Elephant - Edward Elephant, Black Legs, Yellow Raincoat and Hat, White Eyes	1988	12
 67	Town / Classic Town / Airport	air025	Airport - Blue, Blue Legs, White Fire Helmet, Breathing Hose, White Air Tanks, Nose Freckles	1999	4.38
-167	DUPLO	47394pb127	Duplo Figure Lego Ville, Male, Medium Blue Legs, Bright Green Top with White Undershirt, Blue Cap	2010	16
+167	DUPLO	47394pb127	Duplo Figure Lego Ville, Male, Medium Blue Legs, Bright Green Top with White Undershirt, Blue Cap (4596029)	2010	16
 746	Collectible Minifigures / Series  1 Minifigures	col001	Tribal Hunter, Series 1 (Minifigure Only without Stand and Accessories)	2010	3.93
 746	Collectible Minifigures / Series  1 Minifigures	col002	Cheerleader, Series 1 (Minifigure Only without Stand and Accessories)	2010	3.86
 746	Collectible Minifigures / Series  1 Minifigures	col003	Caveman, Series 1 (Minifigure Only without Stand and Accessories)	2010	3.67
@@ -4753,7 +4753,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0291	Hoth Rebel Trooper (Black Chin Dimple)	2010	4.6
 65	Star Wars / Star Wars Episode 4/5/6	sw0292	Luke Skywalker (Jedi Knight, Pupils)	2010	3.3
 65	Star Wars / Star Wars Episode 4/5/6	sw0293	Imperial Officer (Captain / Commandant / Commander) - Cavalry Kepi, Smirk	2010	3.5
-65	Star Wars / Star Wars Episode 4/5/6	sw0295	Luke Skywalker - Light Nougat, X-wing Pilot Suit, Detailed Torso and Helmet	2010	3.6
+65	Star Wars / Star Wars Episode 4/5/6	sw0295	Luke Skywalker - Pilot Suit, Detailed Torso and Helmet	2010	3.6
 179	Racers / Ferrari	rac046	F1 Ferrari Pit Crew Member with Scuba Tank - without Torso Stickers	2009	4.25
 747	World Racers	wr025	Backyard Blaster 1 (Bart Blaster) - Aviator Cap	2010	3.49
 734	Prince of Persia	pop017	Dastan	2010	3.7
@@ -5024,7 +5024,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 166	Educational & Dacta	edu022	Gold Prospector - Female, Dark Green Corset, Reddish Brown Legs, Dark Brown Ponytail, Red Lips	2011	3.9
 61	Pirates / Pirates II	pi139	Mermaid - Dark Red Hair Ponytail Long with Side Bangs	2011	4.8
 61	Pirates / Pirates II	pi140	Merman - Dark Orange Hair (Undetermined Eyebrows)	?	4.3
-65	Star Wars / Star Wars Episode 4/5/6	sw0090a	Luke Skywalker - Light Nougat, X-wing Pilot Suit, Simple Torso and Helmet (2010)	2006	3.6
+65	Star Wars / Star Wars Episode 4/5/6	sw0090a	Luke Skywalker - Pilot Suit, Simple Torso and Helmet, Light Nougat Head, White Glints (2010)	2006	3.6
 67	Town / City / Space Exploration	cty0221	Spacesuit, White Legs, Blue Short Bill Cap, Brown Eyebrows	2011	3.32
 1166	Games	85863pb046	Microfigure Ramses Return Adventurer Yellow (4615408)	2011	0.64
 1166	Games	85863pb047	Microfigure Ramses Return Adventurer Red (4615411)	2011	0.64
@@ -5217,7 +5217,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter	hp131	Professor Pomona Sprout	2011	5.23
 227	Harry Potter	hp132	Gregory Goyle - Dark Bluish Gray Slytherin Sweater, Black Legs, Reddish Brown Flat Top	2011	3.43
 1166	Games / Heroica	85863pb070	Microfigure Heroica Thief	2011	0.64
-1166	Games / Heroica	85863pb068	Microfigure Heroica Goblin General	2011	0.64
+1166	Games / Heroica	85863pb068	Microfigure Heroica Goblin General (6023711)	2011	0.64
 67	Town / City	cty0244	Red Shirt with 3 Silver Logos, Dark Blue Arms, Black Legs, Messy Red Hair, Red Construction Helmet	2009	3
 67	Town / City	ovr041	Overalls Green with Pocket, Light Bluish Gray Legs, Orange Sunglasses, Reddish Brown Hair	2009	3
 67	Town / City / Coast Guard	cty0243	Coast Guard City - Kayaker, without Life Jacket	2009	3
@@ -10700,7 +10700,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 817	LEGO Ideas (CUUSOO)	idea041	Grandmother	2018	5
 817	LEGO Ideas (CUUSOO)	idea042	The Wolf	2018	5
 817	LEGO Ideas (CUUSOO)	idea043	The Giant	2018	5
-817	LEGO Ideas (CUUSOO)	90398pb039	Jack Statuette / Trophy	2018	0.2
+817	LEGO Ideas (CUUSOO)	90398pb039	Jack Statuette / Trophy (6251962)	2018	0.2
 925	The Powerpuff Girls	ppg001	Mojo Jojo	2018	5.83
 925	The Powerpuff Girls	ppg002	Princess Morbucks	2018	7.49
 925	The Powerpuff Girls	ppg003	Octi	2018	0.98
@@ -13614,7 +13614,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Eternals	sh0769	Sprite	2021	3
 768	Super Heroes / Eternals	sh0766	Thena	2021	3.85
 878	Disney	dis057	Mickey Mouse - Tuxedo Jacket, Red Bow Tie	2021	4.98
-390	Holiday & Event / Christmas	hol246	Santa - Fur Lined Jacket with Candy Cane on Back, Red Legs with Black Boots, Santa Hat (Undetermined Type)	2022	4
+390	Holiday & Event / Christmas	hol246	Santa - Fur Lined Jacket with Candy Cane on Back, Red Legs with Black Boots, Santa Hat (Undetermined Type)	?	4
 878	Disney / Disney Princess / Frozen	dp140	Elsa - Medium Azure Skirt without Cape	2021	3.12
 878	Disney / Disney Princess / Frozen	dp141	Anna - Blue Skirt, Black Boots and Black Top, Light Aqua Sleeves, Wide Smile	2021	3.12
 67	Town / City / Jungle	cty1313	Man, Dark Red Jacket with Bright Light Blue Shirt, Dark Tan Legs, Tan Fedora Hat, Beard (Larry Jones, Adventurer)	2021	3.65
@@ -14031,7 +14031,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1197	BrickLink Designer Program	adp011	Castle in the Forest Black Falcon Knight	2021	4.75
 1197	BrickLink Designer Program	adp012	Castle in the Forest Black Falcon Guard	2021	3.69
 1197	BrickLink Designer Program	adp013	Castle in the Forest Archer - Male	2021	3.91
-1197	BrickLink Designer Program	adp014	Castle in the Forest Archer - Female	2021	?
+1197	BrickLink Designer Program	adp014	Castle in the Forest Archer - Female	2021	4
 1197	BrickLink Designer Program	adp015	Castle in the Forest Farmer	2021	4.11
 1197	BrickLink Designer Program	adp016	Castle in the Forest Smuggler	2021	3.92
 167	DUPLO / DUPLO, Town	47205pb091	Duplo Figure Lego Ville, Child Girl, Bright Light Blue Legs, White Top with Stripes and Heart, Reddish Brown Hair, Coral Cap (6376729)	2022	12
@@ -15368,7 +15368,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 473	Sports / Basketball	nba058	McDonald's Sports Basketball Player - Green Torso and Dark Blue Base without Stickers	2004	34.17
 473	Sports / Basketball	nba058s	McDonald's Sports Basketball Player - Green Torso and Dark Blue Base with Stickers	2004	34.21
 759	NINJAGO / Crystalized	njo0806	Zane (Golden Ninja) - Crystalized, Hair	2023	3.64
-167	DUPLO / Cars	crs113	Duplo Lightning McQueen - Rust-eze Hood, Treated Tires, Low Front Window	2023	58.75
+167	DUPLO / Cars	crs113	Duplo Lightning McQueen - Rust-eze Hood, Treaded Tires, Low Front Window	2023	58.75
 167	DUPLO / Cars	crs114	Duplo Tow Mater - Light Bluish Gray Hook Base and Wheels	2023	86.45
 65	Star Wars / Star Wars Episode 4/5/6	sw1274	Boba Fett - Helmet, Jet Pack, Printed Arms and Legs, Rangefinder	2023	4.2
 167	DUPLO / DUPLO, Town / Construction	47394pb346	Duplo Figure Lego Ville, Female, Black Legs, Orange Vest with Name Tag and Pocket Pattern, Medium Azure Shirt, Light Bluish Gray Hands, White Construction Helmet (6427943)	2023	15.25
@@ -15653,7 +15653,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / The Marvels	sh0913	Ms. Marvel (Kamala Khan) - Red Suit	2023	4.5
 878	Disney / Disney Princess / Frozen	dp182	Anna - Micro Doll, Magenta Dress	2023	1.8
 878	Disney / Disney Princess / Frozen	dp183	Elsa - Micro Doll, Medium Azure Dress	2023	1.8
-878	Disney / Disney Princess / Frozen	dp184	Kristoff - Micro Doll, Reddish Brown Shirt, Dark Blue Pants, Open Mouth	2023	1.8
+878	Disney / Disney Princess / Frozen	dp184	Kristoff - Micro Doll, Dark Brown Shirt, Dark Blue Shorts, Open Mouth	2023	1.8
 771	Friends	frnd0648	Friends Nova - Yellowish Green Shorts over Coral, Dark Turquoise and Dark Blue Swimsuit, Orange Life Jacket, Bright Light Yellow Sandals	2023	3.34
 771	Friends	frnd0649	Friends Gunnar - Dark Turquoise and Yellow Wetsuit Long Sleeves, Dark Bluish Gray Knit Cap, Orange Life Jacket, Bare Feet	2023	2.87
 771	Friends	frnd0650	Friends Marco - Dark Turquoise and Yellow Sleeveless Wetsuit, Orange Life Jacket, Dark Blue Sandals	2023	2.87
@@ -15982,8 +15982,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 801	Minecraft	min159	Efe	2023	3.45
 1100	Monkie Kid	mk132	Monkey King - Bright Light Orange Robe, Black Animal Stripes, Dark Turquoise Bandana	2023	4.2
 65	Star Wars / Star Wars Young Jedi Adventures	sw1322	Nubs	2024	3.49
-390	Holiday & Event / Christmas	hol333	Wintertime Carriage Passenger - Female, Bright Light Blue Jacket over White Shirt with Coral Flowers, Dark Turquoise Legs, Dark Orange Ponytail, Freckles, Red Scarf	2023	?
-390	Holiday & Event / Christmas	hol334	Wintertime Carriage Passenger - Male, Medium Nougat Argyle Sweater, Dark Blue Legs, Dark Brown Hair, Glasses, Red Scarf	2023	?
+390	Holiday & Event / Christmas	hol333	Wintertime Carriage Passenger - Female, Bright Light Blue Jacket over White Shirt with Coral Flowers, Dark Turquoise Legs, Dark Orange Ponytail, Freckles, Red Scarf	2023	3.9
+390	Holiday & Event / Christmas	hol334	Wintertime Carriage Passenger - Male, Medium Nougat Argyle Sweater, Dark Blue Legs, Dark Brown Hair, Glasses, Red Scarf	2023	3.85
 390	Holiday & Event / Christmas	hol335	Wintertime Carriage Driver - Male, Dark Blue Suit with Gold Chain and Watch, White Beard and Moustache, Black Top Hat	2023	3.61
 746	Collectible Minifigures / Series 25 Minifigures	col424	Film Noir Detective, Series 25 (Minifigure Only without Stand and Accessories)	2024	3.5
 746	Collectible Minifigures / Series 25 Minifigures	col425	E-Sports Gamer, Series 25 (Minifigure Only without Stand and Accessories)	2024	4.1
@@ -17739,7 +17739,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0842	Friends Aliya - White Crochet Top, Medium Azure Trousers Bell-Bottoms, Metallic Pink Flip Flops, Orange Life Jacket, Trans-Purple Sunglasses	2025	3.64
 878	Disney / Disney Princess / Frozen	dp231	Olaf - Micro Doll, Bright Light Blue Mouth	2025	2.06
 878	Disney / Disney Princess / Frozen	dp228	Anna - Micro Doll, Dark Purple Dress	2025	2.38
-878	Disney / Disney Princess / Frozen	dp229	Kristoff - Micro Doll, Reddish Brown Shirt, Dark Blue Pants, Closed Mouth Grin	2025	1.8
+878	Disney / Disney Princess / Frozen	dp229	Kristoff - Micro Doll, Dark Brown Shirt, Dark Blue Shorts, Closed Mouth Grin	2025	1.8
 878	Disney / Disney Princess / Frozen	dp230	Elsa - Micro Doll, Bright Light Blue Dress, Open Mouth Smile	2025	1.82
 878	Disney / Disney Princess / Frozen	dp232	Honeymaren - Micro Doll	2025	2
 801	Minecraft	min221	Silent Ranger	2025	3.46
@@ -17988,7 +17988,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1305	Wicked	wck018	Pfannee	2025	3.4
 1305	Wicked	wck019	Elphaba - Minifigure, Black Dress, Hat	2025	5.14
 9	Castle / Black Falcons	cas596	Black Falcon - Light Gray Legs with Black Hips, Dark Gray Chin-Guard, Quiver	?	4
-34	Space / Blacktron I	sp148	Blacktron I - Printed Legs, Gold Triangle Logos	2025	4.06
+34	Space / Blacktron I	sp148	Blacktron I - Printed Legs, Gold Triangle Logos	2025	4.22
 67	Town / City	cty1930	Child - Boy, Polar Bear Costume, Medium Azure Scarf	2025	3.65
 67	Town / City	cty1931	Man - Dark Green Holiday Sweater, Tan Legs, Black Hair	2025	3.54
 67	Town / City	cty1932	Child - Girl, Reindeer Costume, Red Scarf	2025	3.88
@@ -18038,7 +18038,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 878	Disney / Disney Princess / Frozen	dp233	Elsa - Micro Doll, Bright Light Blue Dress with Beaded Belt, Open Mouth Smile	2025	1.82
 878	Disney / Disney Princess / Frozen	dp234	Olaf - Micro Doll, Bright Light Blue Mouth, Leaf Bow Tie	2025	2.06
 878	Disney / Disney Princess / Frozen	dp235	Anna - Micro Doll, Dark Green Dress	2025	1.82
-878	Disney / Disney Princess / Frozen	dp236	Kristoff - Micro Doll, Dark Brown Shirt, Dark Blue Pants, Dark Blue Beanie, Closed Mouth Grin	2025	1.94
+878	Disney / Disney Princess / Frozen	dp236	Kristoff - Micro Doll, Dark Brown Shirt, Dark Blue Shorts and Beanie, Closed Mouth Grin	2025	1.94
 572	LEGOLAND Parks	LLP037	LEGOLAND Park Male, I Brick LEGOLAND Top, Red Cap with Hole	2025	3.4
 768	Super Heroes / The Infinity Saga	sh1092	War Machine - Pearl Dark Gray and Silver Armor with Neck Bracket, Ingot, Plate with Clip and Shooter	2025	6
 801	Minecraft	min235	Snow Golem - Bar Holder Arms	2025	5.17
@@ -18149,4 +18149,21 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / DUPLO, Town / Airport	47205pb130	Duplo Figure Lego Ville, Child Boy, Medium Lavender Legs, Bright Light Yellow and White Top Baseball T-Shirt, Sunflower ID Badge on Lanyard Pattern, Black Hair (6544013)	2025	12.48
 167	DUPLO / DUPLO, Town / Airport	47394pb374	Duplo Figure Lego Ville, Female, Black Legs, White Pilot Uniform, Blue Tie, Medium Lavender Glasses, Gold Wings Badge Pattern, Medium Nougat Hair (6559786)	2025	16.1
 1268	DREAMZzz	drm097	Dooper - Backpack with Chainsaws	2025	?
-390	Holiday & Event / Christmas	hol385	Elf - Green Jacket with Christmas Trees, Bright Green Neck Bracket with Robot Arms	?	7.78
+390	Holiday & Event / Christmas	hol385	Elf - Green Jacket with Christmas Trees, Bright Green Neck Bracket with Robot Arms	2025	7.78
+545	FIRST LEGO League	fst054	Diver - Male, Black Wetsuit, Trans-Light Blue Visor, Orange Flippers	2024	4.95
+545	FIRST LEGO League	fst055	Skeleton - Standard Skull, Bent Arms Horizontal Grip, Black Bicorne Hat	2024	2.68
+545	FIRST LEGO League	fst056	Figurehead - Black Torso, Head, and Hair, Sand Green Mermaid Tail	2024	4.8
+817	LEGO Ideas (CUUSOO) / The Goonies	idea258	Michael Walsh (Mikey)	?	3.2
+817	LEGO Ideas (CUUSOO) / The Goonies	idea259	Lotney Fratelli (Sloth)	?	3.75
+817	LEGO Ideas (CUUSOO) / The Goonies	idea260	Mama Fratelli	?	4.1
+817	LEGO Ideas (CUUSOO) / The Goonies	idea261	Brandon Walsh (Brand)	?	3.95
+817	LEGO Ideas (CUUSOO) / The Goonies	idea262	Stephanie Steinbrenner (Stef)	?	3.6
+817	LEGO Ideas (CUUSOO) / The Goonies	idea263	Lawrence Cohen (Chunk)	?	3.46
+817	LEGO Ideas (CUUSOO) / The Goonies	idea264	Clark Devereaux (Mouth)	?	3.12
+817	LEGO Ideas (CUUSOO) / The Goonies	idea265	Richard Wang (Data)	?	3.4
+817	LEGO Ideas (CUUSOO) / The Goonies	idea266	Jake Fratelli	?	3.43
+817	LEGO Ideas (CUUSOO) / The Goonies	idea267	Francis Fratelli	?	3.4
+817	LEGO Ideas (CUUSOO) / The Goonies	idea268	Andrea Theresa Carmichael (Andy)	?	4.23
+817	LEGO Ideas (CUUSOO) / The Goonies	idea269	One-Eyed Willie	?	3.79
+817	LEGO Ideas (CUUSOO) / The Goonies	idea270	Irene Walsh	2025	3.85
+817	LEGO Ideas (CUUSOO) / The Goonies	idea271	Irving Walsh	2025	3.36

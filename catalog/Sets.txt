@@ -145,7 +145,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 124	Train / 4.5V	130-1	Wagon with Double Tippers	1972	?	? x ? x ?
 124	Train / 4.5V	131-1	Passenger Coach	1972	143	20.1 x 10 x 5
 153	Fabuland	132-1	Cottage	1979	160	20 x 10 x 5
-124	Train / 4.5V	132-2	Port Crane and Flat Waggon	1972	?	? x ? x ?
+124	Train / 4.5V	132-2	Port Crane and Flat Waggon	1972	260	? x ? x ?
 124	Train / 4.5V	133-1	Locomotive (Push)	1975	?	20 x 10 x 5.1
 153	Fabuland	134-2	Service Station	1979	?	? x ? x ?
 124	Train / 4.5V	134-1	Mobile Crane and Waggon	1975	?	? x ? x ?
@@ -1932,7 +1932,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Model / Airport	8412-1	Nighthawk	1995	556	28.5 x 24 x 4.5
 36	Technic / Model / Off-Road	8414-1	Mountain Rambler	1997	595	28.5 x 23.75 x 6
 36	Technic / Model / Riding Cycle	8417-1	Mag Wheel Master	1998	625	28.5 x 23.8 x 6
-36	Technic / Model / Riding Cycle	8422-1	Circuit Shock Racer	1995	530	? x ? x ?
+36	Technic / Model / Riding Cycle	8422-1	Circuit Shock Racer	1995	530	28.5 x 23.9 x 4.8
 36	Technic / Model / Airport	8425-1	Black Hawk	1996	897	38.5 x 29 x 5
 36	Technic / Model / Off-Road	8428-1	Turbo Command	1998	1240	48 x 28.7 x 5.8
 36	Technic / Model / Off-Road	8432-1	Supersonic Car	1998	?	? x ? x ?
@@ -4755,7 +4755,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 166	Educational & Dacta / DUPLO / DUPLO, Train	9161-1	Duplo Train - 70 el, 4 act. crds	1991	?	? x ? x ?
 166	Educational & Dacta / DUPLO / DUPLO, Town / Harbor	9162-1	Duplo Ships	1992	?	? x ? x ?
 166	Educational & Dacta / DUPLO / DUPLO, Town / Airport	9163-1	Duplo Airport - 47 el. 4 act. cards (3 aircraft)	1993	?	? x ? x ?
-166	Educational & Dacta / DUPLO / DUPLO, Town / Zoo	9164-1	Duplo Animals for Safari Park - 11 animals for set 9160	?	?	? x ? x ?
+166	Educational & Dacta / DUPLO / DUPLO, Town / Zoo	9164-1	Duplo Animals for Safari Park - 11 animals for set 9160	1990	?	? x ? x ?
 166	Educational & Dacta / DUPLO / DUPLO, Town / Traffic	9165-1	Duplo Vehicles - 26 elements	1993	?	? x ? x ?
 166	Educational & Dacta / DUPLO / DUPLO, Train	9166-1	Duplo Battery Train - 65 elements in solid storage bin	?	?	? x ? x ?
 67	Town	78579-1	Action Pack (Target Exclusive)	1998	259	22 x 21.5 x 4.7
@@ -8232,7 +8232,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Advent Sub-Set / Castle	7979-10	Advent Calendar 2008, Castle  (Day 9) - Crossbow on Wheels	2008	6.91	10.8 x 11 x 0
 390	Holiday & Event / Advent Sub-Set / Castle	7979-11	Advent Calendar 2008, Castle (Day 10) - Dwarf with Pickaxe	2008	?	9 x 9 x 0
 390	Holiday & Event / Advent Sub-Set / Castle	7979-12	Advent Calendar 2008, Castle (Day 11) - Fire and Crystal	2008	?	9 x 9 x 0
-390	Holiday & Event / Advent Sub-Set / Castle	7979-13	Advent Calendar 2008, Castle (Day 12) - Container on Wheels	2008	?	11 x 11.25 x 0
+390	Holiday & Event / Advent Sub-Set / Castle	7979-13	Advent Calendar 2008, Castle (Day 12) - Container on Wheels	2008	3	11 x 11.25 x 0
 390	Holiday & Event / Advent Sub-Set / Castle	7979-14	Advent Calendar 2008, Castle (Day 13) - Tools Storage with Frog	2008	?	11 x 11 x 0
 390	Holiday & Event / Advent Sub-Set / Castle	7979-15	Advent Calendar 2008, Castle (Day 14) - Evil Witch	2008	?	9 x 9 x 0
 390	Holiday & Event / Advent Sub-Set / Castle	7979-16	Advent Calendar 2008, Castle (Day 15) - Cooking Pot with Snake	2008	?	8.7 x 9.5 x 0
@@ -8243,7 +8243,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Advent Sub-Set / Castle	7979-21	Advent Calendar 2008, Castle (Day 20) - Dinner Table	2008	?	9 x 9 x 0
 390	Holiday & Event / Advent Sub-Set / Castle	7979-22	Advent Calendar 2008, Castle (Day 21) - Troll Warrior	2008	?	8.8 x 9 x 0
 390	Holiday & Event / Advent Sub-Set / Castle	7979-23	Advent Calendar 2008, Castle (Day 22) - Catapult	2008	?	9 x 9 x 0
-390	Holiday & Event / Advent Sub-Set / Castle	7979-24	Advent Calendar 2008, Castle (Day 23) - Treasure Chest with Spider	2008	?	9 x 9 x 0
+390	Holiday & Event / Advent Sub-Set / Castle	7979-24	Advent Calendar 2008, Castle (Day 23) - Treasure Chest with Spider	2008	3	9 x 9 x 0
 390	Holiday & Event / Advent Sub-Set / Castle	7979-25	Advent Calendar 2008, Castle (Day 24) - Jester	2008	?	9 x 9 x 0
 545	FIRST LEGO League	9699-1	FIRST LEGO League (FLL) Challenge 2008 - Climate Connections	2008	1720	39 x 30 x 15
 976	LEGO Brand / LEGO Brand Store / Grand Opening	MINNEAPOLIS-1	LEGO Store Grand Opening Exclusive Set, Mall of America, Bloomington, MN	1992	?	? x ? x ?
@@ -15287,7 +15287,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Monthly Model	40323-1	Monthly Mini Model Build Set - 2019 03 March, Viking Ship polybag	2019	32	? x ? x ?
 976	LEGO Brand / LEGO Brand Store / Monthly Model	40322-1	Monthly Mini Model Build Set - 2019 02 February, Caterpillar polybag	2019	29	? x ? x ?
 976	LEGO Brand / LEGO Brand Store / Office Supplies	853914-1	London Bus Magnet Build blister pack	2019	60	9.4 x 23.9 x 3
-65	Star Wars / Mini / Star Wars Rogue One	911946-1	U-wing - Mini foil pack	2019	20	12 x 15 x 1
+65	Star Wars / Mini / Star Wars Rogue One	911946-1	U-Wing - Mini foil pack	2019	20	12 x 15 x 1
 768	Super Heroes / Avengers Endgame	76126-1	Avengers Ultimate Quinjet	2019	1364	28 x 53.5 x 7
 768	Super Heroes / Avengers Endgame	76125-1	Iron Man Hall of Armor	2019	754	38 x 26 x 7
 768	Super Heroes / Avengers Endgame	76123-1	Captain America: Outriders Attack	2019	236	26.2 x 19.1 x 4.6
@@ -19838,7 +19838,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Advent Sub-Set / Star Wars	75395-16	Advent Calendar 2024, Star Wars (Day 15) - 501st Clone Trooper	2024	4.95	11 x 8 x 2
 390	Holiday & Event / Advent Sub-Set / Star Wars	75395-17	Advent Calendar 2024, Star Wars (Day 16) - The Ghost	2024	12.9	11 x 10 x 1.5
 390	Holiday & Event / Advent Sub-Set / Star Wars	75395-18	Advent Calendar 2024, Star Wars (Day 17) - Holiday Luke Skywalker	2024	4.95	11 x 8.5 x 2
-390	Holiday & Event / Advent Sub-Set / Star Wars	75395-19	Advent Calendar 2024, Star Wars (Day 18) - U-wing	2024	9.3	9 x 9 x 1.5
+390	Holiday & Event / Advent Sub-Set / Star Wars	75395-19	Advent Calendar 2024, Star Wars (Day 18) - U-Wing	2024	9.3	9 x 9 x 1.5
 390	Holiday & Event / Advent Sub-Set / Star Wars	75395-20	Advent Calendar 2024, Star Wars (Day 19) - Yoda's Jedi Starfighter	2024	5.4	9 x 8 x 1.5
 390	Holiday & Event / Advent Sub-Set / Star Wars	75395-21	Advent Calendar 2024, Star Wars (Day 20) - Praetorian Guard	2024	5.55	11 x 8 x 2
 390	Holiday & Event / Advent Sub-Set / Star Wars	75395-22	Advent Calendar 2024, Star Wars (Day 21) - Darth Vader's Castle	2024	5.9	9 x 8.5 x 1.5
@@ -20096,7 +20096,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 227	Harry Potter / Sculptures	76444-1	Diagon Alley Wizarding Shops	2025	2870	47.7 x 37.2 x 11.2
 759	NINJAGO / Dragons Rising Season 2	892413-1	Jay paper bag #2	2024	10.5	12 x 15 x 1.6
 768	Super Heroes / Spider-Man	682406-1	Venomised Green Goblin paper bag	2024	22	12 x 14 x 1.5
-545	FIRST LEGO League	45826-1	FIRST LEGO League (FLL) Challenge 2024 - Submerged	2024	?	? x ? x ?
+545	FIRST LEGO League	45826-1	FIRST LEGO League (FLL) Challenge 2024 - Submerged	2024	3174	116 x 17.8 x 13.5
 976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Chinese New Year	5008063-1	LEGO Brand Store Exclusive Build - Opera Singer 4 in 1	2024	?	? x ? x ?
 983	Promotional	WINDTURBINE-1	Wind Turbine	2017	?	? x ? x ?
 34	Space / Classic Space / Games	5008897-1	Tic Tac Toe	2024	160	14.7 x 14.7 x 4.5
@@ -20368,7 +20368,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 842	SPEED CHAMPIONS	77250-1	MoneyGram Haas F1 Team VF-24	2025	282	26.2 x 14.1 x 4.8
 842	SPEED CHAMPIONS	77251-1	McLaren F1 Team MCL38	2025	275	26.2 x 14.1 x 4.8
 842	SPEED CHAMPIONS	66802-1	SPEED CHAMPIONS Bundle Pack, 10 Sets + Exclusive Poster (Sets 77242, 77243, 77244, 77245, 77246, 77247, 77248, 77249, 77250, and 77251) - Ultimate Formula 1 Collector's Pack	2025	3362	53.7 x 25.4 x 14.7
-817	LEGO Ideas (CUUSOO)	40786-1	Micro Command Center	2025	305	26 x 14 x 6
+817	LEGO Ideas (CUUSOO)	40786-1	Micro Command Center / Centre	2025	305	26 x 14 x 6
 768	Super Heroes / Avengers	76312-1	The Hulk Truck vs. Thanos	2025	385	25.8 x 18.8 x 5.9
 768	Super Heroes / The Infinity Saga	76315-1	Iron Man's Laboratory: Hall of Armor	2025	407	26 x 21.8 x 6.1
 390	Holiday & Event / Birthday	40780-1	Birthday Cake	2025	?	? x ? x ?
@@ -20701,7 +20701,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1122	Botanicals	5009408-1	Butterfly Garden	2025	145	15 x 15 x 4.5
 768	Super Heroes / Batman II	76300-1	Arkham Asylum	2025	4706	55 x 37 x 15.5
 1095	Super Mario	72046-1	Game Boy	2025	562	35.1 x 18.8 x 6.9
-903	BrickHeadz / Stranger Things	40801-1	Mike, Dustin, Lucas and Will Figures	2025	753	35.5 x 19.2 x 5.8
+903	BrickHeadz / Stranger Things	40801-1	Mike, Dustin, Lucas and Will Figures	2025	575	35.5 x 19.2 x 5.8
 166	Educational & Dacta / Science	45620-1	Science Kit K-2	2025	?	? x ? x ?
 166	Educational & Dacta / Science	45621-1	Science Kit 3-5	2025	?	? x ? x ?
 166	Educational & Dacta / Science	45622-1	Science Kit 6-8	2025	?	? x ? x ?
@@ -20916,7 +20916,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Christmas	40809-1	Festive Gingerbread House	2025	699	26 x 19 x 11.7
 390	Holiday & Event / Christmas	40812-1	Snowman Ornaments	2025	182.5	15.5 x 13.9 x 6
 817	LEGO Ideas (CUUSOO)	21362-1	Mineral Collection	2025	896	38 x 26 x 7
-903	BrickHeadz / Fortnite	40884-1	Drift & Raven	2025	?	? x ? x ?
+903	BrickHeadz / Fortnite	40884-1	Drift & Raven	2025	265	19 x 14 x 7
 1254	Braille Bricks	30711-1	Play with Braille Bricks paper bag / polybag	2025	?	? x ? x ?
 878	Disney	40774-1	Classic Animation Scenes	2025	?	? x ? x ?
 143	(Other)	GearSet-2	Colors only in Gear (1999)	1999	?	? x ? x ?
@@ -20926,6 +20926,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars The Clone Wars	912511-1	Clone Shock Trooper paper bag	2025	?	? x ? x ?
 983	Promotional	40785-1	Northern Lights Diorama	2025	355	26 x 19 x 4.5
 65	Star Wars / Star Wars Other	66804-1	Star Wars Bundle Pack, 3 in 1 Adventure Gift Set (Sets 75372, 75373, and 75391) - Star Wars: The Clone Wars & The Mandalorian Gift Set	2025	670	49 x 19 x 5
+545	FIRST LEGO League	45829-1	FIRST LEGO League (FLL) Challenge 2025 - Unearthed	2025	?	? x ? x ?
+545	FIRST LEGO League	45828-1	FIRST LEGO League (FLL) Discover 2024 - Submerged Discover Set	2024	?	? x ? x ?
+545	FIRST LEGO League	45830-1	FIRST LEGO League (FLL) Explore 2025 - Unearthed Explore Set	2025	?	? x ? x ?
+545	FIRST LEGO League	45831-1	FIRST LEGO League (FLL) Discover 2025 - Unearthed Discover Set	2025	?	? x ? x ?
 759	NINJAGO / Dragons Rising Season 3	112506-1	Arin vs. Spectral Dragonian Scout metal box	2025	67	12.5 x 9 x 2
 983	Promotional	5009378-1	LEGO Arcade Race	2025	?	? x ? x ?
 976	LEGO Brand / LEGO Brand Store / Building Event	6575259-1	LEGO Brand Store Exclusive Build - Gaming Controller	2025	?	? x ? x ?
@@ -20933,11 +20937,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 768	Super Heroes / Batman II	212505-1	The Joker with Robot paper bag	2025	?	? x ? x ?
 1122	Botanicals	66809-1	Botanicals Bundle Pack (Sets 10343 and 10344) - Evergreen Collector's Set	2025	?	? x ? x ?
 67	Town / City / Construction	952510-1	Builder with Plate Compactor and Flashing Arrow Sign paper bag	2025	?	? x ? x ?
-1197	BrickLink Designer Program / BDP Series 5	910049-1	Adventure in Transylvania	2025	?	? x ? x ?
+1197	BrickLink Designer Program / BDP Series 5	910049-1	Adventure in Transylvania	2025	4140	52 x 47.7 x 17.8
 1197	BrickLink Designer Program / BDP Series 5	910050-1	Antique Shop	2025	?	? x ? x ?
-1197	BrickLink Designer Program / BDP Series 5	910051-1	Mushroom Village	2025	?	? x ? x ?
-1197	BrickLink Designer Program / BDP Series 5	910052-1	Popcorn Wagon	2025	?	? x ? x ?
-1197	BrickLink Designer Program / BDP Series 5	910053-1	The Thieves of Tortuga	2025	?	? x ? x ?
+1197	BrickLink Designer Program / BDP Series 5	910051-1	Mushroom Village	2025	2430	55.5 x 37.5 x 11.5
+1197	BrickLink Designer Program / BDP Series 5	910052-1	Popcorn Wagon	2025	605	26.1 x 22.1 x 9.5
+1197	BrickLink Designer Program / BDP Series 5	910053-1	The Thieves of Tortuga	2025	3920	55.5 x 37.5 x 15.5
 850	Jurassic World	122502-1	Raptor with Transport Cage paper bag	2025	?	? x ? x ?
 801	Minecraft	662511-1	Hero with Husk paper bag	2025	?	? x ? x ?
 727	Modulex	Modulex-1	Modulex Colors (1963)	1963	?	? x ? x ?
@@ -20952,4 +20956,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 727	Modulex	Modulex-10	Modulex Colors (1997)	1997	?	? x ? x ?
 727	Modulex	Modulex-11	Modulex Colors (2001)	2001	?	? x ? x ?
 727	Modulex	Modulex-12	Modulex Colors (2002)	2002	?	? x ? x ?
+817	LEGO Ideas (CUUSOO) / The Goonies	40773-1	The Goonies: The Walshes' Attic	2025	?	? x ? x ?
 1268	DREAMZzz	552503-1	Dooper paper bag	2025	?	? x ? x ?
+817	LEGO Ideas (CUUSOO) / The Goonies	21363-1	The Goonies	2025	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Halloween	6565159-1	LEGO Brand Store Exclusive Build - Witch	2025	55	21.5 x 21.5 x 1.5
+759	NINJAGO / Dragons Rising Season 3	892512-1	Cole paper bag #3	2025	9	12 x 14.5 x 1.8
+65	Star Wars / Mini	912512-1	U-Wing - Mini paper bag	2025	17	12 x 15 x 1.5
+976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Birthday	6509762-1	LEGO Brand Store Exclusive Build - Birthday Cake	2024	64	18 x 24 x 1

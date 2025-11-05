@@ -17,7 +17,7 @@ import org.apache.commons.csv.CSVRecord;
 public class BlinkColorCatalogLoader extends AbstractCatalogLoader<BlinkColorDetails> {
 
     public BlinkColorCatalogLoader() {
-        super("../catalog/colors.txt");
+        super("colors.txt");
     }
 
     /**

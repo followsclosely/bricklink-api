@@ -25,7 +25,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 277	LEGOLAND / Construction	545-2	Conveyor Station	1973	?	? x ? x ?
 78	FreeStyle	4138-1	Value Set with Storage Bag	1997	?	? x ? x ?
 78	FreeStyle	4150-1	FreeStyle Building Set	1995	?	? x ? x ?
-78	FreeStyle	4157-1	FreeStyle Trial Size polybag #2	1997	?	? x ? x ?
+78	FreeStyle	4157-1	FreeStyle Trial Size polybag #2	1997	6	? x ? x ?
 78	FreeStyle	4158-1	Small FreeStyle Box	1997	?	? x ? x ?
 78	FreeStyle	4258-1	Big Box Play Scape	1998	?	? x ? x ?
 166	Educational & Dacta / Supplemental	1072-1	Supplementary LEGO Set	1976	?	? x ? x ?
@@ -1839,7 +1839,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Model / Airport	8412-1	Nighthawk	1995	142	28.5 x 24 x 4.5
 36	Technic / Model / Off-Road	8414-1	Mountain Rambler	1997	107	28.5 x 23.75 x 6
 36	Technic / Model / Riding Cycle	8417-1	Mag Wheel Master	1998	140	28.5 x 23.8 x 6
-36	Technic / Model / Riding Cycle	8422-1	Circuit Shock Racer	1995	106	? x ? x ?
+36	Technic / Model / Riding Cycle	8422-1	Circuit Shock Racer	1995	106	28.5 x 23.9 x 4.8
 36	Technic / Model / Airport	8425-1	Black Hawk	1996	160.6	38.5 x 29 x 5
 36	Technic / Model / Off-Road	8428-1	Turbo Command	1998	240	48 x 28.7 x 5.8
 36	Technic / Model / Off-Road	8432-1	Supersonic Car	1998	176.05	? x ? x ?
@@ -11470,7 +11470,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 746	Collectible Minifigures / Super Heroes / Marvel Studios Series 2	colmar2-12	Wolverine, Marvel Studios, Series 2 (Complete Set with Stand and Accessories)	2023	2.43	9.4 x 10.7 x 2.5
 423	Classic / Town Plan	BIL01-1	Complimentary Pack	1958	?	6.3 x 8.6 x 2.5
 817	LEGO Ideas (CUUSOO) / Vikings	21343-1	Viking Village	2023	434.07	47.8 x 37.5 x 10.7
-545	FIRST LEGO League	45818-1	FIRST LEGO League (FLL) Discover 2021 - Cargo Connect Discover Set	2021	?	53.5 x 27.6 x 11.2
 65	Star Wars / Star Wars Other / Holiday & Event / Christmas	40658-1	Millennium Falcon Holiday Diorama	2023	77.06	26 x 19 x 6
 878	Disney / Disney Princess / Aladdin	40613-1	Mini Disney Palace of Agrabah	2023	136.42	25.9 x 18.8 x 9
 65	Star Wars / Ultimate Collector Series / Star Wars The Clone Wars	75367-1	Venator-Class Republic Attack Cruiser - UCS	2023	1705	52 x 47.5 x 37.8
@@ -12363,7 +12362,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 842	SPEED CHAMPIONS	77249-1	Williams Racing FW46	2025	86	26.2 x 14.1 x 4.8
 842	SPEED CHAMPIONS	77250-1	MoneyGram Haas F1 Team VF-24	2025	76	26.2 x 14.1 x 4.8
 842	SPEED CHAMPIONS	77251-1	McLaren F1 Team MCL38	2025	76	26.2 x 14.1 x 4.8
-817	LEGO Ideas (CUUSOO)	40786-1	Micro Command Center	2025	?	26 x 14 x 6
+817	LEGO Ideas (CUUSOO)	40786-1	Micro Command Center / Centre	2025	?	26 x 14 x 6
 768	Super Heroes / Avengers	76312-1	The Hulk Truck vs. Thanos	2025	63.1	25.8 x 18.8 x 5.9
 768	Super Heroes / The Infinity Saga	76315-1	Iron Man's Laboratory: Hall of Armor	2025	62.8	26 x 21.8 x 6.1
 390	Holiday & Event / Birthday	40780-1	Birthday Cake	2025	?	? x ? x ?
@@ -12517,7 +12516,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 771	Friends	42674-1	Comic Book and Game Store	2025	346	53.5 x 27.7 x 7.6
 167	DUPLO / Peppa Pig	10461-1	Grandpa Pig's Garden and Greenhouse	2025	45.3	55.2 x 37.3 x 8.4
 167	DUPLO / Disney / Disney Princess / Frozen	10455-1	Anna and Elsa's Frozen Castle Party	2025	42	35 x 37.3 x 6.9
-167	DUPLO / Cars	10456-1	McQueen's Visit to Doc's Garage	2025	?	35.1 x 18.9 x 8.9
+167	DUPLO / Cars	10456-1	McQueen's Visit to Doc's Garage	2025	19	35.1 x 18.9 x 8.9
 167	DUPLO	10441-1	Shape Sorter: Puppy House	2025	10.15	28 x 25.9 x 11.8
 167	DUPLO / DUPLO, Town / Airport	10443-1	First Time at the Airport	2025	16.15	35.1 x 18.8 x 8.9
 167	DUPLO	10448-1	3in1 Animals on Wheels	2025	39.7	37.9 x 25.9 x 9
@@ -12592,7 +12591,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 842	SPEED CHAMPIONS	77238-1	Lamborghini Revuelto & Lamborghini Huracán STO	2025	193.2	35.3 x 19.2 x 6.9
 842	SPEED CHAMPIONS	77239-1	Porsche 911 GT3 RS	2025	101	26 x 14 x 9
 842	SPEED CHAMPIONS	77240-1	Bugatti Centodieci	2025	81	26.3 x 14.1 x 7.2
-629	Architecture	21063-1	Neuschwanstein Castle	2025	?	55.5 x 38 x 13
+629	Architecture	21063-1	Neuschwanstein Castle	2025	625	55.5 x 38 x 13
 976	LEGO Brand / LEGOLAND Parks / Office Supplies	854013-1	LEGOLAND Magnet Build	2020	?	9.5 x 19.5 x 2
 976	LEGO Brand / LEGO House / Office Supplies	854015-1	LEGO House Magnet Build	2020	?	9.4 x 19.4 x 2.1
 65	Star Wars / Star Wars The Clone Wars	75413-1	Republic Juggernaut	2025	253.5	53.8 x 27.8 x 5.5
@@ -12680,9 +12679,16 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Christmas	40809-1	Festive Gingerbread House	2025	172.2	26 x 19 x 11.7
 390	Holiday & Event / Christmas	40812-1	Snowman Ornaments	2025	34.5	15.5 x 13.9 x 6
 817	LEGO Ideas (CUUSOO)	21362-1	Mineral Collection	2025	170	38 x 26 x 7
-903	BrickHeadz / Fortnite	40884-1	Drift & Raven	2025	?	? x ? x ?
+903	BrickHeadz / Fortnite	40884-1	Drift & Raven	2025	?	19 x 14 x 7
 878	Disney	40774-1	Classic Animation Scenes	2025	?	? x ? x ?
 1254	Braille Bricks	30711-1	Play with Braille Bricks paper bag / polybag	2025	?	? x ? x ?
 983	Promotional	40785-1	Northern Lights Diorama	2025	70.15	26 x 19 x 4.5
+545	FIRST LEGO League	45829-1	FIRST LEGO League (FLL) Challenge 2025 - Unearthed	2025	?	? x ? x ?
+545	FIRST LEGO League	45830-1	FIRST LEGO League (FLL) Explore 2025 - Unearthed Explore Set	2025	?	? x ? x ?
 983	Promotional	5009378-1	LEGO Arcade Race	2025	?	? x ? x ?
 976	LEGO Brand / LEGO Brand Store / Building Event	6575259-1	LEGO Brand Store Exclusive Build - Gaming Controller	2025	?	? x ? x ?
+817	LEGO Ideas (CUUSOO) / The Goonies	40773-1	The Goonies: The Walshes' Attic	2025	?	? x ? x ?
+817	LEGO Ideas (CUUSOO) / The Goonies	21363-1	The Goonies	2025	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Halloween	6565159-1	LEGO Brand Store Exclusive Build - Witch	2025	28.5	21.5 x 21.5 x 1.5
+545	FIRST LEGO League	45826-1	FIRST LEGO League (FLL) Challenge 2024 - Submerged	2024	?	116 x 17.8 x 13.5
+976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Birthday	6509762-1	LEGO Brand Store Exclusive Build - Birthday Cake	2024	7	18 x 24 x 1

@@ -3,6 +3,7 @@ package io.github.followsclosely.bricklink.catalog;
 import io.github.followsclosely.bricklink.catalog.dto.BlinkCategoryDetails;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.csv.CSVRecord;
+import org.apache.commons.text.StringEscapeUtils;
 
 /**
  * Loads and maps data from the BrickLink categories catalog file (categories.txt).
@@ -27,7 +28,7 @@ import org.apache.commons.csv.CSVRecord;
 public class BlinkCategoryCatalogLoader extends AbstractCatalogLoader<BlinkCategoryDetails> {
 
     public BlinkCategoryCatalogLoader() {
-        super("../catalog/categories.txt");
+        super("categories.txt");
     }
 
     /**
@@ -41,7 +42,7 @@ public class BlinkCategoryCatalogLoader extends AbstractCatalogLoader<BlinkCateg
     BlinkCategoryDetails apply(CSVRecord record) {
         return BlinkCategoryDetails.builder()
                 .id(parseLong(record, 0))
-                .name(record.get(1))
+                .name(StringEscapeUtils.unescapeHtml4(record.get(1)))
                 .build();
     }
 }

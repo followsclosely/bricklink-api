@@ -958,7 +958,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 375	2000 / Sports / Soccer	c00UKwcin	2000 Insert - World Club - UK (Football / Soccer)	2000	?
 375	2000 / LEGOLAND Parks	c00UKwcin1	2000 Insert - World Club - UK (Legoland Windsor)	2000	?
 375	2000	c00UKwcin2	2000 Insert - World Club - UK (Titan A.E.)	2000	?
-374	1999	c99UKadsubin	1999 Insert - Adventurers Magazine UK Subscription	1999	?
+374	1999	c99UKadsubin	1999 Insert - LEGO Adventures! Magazine UK Subscription	1999	?
 352	1977 / Technic	c77be	1977 Medium Technic Belgian (98951-B)	1977	8
 374	1999 / LEGOLAND Parks	c99UKwcin	1999 Insert - World Club - UK (Legoland Windsor)	1999	10
 366	1991	c91au1	1991 Medium Australian (921641-AUS)	1991	17
@@ -1594,7 +1594,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 352	1977 / Technic	c77it2	1977 Large Technic Italian 18.5cm x 18.5cm with parchment inlays (98815-I)	1977	35
 352	1977	c77nl3	1977 Medium Dutch Foldout 67 (98762-NL)	1977	17
 351	1976	c76nl3	1976 Medium Dutch Foldout (98.405-Ho)	1976	13
-354	1979 / Technic	c79eutec3	1979 Medium Technic European (103381/103481 EU 4 (CH/B/NL))	1979	13
+354	1979 / Technic	c79eutec3	1979 Medium Technic European (103381/103481.EU 4 (CH/B/NL))	1979	13
 354	1979 / Technic	c79nlt1	1979 Medium Technic Dutch (103306-NL)	1979	13
 352	1977 / Technic	c77nlt1	1977 Large Technic Dutch 18.5cm x 18.5cm with parchment inlays (98815-NL)	1977	35
 581	2007	c07depk	2007 Press Information Kit German Presseinformation	2007	?
@@ -5033,3 +5033,4 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25de4	2025 Large German / Austrian September - December (DE/A f/B.R.-batch 2 - 6570269, DE-A - Batch 2 - 6570283, 6570285, 6570287)	2025	204
 354	1979 / Technic	c79set	1979 Medium Technic Swedish (103312-S.)	1979	13
 1319	2025 / Holiday & Event / Christmas	c25sah4	2025 Shop at Home - Holiday (WOR 2106)	2025	62
+354	1979	c79ja	1979 Large Japanese (102508/102608-Ja.)	1979	25

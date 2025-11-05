@@ -17,7 +17,7 @@ import org.apache.commons.csv.CSVRecord;
 public class BlinkOriginalBoxCatalogLoader extends AbstractCatalogLoader<BlinkOriginalBoxDetails> {
 
     public BlinkOriginalBoxCatalogLoader() {
-        super("../catalog/Original Boxes.txt");
+        super("Original Boxes.txt");
     }
 
     /**

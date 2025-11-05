@@ -5,8 +5,6 @@ import org.springframework.boot.context.event.ApplicationEnvironmentPreparedEven
 import org.springframework.context.ApplicationListener;
 import org.springframework.util.StringUtils;
 
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 @Slf4j
@@ -34,7 +32,7 @@ public class BlinkApplicationListener implements ApplicationListener<Application
     @Override
     public void onApplicationEvent(ApplicationEnvironmentPreparedEvent event) {
 
-        for( String key : REQUIRED_KEYS) {
+        for (String key : REQUIRED_KEYS) {
             String keyValue = event.getEnvironment().getProperty(key);
 
             if (!StringUtils.hasLength(keyValue)) {

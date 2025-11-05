@@ -393,6 +393,7 @@ Category ID	Category Name
 1168	Encanto
 994	Energy Effect
 1006	Envelope & Letter
+1353	Epic Moment Collection
 1138	Eternals
 800	EV3
 568	Exo-Force
@@ -883,6 +884,7 @@ Category ID	Category Name
 469	Spider-Man
 705	Spider-Man 1
 706	Spider-Man 2
+1354	Spider-Man 3
 1322	Spider-Man Across the Spider-Verse
 1033	Spider-Man Far From Home
 956	Spider-Man Homecoming

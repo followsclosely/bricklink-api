@@ -1,6 +1,7 @@
 package io.github.followsclosely.bricklink.catalog;
 
 import lombok.RequiredArgsConstructor;
+import lombok.Setter;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
@@ -25,6 +26,8 @@ import java.util.stream.StreamSupport;
 public abstract class AbstractCatalogLoader<R> {
 
     private final String pathToFile;
+    @Setter
+    private String rootDirectory = "../catalog";
 
     public CSVFormat getCSVFormat() {
         return CSVFormat.DEFAULT.builder()
@@ -48,8 +51,7 @@ public abstract class AbstractCatalogLoader<R> {
 
         // Open the chain of streams and the CSVParser.
         // These will be closed by the stream's onClose handler.
-        System.out.println(new File(".").getAbsolutePath());
-        final FileInputStream inputStream = new FileInputStream(pathToFile);
+        final FileInputStream inputStream = new FileInputStream(new File(rootDirectory, pathToFile));
         final InputStreamReader inputStreamReader = new InputStreamReader(inputStream);
         final CSVParser csvParser = CSVParser.builder().setReader(inputStreamReader).setFormat(getCSVFormat()).get();
 
@@ -114,5 +116,13 @@ public abstract class AbstractCatalogLoader<R> {
         }
         String value = record.get(index);
         return (value == null || "?".equals(value) || value.isBlank()) ? null : Double.parseDouble(value);
+    }
+
+    public String parseString(CSVRecord record, int index) {
+        if (!record.isSet(index)) {
+            return null;
+        }
+        String value = record.get(index);
+        return (value == null || "?".equals(value) || value.isBlank()) ? null : value;
     }
 }

@@ -87,7 +87,7 @@ public class BlinkItem {
         @JsonProperty("item")
         private BlinkItem item;
         @JsonProperty("new_or_used")
-        private String newOrUsed;
+        private String condition;
         @JsonProperty("currency_code")
         private String currencyCode;
         @JsonProperty("min_price")
@@ -104,6 +104,25 @@ public class BlinkItem {
         private Integer totalQuantity;
         @JsonProperty("price_detail")
         private List<PriceDetail> priceDetail;
+
+        @Data
+        @JsonIgnoreProperties(ignoreUnknown = true)
+        public static class PriceDetail {
+            @JsonProperty("quantity")
+            private Integer quantity;
+            @JsonProperty("qunatity") // Typo, to be deprecated
+            private Integer qunatity;
+            @JsonProperty("unit_price")
+            private Double unitPrice;
+            @JsonProperty("shipping_available")
+            private String shippingAvailable;
+            @JsonProperty("seller_country_code")
+            private String sellerCountryCode;
+            @JsonProperty("buyer_country_code")
+            private String buyerCountryCode;
+            @JsonProperty("date_ordered")
+            private String dateOrdered;
+        }
     }
 
     @Data

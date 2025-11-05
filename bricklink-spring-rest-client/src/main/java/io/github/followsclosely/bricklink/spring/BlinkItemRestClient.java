@@ -28,6 +28,11 @@ public class BlinkItemRestClient extends AbstractBlinkRestClient implements Blin
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("items/" + type.name() + "/" + number);
 
+        String json = restClient.get()
+                .uri(signatureBuilder.buildUrl())
+                .header(BlinkAuthSigner.HEADER, signatureBuilder.buildAuthorizationHeader())
+                .retrieve().body(String.class);
+
         return restClient.get()
                 .uri(signatureBuilder.buildUrl())
                 .header(BlinkAuthSigner.HEADER, signatureBuilder.buildAuthorizationHeader())

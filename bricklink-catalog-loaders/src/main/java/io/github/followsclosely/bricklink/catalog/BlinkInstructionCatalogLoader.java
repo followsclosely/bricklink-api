@@ -14,10 +14,10 @@ import org.apache.commons.csv.CSVRecord;
  * Usage: Instantiate and call {@code stream()} to process records as domain objects.
  */
 @Slf4j
-public class BlinkInstructionCatalogLoader extends AbstractCatalogLoader<BlinkInstructionDetails>  {
+public class BlinkInstructionCatalogLoader extends AbstractCatalogLoader<BlinkInstructionDetails> {
 
     public BlinkInstructionCatalogLoader() {
-        super("../catalog/Instructions.txt");
+        super("Instructions.txt");
     }
 
     /**

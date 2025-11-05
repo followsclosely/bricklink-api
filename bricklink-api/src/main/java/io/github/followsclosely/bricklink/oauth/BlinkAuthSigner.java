@@ -305,6 +305,7 @@ public class BlinkAuthSigner {
 
         /**
          * Computes the final OAuth parameters including the signature.
+         *
          * @return A map of all OAuth parameters including the signature.
          */
         private Map<String, String> getFinalOAuthParams() {
@@ -326,6 +327,7 @@ public class BlinkAuthSigner {
 
         /**
          * Constructs the OAuth base string for signature generation.
+         *
          * @return The OAuth base string.
          */
         private String getBaseString() {

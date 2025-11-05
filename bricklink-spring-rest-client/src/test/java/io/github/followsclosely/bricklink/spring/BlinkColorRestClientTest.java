@@ -2,6 +2,7 @@ package io.github.followsclosely.bricklink.spring;
 
 import io.github.followsclosely.bricklink.dto.BlinkColor;
 import io.github.followsclosely.bricklink.dto.BlinkResponse;
+import io.github.followsclosely.bricklink.oauth.BlinkAuthSignerFactory;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 

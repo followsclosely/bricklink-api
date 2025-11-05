@@ -1546,7 +1546,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 503	Poster / Technic / Throwbot / Slizer	4132671	Throwbot (Slizer) Poster 2000 - (Sets 8521, 8522, 8523)	2000	8.89	? x ? x ?
 503	Poster / Technic / Throwbot / Slizer	4124855	Throwbot (Slizer) Poster 1999 - (Sets 8500, 8501, 8502, 8503)	1999	12	? x ? x ?
 503	Poster / Technic / Throwbot / Slizer	4124856	Throwbot (Slizer) Poster 1999 - (Sets 8504, 8505, 8506, 8507)	1999	12	29.8 x 42 x 0.01
-241	Pen / Castle / Knights Kingdom II	4267328	Knight's Kingdom II Sir Jayko Pen	2005	14	? x ? x ?
+241	Pen / Castle / Knights Kingdom II	4267328	Knights' Kingdom II Sir Jayko Pen	2005	14	? x ? x ?
 445	Patch & Pin / Town	4290282	Pin, Minifigure - Worker Blue Overalls and Red Cap	2005	8.4	? x ? x ?
 447	School Supplies / Adventurers / Orient Expedition	850295	Pencil Case, Orient Expedition Design	2004	?	? x ? x ?
 334	Key Chain / Space / Life on Mars	711256	Life on Mars Altair Metal Key Chain	?	?	? x ? x ?
@@ -7942,7 +7942,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 648	Bedding / NINJAGO	8718365115483	Bedding, Fleece Blanket Polyester (120 x 150 cm) - Ninjago	2012	403	? x ? x ?
 648	Bedding / Batman I / Batman II	5055285330354	Bedding, Fleece Blanket Polyester (120 x 150 cm) - Batman	2012	?	? x ? x ?
 334	Key Chain / Pirates / Pirates II	LGL-KE23	LED Key Light Pirates - Captain Brickbeard Key Chain (LEDLite) - Boxed Version	2013	62.4	10 x 15 x 4
-334	Key Chain / Town / City	4895028508500	LED Key Light City - Chef Key Chain (LEDLite)	2013	65	? x ? x ?
+334	Key Chain / Town / City	4895028508500	LED Key Light City - Chef Key Chain (LEDLite) - Boxed Version	2013	65	? x ? x ?
 334	Key Chain / Town / City / Police	LGL-KE33	LED Key Light Police - Crook Key Chain	2013	?	? x ? x ?
 334	Key Chain / Town / City / Police	LGL-KE41	LED Key Light Police - Chase McCain Key Chain	2013	?	? x ? x ?
 334	Key Chain / LEGENDS OF CHIMA	IQ50888	LED Key Light Cragger Key Chain (LEDLite)	2013	66	? x ? x ?
@@ -11607,7 +11607,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / (Other)	ctwII035	Create the World Incredible Inventions Trading Card #035 Intergalactic Girl	2018	1	5.5 x 8 x 0.03
 380	Card, Trading Card / (Other)	ctwII036	Create the World Incredible Inventions Trading Card #036 Battle Goddess	2018	1	5.5 x 8 x 0.03
 380	Card, Trading Card / (Other)	ctwII037	Create the World Incredible Inventions Trading Card #037 King	2018	1	5.5 x 8 x 0.03
-380	Card, Trading Card / (Other)	ctwII038	Create the World Incredible Inventions Trading Card #038 Hot Dog Guy	2018	1	5.5 x 8 x 0.03
+380	Card, Trading Card / (Other)	ctwII038	Create the World Incredible Inventions Trading Card #038 Hot Dog Man	2018	1	5.5 x 8 x 0.03
 380	Card, Trading Card / (Other)	ctwII039	Create the World Incredible Inventions Trading Card #039 Dog Show Winner	2018	1	5.5 x 8 x 0.03
 380	Card, Trading Card / (Other)	ctwII040	Create the World Incredible Inventions Trading Card #040 Party Clown	2018	1	5.5 x 8 x 0.03
 380	Card, Trading Card / (Other)	ctwII041	Create the World Incredible Inventions Trading Card #041 Create: Barn Owl	2018	1	5.5 x 8 x 0.03
@@ -12623,7 +12623,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 160	Sticker Sheet / Space Exploration	Gstk221	Sticker Sheet, House with Stars	2019	0.5	6.6 x 6.6 x 0
 160	Sticker Sheet / Space Exploration	Gstk222	Sticker Sheet, Alien Head and Stars	2019	0.5	6.6 x 6.6 x 0
 160	Sticker Sheet / Space Exploration	Gstk223	Sticker Sheet, Robot with Stars	2019	0.5	6.6 x 6.6 x 0
-1166	Games	5000263923	SteelBook Games	2019	137	17.1 x 13.6 x 1.5
+252	Game	5000263923	SteelBook Games	2019	137	17.1 x 13.6 x 1.5
 503	Poster / Dimensions	5000220195	Dimensions Poster, Expansion Pack Checklist	2016	32	66 x 47.5 x 0.01
 380	Card, Trading Card / Star Wars	sw02deLE07	Star Wars Trading Card Game (German) Series 2 - # LE7 Chewbacca Limited Edition	2019	2	6.2 x 8.8 x 0
 175	Food & Drink / Fabuland	2036212P	Cutlery Set BSF Kinderbesteck mit Nessy Nilpferd (Fabuland Hannah Hippopotamus)	?	296	16 x 22 x 3
@@ -14484,7 +14484,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / (Other)	ctwLA044	Create the World Living Amazingly Trading Card #044 Flying Warrior	2020	1	5.5 x 8 x 0.03
 380	Card, Trading Card / (Other)	ctwLA045	Create the World Living Amazingly Trading Card #045 Spider Suit Boy	2020	1	5.5 x 8 x 0.03
 380	Card, Trading Card / (Other)	ctwLA046	Create the World Living Amazingly Trading Card #046 Crab	2020	1	5.5 x 8 x 0.03
-380	Card, Trading Card / (Other)	ctwLA047	Create the World Living Amazingly Trading Card #047 Hot Dog Guy	2020	1	5.5 x 8 x 0.03
+380	Card, Trading Card / (Other)	ctwLA047	Create the World Living Amazingly Trading Card #047 Hot Dog Man	2020	1	5.5 x 8 x 0.03
 380	Card, Trading Card / (Other)	ctwLA048	Create the World Living Amazingly Trading Card #048 Kitty Pop	2020	1	5.5 x 8 x 0.03
 380	Card, Trading Card / (Other)	ctwLA049	Create the World Living Amazingly Trading Card #049 Crayon Girl	2020	1	5.5 x 8 x 0.03
 380	Card, Trading Card / (Other)	ctwLA050	Create the World Living Amazingly Trading Card #050 Faun	2020	1	5.5 x 8 x 0.03
@@ -18966,9 +18966,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1008	Decoration / Botanicals	botprint01	Botanicals Exclusive Print, Lotus, Common Daisy, Larkspur, and Cornflower (from Botanical Almanac)	2024	7	12.7 x 17.7 x 0.1
 334	Key Chain / Star Wars	107544	25 Years of LEGO Star Wars (R2-D2 Logo) Key Chain (Metal)	2024	88	7.4 x 12.3 x 2.1
 160	Sticker Sheet / Star Wars	107543	Sticker Sheet, 25 Years of LEGO Star Wars (R2-D2 Logo), Fabric	2024	5.95	9 x 10.5 x 0.3
-498	Backpacks & Lunchboxes / Collectible Minifigures	BP0461-550I	Backpack Hot Dog Guy	2023	340	25 x 40 x 15
+498	Backpacks & Lunchboxes / Collectible Minifigures	BP0461-550I	Backpack Hot Dog Man	2023	340	25 x 40 x 15
 498	Backpacks & Lunchboxes	BP0462-500I	Backpack Camouflage Bricks Hearts	2023	303	28 x 40 x 15
-1112	Luggage & Luggage Accessories / Collectible Minifigures	ST0461-550I	Tote Bag, Collectible Minifigures - Hot Dog Guy	2024	89	41 x 33 x 15
+1112	Luggage & Luggage Accessories / Collectible Minifigures	ST0461-550I	Tote Bag, Collectible Minifigures - Hot Dog Man	2024	89	41 x 33 x 15
 1112	Luggage & Luggage Accessories	CB0960	Handbag Crossbody, Brick Shape 1 x 1 with Zippered Stud, Classic	2023	257	21 x 21 x 13
 646	Electronics / Harry Potter	LGL-TO50B	LED Torch Harry Potter Quidditch (LEDLITE)	2024	143	9.2 x 18 x 4.8
 1112	Luggage & Luggage Accessories / Harry Potter	5008086	Bag / Luggage Tag, Silicone, Gryffindor Hermione Granger	2023	28	7 x 13.5 x 1
@@ -19826,7 +19826,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 679	Toy, Fast Food / BIONICLE / Toa Inika	bb1383	Inika Toa Matoro Battle Spinner (Nestlé Promotional)	2006	2	6.5 x 4.8 x 0.8
 679	Toy, Fast Food / BIONICLE / Toa Inika	bb1384	Inika Toa Kongu Battle Spinner (Nestlé Promotional)	2006	2	6.5 x 4.8 x 0.8
 679	Toy, Fast Food / BIONICLE / Toa Inika	bb1385	Inika Toa Hewkii Battle Spinner (Nestlé Promotional)	2006	2	6.5 x 4.8 x 0.8
-517	Watch	legowatch06	Watch Set, Classic LEGO - Stainless Steel Face with Bricks Pattern and Blue Leather Strap	1995	?	? x ? x ?
+517	Watch	legowatch06	Watch Set, Classic LEGO - Stainless Steel Face with Bricks Pattern and Blue Leather Strap	1995	50	22.7 x 3.4 x 0.5
 14	Magnet / Castle / Royal Knights	5008909	Magnet Flat, Royal Knights Shield	2024	97	? x ? x ?
 398	Human Furniture	4111-GEAR4	Wall Hanger Rack (Red, Orange, Bright Pink) {Target Exclusive}	2021	163	33.4 x 6.5 x 4.5
 398	Human Furniture	4111-GEAR5	Wall Hanger Rack (Black, Dark Green, Dark Turquoise) {Target Exclusive}	2021	163	33.4 x 6.5 x 4.5
@@ -21033,7 +21033,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / NINJAGO	njo06de126	NINJAGO Trading Card Game (German) Series 6 - # 126 Fieser Sensenmeister Ghoultar	2021	2	6.2 x 8.8 x 0.02
 252	Game / DUPLO	GA22dk	DUPLO Learn and Play - Hjemme hos os (Danish Edition)	?	?	? x ? x ?
 447	School Supplies / DREAMZzz	5008152	Dream Journal with Sticker Sheets, DREAMZzz	2025	321	14.9 x 21.1 x 3.3
-334	Key Chain / Collectible Minifigures / Series 23 Minifigures	LGL-KE214H	LED Key Light Nutcracker (LEDLITE)	2024	42	4.5 x 13.5 x 2.8
+334	Key Chain / Collectible Minifigures / Series 23 Minifigures	LGL-KE214H	LED Key Light Nutcracker Key Chain (LEDLITE)	2024	42	4.5 x 13.5 x 2.8
 1111	Clothing Accessories / BIONICLE	4550387	Bandana, Bionicle	2008	?	? x ? x ?
 380	Card, Trading Card / NINJAGO	njo06de127	NINJAGO Trading Card Game (German) Series 6 - # 127 Böser Sensenmeister Ghoultar	2021	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / NINJAGO	njo06de130	NINJAGO Trading Card Game (German) Series 6 - # 130 Böser Eyezor	2021	2	6.2 x 8.8 x 0.02
@@ -22223,11 +22223,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 447	School Supplies	5009438	Notebook with Vintage LEGO Logos (Hardcover)	2025	282.6	14.5 x 21.5 x 1.4
 1104	Paper, Flyer / Technic / Model / Race	6575141	Flyer 2025 Technic Set 42212 Insert - Asphalt Legends Unite Game Code for Ferrari FXX K	2025	7.2	21.1 x 29.8 x 0.01
 1104	Paper, Flyer / Technic / Model / Race	6575471	Flyer 2025 Technic Set 42205 Insert - Asphalt Legends Unite Game Code for Chevrolet Corvette Stingray	2025	7.2	21.1 x 29.8 x 0.01
-503	Poster / Star Wars / Ultimate Collector Series / Star Wars Episode 4/5/6	5010030	Star Wars Poster 2025, UCS Death Star - 'That's No Moon'	2025	?	59 x 80 x 0.02
+503	Poster / Star Wars / Ultimate Collector Series / Star Wars Episode 4/5/6	5010030	Star Wars Poster 2025, UCS Death Star - 'That's No Moon'	2025	231	59 x 80 x 0.02
 998	Playmat / FIRST LEGO League	45801MAP	Playmat, FIRST LEGO League (FLL) - Set 45802 Trash Trek	2015	?	? x ? x ?
 517	Watch / Clikits	bb1396	Watch Part, Band Link - Wide Slot for Cloth Band	2006	0.28	2.2 x 0.85 x 0.45
 517	Watch / Clikits	bb1397	Watch Part, Cloth Band with Metal Gripper - Bright Pink, Dark Pink, and Magenta Hearts	2006	5.95	2.35 x 20.6 x 0.35
 1104	Paper, Flyer / Technic / Model / Race	6575146	Flyer 2025 Technic Set 42214 Insert - Asphalt Legends Unite Game Code for Lamborghini Revuelto	2025	7.1	21 x 28.8 x 0.01
+334	Key Chain	5009861	Game Controller Key Chain - Dark Azure with Silver Chain (Bag Charm)	2025	?	? x ? x ?
 380	Card, Trading Card / Minecraft	min01de051	Minecraft Trading Card Collection (German) Series 1 - # 51 Comic Zombiejäger	2024	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Minecraft	min01de052	Minecraft Trading Card Collection (German) Series 1 - # 52 Geboren zum Craften	2024	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Minecraft	min01de053	Minecraft Trading Card Collection (German) Series 1 - # 53 Neon Drachenjäger	2024	2	6.2 x 8.8 x 0.02
@@ -22265,6 +22266,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / Minecraft	min01de116	Minecraft Trading Card Collection (German) Series 1 - # 116 Illager-Anführer	2024	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Minecraft	min01de117	Minecraft Trading Card Collection (German) Series 1 - # 117 Neon Diener	2024	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Minecraft	min01de118	Minecraft Trading Card Collection (German) Series 1 - # 118 Diener	2024	2	6.2 x 8.8 x 0.02
+503	Poster / BIONICLE	5002942	BIONICLE Poster, Gold Masks Stand Base for Set 5002942 / Mask of Creation (Double-Sided)	2015	?	? x ? x ?
 380	Card, Trading Card / Minecraft	min01de119	Minecraft Trading Card Collection (German) Series 1 - # 119 Plünderer	2024	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Minecraft	min01de120	Minecraft Trading Card Collection (German) Series 1 - # 120 Comic Plünderer	2024	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Minecraft	min01de121	Minecraft Trading Card Collection (German) Series 1 - # 121 Eiswanderer	2024	2	6.2 x 8.8 x 0.02
@@ -22296,6 +22298,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / Minecraft	min01de148	Minecraft Trading Card Collection (German) Series 1 - # 148 Team Plünderer und Skelettreiter	2024	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Minecraft	min01de149	Minecraft Trading Card Collection (German) Series 1 - # 149 Team Diener und Illager-Anführer	2024	2	6.2 x 8.8 x 0.02
 175	Food & Drink / Sports / Soccer	soccermug	Cup / Mug Football (Soccer)	2000	?	? x ? x ?
+1112	Luggage & Luggage Accessories / NINJAGO	mbag05	Messenger Bag, NINJAGO Shoulder Bag	?	222	21 x 25 x 6
+498	Backpacks & Lunchboxes / Town / City / Police	backpackpolice	Backpack Lego City Police	?	238	? x ? x ?
 380	Card, Trading Card / Minecraft	min01de150	Minecraft Trading Card Collection (German) Series 1 - # 150 Team Ertrunkener und Wächter	2024	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Minecraft	min01de151	Minecraft Trading Card Collection (German) Series 1 - # 151 Comic Team Hexe und Plünderer	2024	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Minecraft	min01de152	Minecraft Trading Card Collection (German) Series 1 - # 152 Team Piglin und Piglin-Barbar	2024	2	6.2 x 8.8 x 0.02
@@ -22313,7 +22317,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / Minecraft	min01de165	Minecraft Trading Card Collection (German) Series 1 - # 165 Puzzle Piece	2024	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Minecraft	min01de166	Minecraft Trading Card Collection (German) Series 1 - # 166 Puzzle Piece	2024	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Minecraft	min01de167	Minecraft Trading Card Collection (German) Series 1 - # 167 Puzzle Piece	2024	2	6.2 x 8.8 x 0.02
-380	Card, Trading Card / NINJAGO	njo10deLE27	NINJAGO Trading Card Game (German) Series 10 - # LE27 Ninja-Legenden-Team Jay & Zane Limited Edition	2025	?	? x ? x ?
+380	Card, Trading Card / NINJAGO	njo10deLE27	NINJAGO Trading Card Game (German) Series 10 - # LE27 Ninja-Legenden-Team Jay & Zane Limited Edition	2025	2	6.2 x 8.8 x 0.02
 1008	Decoration / Holiday & Event / Christmas	30206806	Christmas Tree Ornament, Hallmark LEGO Brick Suit Guy	2025	40	7.7 x 10.4 x 4.4
 1008	Decoration / Holiday & Event / Christmas	30206805	Christmas Tree Ornament, Hallmark LEGO Brick Suit Girl	2025	41	7.7 x 10.4 x 4.4
 539	Retail Display	Legocube05	Display Carton Cube, Rebuild the World	2021	412	305 x 298 x 30
@@ -22337,3 +22341,66 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 512	Toy, Plush / DUPLO	353840	DUPLO Bee Plush	2024	?	? x ? x ?
 512	Toy, Plush / DUPLO	353850	DUPLO Snail Plush	2024	?	? x ? x ?
 512	Toy, Plush / DUPLO	353860	DUPLO Pineapple Plush	2024	?	? x ? x ?
+380	Card, Trading Card / Minecraft	min01de168	Minecraft Trading Card Collection (German) Series 1 - # 168 Puzzle Piece	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de169	Minecraft Trading Card Collection (German) Series 1 - # 169 Puzzle Piece	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de170	Minecraft Trading Card Collection (German) Series 1 - # 170 Puzzle Piece	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de171	Minecraft Trading Card Collection (German) Series 1 - # 171 Puzzle Piece	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de172	Minecraft Trading Card Collection (German) Series 1 - # 172 Puzzle Piece	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de173	Minecraft Trading Card Collection (German) Series 1 - # 173 Puzzle Piece	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de174	Minecraft Trading Card Collection (German) Series 1 - # 174 Puzzle Piece	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de175	Minecraft Trading Card Collection (German) Series 1 - # 175 Puzzle Piece	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de176	Minecraft Trading Card Collection (German) Series 1 - # 176 Puzzle Piece	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de177	Minecraft Trading Card Collection (German) Series 1 - # 177 Puzzle Piece	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de178	Minecraft Trading Card Collection (German) Series 1 - # 178 Puzzle Piece	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de179	Minecraft Trading Card Collection (German) Series 1 - # 179 Puzzle Piece	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de180	Minecraft Trading Card Collection (German) Series 1 - # 180 Puzzle Piece	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de181	Minecraft Trading Card Collection (German) Series 1 - # 181 Festhalten!	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de182	Minecraft Trading Card Collection (German) Series 1 - # 182 Für Dich	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de183	Minecraft Trading Card Collection (German) Series 1 - # 183 Buuhhh!	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de184	Minecraft Trading Card Collection (German) Series 1 - # 184 Überfall!	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de185	Minecraft Trading Card Collection (German) Series 1 - # 185 Umzingelt	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de186	Minecraft Trading Card Collection (German) Series 1 - # 186 Explosive Stimmung	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de187	Minecraft Trading Card Collection (German) Series 1 - # 187 Kürbiskopf	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de188	Minecraft Trading Card Collection (German) Series 1 - # 188 Die Hühner!!!	2024	2	6.2 x 8.8 x 0.2
+380	Card, Trading Card / Minecraft	min01de189	Minecraft Trading Card Collection (German) Series 1 - # 189 Aua	2024	2	6.2 x 8.8 x 0.2
+512	Toy, Plush	353870	DUPLO Panda Plush	2025	?	? x ? x ?
+512	Toy, Plush	353880	DUPLO Rabbit Plush	2025	?	? x ? x ?
+512	Toy, Plush	353890	DUPLO Sea Turtle Plush	2025	?	28 x 28 x 10
+512	Toy, Plush	353900	DUPLO Penguin Plush	2024	?	? x ? x ?
+512	Toy, Plush	353920	Dolphin Plush	2024	?	? x ? x ?
+498	Backpacks & Lunchboxes / NINJAGO	BP0760-230NI	Backpack NINJAGO Level Up	2024	?	? x ? x ?
+498	Backpacks & Lunchboxes / NINJAGO / Legacy	BP0760-530NI	Backpack NINJAGO Lloyd - Legacy	2024	?	? x ? x ?
+498	Backpacks & Lunchboxes / NINJAGO	BP0760-900NI	Backpack NINJAGO Graffiti	2024	?	? x ? x ?
+1113	Office Supplies / Collectible Minifigures / Series 24 Minifigures	53477	Sticky Notes, Series 24 Minifigures	2024	?	? x ? x ?
+1112	Luggage & Luggage Accessories	53657	Bag / Luggage Tag, Silicone, LEGO Plate 2 x 4 Yellow	2024	34	4 x 18 x 1.5
+1112	Luggage & Luggage Accessories	5009504	Bag / Luggage Tag, Silicone, LEGO Plate, Round 3 x 3 Heart Red	2024	?	? x ? x ?
+1112	Luggage & Luggage Accessories	53693	Bag / Luggage Tag, Silicone, LEGO Plate, Round 3 x 3 Heart Dark Pink	2024	?	? x ? x ?
+1112	Luggage & Luggage Accessories / Space / Classic Space	53498	Bag / Luggage Tag, Silicone, Classic Space Minifigure Red	2024	?	? x ? x ?
+1112	Luggage & Luggage Accessories / Collectible Minifigures / Series 26 Minifigures	53649	Bag / Luggage Tag, Silicone, Spacebaby - Classic Space, Dark Pink	2024	?	? x ? x ?
+1112	Luggage & Luggage Accessories / Collectible Minifigures / Series 24 Minifigures	53650	Bag / Luggage Tag, Silicone, Spacebaby - Classic Space, Blue	2024	?	? x ? x ?
+1112	Luggage & Luggage Accessories	5009498	Bag / Luggage Tag, Silicone, Skeleton Head - Glow in the Dark	2024	?	? x ? x ?
+1112	Luggage & Luggage Accessories	5009501	Bag / Luggage Tag, Silicone, Ghost - Glow in the Dark	2024	?	? x ? x ?
+1112	Luggage & Luggage Accessories / Collectible Minifigures / Series 17 Minifigures	52852	Bag / Luggage Tag, Silicone, Rocket Boy	2024	?	? x ? x ?
+1112	Luggage & Luggage Accessories / Collectible Minifigures / Series 17 Minifigures	52853	Bag / Luggage Tag, Silicone, Butterfly Girl	2024	?	? x ? x ?
+334	Key Chain / Collectible Minifigures / Series 18 Minifigures	LGL-KE196H	LED Key Light Dragon Suit Guy Key Chain (LEDLITE)	2024	?	? x ? x ?
+334	Key Chain / Collectible Minifigures / Series 12 Minifigures	LGL-KE212H	LED Key Light Piggy Guy Key Chain (LEDLITE)	2024	?	? x ? x ?
+334	Key Chain / Collectible Minifigures / Series 16 Minifigures	LGL-KE215H	LED Key Light Little Devil Key Chain (LEDLITE)	2024	?	? x ? x ?
+334	Key Chain / Collectible Minifigures / Series 12 Minifigures	LGL-KE217H	LED Key Light Video Game Guy Key Chain (LEDLITE)	2024	?	? x ? x ?
+334	Key Chain / Collectible Minifigures / Series 17 Minifigures	LGL-KE218H	LED Key Light Gourmet Chef Key Chain (LEDLITE)	2024	?	? x ? x ?
+334	Key Chain / Collectible Minifigures / Series 17 Minifigures	LGL-KE242H	LED Key Light Corn Cob Guy Key Chain (LEDLITE)	2024	?	? x ? x ?
+334	Key Chain / Collectible Minifigures / Series 25 Minifigures	LGL-KE229H	LED Key Light E-Sports Gamer Key Chain (LEDLITE)	2024	?	? x ? x ?
+334	Key Chain	LGL-KE234HB	LED Key Light Blue Brick 2 x 4 Key Chain (LEDLITE)	2024	?	? x ? x ?
+334	Key Chain	LGL-KE234HR	LED Key Light Red Brick 2 x 4 Key Chain (LEDLITE)	2024	?	? x ? x ?
+334	Key Chain / Collectible Minifigures / Series 24 Minifigures	LGL-KE237H	LED Key Light T-Rex Costume Fan Key Chain (LEDLITE)	2024	?	? x ? x ?
+334	Key Chain / Collectible Minifigures / Series 25 Minifigures	LGL-KE238H	LED Key Light Triceratops Costume Fan Key Chain (LEDLITE)	2024	?	? x ? x ?
+334	Key Chain / Collectible Minifigures / Series 24 Minifigures	LGL-KE239H	LED Key Light Carrot Mascot Key Chain (LEDLITE)	2024	?	? x ? x ?
+334	Key Chain / Town / City	LGL-KE24H	LED Key Light Chef Key Chain (LEDLITE) - Tagged Version	2024	?	? x ? x ?
+512	Toy, Plush / DUPLO	353830	DUPLO Ladybug Plush	2024	?	? x ? x ?
+498	Backpacks & Lunchboxes	BP0466-100I	Backpack LEGO Bricks Patern	2025	?	27 x 45 x 15
+498	Backpacks & Lunchboxes / NINJAGO	5009546	Backpack NINJAGO Stronger Together	2024	?	27 x 40 x 16
+604	Money and Coin Bank / Collectible Minifigures / Series 13 Minifigures	AC0460-550I	Wallet, Hot Dog Man	2025	?	8 x 12 x 1
+604	Money and Coin Bank / Collectible Minifigures / Series 17 Minifigures	AC0460-850I	Wallet, Butterfly Girl	2025	?	? x ? x ?
+604	Money and Coin Bank / NINJAGO	AC0460-676NI	Wallet, NINJAGO Stronger Together	2025	?	? x ? x ?
+443	Puzzle / Holiday & Event / Christmas	5009894	Countdown to Christmas Puzzle	2025	660	32.7 x 21.7 x 8.1
+443	Puzzle / Botanicals	5009521	Tiny Garden Puzzle	2025	724	27.8 x 24.6 x 5.3
+380	Card, Trading Card / NINJAGO	njo10deLE17	NINJAGO Trading Card Game (German) Series 10 - # LE17 Mächtiger Kai Limited Edition	2025	2	6.2 x 8.8 x 0.02

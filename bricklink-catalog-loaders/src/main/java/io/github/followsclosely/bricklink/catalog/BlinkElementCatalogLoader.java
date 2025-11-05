@@ -17,7 +17,7 @@ import org.apache.commons.csv.CSVRecord;
 public class BlinkElementCatalogLoader extends AbstractCatalogLoader<BlinkElementDetails> {
 
     public BlinkElementCatalogLoader() {
-        super("../catalog/codes.txt");
+        super("codes.txt");
     }
 
     /**

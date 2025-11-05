@@ -1,9 +1,6 @@
 package io.github.followsclosely.bricklink.spring;
 
-import io.github.followsclosely.bricklink.dto.BlinkColor;
-import io.github.followsclosely.bricklink.dto.BlinkItem;
-import io.github.followsclosely.bricklink.dto.BlinkOrder;
-import io.github.followsclosely.bricklink.dto.BlinkResponse;
+import io.github.followsclosely.bricklink.dto.*;
 import org.springframework.core.ParameterizedTypeReference;
 
 import java.util.List;
@@ -11,10 +8,13 @@ import java.util.List;
 /**
  * Holds ParameterizedTypeReference constants for various BlinkResponse types.
  * These references are used for deserializing API responses with generic types.
+ *
  * @see BlinkResponse
  */
 public class TypeReferences {
     // @formatter:off
+    public final static ParameterizedTypeReference<BlinkResponse<BlinkCategory>> BLINK_CATEGORY = new ParameterizedTypeReference<>() {};
+    public final static ParameterizedTypeReference<BlinkResponse<List<BlinkCategory>>> BLINK_CATEGORY_LIST = new ParameterizedTypeReference<>() {};
     public final static ParameterizedTypeReference<BlinkResponse<BlinkColor>> BLINK_COLOR = new ParameterizedTypeReference<>() {};
     public final static ParameterizedTypeReference<BlinkResponse<List<BlinkColor>>> BLINK_COLOR_LIST = new ParameterizedTypeReference<>() {};
     public final static ParameterizedTypeReference<BlinkResponse<BlinkOrder>> BLINK_ORDER = new ParameterizedTypeReference<>() {};

@@ -27,7 +27,7 @@ import org.apache.commons.csv.CSVRecord;
 public class BlinkCatalogCatalogLoader extends AbstractCatalogLoader<BlinkCatalogDetails> {
 
     public BlinkCatalogCatalogLoader() {
-        super("../catalog/Catalogs.txt");
+        super("Catalogs.txt");
     }
 
     /**
