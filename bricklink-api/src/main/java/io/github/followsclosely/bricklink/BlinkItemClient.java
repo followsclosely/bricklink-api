@@ -36,6 +36,18 @@ public interface BlinkItemClient {
     BlinkResponse<BlinkItem> getItem(BlinkItem.Type type, String number);
 
     /**
+     * Retrieves the subsets for a specific item type and number, with optional query parameters. This is the
+     * endpoint to get the parts and minifigures that make up a set or the parts that make up a minifigure.
+     *
+     * @param type   The type of the item (e.g., SET, PART, MINIFIGURE).
+     * @param number The unique identifier for the item.
+     * @param query  Additional query parameters to customize the subset retrieval.
+     * @return A BlinkResponse containing a list of subset entries associated with the specified item.
+     * @see <a href="https://www.bricklink.com/v3/api.page?page=get-item-subsets">Bricklink API Guide - Get Item Subsets</a>
+     */
+    BlinkResponse<List<BlinkItem.SubsetEntry>> getItemSubsets(BlinkItem.Type type, String number, ItemSubsetsQuery query);
+
+    /**
      * Retrieves the price guide for a specific item type and number, with optional query parameters.
      *
      * @param type            The type of the item (e.g., SET, PART, MINIFIGURE).
@@ -178,5 +190,15 @@ public interface BlinkItemClient {
                 return value;
             }
         }
+    }
+
+    @Data
+    @Builder
+    class ItemSubsetsQuery {
+        private Integer colorId;
+        private Boolean box;
+        private Boolean instructions;
+        private Boolean breakMinifigs;
+        private Boolean breakSubsets;
     }
 }

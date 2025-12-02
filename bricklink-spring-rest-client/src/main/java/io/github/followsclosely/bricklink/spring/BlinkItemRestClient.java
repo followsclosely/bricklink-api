@@ -24,95 +24,100 @@ public class BlinkItemRestClient extends AbstractBlinkRestClient implements Blin
     }
 
     public BlinkResponse<BlinkItem> getItem(BlinkItem.Type type, String number) {
-        BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
+        BlinkAuthSigner.SignatureBuilder signature = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("items/" + type.name() + "/" + number);
 
-        String json = restClient.get()
-                .uri(signatureBuilder.buildUrl())
-                .header(BlinkAuthSigner.HEADER, signatureBuilder.buildAuthorizationHeader())
-                .retrieve().body(String.class);
-
         return restClient.get()
-                .uri(signatureBuilder.buildUrl())
-                .header(BlinkAuthSigner.HEADER, signatureBuilder.buildAuthorizationHeader())
+                .uri(signature.buildUrl())
+                .header(BlinkAuthSigner.HEADER, signature.buildAuthorizationHeader())
                 .retrieve().body(BLINK_CATALOG_ITEM);
     }
 
-    @Override
-    public BlinkResponse<BlinkItem.BlinkPriceGuide> getPriceGuide(BlinkItem.Type type, String number, PriceGuideQuery priceGuideQuery) {
-
-        BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
+    public BlinkResponse<List<BlinkItem.SubsetEntry>> getItemSubsets(BlinkItem.Type type, String number, ItemSubsetsQuery query) {
+        BlinkAuthSigner.SignatureBuilder signature = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
-                .uri("items/" + type.name() + "/" + number + "/price");
+                .uri("items/" + type.name() + "/" + number + "/subsets");
 
-        if (priceGuideQuery != null) {
-            signatureBuilder.parameter("color_id", priceGuideQuery.getColorId());
-            if (priceGuideQuery.getGuideType() != null)
-                signatureBuilder.parameter("guide_type", priceGuideQuery.getGuideType().getValue());
-            if (priceGuideQuery.getCondition() != null)
-                signatureBuilder.parameter("new_or_used", priceGuideQuery.getCondition().getValue());
-            signatureBuilder.parameter("country_code", priceGuideQuery.getCountryCode());
-            if (priceGuideQuery.getRegion() != null)
-                signatureBuilder.parameter("region", priceGuideQuery.getRegion().getValue());
-            signatureBuilder.parameter("currency_code", priceGuideQuery.getCurrencyCode());
-            if (priceGuideQuery.getVat() != null)
-                signatureBuilder.parameter("vat", priceGuideQuery.getVat().getValue());
+        if (query != null) {
+            if (query.getColorId() != null) signature.parameter("color_id", query.getColorId());
+            if (query.getBox() != null) signature.parameter("box", query.getBox());
+            if (query.getInstructions() != null) signature.parameter("instruction", query.getInstructions());
+            if (query.getBreakMinifigs() != null) signature.parameter("break_minifigs", query.getBreakMinifigs());
+            if (query.getBreakSubsets() != null) signature.parameter("break_subsets", query.getBreakSubsets());
         }
 
         return restClient.get()
-                .uri(signatureBuilder.buildUrl())
-                .header(BlinkAuthSigner.HEADER, signatureBuilder.buildAuthorizationHeader())
+                .uri(signature.buildUrl())
+                .header(BlinkAuthSigner.HEADER, signature.buildAuthorizationHeader())
+                .retrieve().body(BLINK_ITEM_SUBSET_ENTRY_LIST);
+    }
+
+    @Override
+    public BlinkResponse<BlinkItem.BlinkPriceGuide> getPriceGuide(BlinkItem.Type type, String number, PriceGuideQuery query) {
+
+        BlinkAuthSigner.SignatureBuilder signature = blinkAuthSigner.signatureBuilder()
+                .verb(BlinkAuthSigner.Method.GET)
+                .uri("items/" + type.name() + "/" + number + "/price");
+
+        if (query != null) {
+            signature.parameter("color_id", query.getColorId());
+            if (query.getGuideType() != null) signature.parameter("guide_type", query.getGuideType().getValue());
+            if (query.getCondition() != null) signature.parameter("new_or_used", query.getCondition().getValue());
+            signature.parameter("country_code", query.getCountryCode());
+            if (query.getRegion() != null) signature.parameter("region", query.getRegion().getValue());
+            signature.parameter("currency_code", query.getCurrencyCode());
+            if (query.getVat() != null) signature.parameter("vat", query.getVat().getValue());
+        }
+
+        return restClient.get()
+                .uri(signature.buildUrl())
+                .header(BlinkAuthSigner.HEADER, signature.buildAuthorizationHeader())
                 .retrieve().body(BLINK_ITEM_PRICE_GUIDE);
     }
 
     @Override
     public BlinkResponse<List<BlinkItem.KnownColor>> getKnownColors(BlinkItem.Type type, String number) {
-        BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
+        BlinkAuthSigner.SignatureBuilder signature = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("items/" + type.name() + "/" + number + "/colors");
 
         return restClient.get()
-                .uri(signatureBuilder.buildUrl())
-                .header(BlinkAuthSigner.HEADER, signatureBuilder.buildAuthorizationHeader())
+                .uri(signature.buildUrl())
+                .header(BlinkAuthSigner.HEADER, signature.buildAuthorizationHeader())
                 .retrieve().body(BLINK_ITEM_KNOWN_COLOR);
     }
 
     public BlinkResponse<BlinkItem.Image> getImage(BlinkItem.Type type, String number, Integer color) {
-        BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
+        BlinkAuthSigner.SignatureBuilder signature = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("items/" + type.name() + "/" + number + "/images/" + color);
 
         return restClient.get()
-                .uri(signatureBuilder.buildUrl())
-                .header(BlinkAuthSigner.HEADER, signatureBuilder.buildAuthorizationHeader())
+                .uri(signature.buildUrl())
+                .header(BlinkAuthSigner.HEADER, signature.buildAuthorizationHeader())
                 .retrieve().body(BLINK_ITEM_IMAGE);
     }
 
     public BlinkResponse<List<BlinkItem.ElementIdMapping>> getElementId(BlinkItem.Type type, String number) {
-        BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
+        BlinkAuthSigner.SignatureBuilder signature = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("item_mapping/" + type.name() + "/" + number);
 
         return restClient.get()
-                .uri(signatureBuilder.buildUrl())
-                .header(BlinkAuthSigner.HEADER, signatureBuilder.buildAuthorizationHeader())
+                .uri(signature.buildUrl())
+                .header(BlinkAuthSigner.HEADER, signature.buildAuthorizationHeader())
                 .retrieve().body(BLINK_ITEM_ELEMENT_ID_MAPPING);
     }
 
     public BlinkResponse<List<BlinkItem.ElementIdMapping>> getItemNumber(String elementId) {
-        BlinkAuthSigner.SignatureBuilder signatureBuilder = blinkAuthSigner.signatureBuilder()
+        BlinkAuthSigner.SignatureBuilder signature = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("item_mapping/" + elementId);
 
-        String json = restClient.get()
-                .uri(signatureBuilder.buildUrl())
-                .header(BlinkAuthSigner.HEADER, signatureBuilder.buildAuthorizationHeader())
-                .retrieve().body(String.class);
-
         return restClient.get()
-                .uri(signatureBuilder.buildUrl())
-                .header(BlinkAuthSigner.HEADER, signatureBuilder.buildAuthorizationHeader())
+                .uri(signature.buildUrl())
+                .header(BlinkAuthSigner.HEADER, signature.buildAuthorizationHeader())
                 .retrieve().body(BLINK_ITEM_ELEMENT_ID_MAPPING);
     }
 }

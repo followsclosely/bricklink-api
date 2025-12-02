@@ -5,10 +5,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.*;
 
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 @Data
 @ToString(of = {"number", "type", "name"})
@@ -162,6 +159,44 @@ public class BlinkItem {
             private String number;
             @JsonProperty("type")
             private Type type;
+        }
+    }
+
+    @Data
+    @JsonIgnoreProperties(ignoreUnknown = true)
+    public static class SubsetEntry {
+        @JsonProperty("match_no")
+        private Integer match;
+        private List<Entry> entries = new ArrayList<>();
+
+        @Data
+        @JsonIgnoreProperties(ignoreUnknown = true)
+        public static class Entry {
+            @JsonProperty("item")
+            private InventoryItem item;
+            @JsonProperty("color_id")
+            private Integer colorId;
+            @JsonProperty("quantity")
+            private Integer quantity;
+            @JsonProperty("extra_quantity")
+            private Integer extraQuantity;
+            @JsonProperty("is_alternate")
+            private Boolean alternate;
+            @JsonProperty("is_counterpart")
+            private Boolean counterpart;
+        }
+
+        @Data
+        @JsonIgnoreProperties(ignoreUnknown = true)
+        public static class InventoryItem {
+            @JsonProperty("no")
+            private String number;
+            @JsonProperty("name")
+            private String name;
+            @JsonProperty("type")
+            private Type type;
+            @JsonProperty("category_id")
+            private Integer categoryId;
         }
     }
 }

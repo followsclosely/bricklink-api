@@ -25,6 +25,21 @@ class BlinkItemRestClientTest {
     }
 
     @Test
+    void testGetItemSubsets() throws Exception {
+        BlinkItemRestClient client = new BlinkItemRestClient(BlinkAuthSignerFactory.newInstance());
+        BlinkResponse<List<BlinkItem.SubsetEntry>> response = client.getItemSubsets(BlinkItem.Type.SET, "30131-1",
+                BlinkItemClient.ItemSubsetsQuery.builder()
+                        .instructions(true)
+                        .box(true)
+                        .breakMinifigs(true)
+                        .build()
+        );
+        assertNotNull(response);
+        assertNotNull(response.getData());
+        log.info("Retrieved inventory with {} entries!", response.getData().size());
+    }
+
+    @Test
     void testGetPriceGuide() throws Exception {
         BlinkItemRestClient client = new BlinkItemRestClient(BlinkAuthSignerFactory.newInstance());
         BlinkResponse<BlinkItem.BlinkPriceGuide> response = client.getPriceGuide(BlinkItem.Type.SET, "10350-1",

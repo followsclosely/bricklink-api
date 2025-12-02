@@ -27,5 +27,6 @@ public class TypeReferences {
     public final static ParameterizedTypeReference<BlinkResponse<List<BlinkItem.KnownColor>>> BLINK_ITEM_KNOWN_COLOR = new ParameterizedTypeReference<>() {};
     public final static ParameterizedTypeReference<BlinkResponse<BlinkItem.Image>> BLINK_ITEM_IMAGE = new ParameterizedTypeReference<>() {};
     public final static ParameterizedTypeReference<BlinkResponse<List<BlinkItem.ElementIdMapping>>> BLINK_ITEM_ELEMENT_ID_MAPPING = new ParameterizedTypeReference<>() {};
+    public final static ParameterizedTypeReference<BlinkResponse<List<BlinkItem.SubsetEntry>>> BLINK_ITEM_SUBSET_ENTRY_LIST = new ParameterizedTypeReference<>() {};
     // @formatter:on
 }
