@@ -970,7 +970,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Classic Town	oct017	Octan - Blue Oil, Blue Legs, Red Cap	1995	3.37
 473	Sports / Soccer	soc049	Soccer Player - Red, White, and Blue Team with Number 4 on Back	?	3.36
 65	Star Wars	sw0051	Yoda - Sand Green	2002	2
-65	Star Wars / Star Wars Episode 4/5/6	sw0052	Tusken Raider	2002	3.06
+65	Star Wars / Star Wars Episode 4/5/6	sw0052	Tusken Raider - Tan Head, Plain Legs	2002	3.06
 469	Spider-Man / Spider-Man 1	spd001	Spider-Man 1 - Blue Arms and Legs, Silver Webbing	2003	3.21
 67	Town / Classic Town	zip018	Jacket with Zipper - White, White Legs, Black Male Hair	1992	3.36
 67	Town / Classic Town	zip019	Jacket with Zipper - White, White Legs, Brown Male Hair	1992	3.36
@@ -1004,7 +1004,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / DUPLO, Town / Airport	4555pb057	Duplo Figure, Male, White Legs, Blue Top with Plane Logo, Yellow Aviator Helmet, (Pilot)	1993	16.86
 167	DUPLO / DUPLO, Town / Airport	4555pb046	Duplo Figure, Male, White Legs, Blue Top (Airplane Jetliner Pilot)	1993	15.7
 167	DUPLO / DUPLO, Town / Airport	4555pb010	Duplo Figure, Flight Attendant - Female, White Legs, Blue Top with Scarf with Stripe and Jet Airplane Pin Pattern, Brown Hair, Nougat Head with Lips and Turned Down Nose	1992	17.68
-167	DUPLO / DUPLO, Town / Fire	4555pb045	Duplo Figure, Male Fireman, Black Legs, Black Top with Fire Logo and Zipper, White Fire Helmet	1995	16
+167	DUPLO / DUPLO, Town / Fire	4555pb045	Duplo Figure, Male Fireman, Black Legs, Black Top with Fire Logo and Zipper, White Fire Helmet (75600)	1995	16
 167	DUPLO / DUPLO, Town / Race	4555pb069	Duplo Figure, Male, White Legs, White Top with Black Zipper and Racer #2, Red Aviator Helmet	1990	16.38
 36	Technic	tech012	Technic Figure Black Legs, Light Gray Top with 2 Brown Belts, Black Arms (4105224)	1993	12.5
 67	Town / Classic Town	jbr007	Jacket Brown - Red Legs, Red Helmet 7 White Stars, Trans-Light Blue Visor, Blue Sunglasses	1993	3.68
@@ -1203,11 +1203,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / DUPLO, Town	4555pb011	Duplo Figure - Female, Adult Woman, Yellow Legs, Red Top with Collar, Buttons, and Brooch Pattern, Light Gray Hair, Nougat Head (75500)	1994	17.68
 167	DUPLO	4555pb013	Duplo Figure, Female, Red Legs, Yellow Top with Red Necklace, Light Gray Hair, Glasses, White in Eyes	1986	17.6
 167	DUPLO / DUPLO, Town / Race	4555pb066	Duplo Figure, Male, White Legs, White Top with Black Zipper and Racer #1, Yellow Aviator Helmet	1991	16.4
-167	DUPLO / DUPLO, Town / Hospital	4555pb016	Duplo Figure, Doctor / Medic - Female, Adult Woman, White Legs, White Top with Buttons and EMT Star of Life Pattern, Black Hair, Nougat Head	1994	17.6
+167	DUPLO / DUPLO, Town / Hospital	4555pb016	Duplo Figure, Doctor / Medic - Female, Adult Woman, White Legs, White Top with Buttons and EMT Star of Life Pattern, Black Hair, Nougat Head (75493)	1994	17.6
 167	DUPLO / DUPLO, Town / Circus	4555pb002	Duplo Figure, Male Clown, Red Legs, Yellow Top with 2 Buttons, Blue Arms, Red Hair Straight	1989	16
-167	DUPLO / DUPLO, Town / Safari	4555pb073	Duplo Figure, Male, Dark Gray Legs, Tan Top, Pith Helmet, Moustache	1994	17.4
+167	DUPLO / DUPLO, Town / Safari	4555pb073	Duplo Figure, Male, Dark Gray Legs, Tan Top, Pith Helmet, Moustache (75425)	1994	17.4
 167	DUPLO / DUPLO, Town / Zoo	4555pb023	Duplo Figure, Female Zoo, Green Legs, Green Uniform, Yellow Hair (Zoo Keeper)	1990	17.23
-167	DUPLO / DUPLO, Town / Zoo	4555pb078	Duplo Figure, Male, Green Legs, Yellow Top with Green Overalls, Red Cap (Zoo Keeper)	1995	16.44
+167	DUPLO / DUPLO, Town / Zoo	4555pb078	Duplo Figure, Male, Green Legs, Yellow Top with Green Overalls, Red Cap (Zoo Keeper) (75694)	1995	16.44
 167	DUPLO / DUPLO, Town / Zoo	4555pb079	Duplo Figure, Male, Green Legs, Green Top, Yellow Cap (Zoo Keeper)	1990	16.17
 65	Star Wars	sw0063	Droideka (Destroyer Droid) - Brown, Light Gray, and Dark Gray	2002	8.5
 48	Belville	belvmale02	Belville Male - Prince (4177075)	2002	8.3
@@ -1266,7 +1266,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Classic Town	but010	Shirt with 3 Buttons - Blue, Black Legs, Red Construction Helmet	1979	3.38
 67	Town / Classic Town	oct043	Octan - Race Team, White Legs, Red Helmet, Trans-Light Blue Visor	1999	3.68
 53	Adventurers / Orient Expedition	adv028	Pippin Reed / Miss Gail Storm - Brown Parka, Tan Legs, Brown Mongolian Hat	2003	4.14
-53	Adventurers / Orient Expedition	adv029	Sherpa Sangye Dorje with Backpack	2003	6.14
+53	Adventurers / Orient Expedition	adv029	Sherpa Sangye Dorje with Backpack - Dark Gray Legs	?	6.14
 53	Adventurers / Orient Expedition	adv030	Maharaja Lallu	2003	4.4
 53	Adventurers / Orient Expedition	adv031	Scorpion Palace Guard	2003	4.37
 67	Town / Classic Town	oct044	Octan - Race Team, White Legs, Green Helmet, Trans-Light Blue Visor	1998	3.68
@@ -1278,7 +1278,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 473	Sports / Basketball	nba022	NBA Shaquille O'Neal, Los Angeles Lakers #34 (Home Uniform)	2003	3
 473	Sports / Basketball	nba023	NBA Tony Parker, San Antonio Spurs #9	2003	3.3
 473	Sports / Basketball	nba024	NBA Antoine Walker, Boston Celtics #8 (Green Uniform)	2003	3.54
-53	Adventurers / Orient Expedition	adv032	Ngan Pa (Yeti Hunter)	2003	4.14
+53	Adventurers / Orient Expedition	adv032	Ngan Pa (Yeti Hunter) - Light Gray Legs	?	4.14
 53	Adventurers / Orient Expedition	adv033	Dr. Kilroy / Dr. Charles Lightning - Dark Gray Open Jacket, Black Legs, White Pith Helmet	2003	3.54
 53	Adventurers / Orient Expedition	adv034	Pippin Reed / Miss Gail Storm - Green Closed Shirt, Tan Legs, White Pith Helmet	2003	3.54
 53	Adventurers / Orient Expedition	adv035	Dr. Kilroy / Dr. Charles Lightning - Green and Lime Vest, Green Legs, White Pith Helmet	2003	3.54
@@ -1860,16 +1860,16 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter / Chamber of Secrets	hp037	Draco Malfoy - Black Sweater	2003	3.36
 227	Harry Potter / Chamber of Secrets	hp038	Harry Potter - Sand Green Sweater Torso, Blue Legs	2003	3.72
 227	Harry Potter / Chamber of Secrets	hp039	Lucius Malfoy - Black Suit	2003	3.3
-167	DUPLO	4555pb008	Duplo Figure, Female, Yellow Legs, Red Sweater with Yellow V Stitching, Brown Hair, Turned Up Nose	1994	17.6
+167	DUPLO	4555pb008	Duplo Figure, Female, Yellow Legs, Red Sweater with Yellow V Stitching, Brown Hair, Turned Up Nose (75496)	1994	17.6
 167	DUPLO	4555pb032	Duplo Figure, Male, Blue Legs, Yellow Top with Tennis Racket and Ball Pattern, Brown Hair	1989	16
 167	DUPLO	4555pb009	Duplo Figure, Female, Light Green Legs, White Top with Light Green Overalls with Pink Buttons, Fabuland Brown Hair (Patty)	1993	16
 167	DUPLO	6453pb013	Duplo Figure, Child Type 2 Girl, White Legs, Medium Green Riding Jacket, Black Riding Hat	1996	12
 167	DUPLO / DUPLO, Town	6453pb006	Duplo Figure - Male, Child Boy, Blue Legs, Yellow Top with Overalls Pattern, Brown Hair, Nougat Head (75487)	1994	11.19
-167	DUPLO	6453pb018	Duplo Figure, Child Type 2 Boy, Blue Legs, White Sweater with Chain Pattern, Dark Orange Hair	1995	10
+167	DUPLO	6453pb018	Duplo Figure, Child Type 2 Boy, Blue Legs, White Sweater with Chain Pattern, Dark Orange Hair (75696)	1995	10
 167	DUPLO	4943pb003	Duplo Figure, Child Type 1 Boy, Yellow Legs, Blue Top with Red Suspenders, Red Hair, Freckles, White in Eyes	1986	11.6
 36	Technic	tech029	Technic Figure Black Legs, Light Gray Top with Police Pattern, Black Arms	1996	12
 167	DUPLO	4555pb015	Duplo Figure, Female, Blue Legs, Red Jacket, Light Gray Hair, Glasses	1996	16
-167	DUPLO	6453pb016	Duplo Figure, Child Type 2 Girl, Blue Legs, Yellow Top with Collar and 2 Buttons, Black Hair	1994	10
+167	DUPLO	6453pb016	Duplo Figure, Child Type 2 Girl, Blue Legs, Yellow Top with Collar and 2 Buttons, Black Hair (75494)	1994	10
 65	Star Wars / Star Wars Episode 2	sw0100	Anakin Skywalker (Padawan) - Yellow Head	2002	3.32
 390	Holiday & Event / Christmas	hol008	Santa, Red Legs with White Hips	2000	4.68
 34	Space / M:Tron	sp054	M:Tron	?	4
@@ -1890,7 +1890,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / Dino	4555pb035	Duplo Figure, Male, Brown Legs, Nougat Top (Caveman)	1997	16
 167	DUPLO / Dino	6453pb002	Duplo Figure, Child Type 2 Girl, Brown Legs, Animal Tooth / Claw Necklace, Black Hair (Caveman)	1997	11
 167	DUPLO / DUPLO, Town / Safari	4555pb039	Duplo Figure, Male, Light Gray Legs, Tan Top, Cowboy Hat	1994	17
-167	DUPLO	6453pb010	Duplo Figure, Child Type 2 Boy, Red Legs, Yellow Sweater with Red Collar	1994	11.1
+167	DUPLO	6453pb010	Duplo Figure, Child Type 2 Boy, Red Legs, Yellow Sweater with Red Collar (75271)	1994	11.1
 36	Technic	tech037a	Technic Figure White Legs, White Top with Red Arrow-Type Stripes Pattern, Blue Arms, Blue Helmet	1993	14
 36	Technic	tech019	Technic Figure Black Legs, White Top with Police Logo, Black Arms (4119034)	1999	12
 67	Town / Classic Town	trn112	Suit with 2 Pockets White - Light Gray Legs, White Cap	1999	3.37
@@ -2184,7 +2184,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO	4555pb107	Duplo Figure, Female, Blue Legs, Yellow Top with Radio in Pocket, Yellow Aviator Helmet, Eyelashes, Turned Down Nose (4100696)	1992	16.4
 516	4 Juniors / Jack Stone	js026	Jack Stone - Blue Jacket, Blue Pants (4169119)	2002	6
 102	Scala	23047a	Scala Doll (Olivia with Clothes)	2000	37.24
-102	Scala	23048	Scala Doll (Carla with Clothes)	2000	?
+102	Scala	23048	Scala Doll (Carla with Clothes)	2000	29.52
 102	Scala	23049	Scala Doll (Emma with Clothes, Pants)	2000	30.35
 167	DUPLO	6453pb026	Duplo Figure, Child Type 2 Girl, White Legs, White, Red and Yellow Flowers, Brown Hair	1998	11.38
 167	DUPLO / Action Wheelers	4555pb109	Duplo Figure, Robot Action Wheeler, Red Legs, Utility Belt, Chest Panel, One Red Eye and Silver Helmet	2000	17.6
@@ -2332,8 +2332,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO	4555pb124	Duplo Figure, Female, Blue Legs, Red Top with Necklace, Black Hair	1990	17.6
 167	DUPLO / DUPLO, Town / Traffic	4555pb125	Duplo Figure, Male, Yellow Legs, Red Top with Recycle Logo, Red Cap, turned down Nose	1990	16.37
 167	DUPLO	4555pb127	Duplo Figure, Female, Dark Pink Legs, Yellow Top with Dark Pink Buttons & Medium Green Collar, Black Hair	1994	17.6
-167	DUPLO / DUPLO, Town / Hospital	4555pb128	Duplo Figure, Doctor / Medic - Male, Adult Man, White Legs, White Top with Buttons and EMT Star of Life Pattern, Light Gray Hair, Nougat Head	1994	15.5
-167	DUPLO / DUPLO, Town / Hospital	4555pb129	Duplo Figure, Doctor / Medic - Male, Adult Man, Red Legs, White Top with Buttons and EMT Star of Life Pattern, Red Cap, Nougat Head	1994	16.51
+167	DUPLO / DUPLO, Town / Hospital	4555pb128	Duplo Figure, Doctor / Medic - Male, Adult Man, White Legs, White Top with Buttons and EMT Star of Life Pattern, Light Gray Hair, Nougat Head (75491)	1994	15.5
+167	DUPLO / DUPLO, Town / Hospital	4555pb129	Duplo Figure, Doctor / Medic - Male, Adult Man, Red Legs, White Top with Buttons and EMT Star of Life Pattern, Red Cap, Nougat Head (75492)	1994	16.51
 167	DUPLO	4555pb131	Duplo Figure, Male, Blue Legs, Black Top with Yellow Tie, Blue Arms, Black Hair, White in Eyes	1986	15.4
 167	DUPLO / DUPLO, Town / Harbor	4555pb126	Duplo Figure, Male, Blue Legs, Blue Top, Life Jacket, Red Cap, no White in Eyes pattern	1984	18.49
 167	DUPLO / DUPLO, Town	6453pb029	Duplo Figure - Female, Child Girl, Dark Pink Legs, Medium Green Top with Collar and Buttons Pattern, Light Yellow Hair, Nougat Head (75463)	1994	11
@@ -2341,7 +2341,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / Western	6453pb030	Duplo Figure, Child Type 2 Boy, Yellow Legs, Top with Geometric Pattern, Black Hair with Feather (Native American)	1998	12
 167	DUPLO / Western	6453pb031	Duplo Figure, Child Type 2 Girl, Red Legs, Red Top with Feather Necklace, Black Hair with Feather (Native American)	1998	12
 167	DUPLO / DUPLO, Town	6453pb032	Duplo Figure - Female, Child Baby, Medium Green Legs, Medium Green Top with Bib Pattern, White Bonnet, Nougat Head (75479)	1994	11.65
-167	DUPLO / DUPLO, Town / Zoo	4555pb133	Duplo Figure, Female Zoo, Green Legs, Yellow Top with Green Overalls, Dark Orange Hair (Zoo Keeper)	1995	17.63
+167	DUPLO / DUPLO, Town / Zoo	4555pb133	Duplo Figure, Female Zoo, Green Legs, Yellow Top with Green Overalls, Dark Orange Hair (Zoo Keeper) (75695)	1995	17.63
 67	Town / Classic Town / Coast Guard	env001	Coast Guard Pilot  - White Classic Helmet, Torso Sticker with 4 Buttons and Badge	1978	3.4
 48	Belville	belvmale10	Belville Male, Child Boy - Blue Shorts, White Top with Kite Pattern, Brown Hair (4114468)	1998	10
 48	Belville	belvfemale45	Belville Female - Pink Shorts, Black Boots Pattern, Pink Shirt with Stars, Black Hair (4106875)	1997	9
@@ -2404,7 +2404,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 9	Castle / Knights Kingdom II	cas265	Knights Kingdom II - Jayko without Armor, Printed Torso	2005	3.9
 65	Star Wars / Star Wars Episode 4/5/6	sw0033a	Rebel Pilot Y-wing (Jon 'Dutch' Vander, Gold Leader) - Yellow Head, Dark Bluish Gray Hips	2004	4.5
 36	Technic / Competition	tech035a	Technic Figure Cyber Person, Black Legs, Purple Armor, Mechanical Arms, Dark Gray Head, Cyborg Eyepiece	2000	16
-167	DUPLO / Basic Set	2327pb27	Duplo 2 x 2 x 2 Figure Brick, Black Base with Police Pattern, Yellow Head, Brown Male Hair	1994	8
+167	DUPLO / Basic Set	2327pb27	Duplo 2 x 2 x 2 Figure Brick, Black Base with Police Pattern, Yellow Head, Brown Male Hair (75419)	1994	8
 167	DUPLO / Basic Set	dupfig025	Duplo 2 x 2 x 2 Figure Brick Early, Male on Green Base, Brown Aviator Hat	1980	11
 65	Star Wars / Star Wars Episode 4/5/6	sw0004a	Darth Vader (Light Bluish Gray Head)	2004	4
 67	Town / World City	wc025	Airport - Pilot, Dark Blue Legs, Dark Blue Top, Black Hat	2004	3.4
@@ -2420,7 +2420,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 516	4 Juniors / Pirates	4j013	Pirates - Jolly Jack Crow (4219416)	2004	5.5
 516	4 Juniors / Pirates	4j014	Pirates - Captain Redbeard (4219382)	2004	5.25
 516	4 Juniors / Pirates	4j015	Pirates - Captain Kragg (4219931)	2004	6
-167	DUPLO / DUPLO, Town / Fire	4555pb151	Duplo Figure, Male Fireman, Black Legs, Black Top with Flame Logo, Red Fire Helmet, Moustache	2002	16.4
+167	DUPLO / DUPLO, Town / Fire	4555pb151	Duplo Figure, Male Fireman, Black Legs, Black Top with Flame Logo, Red Fire Helmet, Moustache (4171016)	2002	16.4
 48	Belville	belvfemale05a	Belville Female - Princess Paprika, Pale Orange Top, Skirt	2003	9.9
 48	Belville	belvfemale10a	Belville Female, Adult Woman (Safran) - Pink Pants, Pink Top with Dark Pink Inset Pattern, Black Hair, Skirt	2003	17.53
 167	DUPLO / Action Wheelers	4555pb153	Duplo Figure, Male Action Wheeler, Dark Gray Legs, Brown Top with Parachute Straps, Brown Helmet with Goggles	2003	16.4
@@ -2455,7 +2455,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Fire	cty0024	Fire - Reflective Stripes, Black Legs, White Fire Helmet, Breathing Neck Gear with Air Tanks	2005	4.5
 473	Sports / Basketball	nba044a	NBA Player, Number 4 with Red Non-Spring Legs	2003	3
 167	DUPLO / Western	31181pb05	Duplo Figure, Female Lady, Yellow Dress, Yellow Top, White Collar and Dark Pink Brooch	1998	19.52
-167	DUPLO / Castle	47394pb005	Duplo Figure Lego Ville, Male Castle, Dark Bluish Gray Legs, White Chest, Yellow Arms, Dark Bluish Gray Hands	2004	12.5
+167	DUPLO / Castle	47394pb005	Duplo Figure Lego Ville, Male Castle, Dark Bluish Gray Legs, White Chest, Yellow Arms, Dark Bluish Gray Hands (4265813)	2004	12.5
 167	DUPLO / Castle	47394pb006	Duplo Figure Lego Ville, Male Castle, Dark Bluish Gray Legs, Blue Chest, Dark Bluish Gray Arms, White Hands	2004	12
 167	DUPLO / DUPLO, Town / Fire	4555pb156	Duplo Figure, Male Fireman, Black Legs, Black Top with 6 Gold Buttons, White Fire Helmet, Moustache	1989	16.4
 167	DUPLO / DUPLO, Town / Harbor	4555pb157	Duplo Figure, Male, Blue Legs, Blue Top with White Anchor, White Sailor Hat	1988	15.66
@@ -2515,7 +2515,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / DUPLO, Town / Harbor	4555pb171	Duplo Figure, Male, Yellow Legs, Yellow Top, Life Jacket Red, Yellow Rain Hat	1997	18
 167	DUPLO	4555pb172	Duplo Figure, Male, Dark Gray Legs, Blue Top With 2 Buttons And Tie, Black Hair	1991	15.81
 67	Town / City / Police	cty0005	Police - City Suit with Blue Tie and Badge, Black Legs, White Hat, Brown Eyebrows, Thin Grin	2005	3.5
-167	DUPLO / Basic Set	2327pb30	Duplo 2 x 2 x 2 Figure Brick, Dog, Dark Orange Base with Green Scarf, Brown Hair with Ears, Yellow Dog Face	1994	10
+167	DUPLO / Basic Set	2327pb30	Duplo 2 x 2 x 2 Figure Brick, Dog, Dark Orange Base with Green Scarf, Brown Hair with Ears, Yellow Dog Face (75412)	1994	10
 167	DUPLO / Basic Set	2327pb31	Duplo 2 x 2 x 2 Figure Brick, Cat, Light Gray Base With Red Collar, Light Gray Hair With Ears, Yellow Face with Round Eyes and 2 Whiskers	1994	10
 167	DUPLO / Basic Set	2327pb32	Duplo 2 x 2 x 2 Figure Brick, Red Base With Number 1 Race Pattern, Yellow Head, Brown Male Hair	1992	10.26
 67	Town / City / Police	cty0006	Police - City Leather Jacket with Gold Badge, White Helmet, Trans-Brown Visor, Dark Blue Sunglasses	2005	3.68
@@ -2530,7 +2530,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0122	Imperial Stormtrooper - Printed Legs and Hips	2005	4.16
 48	Belville	belvfemale50a	Belville Female, Adult Woman (Snow Queen) - Bright Light Blue Top, Black Hair, White Shoes, Skirt, Shawl, Tiara	2005	18.85
 167	DUPLO / DUPLO, Town	6453pb042	Duplo Figure - Female, Child Girl, Red Legs, Yellow Top with Collar and Buttons Pattern, Black Hair, Nougat Head (75501)	1994	11
-167	DUPLO	6453pb043	Duplo Figure, Child Type 2 Boy, Blue Legs, Blue Top, Yellow Arms, Yellow Hair	1994	10
+167	DUPLO	6453pb043	Duplo Figure, Child Type 2 Boy, Blue Legs, Blue Top, Yellow Arms, Yellow Hair (75495)	1994	10
 277	LEGOLAND	old045	Statue - LEGOLAND with Top Hat	1980	3.01
 48	Belville	belvmale13	Belville Male, Adult Man (Prince / Groom) - Black Shorts, Blue Top with Vest and Sash Pattern, Very Light Orange Hair, Black Shoes (4129896)	2000	14.8
 65	Star Wars / Star Wars Episode 4/5/6	sw0123	Darth Vader (Imperial Inspection)	2005	4.1
@@ -2602,8 +2602,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 48	Belville	belvmale15	Belville Male - Brown Hair, White Shirt with Anchor Pattern, Blue Pants, White Shoes	1998	14.33
 48	Belville	belvfemale60	Belville Female - Pink Swimsuit with Square Neck, Dark Pink Bows in Corners, Long Yellow Hair Braided, Bare Feet	1998	8.84
 48	Belville	belvfemale61	Belville Female - White Swimsuit with Starfish / Sea Stars and Seashells Pattern, Black Hair, Pink Shoes	1998	14.6
-167	DUPLO / Castle	47394pb012	Duplo Figure Lego Ville, Male Castle, Black Legs, Red Chest, Bright Light Orange  Arms, Bright Light Orange Hands	2004	12
-167	DUPLO / Castle	47394pb013	Duplo Figure Lego Ville, Male Castle, Black Legs, Bright Light Orange Chest, Red Arms, Dark Bluish Gray Hands, Open Mouth	2004	12.41
+167	DUPLO / Castle	47394pb012	Duplo Figure Lego Ville, Male Castle, Black Legs, Red Chest, Bright Light Orange Arms, Bright Light Orange Hands (4252432)	2004	12
+167	DUPLO / Castle	47394pb013	Duplo Figure Lego Ville, Male Castle, Black Legs, Bright Light Orange Chest, Red Arms, Dark Bluish Gray Hands, Open Mouth (4265815)	2004	12.41
 48	Belville	belvfemale63	Belville Female - Girl with Brown Hair and Pink Shirt	2004	10.74
 48	Belville	belvfemale62	Belville Female - Girl with Black Ponytail and Orange Shirt	2004	10.3
 48	Belville	belvfemale62a	Belville Female - Girl, Black Ponytail, Orange Shirt, Tan Pants, Black Riding Helmet	2004	12.9
@@ -2677,16 +2677,16 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / DUPLO, Town / Fire	4555pb185	Duplo Figure, Male Fireman, Black Legs, Red Top with Two Buttons, Red Fire Helmet, Brown Head	1989	16.4
 167	DUPLO	4555pb186	Duplo Figure, Female, Blue Legs, White Top with Blue Sleeves and Scarf, Black Curly Hair in Bun, Brown Head (Undetermined Eyes)	1989	16
 167	DUPLO	4555pb179	Duplo Figure, Male, Blue Legs, Green Zippered Jacket, Black Curly Hair, Brown Head	2002	15.9
-167	DUPLO	4555pb190	Duplo Figure, Male, Black Legs, Green Top with Yellow Scarf, Brown Hair	1995	16
+167	DUPLO	4555pb190	Duplo Figure, Male, Black Legs, Green Top with Yellow Scarf, Brown Hair (75699)	1995	16
 167	DUPLO / DUPLO, Town / Safari	4555pb189	Duplo Figure, Female, Blue Legs, Tan Top with 2 Pockets, Tan Pith Helmet, Red Bandana, Eyelashes (4144057)	2001	17.4
 167	DUPLO / DUPLO, Town / Safari	4555pb188	Duplo Figure, Male, Dark Gray Legs, Tan Top Safari with Pockets, Cowboy Hat, Blue Bandana (4144058)	2001	18.79
 167	DUPLO	4555pb191	Duplo Figure, Female, Dark Pink Legs, Yellow Blouse with Green Necklace, Gray Hair	1995	16
-167	DUPLO	4555pb192	Duplo Figure, Female, Blue Legs, Red Jacket with Gold Buttons, Black Hair	1995	16
+167	DUPLO	4555pb192	Duplo Figure, Female, Blue Legs, Red Jacket with Gold Buttons, Black Hair (75698)	1995	16
 67	Town / Classic Town	oct037a	Octan - Blue Oil, Blue Legs, Life Jacket, Blue Helmet 4 Stars & Stripes, Trans-Light Blue Visor	1994	3.68
 67	Town / Classic Town / Race	oct036	Octan - Racing, Red Legs, Red Helmet 7 White Stars, Trans-Light Blue Visor, Life Jacket	1994	3.68
 65	Star Wars / Star Wars Episode 4/5/6	sw0151	IG-88	2006	1.88
 65	Star Wars / Star Wars Episode 4/5/6	sw0149	Dengar	2006	3.97
-65	Star Wars / Star Wars Episode 4/5/6	sw0150	Bespin Guard	2006	3.4
+65	Star Wars / Star Wars Episode 4/5/6	sw0150	Bespin Guard - Reddish Brown Head, Cavalry Kepi	2006	3.4
 227	Harry Potter / Goblet of Fire	hp064	Ron Weasley - Gryffindor Stripe Torso, Sleeping / Awake Face	2005	3.5
 227	Harry Potter / Goblet of Fire	hp065	Hermione Granger - Gryffindor Stripe Torso, Dark Bluish Gray Legs, Sleeping / Awake Face	2005	4
 227	Harry Potter / Goblet of Fire	hp066	Harry Potter - Tournament Sleeveless Shirt and Swim Trunks, Flippers	2005	3.5
@@ -2733,7 +2733,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / Basic Set	2327pb33	Duplo 2 x 2 x 2 Figure Brick, Black Base with Police Pattern, White Head with Moustache, Brown Male Hair	1991	8
 167	DUPLO / Basic Set	2327pb34	Duplo 2 x 2 x 2 Figure Brick, Dog, Black Base with Collar, Black Hair with Ears, White Dog Face	1991	10
 67	Town / Classic Town	pln099	Plain White Torso with White Arms, White Legs, Black Pigtails Hair	1978	3.26
-167	DUPLO	4555pb187	Duplo Figure, Female, Yellow Legs, Blue Sweater Unbuttoned with Red Buttons, Yellow Hair	1994	16
+167	DUPLO	4555pb187	Duplo Figure, Female, Yellow Legs, Blue Sweater Unbuttoned with Red Buttons, Yellow Hair (75468)	1994	16
 167	DUPLO / Basic Set	dupfig034	Duplo 2 x 2 x 2 Figure Brick Early, Female on Red Base, Black Hair, Eyelashes, Nose	1976	9
 124	Train	trn120	Orange Vest with Safety Stripes - Dark Bluish Gray Legs, Glasses, Black Hat	2005	3.4
 67	Town / City	par056	Horizontal Blue and Light Green Stripes, Light Bluish Gray Legs, Red Cap	2004	3.37
@@ -2785,13 +2785,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0002a	Boba Fett - Bluish Grays	2006	4.33
 65	Star Wars / Star Wars Episode 4/5/6	sw0032a	Rebel Pilot B-wing - Light Nougat Head, Light Bluish Gray Helmet, Trans-Brown Visor, Red Flight Suit	2006	3.68
 167	DUPLO / DUPLO, Town / Police	47394pb016	Duplo Figure Lego Ville, Male Police, Black Hat, Light Nougat Head and Hands, Brown Eyes, Black Shirt with Badge, Dark Blue Legs	2004	16
-167	DUPLO	47394pb015	Duplo Figure Lego Ville, Female, Medium Blue Legs, Magenta Top, Black Hair, Brown Eyes	2005	17.22
+167	DUPLO	47394pb015	Duplo Figure Lego Ville, Female, Medium Blue Legs, Magenta Top, Black Hair, Brown Eyes (4667658)	2005	17.22
 167	DUPLO / DUPLO, Town / Zoo	47394pb018	Duplo Figure Lego Ville, Male, Dark Tan Legs, Tan Top, Black Hair, Brown Eyes (Zoo Keeper)	2004	16
 167	DUPLO	47205pb001	Duplo Figure Lego Ville, Child Girl, Bright Green Legs, Light Blue Top with Red Flowers, Black Hair (4644712, 6233812)	1998	12
 167	DUPLO	47205pb002	Duplo Figure Lego Ville, Child Boy, Blue Legs, White Top with Blue Overalls, Worms in Pocket, Lime Cap (4251086, 6233829)	2004	11.6
 65	Star Wars / Star Wars Episode 4/5/6	sw0035b	Imperial TIE Fighter / Interceptor Pilot - Black Head	2006	4
 167	DUPLO	47394pb019	Duplo Figure Lego Ville, Male, Medium Blue Legs, Dark Red Top, Reddish Brown Hair, Blue Eyes	2005	15.76
-167	DUPLO / Castle	47394pb020	Duplo Figure Lego Ville, Male Castle, Dark Bluish Gray Legs, Blue Chest, White Arms, Dark Bluish Gray Hands	2004	12.49
+167	DUPLO / Castle	47394pb020	Duplo Figure Lego Ville, Male Castle, Dark Bluish Gray Legs, Blue Chest, White Arms, Dark Bluish Gray Hands (4265816)	2004	12.49
 48	Belville	belvmale17	Belville Male, Child Boy - Blue Swimsuit, Brown Hair (4111836)	1998	10
 48	Belville	belvfemale67	Belville Female, Adult Woman  - White Swimsuit with Dark Pink and Light Orange Stripes Pattern, Black Hair, White Shoes (4140031)	1998	16
 67	Town / Classic Town	twn019	Patron - Black Torso (without Torso Sticker), Black Legs, Black Cowboy Hat	1978	3.67
@@ -3089,8 +3089,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Classic Town	pln112	Plain Red Torso with Red Arms, Black Legs, Black Pigtails Hair	1978	3.26
 85	Homemaker	pln108s	Plain Blue Torso with Blue Arms, Blue Legs, Black Pigtails Hair, Yellow Vest with Baby Bib Pattern (Stickers)	1979	3.25
 67	Town / Classic Town	pln123	Plain White Torso with White Arms, Black Legs, Red Hat	1981	3.38
-167	DUPLO	4555pb212	Duplo Figure, Female, Black Legs, Red Blouse with White Collar, Gray Hair, Glasses	1994	18
-167	DUPLO	4555pb213	Duplo Figure, Male, Green Legs, Yellow Argyle Sweater, Gray Hair, Glasses	1994	18
+167	DUPLO	4555pb212	Duplo Figure, Female, Black Legs, Red Blouse with White Collar, Gray Hair, Glasses (75467)	1994	18
+167	DUPLO	4555pb213	Duplo Figure, Male, Green Legs, Yellow Argyle Sweater, Gray Hair, Glasses (75465)	1994	18
 167	DUPLO / DUPLO, Town / Fire	4555pb214	Duplo Figure, Male Fireman, Black Legs, Black Top with Fire Logo and Zipper, Red Aviator Helmet	1995	16.61
 67	Town / Classic Town / Fire	firec019s	Fire - Torso Sticker with 4 Buttons, Black Fire Helmet, Light Gray Air Tanks	1978	4
 124	Train	trn123	Train Conductor - Male, Dark Blue Suit with Train Logo, Dark Red Hat	2006	3
@@ -3323,10 +3323,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO	4555pb235	Duplo Figure, Female, Blue Legs, Blue Blouse, Black Hair	1986	16
 48	Belville	belvfemale75	Belville Female - Girl with Bright Pink Top with Fur and Bow Detail, Gold Horseshoe Brooch, Dark Pink Shoes and Long Black Hair	2007	10.2
 48	Belville	belvfemale76	Belville Female - Girl with Light Blue Top with Fur Detail, Silver Horseshoe Necklace, Dark Pink Shoes and Long Light Yellow Hair	2007	10
-167	DUPLO	4555pb239	Duplo Figure, Male, Light Gray Legs, Blue Argyle Sweater, Black Hair, Brown Head	1994	15.9
-167	DUPLO	4555pb241	Duplo Figure, Female, White Legs, Blue Top with White Buttons, Black Hair	1994	16
-167	DUPLO	4555pb242	Duplo Figure, Male, Dark Gray Legs, Light Green Top With 2 Buttons And Collar, Black Hair	1994	15.5
-167	DUPLO	6453pb052	Duplo Figure, Child Type 2 Baby, Yellow Legs, Light Green Top with White Bib with Dark Pink Lace, White Bonnet	1994	11.5
+167	DUPLO	4555pb239	Duplo Figure, Male, Light Gray Legs, Blue Argyle Sweater, Black Hair, Brown Head (75693)	1994	15.9
+167	DUPLO	4555pb241	Duplo Figure, Female, White Legs, Blue Top with White Buttons, Black Hair (75692)	1994	16
+167	DUPLO	4555pb242	Duplo Figure, Male, Dark Gray Legs, Light Green Top With 2 Buttons And Collar, Black Hair (75691)	1994	15.5
+167	DUPLO	6453pb052	Duplo Figure, Child Type 2 Baby, Yellow Legs, Light Green Top with White Bib with Dark Pink Lace, White Bonnet (75702)	1994	11.5
 67	Town / Classic Town	ovr026	Overalls Red with Pocket, Red Legs, Black Ponytail Hair	1993	3.59
 67	Town / Classic Town	zip028	Ambulance Driver, White Cap, White Jacket with Zipper, White Legs	1993	3.38
 67	Town / Classic Town	zip029	Jacket with Zipper - White, Light Gray Legs, Brown Male Hair	1993	3.29
@@ -3337,7 +3337,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Classic Town	twn039	Palm Tree - Red Legs, Black Female Hair	1998	3.33
 67	Town / Classic Town	jbl012	Jacket Blue - White Legs, Black Male Hair, Sunglasses	1998	3.29
 167	DUPLO	4555pb243	Duplo Figure, Male, Yellow Legs, Blue Top with White Collar, Black Hair	1995	16.09
-167	DUPLO / DUPLO, Town / Race	4555pb244	Duplo Figure, Male, White Legs, White Top with Black Zipper and Racer #2, Blue Aviator Helmet	1995	16.98
+167	DUPLO / DUPLO, Town / Race	4555pb244	Duplo Figure, Male, White Legs, White Top with Black Zipper and Racer #2, Blue Aviator Helmet (75716)	1995	16.98
 167	DUPLO	4555pb246	Duplo Figure, Female, Yellow Legs, Light Green Top with Purple Dots, Yellow Collar, Brown Hair	1995	16
 167	DUPLO / DUPLO, Town / Traffic	47394pb073	Duplo Figure Lego Ville, Male, Orange Legs, Nougat Hands, Orange Top with Recycle Logo, Black Hair, Blue Eyes	2005	15.5
 167	DUPLO / DUPLO, Town / Traffic	4555pb247	Duplo Figure - Female, Adult Woman, Red Legs, Yellow Top with Buttons and Wrench in Pocket Pattern, Black Hair, Dark Orange Head (75510)	1994	17.46
@@ -3360,7 +3360,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Classic Town / Police	cop052	Police - Suit with 4 Buttons, Red Legs, White Fire Helmet	1991	3.68
 67	Town / Classic Town	pln130	Plain Red Torso with Red Arms, Red Legs, Red Construction Helmet, Yellow Air Tanks	1991	3.8
 67	Town / Classic Town	pln131	Plain White Torso with White Arms, Red Legs, White Hat	1991	3.38
-167	DUPLO / DUPLO, Town / Fire	4555pb251	Duplo Figure, Male Fireman, Black Legs, Black Top with Flame Logo, Red Fire Helmet, no Moustache	2002	16.57
+167	DUPLO / DUPLO, Town / Fire	4555pb251	Duplo Figure, Male Fireman, Black Legs, Black Top with Flame Logo, Red Fire Helmet, no Moustache (4171017)	2002	16.57
 537	Quatro	qtr001	Quatro Boy with Lime Shirt and Blue Pants	2006	38
 167	DUPLO / DUPLO, Town / Fire	47394pb076	Duplo Figure Lego Ville, Male Fireman, Black Legs, Brown Hands, White Helmet, Brown Face	2004	15.95
 167	DUPLO / DUPLO, Town / Fire	47394pb077	Duplo Figure Lego Ville, Male Fireman, Black Legs, Nougat Hands, Silver Helmet, Blue Eyes (4558027)	2004	16.01
@@ -3863,7 +3863,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 976	LEGO Brand	gen023	LEGO 50 Year Anniversary Minifigure	2008	3.5
 65	Star Wars / Star Wars Episode 4/5/6	sw0199	Sandtrooper - Orange Pauldron (Solid), No Survival Backpack, No Dirt Stains, Helmet with Dotted Mouth Pattern and Solid Black Head	2007	4.23
 67	Town / City	gen024	Surfboard on Ocean - Reddish Brown Legs, Red Cap	2008	3.37
-167	DUPLO / Castle	47394pb099	Duplo Figure Lego Ville, Male Castle, Black Legs, Bright Light Orange Chest, Red Arms, Dark Bluish Gray Hands, Wide Crooked Grin	2008	12.3
+167	DUPLO / Castle	47394pb099	Duplo Figure Lego Ville, Male Castle, Black Legs, Bright Light Orange Chest, Red Arms, Dark Bluish Gray Hands, Wide Crooked Grin (4265815)	2008	12.3
 67	Town / Arctic	arc013	Arctic - Blue, Blue Hood, White Legs	2001	4.2
 67	Town / City	cty0112	Shirt with 2 Pockets No Collar, Reddish Brown Legs, Black Male Hair	2008	3.34
 67	Town / City	par063	Surfboard on Ocean - Blue Legs, Black Ponytail Hair	2008	3.57
@@ -3967,7 +3967,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Classic Town	ovr035	Overalls Blue with Pocket, Blue Legs, Blue Wizard / Witch Hat	2001	4.31
 65	Star Wars / Star Wars Episode 4/5/6	sw0188a	Imperial Stormtrooper - Light Nougat Head, Dotted Mouth Helmet	2006	4.11
 65	Star Wars / Star Wars Episode 4/5/6	sw0214	Darth Vader (Imperial Inspection - Eyebrows)	2006	4.1
-167	DUPLO / DUPLO, Town / Race	4555pb262	Duplo Figure, Male, White Legs, White Top with Black Zipper and Racer #1, Blue Aviator Helmet	1995	17
+167	DUPLO / DUPLO, Town / Race	4555pb262	Duplo Figure, Male, White Legs, White Top with Black Zipper and Racer #1, Blue Aviator Helmet (75715)	1995	17
 67	Town / City / Construction	cty0105	Construction Worker - Orange Zipper, Safety Stripes, Orange Arms, Blue Legs, Red Construction Helmet	2009	4
 9	Castle / Fantasy Era	cas407	Fantasy Era - Crown Knight Scale Mail with Chest Strap, Helmet with Neck Protector, Beard Around Mouth	2009	3.6
 179	Racers / Ferrari	rac042	F1 Ferrari - K. Raikkonen with Helmet Black Printed - without Torso Stickers	2009	4.4
@@ -4339,7 +4339,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0260	Zev Senesca	2010	3.56
 732	Toy Story	toy001	Green Army Man - Plain	2010	3.39
 732	Toy Story	toy002	Green Army Man - Medic with Backpack	2010	4.05
-732	Toy Story	toy003	Woody	2010	5.16
+732	Toy Story	toy003	Woody - Long Legs, Grin	2010	5.16
 732	Toy Story	toy004	Buzz Lightyear	2010	5.98
 65	Star Wars / Star Wars Episode 4/5/6	sw0261	Imperial Officer with Battle Armor (Captain / Commandant / Commander) - Dark Bluish Gray Legs, Smirk	2010	3.68
 65	Star Wars / Star Wars Episode 4/5/6	sw0262	AT-AT Driver - Red Imperial Logo, Bluish Grays, Black Head, Stormtrooper Type 2 Helmet	2010	4.28
@@ -4542,7 +4542,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 746	Collectible Minifigures / Series  1 Minifigures	col016	Cowboy, Series 1 (Minifigure Only without Stand and Accessories)	2010	3.58
 732	Toy Story / Toy Story 3	toy007	Twitch	2010	3.7
 732	Toy Story / Toy Story 3	toy010	Chunk	2010	5
-732	Toy Story / Toy Story 3	toy013	Woody - Dirt Stains	2010	5.2
+732	Toy Story / Toy Story 3	toy013	Woody - Long Legs, Dirt Stains	2010	5.2
 732	Toy Story / Toy Story 3	toy014	Alien - Dark Purple Splotch on Face	2010	3.9
 732	Toy Story / Toy Story 3	toy011	Buzz Lightyear - Dirt Stains	2010	6.1
 732	Toy Story / Toy Story 3	toy012	Jessie - Dirt Stains	2010	5.2
@@ -5290,7 +5290,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Other	sw0357	Han Solo, Young	2011	3
 1166	Games	85863pb071	Microfigure Lego Champion Female Pink Dress	2011	0.64
 1166	Games	85863pb072	Microfigure Lego Champion Female Yellow Warrior	2011	0.64
-447	School Supplies	pln169	Plain Red Torso with Red Arms, Blue Legs, Brown Eyebrows, Thin Grin	2011	3.8
+447	School Supplies	pln169	Plain Red Torso with Red Arms, Blue Legs, Brown Eyebrows, Thin Grin	2011	3.05
 473	Sports / Soccer	soc012s01	Soccer Player - German Goalie, German Flag Torso Sticker on Front, White Number Sticker on Back (1, 18 or 22, specify number in listing)	2000	3.41
 473	Sports / Soccer	soc031s01	Soccer Player - German Player 3, German Flag Torso Sticker on Front, Black Number Sticker on Back (specify number in listing)	2000	3.32
 473	Sports / Soccer	pln102s	Soccer Player - German National Player, German National Flag Colors Torso Sticker on Front, Black Number Sticker on Back (specify number in listing)	1998	3.28
@@ -5319,7 +5319,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 976	LEGO Brand / LEGO Brand Store	tls025	LEGO Brand Store Male, Construction Worker - Mission Viejo, CA	2011	3
 976	LEGO Brand / LEGO Brand Store	tls026	LEGO Brand Store Female, Orange Halter Top - Mission Viejo, CA	2011	3
 976	LEGO Brand / LEGO Brand Store	tls027	LEGO Brand Store Male, Classic Space Minifigure Floating - Mission Viejo	2011	3
-447	School Supplies	pln170	Plain Blue Torso with White Arms, White Legs, No Headgear, Crooked Smile	2011	2.97
+447	School Supplies	pln170	Plain Blue Torso with White Arms, White Legs, Crooked Smile	2011	2.97
 768	Super Heroes / Superman	sh0003	Superman - Blue Suit, Starched Fabric Cape, Frown / Lopsided Grin	2011	4
 390	Holiday & Event / Christmas	hol012	Santa, Red Legs with Black Hips, Freckles	2011	3.95
 67	Town	twn121a	Sweater Cropped with Bow, Heart Necklace, Red Skirt, Reddish Brown Female Hair over Shoulder, Eyelashes and Smile	2010	4.74
@@ -5406,7 +5406,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Batman II	sh0021	Two-Face's Henchman, Orange and Purple - Beard	2012	3.32
 768	Super Heroes / Batman II	sh0022	Two-Face's Henchman, Orange and Purple - Sunglasses	2012	3.32
 768	Super Heroes / Batman II	sh0023	Guard	2012	3.38
-447	School Supplies	pln171	Plain Red Torso with Red Arms, Dark Blue Legs, No Headgear, Black Eyebrows, Thin Grin	2011	3.8
+447	School Supplies	pln171	Plain Red Torso with Red Arms, Dark Blue Legs, Black Eyebrows, Thin Grin	2011	3.05
 67	Town / City / Police	cty0220a	Dark Bluish Gray Jacket with Magenta Scarf, Light Bluish Gray Legs, Dark Brown Hair Ponytail Long French Braided, Black Eyebrows	2011	3.78
 67	Town / City / Fire	cty0280	Fire - Pilot Female, Red Fire Suit with Carabiner, Dark Blue Legs with Map, White Helmet, Red Lips	2012	3.65
 67	Town / City / Fire	cty0278	Fire - Pilot Male, Red Fire Suit with Carabiner, Dark Blue Legs with Map, White Helmet, Orange Sunglasses	2012	3.65
@@ -6316,7 +6316,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Police	cty0393	Police - City Leather Jacket with Gold Badge and 'POLICE' on Back, White Helmet, Trans-Brown Visor, Crooked Smile	2013	3.75
 67	Town / City / Hospital	cty0394	Paramedic - Red Uniform, Male, Blue Short Bill Cap	2013	3.4
 65	Star Wars / Star Wars The Clone Wars	sw0495	Mandalorian Super Commando (Head with High Brow Pattern)	2013	4.11
-976	LEGO Brand / LEGO Brand Store	tls082	LEGO Brand Store Male, Overalls Farmer Green, Brown Moustache and Goatee, No Headgear (no specific back printing) {Glasgow}	2013	2.98
+976	LEGO Brand / LEGO Brand Store	tls082	LEGO Brand Store Male, Overalls Farmer Green, Brown Moustache and Goatee (no specific back printing) {Glasgow}	2013	2.98
 976	LEGO Brand / LEGO Brand Store	tls081	LEGO Brand Store Male, Black Suit, Light Bluish Gray Legs, Dark Bluish Gray Smooth Hair (no specific back printing) {Glasgow}	2013	3.43
 976	LEGO Brand / LEGO Brand Store	tls080	LEGO Brand Store Female, Shirt with Rainbow Stars, Long Wavy Hair (no specific back printing) {Glasgow}	2013	4.17
 167	DUPLO	47394pb160	Duplo Figure Lego Ville, Male, White Legs, White Race Top with Octan Logo, Yellow Cap with Headset	2012	15.4
@@ -6471,14 +6471,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / DUPLO, Train	47394pb165	Duplo Figure Lego Ville, Male, Dark Bluish Gray Legs, Blue Jacket with Tie, Red Hat, Smile with Teeth (Train Conductor)	2013	16.06
 771	Friends	frnd0053	Friends Stephanie - Bright Light Blue Layered Skirt, Medium Lavender Jacket, Scarf	2013	3.6
 771	Friends	frnd0054	Friends Lily - Red Skirt and Leggings, White Fair Isle Sweater with Moose	2013	3.6
-1166	Games / Super Heroes / Batman II	85863pb101	Microfigure Batman	2013	0.64
-1166	Games / Super Heroes / Batman II	85863pb102	Microfigure Batman Robin	2013	0.64
-1166	Games / Super Heroes / Batman II	85863pb103	Microfigure Batman Nightwing	2013	0.64
-1166	Games / Super Heroes / Batman II	85863pb104	Microfigure Batman Batgirl	2013	0.64
-1166	Games / Super Heroes / Batman II	85863pb105	Microfigure Batman Mr. Freeze	2013	0.64
-1166	Games / Super Heroes / Batman II	85863pb106	Microfigure Batman The Joker	2013	0.64
-1166	Games / Super Heroes / Batman II	85863pb107	Microfigure Batman Two-Face	2013	0.64
-1166	Games / Super Heroes / Batman II	85863pb108	Microfigure Batman Riddler	2013	0.64
+1166	Games / Super Heroes / Batman II	85863pb101	Microfigure Batman (6038404)	2013	0.64
+1166	Games / Super Heroes / Batman II	85863pb102	Microfigure Batman Robin (6038408)	2013	0.64
+1166	Games / Super Heroes / Batman II	85863pb103	Microfigure Batman Nightwing (6038406)	2013	0.64
+1166	Games / Super Heroes / Batman II	85863pb104	Microfigure Batman Batgirl (6038399)	2013	0.64
+1166	Games / Super Heroes / Batman II	85863pb105	Microfigure Batman Mr. Freeze (6038400)	2013	0.64
+1166	Games / Super Heroes / Batman II	85863pb106	Microfigure Batman The Joker (6038403)	2013	0.64
+1166	Games / Super Heroes / Batman II	85863pb107	Microfigure Batman Two-Face (6038402)	2013	0.64
+1166	Games / Super Heroes / Batman II	85863pb108	Microfigure Batman Riddler (6038401)	2013	0.64
 167	DUPLO / DUPLO, Train	47394pb166	Duplo Figure Lego Ville, Male, Medium Blue Legs, Orange Vest, Dark Green Plaid Shirt, Bright Green Arms, Red Cap	2013	15.5
 390	Holiday & Event	hol022	White Lace Blouse with Red Side Panels and Ruby Necklace, Red Legs, Reddish Brown Female Hair over Shoulder, Black Eyebrows	2013	3.84
 390	Holiday & Event	hol023	Green V-Neck Sweater, Red Legs, Black Short Tousled Hair, Smirk and Stubble Beard	2013	3.38
@@ -7361,7 +7361,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0092	Friends Luis - Dark Blue Trousers, Bright Light Orange Sweater	2015	3
 771	Friends	frnd0093	Friends Noah - Dark Blue Cropped Trousers, Red and White Striped Top	2015	2.77
 771	Friends	frnd0094	Friends Andrea - Lime Shorts, Bright Light Orange Top with Music Notes, Flower	2015	3.33
-65	Star Wars / Star Wars Episode 4/5/6	sw0611	Bespin Guard - Light Nougat Head, Detailed Gold Trim	2015	3.4
+65	Star Wars / Star Wars Episode 4/5/6	sw0611	Bespin Guard - Light Nougat Head, Detailed Gold Trim, Neutral Expression	2015	3.4
 65	Star Wars / Star Wars Episode 4/5/6	sw0612	Han Solo - White Shirt with Wrinkles on Front, Reddish Brown Legs, Dual Sided Head, Cheek Lines	2015	3.06
 771	Friends	frnd0095	Friends Emma - Sand Green Skirt, White Plaid Button Shirt, Bow	2015	3.2
 67	Town / City	twn217	Dark Bluish Gray Jacket with Magenta Scarf, Dark Blue Legs, Dark Orange Female Hair over Shoulder	2015	3.83
@@ -7383,7 +7383,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town	twn222	Lady in Red	2015	3.82
 67	Town	twn223	Detective Ace Brickman	2015	3.38
 65	Star Wars / Star Wars Episode 4/5/6	sw0619	T-16 Skyhopper Pilot - Light Bluish Gray Helmet	2015	3.6
-65	Star Wars / Star Wars Episode 4/5/6	sw0620	Tusken Raider - Head Spikes, Crossed Belts	2015	3.69
+65	Star Wars / Star Wars Episode 4/5/6	sw0620	Tusken Raider - Dark Tan Head with Spikes, Crossed Belts, Printed Legs	2015	3.69
 65	Star Wars / Star Wars Rebels	sw0621	Imperial TIE Fighter Pilot - Rebels	2015	4.3
 65	Star Wars / Star Wars Rebels	sw0623	Imperial Officer (Captain / Commandant / Commander) - Dark Tan Uniform	2015	3.3
 65	Star Wars / Star Wars Rebels	sw0622	The Grand Inquisitor - Dark Bluish Gray Uniform	2015	5
@@ -7498,7 +7498,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Avengers Age of Ultron	sh0177	Captain America - Dark Blue Suit with Reddish Brown Belt and Harness, Reddish Brown Hands, Mask	2015	3
 768	Super Heroes / Avengers Age of Ultron	sh0178	Vision - Sand Green, Dark Azure Spot on Forehead	2015	3.25
 768	Super Heroes / Avengers Age of Ultron	sh0176	Ultimate Ultron - Foot Repulsors	2015	4.6
-768	Super Heroes / Avengers Age of Ultron	sh0180	Quicksilver	2015	3.6
+768	Super Heroes / Avengers Age of Ultron	sh0180	Quicksilver - Dark Azure Shirt	2015	3.6
 768	Super Heroes / Avengers Age of Ultron	sh0179	Baron Von Strucker	2015	3.05
 768	Super Heroes / Avengers Age of Ultron	sh0172	Hawkeye - Black and Dark Red Suit, Reddish Brown Spiked Hair	2015	3.6
 768	Super Heroes / Avengers	sh0183	Maria Hill	2015	3.6
@@ -7530,10 +7530,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 61	Pirates / Pirates III	pi164	Pirate Cook	2015	3.4
 61	Pirates / Pirates III	pi165	Pirate Princess	2015	4.2
 768	Super Heroes / Avengers	sh0181	Winter Soldier - Dark Brown Hair, Light Bluish Gray Hand	2015	3.59
-768	Super Heroes / Avengers	90398pb005	Nick Fury Statuette / Trophy	2015	0.2
-768	Super Heroes / Avengers	90398pb003	Hawkeye Statuette / Trophy	2015	0.19
-768	Super Heroes / Avengers	90398pb006	SHIELD Agent Statuette / Trophy	2015	0.19
-768	Super Heroes / Avengers	90398pb002	Captain America Statuette / Trophy	2015	0.2
+768	Super Heroes / Avengers	90398pb005	Nick Fury Statuette / Trophy (6107896)	2015	0.2
+768	Super Heroes / Avengers	90398pb003	Hawkeye Statuette / Trophy (6115149)	2015	0.19
+768	Super Heroes / Avengers	90398pb006	SHIELD Agent Statuette / Trophy (6107897)	2015	0.19
+768	Super Heroes / Avengers	90398pb002	Captain America Statuette / Trophy (6115170)	2015	0.2
 768	Super Heroes / Avengers	90398pb004c01	Iron Man Statuette / Trophy	2015	0.32
 167	DUPLO	47394pb183	Duplo Figure Lego Ville, Male, Red Legs, Race Top with Zipper and Octan Logo, White Helmet	2015	15.1
 842	SPEED CHAMPIONS	sc001	LaFerrari Driver	2015	3.7
@@ -8066,7 +8066,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars	sw0707	Yoda - Olive Green, Open Robe with Large Creases	2016	3
 65	Star Wars / Star Wars Episode 4/5/6	sw0708	Hoth Rebel Trooper White Uniform (Frown)	2016	4
 65	Star Wars / Star Wars Episode 4/5/6	sw0709	Han Solo - Parka, Dark Brown Coat (Hoth)	2016	4
-65	Star Wars / Star Wars Episode 4/5/6	sw0710	Ugnaught (Dark Blue Overalls)	2016	3
+65	Star Wars / Star Wars Episode 4/5/6	sw0710	Ugnaught - Dark Blue Overalls and Short Legs	2016	3
 65	Star Wars / Star Wars Episode 4/5/6	sw0711	Boba Fett - Pauldron Cloth with Dark Orange Stripe Pattern	2016	4
 65	Star Wars / Star Wars Episode 4/5/6	sw0712	Imperial Probe Droid - Dark Bluish Gray Sensors, Reddish Brown Round Plate Inside	2016	9
 65	Star Wars / Star Wars Rebels	sw0713	Wookiee	2016	5
@@ -9580,7 +9580,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 920	The LEGO NINJAGO Movie	njo0362	Shark Army Great White - Scuba Suit	2017	4.17
 920	The LEGO NINJAGO Movie	njo0361	Shark Army Great White - Scuba Suit, Air Tanks	2017	4.72
 920	The LEGO NINJAGO Movie	njo0363	Cole - The LEGO Ninjago Movie	2017	3.58
-65	Star Wars / Star Wars Episode 8	sw0857	Rose Tico	2017	3.7
+65	Star Wars / Star Wars Episode 8	sw0857	Rose Tico - Dark Tan Outfit, Hair	2017	3.7
 65	Star Wars / Star Wars Episode 8	sw0858	Finn - Worn Jacket	2017	3.5
 65	Star Wars / Star Wars Episode 8	sw0859	Kylo Ren (Cape)	2017	3.8
 65	Star Wars / Star Wars Episode 8	sw0860	First Order TIE Pilot, Two Red Stripes on Helmet	2017	4.2
@@ -9847,7 +9847,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 878	Disney / Disney Princess / The Little Mermaid	dp049	Prince Eric - Uniform with Yellow Epaulettes	2018	3.3
 67	Town / City / Race	cty0856	Monster Truck Driver	2018	4
 65	Star Wars / Star Wars Episode 8	sw0900	Finn - First Order Officer Disguise	2018	3.6
-65	Star Wars / Star Wars Episode 8	sw0901	Rose Tico - First Order Officer Disguise	2018	3.8
+65	Star Wars / Star Wars Episode 8	sw0901	Rose Tico - Dark Blue First Order Officer Disguise, Hat with Hair	2018	3.8
 67	Town / City / Hospital	cty0857	Skier	2018	3.34
 67	Town / City / Hospital	cty0858	Helicopter Pilot	2018	3.67
 67	Town / City / Hospital	cty0859	Helicopter Medic, Female	2018	3.81
@@ -10586,7 +10586,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 34	Space / Classic Space	sp053b	Classic Space - Yellow with Light Gray Jet Pack and Trans Red Cones	1986	4.7
 34	Space / Classic Space	sp059a	Classic Space - Black with Light Gray Jet Pack	1986	4.7
 965	Unikitty!	uni23	Puppycorn - Smile	2018	5.13
-65	Star Wars / Star Wars Episode 4/5/6	sw0970	Ugnaught	2018	3.1
+65	Star Wars / Star Wars Episode 4/5/6	sw0970	Ugnaught - Light Bluish Gray Shirt, Black Short Legs	2018	3.1
 65	Star Wars / Star Wars Episode 4/5/6	sw0971	Luke Skywalker (Cloud City, Dark Tan Shirt)	2018	3.5
 65	Star Wars / Star Wars Episode 4/5/6	sw0972	Princess Leia - Bespin Outfit	2018	3.9
 65	Star Wars / Star Wars Episode 4/5/6	sw0973	Lando Calrissian, Cloud City Outfit (Coiled Texture Hair)	2018	3.7
@@ -11164,7 +11164,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 971	The LEGO Movie 2	tlm189	Eight	2019	8.5
 971	The LEGO Movie 2	tlm190	Unikitty - Calm-Down Kitty	2019	5.3
 971	The LEGO Movie 2	tlm185	Benny - Big Smile / Cheerful	2019	3.9
-732	Toy Story / Toy Story 4	toy016	Woody - Normal Legs, Minifigure Head, Open Mouth Smile	2019	4.13
+732	Toy Story / Toy Story 4	toy016	Woody - Normal Legs, Dark Orange Boots, Open Mouth Smile / Lopsided Grin	2019	4.13
 732	Toy Story / Toy Story 4	toy017	Alien - Magenta Collar	2019	3.95
 732	Toy Story / Toy Story 4	toy018	Buzz Lightyear - Minifigure Head	2019	6.16
 167	DUPLO	47394pb015a	Duplo Figure Lego Ville, Female, Medium Blue Legs, Magenta Top, White Zipper, Black Hair, Brown Eyes	?	17.22
@@ -11265,7 +11265,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 971	The LEGO Movie 2	tlm196	Stubble Trouble Emmet	2019	3.4
 971	The LEGO Movie 2	tlm197	Rex Dangervest - Crooked Smile / Angry	2019	3.8
 67	Town / City / Fire	cty1012	Fire Chief, Female - Freya McCloud	2019	4.43
-732	Toy Story / Toy Story 4	toy025	Woody - Normal Legs, Minifigure Head, Smile with Teeth / Scared	2019	4.12
+732	Toy Story / Toy Story 4	toy025	Woody - Normal Legs, Dark Orange Boots, Open Mouth Smile / Scared	2019	4.12
 67	Town / City / Recreation	cty1026	Ice Cream Vendor - Female, White Shirt with Dark Turquoise Stripes, Dark Pink Legs, White Cap with Bright Light Yellow Ponytail Hair, Sunglasses	2019	3.9
 67	Town / City / Recreation	cty1016	Stilt Walker	2019	6.6
 67	Town / City / Recreation	cty1013	Face Painter	2019	4.1
@@ -11415,9 +11415,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Batman II	sh0604	Zebra Batman (Comic-Con 2019 Exclusive)	2019	?
 65	Star Wars / Star Wars Episode 4/5/6	sw1069	Obi-Wan Kenobi - Old, 20th Anniversary Torso	2019	3.4
 1043	Stranger Things	st009	Barb (Comic-Con 2019 Exclusive)	2019	?
-1197	BrickLink Designer Program	adp001	Löwenstein Queen / Princess	2019	4.9
-1197	BrickLink Designer Program	adp002	Löwenstein Knight / Man-at-Arms	2019	3.6
-1197	BrickLink Designer Program	adp003	Löwenstein Archer / Boy	2019	3.39
+1197	BrickLink Designer Program	bdp001	Löwenstein Queen / Princess	2019	4.9
+1197	BrickLink Designer Program	bdp002	Löwenstein Knight / Man-at-Arms	2019	3.6
+1197	BrickLink Designer Program	bdp003	Löwenstein Archer / Boy	2019	3.39
 273	BIONICLE	56478	Piraka Thok (4495584)	2006	6
 273	BIONICLE	56486	Inika Toa Kongu (4495582)	2006	7.26
 759	NINJAGO / Secrets of the Forbidden Spinjitzu	njo0549	Blizzard Samurai - Ninja Helmet with Trans-Light Blue Horns	2019	3.9
@@ -11525,8 +11525,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 878	Disney	dis045	Chip - Dark Blue Suit	2019	4.04
 878	Disney	dis046	Dale - Dark Blue Vest	2019	4.05
 771	Friends	frnd0339	Friends Zobo the Robot - Roller Skate and Trans-Yellow Round Tile	2018	1.9
-1197	BrickLink Designer Program	adp004	Bikes! Man	2019	3.55
-1197	BrickLink Designer Program	adp005	Bikes! Woman	2019	3.84
+1197	BrickLink Designer Program	bdp004	Bikes! Man	2019	3.55
+1197	BrickLink Designer Program	bdp005	Bikes! Woman	2019	3.84
 67	Town / City / Traffic	cty1072	Mechanic Female, Medium Blue Shirt and Blue Overalls, Dark Orange Ponytail	2019	3
 67	Town / City / Traffic	cty1073	Sports Car Driver, Light Bluish Gray Hoodie with Dark Red Shirt, Tan Hair Swept Back Tousled	2019	3
 67	Town / City / Traffic	cty1074	Harl Hubbs - Utility Belt	2019	3
@@ -11598,9 +11598,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1042	Hidden Side	hs026	Joey	2019	3.4
 273	BIONICLE / Visorak	51991e2	Bionicle Mini - Visorak Suukorak (Glow in the Dark Left Side) (4282757)	2005	1.27
 273	BIONICLE / Visorak	51991e1	Bionicle Mini - Visorak Suukorak (Glow in the Dark Right Side) (4282757)	2005	1.33
-1197	BrickLink Designer Program	adp006	Carnival Boy	2019	3.01
-1197	BrickLink Designer Program	adp007	Carnival Man	2019	3.54
-1197	BrickLink Designer Program	adp008	Carnival Woman	2019	3.86
+1197	BrickLink Designer Program	bdp006	Carnival Boy	2019	3.01
+1197	BrickLink Designer Program	bdp007	Carnival Man	2019	3.54
+1197	BrickLink Designer Program	bdp008	Carnival Woman	2019	3.86
 34	Space / Classic Space	sp052a	Classic Space - White with Blue Jet Pack	1985	4.91
 65	Star Wars / Star Wars Episode 4/5/6	sw1046	Obi-Wan Kenobi - Old, Dark Brown Hood and Starched Fabric Cape	2019	4
 65	Star Wars / Star Wars Episode 9	sw1047	Temmin 'Snap' Wexley - Medium Nougat Lines Under Eyes and Chin	2019	3.8
@@ -11666,7 +11666,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Police	cty1091	Mountain Police - Officer Male, Orange Sunglasses	2015	3.39
 65	Star Wars / Star Wars Episode 9	sw1072	Supreme Leader Kylo Ren	2020	3.8
 65	Star Wars / Star Wars Episode 4/5/6	sw1073	T-16 Skyhopper Pilot - Detailed Belts	2020	3.6
-65	Star Wars / Star Wars Episode 4/5/6	sw1074	Tusken Raider - Head Spikes, Diagonal Belt	2020	3.6
+65	Star Wars / Star Wars Episode 4/5/6	sw1074	Tusken Raider - Dark Tan Head with Spikes, Diagonal Belt, Printed Legs	2020	3.6
 65	Star Wars / Star Wars Episode 9	sw1075	Sith Jet Trooper	2020	4.5
 65	Star Wars / Star Wars Episode 9	sw1076	Sith Fleet Officer	2020	3.4
 65	Star Wars / Star Wars Episode 4/5/6	sw1081	Wedge Antilles - Printed Legs, Three Bullets	2020	3.5
@@ -13985,8 +13985,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Construction	cty1404	Construction Worker - Male, Orange Safety Jacket, Reflective Stripe, Sand Blue Hoodie, Bright Light Blue Legs, White Construction Helmet, Safety Glasses	2022	3.36
 67	Town / City / Construction	cty1405	Construction Worker - Female, Orange Safety Vest, Reflective Stripes, Reddish Brown Shirt, Sand Blue Legs, White Construction Helmet with Dark Brown Ponytail Hair, Glasses	2022	3.7
 67	Town / City / Construction	cty1406	Mechanic - Male, Blue Overalls over Medium Blue Shirt, Blue Legs, Red Construction Helmet, Beard, Back Print	2022	3.4
-1197	BrickLink Designer Program	adp009	Eight Studs Woman	2019	3.66
-1197	BrickLink Designer Program	adp010	Eight Studs Man	2019	3.56
+1197	BrickLink Designer Program	bdp009	Eight Studs Woman	2019	3.66
+1197	BrickLink Designer Program	bdp010	Eight Studs Man	2019	3.56
 65	Star Wars / Star Wars Other	sw1198	Luke Skywalker (Tatooine, White Legs, Blue Milk on Mouth)	2022	3.6
 65	Star Wars / Star Wars The Book of Boba Fett	sw1210	Peli Motto	2022	4
 65	Star Wars / Star Wars The Book of Boba Fett	sw1211	BD-72 (6331232)	2022	0.55
@@ -14028,12 +14028,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1100	Monkie Kid	mk079	Chang'e	2022	4.8
 1100	Monkie Kid	mk080	Pigsy - Spacesuit	2022	4.9
 1100	Monkie Kid	mk081	Lunar Rabbit Robot	2022	4
-1197	BrickLink Designer Program	adp011	Castle in the Forest Black Falcon Knight	2021	4.75
-1197	BrickLink Designer Program	adp012	Castle in the Forest Black Falcon Guard	2021	3.69
-1197	BrickLink Designer Program	adp013	Castle in the Forest Archer - Male	2021	3.91
-1197	BrickLink Designer Program	adp014	Castle in the Forest Archer - Female	2021	4
-1197	BrickLink Designer Program	adp015	Castle in the Forest Farmer	2021	4.11
-1197	BrickLink Designer Program	adp016	Castle in the Forest Smuggler	2021	3.92
+1197	BrickLink Designer Program	bdp011	Castle in the Forest Black Falcon Knight	2021	4.75
+1197	BrickLink Designer Program	bdp012	Castle in the Forest Black Falcon Guard	2021	3.69
+1197	BrickLink Designer Program	bdp013	Castle in the Forest Archer - Male	2021	3.91
+1197	BrickLink Designer Program	bdp014	Castle in the Forest Archer - Female	2021	4
+1197	BrickLink Designer Program	bdp015	Castle in the Forest Farmer	2021	4.11
+1197	BrickLink Designer Program	bdp016	Castle in the Forest Smuggler	2021	3.92
 167	DUPLO / DUPLO, Town	47205pb091	Duplo Figure Lego Ville, Child Girl, Bright Light Blue Legs, White Top with Stripes and Heart, Reddish Brown Hair, Coral Cap (6376729)	2022	12
 842	SPEED CHAMPIONS	sc095	Lamborghini Countach Driver	2022	3.66
 1100	Monkie Kid	mk082	Monkie Kid - Spacesuit	2022	3.7
@@ -14238,12 +14238,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / The Infinity Saga	sh0821	Whiplash	2022	3.83
 227	Harry Potter	hp350	Albus Dumbledore - Magenta Robe, Plain Legs	2022	4.2
 868	NEXO KNIGHTS	nex152	Aaron Fox - Trans-Neon Orange Visor, Pearl Gold Armor, Clip on Back	2018	5.12
-1197	BrickLink Designer Program	adp017	Skyline Express Woman - Medium Lavender Jacket, Medium Azure Legs, Dark Tan Cap	2019	3.4
-1197	BrickLink Designer Program	adp018	Skyline Express Rider - Female, Bright Pink Striped Shirt with Cat Head, White Legs, Bright Light Yellow Hair	2019	3.84
-1197	BrickLink Designer Program	adp019	Skyline Express Woman - Bright Pink Top, Reddish Brown Legs, Dark Orange Hair	2019	3.9
-1197	BrickLink Designer Program	adp020	Skyline Express Man - Dark Purple Jacket, Olive Green Legs, Reddish Brown Hair	2019	3.47
-1197	BrickLink Designer Program	adp021	Skyline Express Man - Orange Shirt with Suspenders, Pearl Dark Gray Legs, Dark Green Cap	2019	3.4
-1197	BrickLink Designer Program	adp022	Skyline Express Man - Orange Jacket with Hood over Light Blue Sweater, Dark Blue Legs, Blue Hat	2019	3.4
+1197	BrickLink Designer Program	bdp017	Skyline Express Woman - Medium Lavender Jacket, Medium Azure Legs, Dark Tan Cap	2019	3.4
+1197	BrickLink Designer Program	bdp018	Skyline Express Rider - Female, Bright Pink Striped Shirt with Cat Head, White Legs, Bright Light Yellow Hair	2019	3.84
+1197	BrickLink Designer Program	bdp019	Skyline Express Woman - Bright Pink Top, Reddish Brown Legs, Dark Orange Hair	2019	3.9
+1197	BrickLink Designer Program	bdp020	Skyline Express Man - Dark Purple Jacket, Olive Green Legs, Reddish Brown Hair	2019	3.47
+1197	BrickLink Designer Program	bdp021	Skyline Express Man - Orange Shirt with Suspenders, Pearl Dark Gray Legs, Dark Green Cap	2019	3.4
+1197	BrickLink Designer Program	bdp022	Skyline Express Man - Orange Jacket with Hood over Light Blue Sweater, Dark Blue Legs, Blue Hat	2019	3.4
 768	Super Heroes / Avengers	sh0818	Captain America - Dark Blue Suit with Reddish Brown Belt, Red Hands, Helmet, Jet Pack	2022	5
 768	Super Heroes / Avengers	sh0820	War Machine - Rifle and Stud Shooter	2022	6.53
 759	NINJAGO / Crystalized	njo0761	General Vangelis - Printed Head	2022	6.25
@@ -14253,8 +14253,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0519	Friends William - White Spacesuit	2022	2.37
 771	Friends	frnd0520	Friends Dr. Vidya	2022	3.33
 771	Friends	frnd0521	Friends Julian - Blue Space Training Uniform	2022	2.75
-1197	BrickLink Designer Program	adp023	Science Tower Man	2019	3.45
-1197	BrickLink Designer Program	adp024	Science Tower Woman	2019	4.24
+1197	BrickLink Designer Program	bdp023	Science Tower Man	2019	3.45
+1197	BrickLink Designer Program	bdp024	Science Tower Woman	2019	4.24
 473	Sports / Gravity Games	gg011s	McDonald's Sports Skateboarder with Stickers	2004	31.28
 817	LEGO Ideas (CUUSOO)	idea105	Cosmic Cardboard Adventurer - 918 Classic Space Torso, Dark Tan Motorcycle Helmet	2022	3.12
 67	Town	twn426	Boy - Dark Blue Banana Shirt, Red Short Legs, Crooked Dark Blue Cap	2022	3
@@ -14276,13 +14276,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter	hp353	Argus Filch - Bald on Top, Reddish Brown Jacket, Printed Legs	2022	3.5
 227	Harry Potter	hp354	Albus Dumbledore - Dark Red Robe, White Hair, Plain Arms	2022	4.2
 227	Harry Potter	hp355	Madam Irma Pince	2022	4.51
-1197	BrickLink Designer Program	adp025	The LEGO Story Ole Kirk Kristiansen	2019	3.45
+1197	BrickLink Designer Program	bdp025	The LEGO Story Ole Kirk Kristiansen	2019	3.45
 227	Harry Potter / Deathly Hallows	hp356	Professor Dolores Umbridge - Dark Pink Jacket with Cat Scarf	2022	3.5
 227	Harry Potter / Deathly Hallows	hp357	Corban Yaxley	2022	3.55
-1197	BrickLink Designer Program	adp026	The LEGO Story Plastic Molding Engineer - Vintage	2019	3.51
-1197	BrickLink Designer Program	adp028	The LEGO Story Plastic Molding Engineer - Modern	2019	3.67
+1197	BrickLink Designer Program	bdp026	The LEGO Story Plastic Molding Engineer - Vintage	2019	3.51
+1197	BrickLink Designer Program	bdp028	The LEGO Story Plastic Molding Engineer - Modern	2019	3.67
 227	Harry Potter / Deathly Hallows	hp358	Pius Thicknesse	2022	3.9
-1197	BrickLink Designer Program	adp027	The LEGO Story Designer	2019	3.86
+1197	BrickLink Designer Program	bdp027	The LEGO Story Designer	2019	3.86
 227	Harry Potter / Deathly Hallows	hp359	Arthur Weasley - Light Bluish Gray Suit	2022	3.4
 227	Harry Potter / Deathly Hallows	hp360	Albert Runcorn (Harry Potter Transformation)	2022	3.39
 227	Harry Potter / Deathly Hallows	hp361	Mafalda Hopkirk (Hermione Granger Transformation)	2022	3.66
@@ -14382,8 +14382,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Recreation	cty1460	Space Ride Attendant	2022	3.54
 67	Town / City / Recreation	cty1461	Space Ride Rider	2022	3.24
 67	Town / City / Recreation	cty1462	Space Ride Patron	2022	3.68
-1197	BrickLink Designer Program	adp029	Imagine It! Build It! Woman	2019	3.68
-1197	BrickLink Designer Program	adp030	Imagine It! Build It! Man	2019	3.36
+1197	BrickLink Designer Program	bdp029	Imagine It! Build It! Woman	2019	3.68
+1197	BrickLink Designer Program	bdp030	Imagine It! Build It! Man	2019	3.36
 768	Super Heroes / The Infinity Saga	sh0832	Karl Mordo - Sand Green Suit	2022	4.01
 768	Super Heroes / The Infinity Saga	sh0831	The Scarlet Witch (Wanda Maximoff) - Plain Legs, Medium Nougat Hair with Tiara	2022	4.35
 768	Super Heroes / The Infinity Saga	sh0827	Ebony Maw - Light Bluish Gray Head	2022	3.02
@@ -14455,11 +14455,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0549	Friends Mia - Lime Plaid Shirt, Orange Cropped Trousers, Dark Purple Sandals, Sunglasses	2022	3.1
 771	Friends	frnd0550	Friends Roxy - White Collared Shirt, Yellow Skirt, Silver Shoes	2022	2.77
 771	Friends	frnd0551	Friends Andrea - Dark Turquoise Jacket over White Top with Crown, Dark Blue Skirt with Magenta Boots, Dark Turquoise Head Wrap	2022	3.76
-1197	BrickLink Designer Program	adp031	Male, Tan Shirt, Sand Blue Legs, Black Ponytail Hair	2022	3.5
-1197	BrickLink Designer Program	adp032	Female, Tan Shirt, Sand Blue Legs, Reddish Brown Ponytail Hair	2022	3.65
-1197	BrickLink Designer Program	adp033	Chef - White Torso with 8 Buttons, No Wrinkles Front or Back, Black Legs, White Chef Toque	2022	3.77
-1197	BrickLink Designer Program	adp034	Child - Boy, Dark Green Hoodie, Blue Short Legs, Black Tousled Hair, Freckles	2022	3.21
-1197	BrickLink Designer Program	adp035	Female, Bright Pink Top, Dark Blue Legs, Dark Brown Hair	2022	3.85
+1197	BrickLink Designer Program	bdp031	Male, Tan Shirt, Sand Blue Legs, Black Ponytail Hair	2022	3.5
+1197	BrickLink Designer Program	bdp032	Female, Tan Shirt, Sand Blue Legs, Reddish Brown Ponytail Hair	2022	3.65
+1197	BrickLink Designer Program	bdp033	Chef - White Torso with 8 Buttons, No Wrinkles Front or Back, Black Legs, White Chef Toque	2022	3.77
+1197	BrickLink Designer Program	bdp034	Child - Boy, Dark Green Hoodie, Blue Short Legs, Black Tousled Hair, Freckles	2022	3.21
+1197	BrickLink Designer Program	bdp035	Female, Bright Pink Top, Dark Blue Legs, Dark Brown Hair	2022	3.85
 801	Minecraft	min120	Villager (Farmer) - Savannah Biome Outfit	2022	3.47
 801	Minecraft	min121	Villager (Blacksmith) - Savannah Biome Outfit	2022	3.47
 801	Minecraft	min122	Llama Herder	2022	3.46
@@ -14469,19 +14469,19 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Paradisa	par031b	Surfboard on Ocean - White Legs, Blue Cap, Reissue Torso	2004	3.32
 976	LEGO Brand / LEGO Brand Store	tls111	LEGO Store Customer - Female, Bright Light Blue Jacket over White Shirt with Coral Flowers, Coral Legs, Black Ponytail	2022	3.63
 976	LEGO Brand / LEGO Brand Store	tls112	Child - Boy, Dark Green Hoodie, Dark Tan Short Legs, Dark Orange Hair, Freckles	2022	3
-1197	BrickLink Designer Program	adp036	Female, Medium Lavender Jacket, White Legs, Lavender Mid-Length Hair	2022	3.85
-1197	BrickLink Designer Program	adp037	Female, Dark Pink Striped Top, Dark Purple Legs, Bright Light Yellow Ponytail	2022	3.6
-1197	BrickLink Designer Program	adp038	Photographer - Male, Dark Green Hoodie, Black Legs, Dark Green Cap	2022	3.4
-1197	BrickLink Designer Program	adp039	Fisherman, Dark Azure Jacket, Dark Blue Legs, Tan Fedora  Hat	2022	3.7
-1197	BrickLink Designer Program	adp040	Receptionist, Male, Black Vest with Blue Striped Tie, Black Legs, Light Bluish Gray Hair	2022	3.45
-1197	BrickLink Designer Program	adp041	Girl, Bright Pink Top, Reddish Brown Legs, Reddish Brown Long Hair	2022	3.6
-1197	BrickLink Designer Program	adp042	Male, White Classic Space Shirt, Dark Orange Legs, Dark Orange Hair	2022	3.6
-1197	BrickLink Designer Program	adp043	Gondolier, Red and White Striped Shirt and Blue Vest, Black Legs, Tan Fedora Hat, Red Bandana	2022	3.82
-1197	BrickLink Designer Program	adp044	Male, Dark Red Jacket, Black Legs, Dark Red Cap	2022	3.4
-1197	BrickLink Designer Program	adp045	Boy, Light Bluish Gray Hoodie, Black Legs, Black Hair	2022	3.15
-1197	BrickLink Designer Program	adp046	Female, Medium Nougat Jacket, Bright Light Orange Legs, Tan Hair	2022	3.6
-1197	BrickLink Designer Program	adp047	Pianist - Male, Red Shirt with Tan Tie, Dark Blue Legs, Black Hair	2022	3.6
-1197	BrickLink Designer Program	adp048	Boy, Medium Nougat Argyle Sweater, Black Legs, Medium Nougat Hair	2022	3.2
+1197	BrickLink Designer Program	bdp036	Female, Medium Lavender Jacket, White Legs, Lavender Mid-Length Hair	2022	3.85
+1197	BrickLink Designer Program	bdp037	Female, Dark Pink Striped Top, Dark Purple Legs, Bright Light Yellow Ponytail	2022	3.6
+1197	BrickLink Designer Program	bdp038	Photographer - Male, Dark Green Hoodie, Black Legs, Dark Green Cap	2022	3.4
+1197	BrickLink Designer Program	bdp039	Fisherman, Dark Azure Jacket, Dark Blue Legs, Tan Fedora  Hat	2022	3.7
+1197	BrickLink Designer Program	bdp040	Receptionist, Male, Black Vest with Blue Striped Tie, Black Legs, Light Bluish Gray Hair	2022	3.45
+1197	BrickLink Designer Program	bdp041	Girl, Bright Pink Top, Reddish Brown Legs, Reddish Brown Long Hair	2022	3.6
+1197	BrickLink Designer Program	bdp042	Male, White Classic Space Shirt, Dark Orange Legs, Dark Orange Hair	2022	3.6
+1197	BrickLink Designer Program	bdp043	Gondolier, Red and White Striped Shirt and Blue Vest, Black Legs, Tan Fedora Hat, Red Bandana	2022	3.82
+1197	BrickLink Designer Program	bdp044	Male, Dark Red Jacket, Black Legs, Dark Red Cap	2022	3.4
+1197	BrickLink Designer Program	bdp045	Boy, Light Bluish Gray Hoodie, Black Legs, Black Hair	2022	3.15
+1197	BrickLink Designer Program	bdp046	Female, Medium Nougat Jacket, Bright Light Orange Legs, Tan Hair	2022	3.6
+1197	BrickLink Designer Program	bdp047	Pianist - Male, Red Shirt with Tan Tie, Dark Blue Legs, Black Hair	2022	3.6
+1197	BrickLink Designer Program	bdp048	Boy, Medium Nougat Argyle Sweater, Black Legs, Medium Nougat Hair	2022	3.2
 34	Space / Classic Space	sp132	Classic Space - Red with Air Tanks and Updated Helmet (Second Reissue)	2022	4
 34	Space / Classic Space	sp133	Classic Space Droid - Round Plate Base, Light Bluish Gray and Black	2022	5
 67	Town / City / Police	cty1477	Police - City Officer Dark Blue Diving Suit with Bright Light Yellow Harness, Flippers, White Helmet and Air Tanks, Scuff Mark	2022	4.7
@@ -14651,15 +14651,15 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1095	Super Mario	mar0135	Iggy	2022	22.65
 1095	Super Mario	mar0136	Big Goomba	2022	40.8
 1095	Super Mario	mar0125	Big Koopa Troopa	2022	107.3
-1197	BrickLink Designer Program	adp049	Skeleton - Pirate Bicorne with Large Skull, One Bent Arm	2022	2.64
+1197	BrickLink Designer Program	bdp049	Skeleton - Pirate Bicorne with Large Skull, One Bent Arm	2022	2.64
 34	Space / Life on Mars	lom003a	Life on Mars (LoM) Martian - Altair - Lime Torso	2001	2.21
 34	Space / Life on Mars	lom003b	Life on Mars (LoM) Martian - Altair - Medium Lime Torso	2001	2.21
 473	Sports / Basketball	nba057	McDonald's Sports Basketball Player - Lilac Torso and Dark Bluish Gray Base without Stickers	2004	33.84
 473	Sports / Basketball	nba057s	McDonald's Sports Basketball Player - Lilac Torso and Dark Bluish Gray Base with Stickers	2004	33.88
 1236	Avatar	avt002	Colonel Miles Quaritch	2022	3.33
-1197	BrickLink Designer Program	adp050	Fisherman - Bright Light Orange Jacket, Dark Azure Beanie	2021	3.57
-1197	BrickLink Designer Program	adp051	Fisherman - Bright Light Orange Jacket, Dark Bluish Gray Knit Cap	2021	3.38
-1197	BrickLink Designer Program	adp052	Fishing Boat Captain - Dark Red Jacket and Hat	2021	3.46
+1197	BrickLink Designer Program	bdp050	Fisherman - Bright Light Orange Jacket, Dark Azure Beanie	2021	3.57
+1197	BrickLink Designer Program	bdp051	Fisherman - Bright Light Orange Jacket, Dark Bluish Gray Knit Cap	2021	3.38
+1197	BrickLink Designer Program	bdp052	Fishing Boat Captain - Dark Red Jacket and Hat	2021	3.46
 65	Star Wars / Star Wars The Mandalorian	sw1242	The Mandalorian / Din Djarin / 'Mando' - Brown Durasteel Armor, Printed Arms	2022	3.8
 65	Star Wars / Star Wars The Mandalorian	sw1243	The Mythrol	2022	3
 65	Star Wars / Star Wars The Mandalorian	sw1244	Kuiil - Backpack	2022	3.8
@@ -15016,15 +15016,15 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 801	Minecraft	min138	Dragon Archer	2023	4.2
 801	Minecraft	min137	End Warrior - Helmet	2023	4.2
 801	Minecraft	min139	Enderman - Tan Block with Dark Tan Top and Bottom	2023	8.9
-1197	BrickLink Designer Program	adp053	LEGO Store Employee, Black Legs, Beard and Glasses, Reddish Brown Tousled Hair	2022	3.55
-1197	BrickLink Designer Program	adp054	Father, Medium Nougat Argyle Sweater, Dark Tan Legs	2022	3.39
-1197	BrickLink Designer Program	adp055	LEGO Store Employee, Female, Ponytail, Black Legs	2022	3.6
-1197	BrickLink Designer Program	adp056	LEGO Store Employee, Black Legs, Dark Brown Short Wavy Hair	2022	3.7
-1197	BrickLink Designer Program	adp057	LEGO Store Employee, Black Legs and Spiked Hair	2022	3.75
-1197	BrickLink Designer Program	adp058	Child - Boy, Dark Green Hoodie, Dark Blue Short Legs, Dark Orange Tousled Hair, Freckles	2022	3.21
+1197	BrickLink Designer Program	bdp053	LEGO Store Employee, Black Legs, Beard and Glasses, Reddish Brown Tousled Hair	2022	3.55
+1197	BrickLink Designer Program	bdp054	Father, Medium Nougat Argyle Sweater, Dark Tan Legs	2022	3.39
+1197	BrickLink Designer Program	bdp055	LEGO Store Employee, Female, Ponytail, Black Legs	2022	3.6
+1197	BrickLink Designer Program	bdp056	LEGO Store Employee, Black Legs, Dark Brown Short Wavy Hair	2022	3.7
+1197	BrickLink Designer Program	bdp057	LEGO Store Employee, Black Legs and Spiked Hair	2022	3.75
+1197	BrickLink Designer Program	bdp058	Child - Boy, Dark Green Hoodie, Dark Blue Short Legs, Dark Orange Tousled Hair, Freckles	2022	3.21
 1095	Super Mario	mar0142	Pom Pom	2023	22.8
 1095	Super Mario	mar0143	Pink Yoshi - White Tile, Round 1 x 2 Half on Front	2023	14.1
-1095	Super Mario	mar0144	Blue Toad - Winking	2023	8.9
+1095	Super Mario	mar0144	Blue Toad - Winking, Black Hinge Brick	2023	8.9
 1095	Super Mario	mar0145	Blue Yoshi	2023	14.1
 1095	Super Mario	mar0146	Wendy	2023	24.9
 1095	Super Mario	mar0147	Goomba (Black Interior Pieces) - Angry, Eyelids	2023	6.7
@@ -15179,12 +15179,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor120	Rivendell Elf - Female, Dark Bluish Gray Robe	2023	4.61
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor122	Rivendell Elf - Male, Dark Bluish Gray Shirt and Legs	2023	4.28
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor125	Gandalf the Grey - Wizard / Witch Hat, Robe, Spongy Cape	2023	4.98
-1197	BrickLink Designer Program	adp059	Construction Worker - Male, Orange Safety Vest with Reflective Stripes, Dark Blue Legs, Red Construction Helmet, Black Bandana	2023	3.46
-1197	BrickLink Designer Program	adp060	Construction Worker - Male, Orange Safety Vest with Reflective Stripes, Dark Blue Legs, Red Construction Helmet, Smirk	2023	3.36
-1197	BrickLink Designer Program	adp061	Construction Worker - Male, Orange Safety Vest with Reflective Stripes, Dark Blue Legs, Red Construction Helmet, Large Grin	2023	3.34
-1197	BrickLink Designer Program	adp062	Construction Worker - Female, Orange Safety Vest with Reflective Stripes, Dark Blue Legs, Red Construction Helmet (Crane Operator)	2023	3.34
-1197	BrickLink Designer Program	adp063	Construction Foreman - Male, Orange Safety Vest with Reflective Stripes, Dark Blue Legs, White Construction Helmet	2023	3.34
-1197	BrickLink Designer Program	adp064	Construction Engineer / Architect - Female, Tan Shirt, Dark Green Legs, White Construction Helmet	2023	3.38
+1197	BrickLink Designer Program	bdp059	Construction Worker - Male, Orange Safety Vest with Reflective Stripes, Dark Blue Legs, Red Construction Helmet, Black Bandana	2023	3.46
+1197	BrickLink Designer Program	bdp060	Construction Worker - Male, Orange Safety Vest with Reflective Stripes, Dark Blue Legs, Red Construction Helmet, Smirk	2023	3.36
+1197	BrickLink Designer Program	bdp061	Construction Worker - Male, Orange Safety Vest with Reflective Stripes, Dark Blue Legs, Red Construction Helmet, Large Grin	2023	3.34
+1197	BrickLink Designer Program	bdp062	Construction Worker - Female, Orange Safety Vest with Reflective Stripes, Dark Blue Legs, Red Construction Helmet (Crane Operator)	2023	3.34
+1197	BrickLink Designer Program	bdp063	Construction Foreman - Male, Orange Safety Vest with Reflective Stripes, Dark Blue Legs, White Construction Helmet	2023	3.34
+1197	BrickLink Designer Program	bdp064	Construction Engineer / Architect - Female, Tan Shirt, Dark Green Legs, White Construction Helmet	2023	3.38
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor112	Frodo Baggins - Reddish Brown Jacket, Light Nougat Feet, Dark Green Cape	2023	3.58
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor113	Samwise Gamgee (Sam) - Dark Tan Jacket, Sand Blue Cape	2023	3.55
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor124	Meriadoc Brandybuck (Merry) - Dark Green Jacket, Medium Nougat Hair	2023	3.56
@@ -15217,22 +15217,22 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1236	Avatar / The Way of Water	avt025	Tonowari - Silver Necklace and Beads	2023	4.8
 1236	Avatar / The Way of Water	avt026	Ronal	2023	4.8
 1236	Avatar / The Way of Water	avt027	Kiri	2023	4.25
-1197	BrickLink Designer Program	adp065	Winter Chalet Owner - Male, Medium Nougat Argyle Sweater, Black Legs, Reddish Brown Hair	2023	3.45
-1197	BrickLink Designer Program	adp066	Sportsman - Light Bluish Gray Hoodie, Blue Legs, Dark Bluish Gray Beanie	2023	3.57
-1197	BrickLink Designer Program	adp067	Son - Classic Space Shirt with Red Sleeves, Dark Tan Legs, Black Spiked Hair	2023	3.75
-1197	BrickLink Designer Program	adp068	Mother - Tan Knit Cable Sweater, Sand Green Legs, Dark Orange Ponytail	2023	3.6
-1197	BrickLink Designer Program	adp069	Father - Green V-Neck Sweater, Reddish Brown Legs, Dark Brown Combed Hair	2023	3.51
-1197	BrickLink Designer Program	adp070	Man - Red Shirt with Tan Tie, Dark Blue Legs, Black Tousled Hair	2023	3.63
-1197	BrickLink Designer Program	adp071	Woman - Dark Pink Striped Top, Dark Red Legs, Tan Tousled Hair	2023	3.54
+1197	BrickLink Designer Program	bdp065	Winter Chalet Owner - Male, Medium Nougat Argyle Sweater, Black Legs, Reddish Brown Hair	2023	3.45
+1197	BrickLink Designer Program	bdp066	Sportsman - Light Bluish Gray Hoodie, Blue Legs, Dark Bluish Gray Beanie	2023	3.57
+1197	BrickLink Designer Program	bdp067	Son - Classic Space Shirt with Red Sleeves, Dark Tan Legs, Black Spiked Hair	2023	3.75
+1197	BrickLink Designer Program	bdp068	Mother - Tan Knit Cable Sweater, Sand Green Legs, Dark Orange Ponytail	2023	3.6
+1197	BrickLink Designer Program	bdp069	Father - Green V-Neck Sweater, Reddish Brown Legs, Dark Brown Combed Hair	2023	3.51
+1197	BrickLink Designer Program	bdp070	Man - Red Shirt with Tan Tie, Dark Blue Legs, Black Tousled Hair	2023	3.63
+1197	BrickLink Designer Program	bdp071	Woman - Dark Pink Striped Top, Dark Red Legs, Tan Tousled Hair	2023	3.54
 842	SPEED CHAMPIONS	sc105	Ferrari 812 Competizione Driver	2023	3.3
-1197	BrickLink Designer Program	adp072	Mechanic - Male, Light Bluish Gray Hoodie, Light Bluish Gray Legs with Paint Splotches, Dark Green Cap	2023	3.4
-1197	BrickLink Designer Program	adp073	Space Observer - Female, Green Jacket, Medium Nougat Legs	2023	3.5
-1197	BrickLink Designer Program	adp074	Exhibition Staff - Male, Bright Light Blue Hoodie, Dark Blue Legs	2023	3.6
-1197	BrickLink Designer Program	adp075	Lecturer - Female, Medium Lavender Jacket, White Legs	2023	3.4
-1197	BrickLink Designer Program	adp078	Visitor - Female, Dark Red Jacket, Dark Purple Legs	2023	3.6
-1197	BrickLink Designer Program	adp079	Visitor - Male, Medium Nougat Argyle Sweater, Reddish Brown Legs	2023	3.4
-1197	BrickLink Designer Program	adp080	Boy - Space Shirt, Dark Green Short Legs, Dark Bluish Gray Beanie	2023	3.2
-1197	BrickLink Designer Program	adp081	Child - Girl, Bright Pink Striped Shirt with Cat Head, Medium Lavender Short Legs, Dark Orange Swept Back Hair with Ponytail	2023	3.1
+1197	BrickLink Designer Program	bdp072	Mechanic - Male, Light Bluish Gray Hoodie, Light Bluish Gray Legs with Paint Splotches, Dark Green Cap	2023	3.4
+1197	BrickLink Designer Program	bdp073	Space Observer - Female, Green Jacket, Medium Nougat Legs	2023	3.5
+1197	BrickLink Designer Program	bdp074	Exhibition Staff - Male, Bright Light Blue Hoodie, Dark Blue Legs	2023	3.6
+1197	BrickLink Designer Program	bdp075	Lecturer - Female, Medium Lavender Jacket, White Legs	2023	3.4
+1197	BrickLink Designer Program	bdp078	Visitor - Female, Dark Red Jacket, Dark Purple Legs	2023	3.6
+1197	BrickLink Designer Program	bdp079	Visitor - Male, Medium Nougat Argyle Sweater, Reddish Brown Legs	2023	3.4
+1197	BrickLink Designer Program	bdp080	Boy - Space Shirt, Dark Green Short Legs, Dark Bluish Gray Beanie	2023	3.2
+1197	BrickLink Designer Program	bdp081	Child - Girl, Bright Pink Striped Shirt with Cat Head, Medium Lavender Short Legs, Dark Orange Swept Back Hair with Ponytail	2023	3.1
 842	SPEED CHAMPIONS	sc106	Porsche 963 Driver	2023	3.4
 67	Town / City / Stuntz	cty1590	Stuntz Driver - Male, Bright Light Orange and Black Jacket, Black Legs, Orange Helmet with Flames and Black Visor	2023	4.45
 67	Town / City / Stuntz	cty1591	Stuntz Driver - Female, Neon Yellow Jacket, White Legs, White Helmet with Black Visor	2023	3.82
@@ -15240,23 +15240,23 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / The Infinity Saga	sh0870	Okoye - Red Top, Shoulder Armor	2023	3.3
 768	Super Heroes / The Infinity Saga	sh0871	Outrider - Extended Arms, Torso with Short Dark Bluish Gray Tips at Neck	2023	4.6
 768	Super Heroes / The Infinity Saga	sh0872	Outrider - Torso with Short Dark Bluish Gray Tips at Neck	2023	3
-1197	BrickLink Designer Program	adp082	Train Driver - Male, Orange Safety Vest with Reflective Stripes, Black Legs, Reddish Brown Hair	2023	3.5
-1197	BrickLink Designer Program	adp083	Traveler - Boy, Tan Knit Sweater, Black Short Legs, Reddish Brown Neck Bracket and Round Plate, Dark Orange Hair	2023	3.5
-1197	BrickLink Designer Program	adp084	Traveler - Male, Tan Shirt, Reddish Brown Legs, Reddish Brown Backpack, Tan Fedora Hat	2023	4.35
-1197	BrickLink Designer Program	adp085	Male - Dark Tan Vest over Dark Azure Shirt, Dark Blue Legs, Dark Blue Cap	2023	3.4
-1197	BrickLink Designer Program	adp086	Train Driver - Female, Orange Safety Vest with Reflective Stripes, Black Legs, Black Hair	2023	3.65
-1197	BrickLink Designer Program	adp087	Traveler - Male, Dark Green Hoodie, Dark Brown Legs, Tan Fur Collar, Dark Bluish Gray Beanie	2023	4.2
-1197	BrickLink Designer Program	adp088	Traveler - Female, Dark Red Jacket with Bright Light Blue Shirt, Dark Blue Legs, Reddish Brown Hair	2023	3.95
-1197	BrickLink Designer Program	adp089	Hot Dog Stand Manager - White Torso with 8 Buttons, No Wrinkles Front or Back, Blue Legs, Blue Cap	2023	3.4
-1197	BrickLink Designer Program	adp090	Station Master - Black Vest with Blue Striped Tie, Black Legs, Dark Red Hat, Beard	2023	3.4
-1197	BrickLink Designer Program	adp091	Traveler - Female, Medium Lavender Jacket, Medium Azure Legs, Dark Orange Hair	2023	3.55
-1197	BrickLink Designer Program	adp092	Traveler - Female, Bright Light Blue Hoodie, White Legs, Black Hair	2023	3.5
+1197	BrickLink Designer Program	bdp082	Train Driver - Male, Orange Safety Vest with Reflective Stripes, Black Legs, Reddish Brown Hair	2023	3.5
+1197	BrickLink Designer Program	bdp083	Traveler - Boy, Tan Knit Sweater, Black Short Legs, Reddish Brown Neck Bracket and Round Plate, Dark Orange Hair	2023	3.5
+1197	BrickLink Designer Program	bdp084	Traveler - Male, Tan Shirt, Reddish Brown Legs, Reddish Brown Backpack, Tan Fedora Hat	2023	4.35
+1197	BrickLink Designer Program	bdp085	Male - Dark Tan Vest over Dark Azure Shirt, Dark Blue Legs, Dark Blue Cap	2023	3.4
+1197	BrickLink Designer Program	bdp086	Train Driver - Female, Orange Safety Vest with Reflective Stripes, Black Legs, Black Hair	2023	3.65
+1197	BrickLink Designer Program	bdp087	Traveler - Male, Dark Green Hoodie, Dark Brown Legs, Tan Fur Collar, Dark Bluish Gray Beanie	2023	4.2
+1197	BrickLink Designer Program	bdp088	Traveler - Female, Dark Red Jacket with Bright Light Blue Shirt, Dark Blue Legs, Reddish Brown Hair	2023	3.95
+1197	BrickLink Designer Program	bdp089	Hot Dog Stand Manager - White Torso with 8 Buttons, No Wrinkles Front or Back, Blue Legs, Blue Cap	2023	3.4
+1197	BrickLink Designer Program	bdp090	Station Master - Black Vest with Blue Striped Tie, Black Legs, Dark Red Hat, Beard	2023	3.4
+1197	BrickLink Designer Program	bdp091	Traveler - Female, Medium Lavender Jacket, Medium Azure Legs, Dark Orange Hair	2023	3.55
+1197	BrickLink Designer Program	bdp092	Traveler - Female, Bright Light Blue Hoodie, White Legs, Black Hair	2023	3.5
 842	SPEED CHAMPIONS	sc108	McLaren F1 LM Driver	2023	3.6
 842	SPEED CHAMPIONS	sc107	McLaren Solus GT Driver	2023	3.7
 850	Jurassic World / Dominion	jw102	Owen Grady - Open Neck Shirt, Neck Bracket	2023	4.3
 67	Town / City / Race	cty1593	Race Car Driver - Female, Dark Blue and Flat Silver Racing Suit, White Helmet	2023	3.7
-1197	BrickLink Designer Program	adp076	Spacesuit - Blue with Air Tanks, Pearl Dark Gray Head	2023	4.1
-1197	BrickLink Designer Program	adp077	Astronaut Mannequin - White with White Helmet, Metallic Gold Visor, Standard Head	2023	5
+1197	BrickLink Designer Program	bdp076	Spacesuit - Blue with Air Tanks, Pearl Dark Gray Head	2023	4.1
+1197	BrickLink Designer Program	bdp077	Astronaut Mannequin - White with White Helmet, Metallic Gold Visor, Standard Head	2023	5
 65	Star Wars / Star Wars Young Jedi Adventures	sw1270	Yoda - Lime	2023	3.04
 65	Star Wars / Star Wars Young Jedi Adventures	sw1269	Lys Solay	2023	3.95
 65	Star Wars / Star Wars Young Jedi Adventures	sw1268	Kai Brightstar	2023	3.58
@@ -15272,7 +15272,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Guardians of the Galaxy Vol. 3	sh0878	Mantis - Dark Blue Suit	2023	4.1
 768	Super Heroes / Guardians of the Galaxy Vol. 3	sh0876	Nebula - Dark Blue Suit	2023	3
 768	Super Heroes / Guardians of the Galaxy Vol. 3	sh0877	Adam Warlock	2023	3.7
-768	Super Heroes / Guardians of the Galaxy Vol. 3	sh0875	Rocket Raccoon - Dark Blue Suit, Reddish Brown Head	2023	3.72
+768	Super Heroes / Guardians of the Galaxy Vol. 3	sh0875	Rocket Raccoon - Dark Blue Guardians Suit, Reddish Brown Head	2023	3.72
 65	Star Wars / Star Wars The Mandalorian	sw1259	Mandalorian Fleet Commander - Hair	2023	4
 65	Star Wars / Star Wars The Mandalorian	sw1261	Astromech Droid, R2-E6	2023	4.45
 65	Star Wars / Star Wars Episode 4/5/6	sw1267	Luke Skywalker - Pilot Suit, Printed Arms, Black Boots	2023	3.5
@@ -15513,10 +15513,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City	cty1616	Ice-Cream Shop Customer - Male, Dark Purple Sleeveless Shirt with Stripes, Dark Turquoise Legs, Medium Nougat Hair, Sunglasses	2023	3.47
 67	Town / City	cty1617	Ice-Cream Shop Vendor - Female, Polar Bear Suit	2023	4
 67	Town	pln196	Plain Red Torso with Red Arms, Blue Legs, Blue Cap	2023	3.4
-1197	BrickLink Designer Program	adp093	1950s Diner Patron - Male, Light Bluish Gray Hoodie with Dark Red Shirt, Black Legs, Black Hair	2023	3.45
-1197	BrickLink Designer Program	adp094	1950s Diner Patron - Female, Medium Lavender Jacket, Sand Green Legs, Black Hair	2023	3.7
-1197	BrickLink Designer Program	adp095	1950s Diner Chef - Plain White Torso, Light Bluish Gray Legs with Paint Splotches, White Chef Toque	2023	3.8
-1197	BrickLink Designer Program	adp096	1950s Diner Waitress - Bright Pink Top, White Legs, Dark Orange Hair, Blue Roller Skates	2023	3.85
+1197	BrickLink Designer Program	bdp093	1950s Diner Patron - Male, Light Bluish Gray Hoodie with Dark Red Shirt, Black Legs, Black Hair	2023	3.45
+1197	BrickLink Designer Program	bdp094	1950s Diner Patron - Female, Medium Lavender Jacket, Sand Green Legs, Black Hair	2023	3.7
+1197	BrickLink Designer Program	bdp095	1950s Diner Chef - Plain White Torso, Light Bluish Gray Legs with Paint Splotches, White Chef Toque	2023	3.8
+1197	BrickLink Designer Program	bdp096	1950s Diner Waitress - Bright Pink Top, White Legs, Dark Orange Hair, Blue Roller Skates	2023	3.85
 771	Friends	frnd0622	Friends Abuelita - Dark Pink Sweater Vest, Bright Light Orange Long Skirt, Magenta Shoes	2023	3.06
 771	Friends	frnd0623	Friends Matilde - Red Top, Dark Blue Layered Skirt, White Shoes	2023	3.07
 67	Town / City / Police	cty1618	Police Officer - Lukas Looping, Jet Pilot	2023	3.65
@@ -15588,7 +15588,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City	cty1649	Veterinarian - Male, Light Aqua Scrubs, Dark Turquoise Legs, Light Bluish Gray Hair	2023	3.54
 67	Town / City	cty1650	Electric Scooter Rider - Male, White Shirt with Bright Green Tie, Dark Green Legs, Reddish Brown Spiked Hair, Safety Glasses	2023	3.61
 67	Town / City	cty1651	Sanitary Engineer - Male, Dark Turquoise Top, Dark Orange Overalls and Legs, Reddish Brown Flat Cap	2023	3.55
-67	Town / City	cty1652	Hotel Receptionist - Female, Black Jacket with Tie, Black Legs, Reddish Brown Hair	2023	3.63
+67	Town / City	cty1652	Hotel Receptionist - Female, Black Vest with Blue Striped Tie, Black Legs, Reddish Brown Hair	2023	3.63
 67	Town / City	cty1653	DJ - Male, White Jacket, Black Legs, Lime Hair, Dark Turquoise Headphones	2023	3.77
 67	Town / City	cty1655	Child - Boy, Medium Azure Top with Triangles, Dark Blue Short Legs, Black Hair	2023	3.29
 67	Town / City	cty1654	Tourist / Food Critic - Female, Tan Jacket and Legs, Bright Light Yellow Hair over Shoulder, Glasses	2023	3.87
@@ -15917,7 +15917,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 893	DC Super Hero Girls	shg030	Kryptomite - Yellow, Small Crystals, Hands	2017	2
 893	DC Super Hero Girls	shg031	Kryptomite - Yellow, Medium Crystals, Hands	2017	2.39
 227	Harry Potter	hp465	Luna Lovegood - Ravenclaw Robe, Black Medium Legs	2023	3.85
-817	LEGO Ideas (CUUSOO) / Vikings	idea167	Viking Blacksmith - Female, Dark Red Overalls, Dark Red Legs with Trim, Dark Orange Hair	2023	3.91
+817	LEGO Ideas (CUUSOO) / Vikings	idea167	Viking Blacksmith - Female, Dark Red Overalls and Legs with Trim, Dark Orange Hair	2023	3.91
 817	LEGO Ideas (CUUSOO) / Vikings	idea168	Viking Archer - Male, Olive Green Tunic, Dark Orange Legs with Loincloth, Pearl Dark Gray Helmet, Quiver	2023	4.14
 817	LEGO Ideas (CUUSOO) / Vikings	idea169	Viking Chieftain - Male, Leather Armor, Dark Tan Legs with Tunic, Pearl Dark Gray Helmet, Shoulder Armor	2023	3.91
 817	LEGO Ideas (CUUSOO) / Vikings	idea170	Viking Shield-Maiden - Dark Bluish Gray and Silver Armor, Dark Blue Legs with Trim, Tan Hair	2023	3.86
@@ -16608,28 +16608,28 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 878	Disney / Disney Princess / Ariel	dp193	Ariel, Mermaid (Medium Brown) - Magenta Top, Medium Azure Tail	2024	4.2
 67	Town / City	cty1774	Sports Car Driver - Female, Black Leather Jacket over Shirt with White Stripes, Pearl Dark Gray Legs, Tan Hair with Cochlear Implant	2024	3.8
 67	Town / City	cty1773	Tow Truck Driver - Male, Sand Blue Mechanic Uniform, Sand Blue Legs, Dark Blue Cap, Goatee, Splotches	2024	3.4
-1197	BrickLink Designer Program	adp097	Mountain Fortress Lion Knights King	2024	4.1
-1197	BrickLink Designer Program	adp098	Mountain Fortress Child	2024	3.3
-1197	BrickLink Designer Program	adp099	Mountain Fortress Black Falcon Archer - Male	2024	3.85
-1197	BrickLink Designer Program	adp100	Mountain Fortress Woman	2024	4.15
-1197	BrickLink Designer Program	adp101	Mountain Fortress Black Falcon Archer - Female	2024	4.15
-1197	BrickLink Designer Program	adp102	Mountain Fortress Black Falcon Soldier - Helmet with Neck Protector, Beard	2024	4
-1197	BrickLink Designer Program	adp103	Mountain Fortress Black Falcon Soldier - Helmet with Pointed Visor, Armor	2024	4.9
-1197	BrickLink Designer Program	adp104	Mountain Fortress Black Falcon Soldier - Helmet with Broad Brim, Shoulder Armor	2024	4.4
-1197	BrickLink Designer Program	adp105	Mountain Fortress Black Falcon Woman	2024	4.3
+1197	BrickLink Designer Program	bdp097	Mountain Fortress Lion Knights King	2024	4.1
+1197	BrickLink Designer Program	bdp098	Mountain Fortress Child	2024	3.3
+1197	BrickLink Designer Program	bdp099	Mountain Fortress Black Falcon Archer - Male	2024	3.85
+1197	BrickLink Designer Program	bdp100	Mountain Fortress Woman	2024	4.15
+1197	BrickLink Designer Program	bdp101	Mountain Fortress Black Falcon Archer - Female	2024	4.15
+1197	BrickLink Designer Program	bdp102	Mountain Fortress Black Falcon Soldier - Helmet with Neck Protector, Beard	2024	4
+1197	BrickLink Designer Program	bdp103	Black Falcon - Male, Pearl Dark Gray Detailed Legs, Helmet with Pointed Visor, Armor	2024	4.9
+1197	BrickLink Designer Program	bdp104	Mountain Fortress Black Falcon Soldier - Helmet with Broad Brim, Shoulder Armor	2024	4.4
+1197	BrickLink Designer Program	bdp105	Mountain Fortress Black Falcon Woman	2024	4.3
 771	Friends	frnd0752	Friends Niko - Bright Light Orange Sleeveless Shirt, Bright Light Blue Shorts, Lime Shoes	2024	2.7
 167	DUPLO / Peppa Pig	47205pb116	Duplo Figure Lego Ville, Suzy Sheep (6475127)	2024	11.72
 167	DUPLO / Peppa Pig	47205pb117	Duplo Figure Lego Ville, Pedro Pony (6468164)	2024	11.72
 801	Minecraft	min178	Skeleton, Minecraft - Medium Azure Helmet	2024	3.46
 801	Minecraft	min179	Wolf Tamer	2024	3.46
 983	Promotional	gen183	Jules Verne	2024	3.44
-1197	BrickLink Designer Program	adp106	Painter - Male Artist, Tan Knit Cable Sweater, Black Legs, Reddish Brown Flat Cap	2024	3.54
-1197	BrickLink Designer Program	adp107	Bistro Chef - Female, White Torso with 8 Buttons, Black Legs, White Chef Toque	2024	3.64
-1197	BrickLink Designer Program	adp108	Florist - Female, Reddish Brown Apron, Sand Blue Legs, Reddish Brown Hair Ponytail (Fleuriste Laurette)	2024	3.68
-1197	BrickLink Designer Program	adp109	Tourist - Male, Dark Blue Suit and Hat, Light Bluish Gray Beard	2024	3.43
-1197	BrickLink Designer Program	adp110	Child - Girl, Bright Green Sweater with Bright Light Yellow Zigzag Lines, Dark Blue Short Legs, Reddish Brown Hair over Shoulder	2024	3.48
-1197	BrickLink Designer Program	adp111	Bakery / Boulangerie Owner - Reddish Brown Apron with Cup and Name Tag, Dark Brown Legs, Dark Green Cap	2024	3.43
-1197	BrickLink Designer Program	adp112	Tourist - Male, Black Vest with Blue Striped Tie, Black Legs, Black Top Hat, Moustache	2024	3.63
+1197	BrickLink Designer Program	bdp106	Painter - Male Artist, Tan Knit Cable Sweater, Black Legs, Reddish Brown Flat Cap	2024	3.54
+1197	BrickLink Designer Program	bdp107	Bistro Chef - Female, White Torso with 8 Buttons, Black Legs, White Chef Toque	2024	3.64
+1197	BrickLink Designer Program	bdp108	Florist - Female, Reddish Brown Apron, Sand Blue Legs, Reddish Brown Hair Ponytail (Fleuriste Laurette)	2024	3.68
+1197	BrickLink Designer Program	bdp109	Tourist - Male, Dark Blue Suit and Hat, Light Bluish Gray Beard	2024	3.43
+1197	BrickLink Designer Program	bdp110	Child - Girl, Bright Green Sweater with Bright Light Yellow Zigzag Lines, Dark Blue Short Legs, Reddish Brown Hair over Shoulder	2024	3.48
+1197	BrickLink Designer Program	bdp111	Bakery / Boulangerie Owner - Reddish Brown Apron with Cup and Name Tag, Dark Brown Legs, Dark Green Cap	2024	3.43
+1197	BrickLink Designer Program	bdp112	Tourist - Male, Black Vest with Blue Striped Tie, Black Legs, Black Top Hat, Moustache	2024	3.63
 227	Harry Potter / Goblet of Fire	hp499	Madame Olympe Maxime - Dark Red Long Legs	2024	4.07
 227	Harry Potter / Goblet of Fire	hp500	Professor Igor Karkaroff - White Jacket	2024	4.1
 227	Harry Potter / Goblet of Fire	hp498	Viktor Krum - Fur Coat and Collar	2024	4.05
@@ -16645,25 +16645,25 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 850	Jurassic World / Chaos Theory	jw125	Darius Bowman - Yellow Jacket over Dark Blue Shirt, Dark Bluish Gray Legs	2024	3.6
 850	Jurassic World / Chaos Theory	jw126	Yasmina 'Yaz' Fadoula - Medium Nougat Jacket over Dark Purple and White Striped Shirt, Tan Legs	2024	3.7
 842	SPEED CHAMPIONS	sc115	Lamborghini Lambo V12 Vision Gran Turismo Driver	2024	3.65
-1197	BrickLink Designer Program	adp113	Snack Shack Patron - Female, Medium Nougat Tank Top, Sand Blue Legs with Pockets, Dark Brown Hair	2024	3.85
-1197	BrickLink Designer Program	adp114	Snack Shack Vendor - Male, Dark Tan Top with Reddish Brown Apron, Sand Blue Legs, Dark Blue Cap	2024	3.42
+1197	BrickLink Designer Program	bdp113	Snack Shack Patron - Female, Medium Nougat Tank Top, Sand Blue Legs with Pockets, Dark Brown Hair	2024	3.85
+1197	BrickLink Designer Program	bdp114	Snack Shack Vendor - Male, Dark Tan Top with Reddish Brown Apron, Sand Blue Legs, Dark Blue Cap	2024	3.42
 227	Harry Potter / Sorcerer's Stone	hp506	Madam Malkin	2024	4.56
 67	Town / City / Space Exploration	cty1775	Astronaut - Male, White Spacesuit with Dark Azure Arms, Dark Azure Helmet, Trans-Clear Visor, Stubble	2024	3.95
-1197	BrickLink Designer Program	adp120	Train Worker - White Hair and Beard, Reddish Brown Apron	2024	4.1
-1197	BrickLink Designer Program	adp121	Train Worker - Female, Blue Overalls, Dark Blue Cap	2024	3.42
-1197	BrickLink Designer Program	adp122	Train Worker - Male, Dark Tan Vest, Dark Azure Legs, Prosthetic Left Leg, Orange Air Tanks, Construction Helmet	2024	3.87
-1197	BrickLink Designer Program	adp123	Train Worker - Female, Medium Blue Octan Shirt, Dark Tan Legs with Reddish Brown Boots, Green Glasses, Black Ponytail	2024	3.71
-1197	BrickLink Designer Program	adp124	Train Worker - Red Plaid Flannel Shirt, Black Legs, Moustache, and Hair	2024	3.54
-1197	BrickLink Designer Program	adp125	Train Worker - Orange Jacket, Dark Bluish Gray Legs with Black Boots, Black Bob Cut Hair	2024	3.56
+1197	BrickLink Designer Program	bdp120	Train Worker - White Hair and Beard, Reddish Brown Apron	2024	4.1
+1197	BrickLink Designer Program	bdp121	Train Worker - Female, Blue Overalls, Dark Blue Cap	2024	3.42
+1197	BrickLink Designer Program	bdp122	Train Worker - Male, Dark Tan Vest, Dark Azure Legs, Prosthetic Left Leg, Orange Air Tanks, Construction Helmet	2024	3.87
+1197	BrickLink Designer Program	bdp123	Train Worker - Female, Medium Blue Octan Shirt, Dark Tan Legs with Reddish Brown Boots, Green Glasses, Black Ponytail	2024	3.71
+1197	BrickLink Designer Program	bdp124	Train Worker - Red Plaid Flannel Shirt, Black Legs, Moustache, and Hair	2024	3.54
+1197	BrickLink Designer Program	bdp125	Train Worker - Orange Jacket, Dark Bluish Gray Legs with Black Boots, Black Bob Cut Hair	2024	3.56
 878	Disney / Disney Princess / Moana	moa005	Moana (Sienna) - Mini Doll, Coral and White Strapless Top, Tan Long Skirt with Dark Tan Hems, Dark Brown Hair	2024	3.61
 878	Disney / Disney Princess / Ariel	dp195	Ursula (Medium Nougat) - Mini Doll, Dark Purple Dress	2024	5.3
 67	Town	twn503	Adult - Male, Tan Knit Cable Sweater, Dark Blue Legs, Medium Nougat Spiked Hair	2024	3.6
 67	Town	twn504	Child - Girl, Bright Pink Hoodie with Medium Blue and White Diagonal Stripes, Medium Blue Short Legs, Reddish Brown Wavy Hair	2024	3.5
-1197	BrickLink Designer Program	adp115	General Store Owner - Male, Reddish Brown Apron, Sand Blue Legs, Dark Bluish Gray Hair	2024	3.68
-1197	BrickLink Designer Program	adp116	General Store Customer - Female, Dark Green Open Jacket, Dark Brown Legs, Reddish Brown Hair	2024	4.58
-1197	BrickLink Designer Program	adp117	General Store Customer - Male, Dark Blue Suit, Black Top Hat, Black Moustache	2024	3.6
-1197	BrickLink Designer Program	adp118	General Store Customer - Female, Dark Pink Sweater, Dark Green Skirt, Reddish Brown Hair	2024	4.3
-1197	BrickLink Designer Program	adp119	General Store Carriage Driver - Male, Red Plaid Flannel Shirt, Black Legs, Tan Fedora	2024	3.65
+1197	BrickLink Designer Program	bdp115	General Store Owner - Male, Reddish Brown Apron, Sand Blue Legs, Dark Bluish Gray Hair	2024	3.68
+1197	BrickLink Designer Program	bdp116	General Store Customer - Female, Dark Green Open Jacket, Dark Brown Legs, Reddish Brown Hair	2024	4.58
+1197	BrickLink Designer Program	bdp117	General Store Customer - Male, Dark Blue Suit, Black Top Hat, Black Moustache	2024	3.6
+1197	BrickLink Designer Program	bdp118	General Store Customer - Female, Dark Pink Sweater, Dark Green Skirt, Reddish Brown Hair	2024	4.3
+1197	BrickLink Designer Program	bdp119	General Store Carriage Driver - Male, Red Plaid Flannel Shirt, Black Legs, Tan Fedora	2024	3.65
 1100	Monkie Kid	mk158	Nüwa {Nuwa}	2024	14.88
 1100	Monkie Kid	mk159	Li Jing	2024	4.29
 1100	Monkie Kid	mk160	Monkie Kid - White Jacket with Zippers, Flat Silver Legs	2024	3.58
@@ -16822,7 +16822,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Recreation	cty1807	Robot World Patron - Male, Dark Pink Hoodie, Sand Blue Legs, Dark Orange Hair	2024	3.55
 227	Harry Potter / Chamber of Secrets	hp501	Lucius Malfoy - Black Robe, Bright Light Yellow Hair, Plain Legs	2024	3.89
 842	SPEED CHAMPIONS	sc121	Ferrari F40 Driver	2024	3.61
-976	LEGO Brand / Promotional	gen186	LEGO Masters Minifigure (San Diego Comic-Con 2024 Exclusive)	2024	3
+976	LEGO Brand / Promotional	gen186	LEGO Masters Minifigure White (San Diego Comic-Con 2024 Exclusive)	2024	3
 1203	Sonic the Hedgehog	son023	Gun Wing	2024	21.2
 1203	Sonic the Hedgehog	son022	Egg Pawn	2024	22.45
 545	FIRST LEGO League	fst046	FIRST LEGO League (FLL) Superpowered Female Mechanic	2022	3.67
@@ -16877,6 +16877,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0761	Friends Olly - Micro Doll	2024	1.72
 771	Friends	frnd0762	Baby / Infant - with Stud Holder on Back with Smiling Face, Large Eyes and Orange Hair Pattern (Baby Ella) (6483678)	2024	0.6
 771	Friends	frnd0763	Friends Rose	2024	3.42
+167	DUPLO	47394pb361	Duplo Figure Lego Ville, Male, White Legs and Top with 'LEGO JÁTÉKVÁROS', Reddish Brown Hair, LEGO Logo on Back - LEGO Játékváros 2024 Exclusive (Jatekvaros)	2024	15
 878	Disney / Disney Princess / Moana	dp198	Moana (Sienna) - Micro Doll	2024	2.3
 878	Disney / Encanto	dis173	Mirabel Madrigal - Micro Doll, Bright Green Glasses, Open Eyes	2024	2.25
 878	Disney / Disney Princess / The Little Mermaid	dp200	Ariel, Mermaid (Light Nougat) - Micro Doll, Open Eyes	2024	2.5
@@ -17004,9 +17005,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 817	LEGO Ideas (CUUSOO)	idea212	Gardener - Female, Medium Nougat Overalls over Sand Green Shirt, Reddish Brown Boots, Dark Brown Hair	2024	4.45
 817	LEGO Ideas (CUUSOO)	idea213	Man - Yellowish Green Jacket over White Shirt, Sand Blue Legs, Medium Nougat Tousled Hair	2024	3.5
 817	LEGO Ideas (CUUSOO)	idea214	Photographer - Male, Dark Brown Jacket over Red Hawaiian Shirt, Olive Green Legs, Reddish Brown Flat Cap, Dark Orange Beard	2024	3.72
-1197	BrickLink Designer Program	adp126	Fruit Merchant	2024	3.54
-1197	BrickLink Designer Program	adp127	Forest Elf - Medium Nougat Hair	2024	3.6
-1197	BrickLink Designer Program	adp128	Forest Elf - Dark Tan Backpack, Reddish Brown Hair	2024	4.4
+1197	BrickLink Designer Program	bdp126	Fruit Merchant	2024	3.54
+1197	BrickLink Designer Program	bdp127	Forest Elf - Medium Nougat Hair	2024	3.6
+1197	BrickLink Designer Program	bdp128	Forest Elf - Dark Tan Backpack, Reddish Brown Hair	2024	4.4
 817	LEGO Ideas (CUUSOO)	idea215	Woman - Tan Knit Argyle Sweater Vest, Black Legs, Dark Brown Hair, Glasses	2024	3.67
 983	Promotional	gen187	Roman Gladiator	2020	4.22
 768	Super Heroes / The Infinity Saga	sh0987	War Machine - Pearl Dark Gray and Silver Armor with Neck Bracket, Ingot and Plate with Clip	2024	5.12
@@ -17015,14 +17016,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1305	Wicked	wck008	Elphaba - Mini Doll, Black Dress, Cape, Hat	2024	4
 1305	Wicked	wck009	Glinda - Mini Doll, Bright Pink Dress, Wide Skirt	2024	4.91
 1305	Wicked	wck010	Fiyero - Mini Doll, Dark Blue Jacket	2024	2.88
-1197	BrickLink Designer Program	adp129	Ticket Vendor - Female, Tan Knit Argyle Sweater Vest, Dark Bluish Gray Legs, Dark Brown Hair Ponytail Long with Side Bangs, Glasses	2024	3.93
-1197	BrickLink Designer Program	adp130	Traveler - Male, Dark Green Hoodie, Sand Blue Legs, Dark Brown Short Tousled Hair, Backpack	2024	4.02
-1197	BrickLink Designer Program	adp131	Pianist - Male, Dark Green Open Jacket, Dark Brown Legs, Light Bluish Gray Wavy Hair	2024	3.85
-1197	BrickLink Designer Program	adp132	Barkeeper - Female, Reddish Brown Apron with Cup and Name Tag, Reddish Brown Legs, Dark Brown Hair Ponytail and Swept Sideways Fringe	2024	3.64
-1197	BrickLink Designer Program	adp133	Passenger - Male, Red Shirt with Tan Tie, Dark Brown Legs, Dark Tan Hair Short Combed	2024	3.49
-1197	BrickLink Designer Program	adp134	Train Conductor - Male, Dark Blue Suit and Hat, Dark Bluish Gray and Light Bluish Gray Beard	2024	3.43
-1197	BrickLink Designer Program	adp135	Passenger - Female, Bright Light Blue Jacket over White Shirt with Coral Flowers, Sand Blue Legs, Reddish Brown Wavy Hair	2024	4.56
-1197	BrickLink Designer Program	adp136	Singer - Female, Bright Pink Top, Medium Lavender Legs, Black Hair Ponytail Long with Side Bangs	2024	3.93
+1197	BrickLink Designer Program	bdp129	Ticket Vendor - Female, Tan Knit Argyle Sweater Vest, Dark Bluish Gray Legs, Dark Brown Hair Ponytail Long with Side Bangs, Glasses	2024	3.93
+1197	BrickLink Designer Program	bdp130	Traveler - Male, Dark Green Hoodie, Sand Blue Legs, Dark Brown Short Tousled Hair, Backpack	2024	4.02
+1197	BrickLink Designer Program	bdp131	Pianist - Male, Dark Green Open Jacket, Dark Brown Legs, Light Bluish Gray Wavy Hair	2024	3.85
+1197	BrickLink Designer Program	bdp132	Barkeeper - Female, Reddish Brown Apron with Cup and Name Tag, Reddish Brown Legs, Dark Brown Hair Ponytail and Swept Sideways Fringe	2024	3.64
+1197	BrickLink Designer Program	bdp133	Passenger - Male, Red Shirt with Tan Tie, Dark Brown Legs, Dark Tan Hair Short Combed	2024	3.49
+1197	BrickLink Designer Program	bdp134	Train Conductor - Male, Dark Blue Suit and Hat, Dark Bluish Gray and Light Bluish Gray Beard	2024	3.43
+1197	BrickLink Designer Program	bdp135	Passenger - Female, Bright Light Blue Jacket over White Shirt with Coral Flowers, Sand Blue Legs, Reddish Brown Wavy Hair	2024	4.56
+1197	BrickLink Designer Program	bdp136	Singer - Female, Bright Pink Top, Medium Lavender Legs, Black Hair Ponytail Long with Side Bangs	2024	3.93
 768	Super Heroes / X-Men	sh0994	Gambit	2024	3.58
 768	Super Heroes / Batman II	sh0988	Batman - Black Suit, Yellow Belt, Cowl with White Eyes, Flexible Rubber Cape	2024	4.8
 65	Star Wars / Star Wars Ahsoka	sw1395	Sabine Wren - Dark Brown Armor, Dark Purple Hair	2024	3.6
@@ -17048,9 +17049,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO	4555pb186b	Duplo Figure, Female, Blue Legs, White Top with Blue Sleeves and Scarf, Black Curly Hair in Bun, Brown Head, Looking Right	?	16.49
 67	Town / City / Arctic	cty1825	Arctic Explorer - Male, Orange and Medium Azure Jacket, Dark Bluish Gray Beanie and Snowshoes, Reddish Brown Backpack	2024	?
 768	Super Heroes / X-Men	sh0998	Professor X (Charles Francis Xavier) - Black Vest	2024	3.05
-1197	BrickLink Designer Program	adp137	Train Engineer - Female, Reddish Brown Overalls, Orange Hair with Pigtails	2024	3.68
-1197	BrickLink Designer Program	adp138	Train Worker - Male, Dark Azure Hoodie with Green Striped Shirt, Black Legs and Bandana, Medium Nougat Spiked Hair	2024	3.72
-1197	BrickLink Designer Program	adp139	Passenger - Male, Dark Tan Vest over Dark Azure Shirt, Sand Blue Legs with Pockets, Tan Fedora Hat	2024	3.7
+1197	BrickLink Designer Program	bdp137	Train Engineer - Female, Reddish Brown Overalls, Orange Hair with Pigtails	2024	3.68
+1197	BrickLink Designer Program	bdp138	Train Worker - Male, Dark Azure Hoodie with Green Striped Shirt, Black Legs and Bandana, Medium Nougat Spiked Hair	2024	3.72
+1197	BrickLink Designer Program	bdp139	Passenger - Male, Dark Tan Vest over Dark Azure Shirt, Sand Blue Legs with Pockets, Tan Fedora Hat	2024	3.7
 983	Promotional	gen188	Sir Ernest Shackleton	2024	3.7
 983	Promotional	gen189	Frank Hurley	2024	3.4
 759	NINJAGO / Dragons Rising Season 3	njo0940	Morro - Dragons Rising	2025	3.95
@@ -17058,16 +17059,16 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Dragons Rising Season 3	njo0921	Arin - Shirt with Magenta Dragon, Head Wrap	2025	3.98
 759	NINJAGO / Dragons Rising Season 3	njo0935	Lord Ras - Red Markings	2025	3.8
 768	Super Heroes / Super Heroes Other	sh0999	Captain America (Sam Wilson) - Dark Blue and White Suit	2024	3.49
-1197	BrickLink Designer Program	adp140	Ocean House Mother	2024	3.65
-1197	BrickLink Designer Program	adp141	Ocean House Boy	2024	3.1
-1197	BrickLink Designer Program	adp142	Ocean House Father	2024	3.55
+1197	BrickLink Designer Program	bdp140	Ocean House Mother	2024	3.65
+1197	BrickLink Designer Program	bdp141	Ocean House Boy	2024	3.1
+1197	BrickLink Designer Program	bdp142	Ocean House Father	2024	3.55
 34	Space / Classic Space	sp146	Classic Space - White without Air Tanks, with Visor, Male	2024	3.65
 34	Space / Classic Space	sp145	Classic Space - Orange without Air Tanks, with Visor, Male	2024	3.65
-1197	BrickLink Designer Program	adp143	Pirate Captain Mutton Chops	2024	3.66
-1197	BrickLink Designer Program	adp144	Pirate - Male, White Shirt with Red Stripes, Dark Blue Legs, Red Bandana	2024	3.44
-1197	BrickLink Designer Program	adp145	Pirate - Female, Red Vest over White Shirt, Black Legs, Reddish Brown Hair	2024	4.57
-1197	BrickLink Designer Program	adp146	Pirate - Female, Black Dress Top, Dark Red Legs, Black Tricorne Hat with Tan Ponytail	2024	3.86
-1197	BrickLink Designer Program	adp147	Pirate - Male, Blue Vest, Dark Bluish Gray Legs, Black Hair with Short Ponytail	2024	3.5
+1197	BrickLink Designer Program	bdp143	Pirate Captain Mutton Chops	2024	3.66
+1197	BrickLink Designer Program	bdp144	Pirate - Male, White Shirt with Red Stripes, Dark Blue Legs, Red Bandana	2024	3.44
+1197	BrickLink Designer Program	bdp145	Pirate - Female, Red Vest over White Shirt, Black Legs, Reddish Brown Hair	2024	4.57
+1197	BrickLink Designer Program	bdp146	Pirate - Female, Black Dress Top, Dark Red Legs, Black Tricorne Hat with Tan Ponytail	2024	3.86
+1197	BrickLink Designer Program	bdp147	Pirate - Male, Blue Vest, Dark Bluish Gray Legs, Black Hair with Short Ponytail	2024	3.5
 768	Super Heroes / Captain America Brave New World	sh1001	Red Hulk - Giant, Black Eyes	2024	30.9
 768	Super Heroes / Captain America Brave New World	sh1002	Ruth Bat-Seraph	2024	3.85
 768	Super Heroes / Captain America Brave New World	sh1003	Captain America (Sam Wilson) - Dark Blue Suit, Backpack and Wings without Stickers	2024	9.41
@@ -17182,6 +17183,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 801	Minecraft	min198	Blaze - Trans-Black Cone Stand	2025	4.95
 801	Minecraft	min197	Alex - Medium Azure Legs, Angry	2025	3.45
 801	Minecraft	min196	Illager (Pillager) - Narrow Eyes, Dark Bluish Gray Neck Bracket and Tile with Clip, Ominous Banner	2025	5.25
+36	Technic	tech042	Technic Figure Tag der offenen Tür, 21 JUNI 1997, BAAR - Factory Promotional	1997	14.5
 759	NINJAGO / Dragons Rising Season 3	njo0919	Sora - Head Wrap	2025	3.99
 227	Harry Potter / Deathly Hallows	hp526	Lucius Malfoy - Black Suit, Bright Light Yellow Hair, Plain Legs	2025	3.9
 227	Harry Potter / Deathly Hallows	hp527	Narcissa Malfoy - Black Legs	2025	3.86
@@ -17257,7 +17259,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0782	Friends Aliya - Coral Halter Top, Medium Azure Trousers Bell-Bottoms, Metallic Pink Flip Flops, Orange Life Jacket	2025	3.59
 759	NINJAGO / Dragons Rising Season 3	njo0931	Dragonian Warrior - Dragon Backpack	2025	7.14
 759	NINJAGO / Dragons Rising Season 3	njo0933	Nya - Dragons Rising, Tunic with Shoulder Armor, Hair	2025	3.89
-759	NINJAGO / Dragons Rising Season 3	njo0934	Zane - Dragons Rising, Tunic with Shoulder Armor, Hair	2025	3.34
+759	NINJAGO / Dragons Rising Season 3	njo0934	Zane - Dragons Rising, Tunic with Shoulder Armor, Hair, Smile	2025	3.34
 34	Space / Blacktron I	sp147	Blacktron Droid - Corrupted Support Robot	2025	3.1
 801	Minecraft	min199	Steve (Nougat) - Dark Purple Legs	2025	3.46
 768	Super Heroes / Avengers	sh1008	Iron Man - Dark Red and Gold Armor, Round Arc Reactor, Pearl Gold Arms, Helmet with Visor	2025	4.06
@@ -17425,8 +17427,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter / Prisoner of Azkaban	hp547	Sleeping Witch	2025	4.59
 1268	DREAMZzz	drm078	Mateo - Dark Azure Jacket	2025	3.9
 1268	DREAMZzz	drm079	VR Dreamling	2025	1.01
-1197	BrickLink Designer Program	adp149	Camper - Male, Red Plaid Flannel Shirt, Dark Blue Legs, Black Hair, Glasses, Beard	2025	3.4
-1197	BrickLink Designer Program	adp148	Child - Girl, Reddish Brown Jacket, Sand Blue Short Legs, Dark Brown Ponytail, Glasses, Freckles	2025	3.28
+1197	BrickLink Designer Program	bdp149	Camper - Male, Red Plaid Flannel Shirt, Dark Blue Legs, Black Hair, Glasses, Beard	2025	3.4
+1197	BrickLink Designer Program	bdp148	Child - Girl, Reddish Brown Jacket, Sand Blue Short Legs, Dark Brown Ponytail, Glasses, Freckles	2025	3.28
 850	Jurassic World / Jurassic Park	jw128	Dr. Ellie Sattler - Bright Light Blue Shirt	2025	4.48
 759	NINJAGO / Dragons Rising Season 1	njo0956s	Dorama's Puppet with Sticker	2025	13.77
 850	Jurassic World / Jurassic Park	jw129	Dr. Alan Grant - Dark Red Shirt	2025	3.38
@@ -17447,28 +17449,29 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Recreation	cty1880	Dad - Dark Turquoise Jacket over Dark Purple Shirt, Tan Legs, Dark Orange Hair, Baby Carrier	2025	3.68
 759	NINJAGO / Dragons Rising Season 3	njo0964	Drix - Black Shoulder Armor	2025	4.13
 771	Friends	frnd0821	Friends Nova - Dark Purple Hoodie, White Shirt with Tent, Yellowish Green Shorts, Bright Light Yellow Sandals	2024	3.17
+759	NINJAGO / Dragons Rising Season 3	njo0993	Zane - Dragons Rising, Tunic with Shoulder Armor, Hair, Angry (Book b25njo05)	?	3.34
 67	Town / City / Race	cty1881	Formula 1 Driver, VCARB - Male, White Racing Suit, Blue Helmet, Trans-Clear Visor, Stubble	2025	3.66
 67	Town / City / Race	cty1882	Formula 1 Driver, Sauber - Female, Black and Bright Green Racing Suit, Bright Green Helmet, Trans-Clear Visor, Beauty Mark	2025	3.64
-1197	BrickLink Designer Program	adp150	Harbormaster's Office Attendant - Orange Safety Jacket, Sand Blue Legs with Pockets, Dark Brown Ponytail	2025	3.64
-1197	BrickLink Designer Program	adp151	Harbormaster's Office Diver - Dark Blue Diving Suit and Helmet, Orange Air Tanks and Flippers, Trans-Clear Visor	2025	4.85
-1197	BrickLink Designer Program	adp152	Harbormaster's Office Fisherman - Tan Knit Cable Sweater, Dark Tan Legs with Molded Reddish Brown Boots, Dark Bluish Gray Beanie, Dark Orange Beard	2025	3.8
-1197	BrickLink Designer Program	adp153	Harbormaster's Office Harbormaster - Dark Green Open Jacket, Dark Bluish Gray Legs with Molded Black Boots, Light Bluish Gray Swept Back Hair	2025	3.44
-1197	BrickLink Designer Program	adp154	Harbormaster's Office Fisherman - Red Plaid Flannel Shirt, Pearl Dark Gray Legs, Reddish Brown Hair	2025	3.36
-1197	BrickLink Designer Program	adp155	Harbormaster's Office Child - Reddish Brown Jacket, Dark Blue Short Legs, Dark Orange Hair	2025	3.48
+1197	BrickLink Designer Program	bdp150	Harbormaster's Office Attendant - Orange Safety Jacket, Sand Blue Legs with Pockets, Dark Brown Ponytail	2025	3.64
+1197	BrickLink Designer Program	bdp151	Harbormaster's Office Diver - Dark Blue Diving Suit and Helmet, Orange Air Tanks and Flippers, Trans-Clear Visor	2025	4.85
+1197	BrickLink Designer Program	bdp152	Harbormaster's Office Fisherman - Tan Knit Cable Sweater, Dark Tan Legs with Molded Reddish Brown Boots, Dark Bluish Gray Beanie, Dark Orange Beard	2025	3.8
+1197	BrickLink Designer Program	bdp153	Harbormaster's Office Harbormaster - Dark Green Open Jacket, Dark Bluish Gray Legs with Molded Black Boots, Light Bluish Gray Swept Back Hair	2025	3.44
+1197	BrickLink Designer Program	bdp154	Harbormaster's Office Fisherman - Red Plaid Flannel Shirt, Pearl Dark Gray Legs, Reddish Brown Hair	2025	3.36
+1197	BrickLink Designer Program	bdp155	Harbormaster's Office Child - Reddish Brown Jacket, Dark Blue Short Legs, Dark Orange Hair	2025	3.48
 67	Town / City / Fire	cty1883	Fire - Female, Black Jacket and Legs with Reflective Stripes and Red Collar, Black Hair Braided with Knot Bun, Freckles	2025	3.78
 67	Town / City / Fire	cty1884	Fire - Male, Black Jacket and Legs with Reflective Stripes, Dark Brown Hair, Stubble	2025	3.35
-1197	BrickLink Designer Program	adp159	The Art of Chocolate Technician - Male, Reddish Brown Apron, Sand Blue Legs, Dark Orange Hair	2025	3.75
-1197	BrickLink Designer Program	adp160	The Art of Chocolate Customer - Girl, Medium Azure Jacket, Dark Blue Medium Legs, Reddish Brown Wavy Hair	2025	4.46
-1197	BrickLink Designer Program	adp161	The Art of Chocolate Customer - Female, Tan Knit Cable Sweater, Dark Tan Legs, Reddish Brown Boots, Light Bluish Gray Short Wavy Hair	2025	3.89
-1197	BrickLink Designer Program	adp162	The Art of Chocolate Customer - Male, Dark Azure Flannel Shirt, Dark Blue Banana T-Shirt, Sand Blue Legs, Dark Brown Short Wavy Hair	2025	3.64
-1197	BrickLink Designer Program	adp163	The Art of Chocolate Barista - Female, Reddish Brown Apron with Cup and Name Tag, Reddish Brown Legs, Dark Brown Hair Ponytail Long	2025	3.93
+1197	BrickLink Designer Program	bdp159	The Art of Chocolate Technician - Male, Reddish Brown Apron, Sand Blue Legs, Dark Orange Hair	2025	3.75
+1197	BrickLink Designer Program	bdp160	The Art of Chocolate Customer - Girl, Medium Azure Jacket, Dark Blue Medium Legs, Reddish Brown Wavy Hair	2025	4.46
+1197	BrickLink Designer Program	bdp161	The Art of Chocolate Customer - Female, Tan Knit Cable Sweater, Dark Tan Legs, Reddish Brown Boots, Light Bluish Gray Short Wavy Hair	2025	3.89
+1197	BrickLink Designer Program	bdp162	The Art of Chocolate Customer - Male, Dark Azure Flannel Shirt, Dark Blue Banana T-Shirt, Sand Blue Legs, Dark Brown Short Wavy Hair	2025	3.64
+1197	BrickLink Designer Program	bdp163	The Art of Chocolate Barista - Female, Reddish Brown Apron with Cup and Name Tag, Reddish Brown Legs, Dark Brown Hair Ponytail Long	2025	3.93
 878	Disney / Disney Villains	dis180	Cruella De Vil - Mini Doll	2025	3.67
 878	Disney / Disney Villains	dis181	Maleficent - Mini Doll, Lavender Eye Shadow, Magenta Lips, Medium Lavender Cape	2025	3.27
-1197	BrickLink Designer Program	adp164	The Art of Chocolate Chef - Male, White Torso with 8 Buttons, Dark Bluish Gray Legs, White Chef Toque	2025	3.66
-1197	BrickLink Designer Program	adp165	The Art of Chocolate Customer - Boy, Red Jacket, Dark Brown Medium Legs, Dark Tan Hair Swept Back	2025	3.44
-1197	BrickLink Designer Program	adp156	Skeleton - Standard Skull, Bent Arms Vertical Grip, Single Leg	2025	1.93
-1197	BrickLink Designer Program	adp157	Lost City Explorer - Male, Dark Red Jacket with Bright Light Blue Shirt, Dark Tan Legs, Tan Fedora, Backpack	2025	4.9
-1197	BrickLink Designer Program	adp158	Lost City Explorer - Female, Dark Green Open Jacket, Reddish Brown Legs and Hair	2025	3.85
+1197	BrickLink Designer Program	bdp164	The Art of Chocolate Chef - Male, White Torso with 8 Buttons, Dark Bluish Gray Legs, White Chef Toque	2025	3.66
+1197	BrickLink Designer Program	bdp165	The Art of Chocolate Customer - Boy, Red Jacket, Dark Brown Medium Legs, Dark Tan Hair Swept Back	2025	3.44
+1197	BrickLink Designer Program	bdp156	Skeleton - Standard Skull, Bent Arms Vertical Grip, Single Leg	2025	1.93
+1197	BrickLink Designer Program	bdp157	Lost City Explorer - Male, Dark Red Jacket with Bright Light Blue Shirt, Dark Tan Legs, Tan Fedora, Backpack	2025	4.9
+1197	BrickLink Designer Program	bdp158	Lost City Explorer - Female, Dark Green Open Jacket, Reddish Brown Legs and Hair	2025	3.85
 768	Super Heroes / Avengers	sh1036	Dum-E - Yellow Mechanical Claw	2025	1.72
 65	Star Wars / Star Wars Episode 1	sw1418	DRK-1 Dark Eye Probe Droid - Black, Round Tiles	2024	1.62
 878	Disney / Disney Princess / Beauty and the Beast	dp217	Gaston - Quiver	2025	3.92
@@ -17508,17 +17511,17 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / The Infinity Saga	sh1039	Pepper Potts - Black Suit, Reddish Orange Ponytail	2025	3.7
 768	Super Heroes / The Infinity Saga	sh1038	Iron Patriot MK1 - Stud Shooter	2025	5.56
 768	Super Heroes / The Infinity Saga	sh1040	Iron Man - Mark 6 Armor, Large Helmet Visor, Trans-Light Blue Head	2025	4.06
-1197	BrickLink Designer Program	adp166	Forest Stronghold Peasant - Male	2025	3.45
-1197	BrickLink Designer Program	adp167	Forest Stronghold Forestwoman - Red, Green Hat, Red Feather, Quiver, Open Mouth Smile	2025	3.78
-1197	BrickLink Designer Program	adp168	Forest Stronghold Forestman - Red, Green Hat, Red Feather, Quiver, Sideburns	2025	3.78
-1197	BrickLink Designer Program	adp170	Forest Stronghold Forestman - Red, Green Hat, Red Feather, Quiver, Open Mouth Smile	2025	3.78
-1197	BrickLink Designer Program	adp175	Forest Stronghold Forestwoman - Red, Green Hat, Red Feather, Quiver, Open Mouth Smile	2025	3.78
-1197	BrickLink Designer Program	adp177	Forest Stronghold Forestman - Red, Green Hat, Red Feather, Quiver, Stubble	2025	3.78
-1197	BrickLink Designer Program	adp171	Forest Stronghold Black Falcon Soldier - Male, Pearl Dark Gray Detailed Legs, Helmet with Neck Protector	2025	3.63
-1197	BrickLink Designer Program	adp172	Forest Stronghold Black Falcon Soldier - Female, Pearl Dark Gray Detailed Legs, Helmet with Neck Protector, Dark Tan Backpack	2025	4.69
-1197	BrickLink Designer Program	adp173	Forest Stronghold Peasant - Female	2025	4.28
-1197	BrickLink Designer Program	adp174	Forest Stronghold Forestboy - Red	2025	3.14
-1197	BrickLink Designer Program	adp176	Forest Stronghold Black Falcon Soldier - Male, Pearl Dark Gray Detailed Legs, Black Helmet with Eye Slit, Blue Plume	2025	3.79
+1197	BrickLink Designer Program	bdp166	Forest Stronghold Peasant - Male	2025	3.45
+1197	BrickLink Designer Program	bdp167	Forest Stronghold Forestwoman - Red, Green Hat, Red Feather, Quiver, Open Mouth Smile	2025	3.78
+1197	BrickLink Designer Program	bdp168	Forest Stronghold Forestman - Red, Green Hat, Red Feather, Quiver, Sideburns	2025	3.78
+1197	BrickLink Designer Program	bdp170	Forest Stronghold Forestman - Red, Green Hat, Red Feather, Quiver, Open Mouth Smile	2025	3.78
+1197	BrickLink Designer Program	bdp175	Forest Stronghold Forestwoman - Red, Green Hat, Red Feather, Quiver, Open Mouth Smile	2025	3.78
+1197	BrickLink Designer Program	bdp177	Forest Stronghold Forestman - Red, Green Hat, Red Feather, Quiver, Stubble	2025	3.78
+1197	BrickLink Designer Program	bdp171	Forest Stronghold Black Falcon Soldier - Male, Pearl Dark Gray Detailed Legs, Helmet with Neck Protector	2025	3.63
+1197	BrickLink Designer Program	bdp172	Forest Stronghold Black Falcon Soldier - Female, Pearl Dark Gray Detailed Legs, Helmet with Neck Protector, Dark Tan Backpack	2025	4.69
+1197	BrickLink Designer Program	bdp173	Forest Stronghold Peasant - Female	2025	4.28
+1197	BrickLink Designer Program	bdp174	Forest Stronghold Forestboy - Red	2025	3.14
+1197	BrickLink Designer Program	bdp176	Forest Stronghold Black Falcon Soldier - Male, Pearl Dark Gray Detailed Legs, Black Helmet with Eye Slit, Blue Plume	2025	3.79
 768	Super Heroes / The Infinity Saga	sh1042	Dum-E - Black Mechanical Claw	2025	2.32
 65	Star Wars / Star Wars Episode 2	sw1408	Clone Cadet	2025	3.5
 65	Star Wars / Star Wars Andor	sw1410	Cassian Andor - Reddish Brown Vest	2025	3.38
@@ -17532,7 +17535,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Police	cty1888	Police - City Jail Prisoner Female, Orange Prison Jumpsuit, Dark Orange Short Tousled Hair	2025	3.75
 67	Town / City / Police	cty1889	Police - City Officer Male, Neon Yellow Safety Vest, Dark Blue Legs, Dark Orange Spiked Hair	2025	3.59
 67	Town / City / Police	cty1890	Police - City Jail Prisoner Male, White Shirt with Pocket and Black Stripes, Orange Legs, Dark Bluish Gray Hair	2025	3.43
-1197	BrickLink Designer Program	adp169	Skeleton - Standard Skull, Bent Arms Horizontal Grip, Single Leg	2025	1.89
+1197	BrickLink Designer Program	bdp169	Skeleton - Standard Skull, Bent Arms Horizontal Grip, Single Leg	2025	1.89
 167	DUPLO / DUPLO, Town / Hospital	47394pb364	Duplo Figure Lego Ville, Female Medic, Dark Purple Legs, White Top with ID Badge Pattern, White Arms, Dark Brown Hair, Attached Stethoscope, Vitiligo (6533434 / 6548219)	2025	19.55
 167	DUPLO / DUPLO, Town / Hospital	47394pb365	Duplo Figure Lego Ville, Male, Dark Blue Legs, Bright Green Hoodie over Coral, White and Yellow Shirt, Dark Orange Hair and Beard (6534760 / 6566997)	2025	15.32
 167	DUPLO / DUPLO, Town / Hospital	47205pb121	Duplo Figure Lego Ville, Child Boy, Light Bluish Gray Legs, White Shirt with Light Aqua and Medium Azure Stripes, Dark Blue Glasses, Coral and Dark Azure Eye Patch, Orange Hair (6533350)	2025	13.72
@@ -17626,7 +17629,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 850	Jurassic World / Rebirth	jw138	Reuben Delgado	2025	3.6
 850	Jurassic World / Rebirth	jw139	Isabella Delgado	2025	4
 227	Harry Potter / Sorcerer's Stone	hp550	Ron Weasley - Olive Green Jacket, Blue Jumper	2025	3.2
-67	Town / City / Arctic	cty1896	Arctic Explorer - Male, Reddish Brown Fedora and Coat, Dark Tan Legs, Red Scarf (Johnny Thunder)	2025	3.87
+67	Town / City / Arctic	cty1896	Arctic Explorer - Male, Reddish Brown Coat, Dark Tan Legs, Dark Brown Fedora, Red Scarf (Johnny Thunder)	2025	3.87
 67	Town / City / Arctic	cty1897	Arctic Explorer - Female, Red Coat over White Shirt, Medium Azure Legs, Black Hair	2025	3.76
 67	Town / City / Arctic	cty1898	Arctic Explorer - Male, Orange and Medium Azure Jacket, Dark Blue Ushanka Hat, Black Beard, Glasses, Back Pack	2025	5.07
 67	Town / City / Arctic	cty1899	Arctic Explorer - Male, Dark Tan Vest over Orange Shirt, Medium Azure Legs, Dark Blue Beanie, Dark Tan Hair, Orange Glasses	2025	3.77
@@ -17727,15 +17730,15 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 473	Sports / Soccer	soc172	George Best	?	3.58
 473	Sports / Soccer	soc173	Denis Law	?	3.45
 473	Sports / Soccer	soc174	Sir Bobby Charlton	?	3.5
-1197	BrickLink Designer Program	adp178	Medieval Seaside Market Lion Knight Archer - Male, Flat Silver Broad Brim Helmet	2025	4.08
-1197	BrickLink Designer Program	adp179	Medieval Seaside Market Baker - Female, Dark Red Dress, Medium Nougat Hair	2025	4.22
-1197	BrickLink Designer Program	adp180	Medieval Seaside Market Blacksmith - Male, Dark Red Overalls with Tools, Orange Beard	2025	3.29
-1197	BrickLink Designer Program	adp181	Medieval Seaside Market Snake Charmer - Female, Vest over White Shirt, Dark Brown Legs, Black Hair	2025	3.64
-1197	BrickLink Designer Program	adp182	Medieval Seaside Market Lion Knight Archer - Male, Flat Silver Neck Protector, Quiver	2025	4.11
-1197	BrickLink Designer Program	adp183	Medieval Seaside Market Wine Seller - Male, Sand Blue Vest, Dark Orange Legs, Black Hair	2025	3.58
-1197	BrickLink Designer Program	adp184	Medieval Seaside Market Tax Collector - Male, Dark Purple Surcoat, Sand Blue Legs, Dark Orange Hair	2025	3.64
-1197	BrickLink Designer Program	adp185	Medieval Seaside Market Lion Knight Archer - Female, Flat Silver Broad Brim Helmet	2025	4.11
-1197	BrickLink Designer Program	adp186	Medieval Seaside Market Fisher - Female, Tan Vest, Dark Blue Legs, Neck Bracket, Dark Tan Hair, Dark Blue Beanie	2025	4.14
+1197	BrickLink Designer Program	bdp178	Medieval Seaside Market Lion Knight Archer - Male, Flat Silver Broad Brim Helmet	2025	4.08
+1197	BrickLink Designer Program	bdp179	Medieval Seaside Market Baker - Female, Dark Red Dress, Medium Nougat Hair	2025	4.22
+1197	BrickLink Designer Program	bdp180	Medieval Seaside Market Blacksmith - Male, Dark Red Overalls with Tools, Orange Beard	2025	3.29
+1197	BrickLink Designer Program	bdp181	Medieval Seaside Market Snake Charmer - Female, Vest over White Shirt, Dark Brown Legs, Black Hair	2025	3.64
+1197	BrickLink Designer Program	bdp182	Medieval Seaside Market Lion Knight Archer - Male, Flat Silver Neck Protector, Quiver	2025	4.11
+1197	BrickLink Designer Program	bdp183	Medieval Seaside Market Wine Seller - Male, Sand Blue Vest, Dark Orange Legs, Black Hair	2025	3.58
+1197	BrickLink Designer Program	bdp184	Medieval Seaside Market Tax Collector - Male, Dark Purple Surcoat, Sand Blue Legs, Dark Orange Hair	2025	3.64
+1197	BrickLink Designer Program	bdp185	Medieval Seaside Market Lion Knight Archer - Female, Flat Silver Broad Brim Helmet	2025	4.11
+1197	BrickLink Designer Program	bdp186	Medieval Seaside Market Fisher - Female, Tan Vest, Dark Blue Legs, Neck Bracket, Dark Tan Hair, Dark Blue Beanie	2025	4.14
 771	Friends	frnd0842	Friends Aliya - White Crochet Top, Medium Azure Trousers Bell-Bottoms, Metallic Pink Flip Flops, Orange Life Jacket, Trans-Purple Sunglasses	2025	3.64
 878	Disney / Disney Princess / Frozen	dp231	Olaf - Micro Doll, Bright Light Blue Mouth	2025	2.06
 878	Disney / Disney Princess / Frozen	dp228	Anna - Micro Doll, Dark Purple Dress	2025	2.38
@@ -17749,23 +17752,23 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Dragons Rising Season 3	njo0986	Rogue (Jay) - Hat	2025	4.15
 759	NINJAGO / Dragons Rising Season 3	njo0987	Rogue (Jay) - Head Wrap	2025	3.9
 759	NINJAGO / Dragons Rising Season 3	njo0988	Nya - Dragons Rising, Tunic with Strap and Charm	2025	3.9
-1197	BrickLink Designer Program	adp187	Riverside Scholars Village Boy	2025	4.02
-1197	BrickLink Designer Program	adp188	Riverside Scholars - Female, Dark Green Laced Shirt, Dark Tan Legs with Molded Reddish Brown Boots, Light Bluish Gray Hair with Top Knot Bun	2025	3.5
-1197	BrickLink Designer Program	adp189	Riverside Scholars - Male, Leather Armor, Reddish Brown Legs, Tan Conical Hat, Light Bluish Gray Beard	2025	3.7
-1197	BrickLink Designer Program	adp190	Riverside Scholars - Male, Sand Green Vest, Reddish Brown Apron, Sand Blue Legs, Dark Brown Conical Hat, White Beard	2025	4.08
-1197	BrickLink Designer Program	adp191	Riverside Scholars - Female, Olive Green Vest, Dark Tan Legs, Dark Brown Ponytail	2025	3.67
-1197	BrickLink Designer Program	adp192	Wild West Train Bandit - Male, Blue Jacket, Dark Red Legs, Black Bowler Hat	2025	3.4
-1197	BrickLink Designer Program	adp193	Wild West Train Bandit - Female, Black Jacket over White Shirt, Dark Blue Legs, Dark Brown Ponytail	2025	3.7
-1197	BrickLink Designer Program	adp194	Wild West Train Bandit - Male, White Tank Top with Red Stripes, Dark Bluish Gray Legs with Black Boots, Dark Azure Bandana, Dark Brown Fedora	2025	3.9
-1197	BrickLink Designer Program	adp195	Wild West Train Stable Hand - Male, Red Plaid Flannel Shirt, Dark Brown Legs and Fedora	2025	3.7
-1197	BrickLink Designer Program	adp196	Wild West Train Stable Hand - Male, Blue Overalls, Blue Legs, Dark Azure Bandana, Reddish Brown Flat Cap	2025	3.7
-1197	BrickLink Designer Program	adp197	Wild West Train Passenger - Female, Blue Vest, Dark Purple Skirt, Dark Orange Hair with Bun	2025	4
-1197	BrickLink Designer Program	adp198	Wild West Train Passenger - Male, Light Bluish Gray Striped Jacket, Pearl Dark Gray Legs, Black Moustache and Top Hat	2025	3.7
-1197	BrickLink Designer Program	adp199	Wild West Train Cowboy - Male, Black Jacket, Dark Bluish Gray Legs with Black Boots, Dark Brown Fedora	2025	3.7
-1197	BrickLink Designer Program	adp200	Wild West Train Cowboy - Female, Dark Green Jacket, Dark Tan Legs with Reddish Brown Boots, Light Bluish Gray Fedora	2025	3.7
-1197	BrickLink Designer Program	adp201	Wild West Train Passenger - Female, Sand Green Vest, Dark Green Skirt, Dark Orange Hair Over Shoulder	2025	4.1
-1197	BrickLink Designer Program	adp202	Wild West Train Conductor - Male, Dark Blue Uniform	2025	3.4
-1197	BrickLink Designer Program	adp203	Wild West Train Boiler Stoker - Reddish Brown Apron, Dark Orange Beard	2025	3.6
+1197	BrickLink Designer Program	bdp187	Riverside Scholars Village Boy	2025	4.02
+1197	BrickLink Designer Program	bdp188	Riverside Scholars - Female, Dark Green Laced Shirt, Dark Tan Legs with Molded Reddish Brown Boots, Light Bluish Gray Hair with Top Knot Bun	2025	3.5
+1197	BrickLink Designer Program	bdp189	Riverside Scholars - Male, Leather Armor, Reddish Brown Legs, Tan Conical Hat, Light Bluish Gray Beard	2025	3.7
+1197	BrickLink Designer Program	bdp190	Riverside Scholars - Male, Sand Green Vest, Reddish Brown Apron, Sand Blue Legs, Dark Brown Conical Hat, White Beard	2025	4.08
+1197	BrickLink Designer Program	bdp191	Riverside Scholars - Female, Olive Green Vest, Dark Tan Legs, Dark Brown Ponytail	2025	3.67
+1197	BrickLink Designer Program	bdp192	Wild West Train Bandit - Male, Blue Jacket, Dark Red Legs, Black Bowler Hat	2025	3.4
+1197	BrickLink Designer Program	bdp193	Wild West Train Bandit - Female, Black Jacket over White Shirt, Dark Blue Legs, Dark Brown Ponytail	2025	3.7
+1197	BrickLink Designer Program	bdp194	Wild West Train Bandit - Male, White Tank Top with Red Stripes, Dark Bluish Gray Legs with Black Boots, Dark Azure Bandana, Dark Brown Fedora	2025	3.9
+1197	BrickLink Designer Program	bdp195	Wild West Train Stable Hand - Male, Red Plaid Flannel Shirt, Dark Brown Legs and Fedora	2025	3.7
+1197	BrickLink Designer Program	bdp196	Wild West Train Stable Hand - Male, Blue Overalls, Blue Legs, Dark Azure Bandana, Reddish Brown Flat Cap	2025	3.7
+1197	BrickLink Designer Program	bdp197	Wild West Train Passenger - Female, Blue Vest, Dark Purple Skirt, Dark Orange Hair with Bun	2025	4
+1197	BrickLink Designer Program	bdp198	Wild West Train Passenger - Male, Light Bluish Gray Striped Jacket, Pearl Dark Gray Legs, Black Moustache and Top Hat	2025	3.7
+1197	BrickLink Designer Program	bdp199	Wild West Train Cowboy - Male, Black Jacket, Dark Bluish Gray Legs with Black Boots, Dark Brown Fedora	2025	3.7
+1197	BrickLink Designer Program	bdp200	Wild West Train Cowboy - Female, Dark Green Jacket, Dark Tan Legs with Reddish Brown Boots, Light Bluish Gray Fedora	2025	3.7
+1197	BrickLink Designer Program	bdp201	Wild West Train Passenger - Female, Sand Green Vest, Dark Green Skirt, Dark Orange Hair Over Shoulder	2025	4.1
+1197	BrickLink Designer Program	bdp202	Wild West Train Conductor - Male, Dark Blue Uniform	2025	3.4
+1197	BrickLink Designer Program	bdp203	Wild West Train Boiler Stoker - Reddish Brown Apron, Dark Orange Beard	2025	3.6
 768	Super Heroes / Superman	sh1055	Superman - Blue Suit, Rubber Cape	2025	?
 65	Star Wars / Star Wars The Clone Wars	sw1432	Ki-Adi-Mundi - Printed Legs, Straight Belt	2025	3.54
 65	Star Wars / Star Wars The Clone Wars	sw1431	Clone Commander Bacara	2025	4.23
@@ -17824,7 +17827,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter	hp576	Cho Chang - Olive Green Jacket, Dark Blue Short Legs	2025	3.63
 227	Harry Potter	hp577	Ron Weasley - Dark Red Plaid Shirt, Sand Blue Short Legs	2025	3.22
 878	Disney / Toy Story	dis184	Bo Peep - Bright Pink Dress	2025	6.17
-878	Disney / Toy Story	dis185	Woody - Normal Plain Legs	2025	3.91
+878	Disney / Toy Story	dis185	Woody - Plain Legs, Nougat Chin Dimple	2025	3.91
 1268	DREAMZzz	drm093	Astrid - White Outfit, Light Aqua Hair, Gold Crown	2025	4.04
 1268	DREAMZzz	drm094	Cyber Brain Spider - 4 Legs, Magenta Appendages	2025	10.35
 1268	DREAMZzz	drm095	Cyber Brain Spider - 4 Legs, Medium Azure Appendages, Black Claws	2025	10.2
@@ -17848,10 +17851,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0851	Friends Olly - Merman Costume	2025	3.1
 771	Friends	frnd0852	Friends Leo - Bunny / Rabbit Costume	2025	3.13
 801	Minecraft	min229	Illager (Pillager) - Narrow Eyes, Dark Bluish Gray Neck Bracket	2025	3.78
-1197	BrickLink Designer Program	adp204	Merchant Boat Mechanic - Male, Dark Tan Shirt with Reddish Brown Apron, Sand Blue Legs, Reddish Brown Flat Cap, Stubble	2025	3.56
-1197	BrickLink Designer Program	adp205	Merchant Boat - Girl, White Sweater with Red Horizontal Stripes, Dark Blue Medium Legs, Dark Brown Hair Ponytail Long with Side Bangs, Freckles	2025	3.81
-1197	BrickLink Designer Program	adp206	Merchant Boat - Female, Bright Light Orange Jacket, Dark Tan Legs with Pockets, Dark Orange Hair	2025	3.91
-1197	BrickLink Designer Program	adp207	Merchant Boat Captain - Male, Dark Green Open Jacket, Sand Blue Legs, Dark Green Hat, Dark Orange Beard	2025	4.07
+1197	BrickLink Designer Program	bdp204	Merchant Boat Mechanic - Male, Dark Tan Shirt with Reddish Brown Apron, Sand Blue Legs, Reddish Brown Flat Cap, Stubble	2025	3.56
+1197	BrickLink Designer Program	bdp205	Merchant Boat - Girl, White Sweater with Red Horizontal Stripes, Dark Blue Medium Legs, Dark Brown Hair Ponytail Long with Side Bangs, Freckles	2025	3.81
+1197	BrickLink Designer Program	bdp206	Merchant Boat - Female, Bright Light Orange Jacket, Dark Tan Legs with Pockets, Dark Orange Hair	2025	3.91
+1197	BrickLink Designer Program	bdp207	Merchant Boat Captain - Male, Dark Green Open Jacket, Sand Blue Legs, Dark Green Hat, Dark Orange Beard	2025	4.07
 771	Friends	frnd0853	Friends Liann - White Top with Panda, Bright Light Orange Shorts, Coral Shoes	2025	3.05
 771	Friends	frnd0854	Friends Autumn - Dark Green Top with Mushrooms, Sand Green Trousers Bell-Bottoms, Medium Nougat Shoes	2025	2.95
 801	Minecraft	min231	Ender Knight	2025	3.46
@@ -17880,12 +17883,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town	twn530	Vampire - Dark Red Dress, Black Hair	2025	4.72
 67	Town	twn529	Ghost with Wavy Mouth	2025	4.74
 67	Town	twn528	Frankenstein's Monster (Frankenstein)	2025	3.54
-9	Castle	cas595	Horse Knight Archer	2025	4.15
+9	Castle	cas595	Horse Knight Archer	2025	4.18
 9	Castle	cas593	Serpent Knight	2025	4.03
 9	Castle	cas592	Horse Knight King	2025	4.15
 9	Castle	cas590	Horse Knight Champion	2025	4.21
-9	Castle	cas591	Horse Knight Spearman	2025	3.65
-9	Castle	cas594	Blacksmith - White Shirt with Reddish Brown Vest, Blue Legs, Dark Tan Hair	2025	3.55
+9	Castle	cas591	Horse Knight Spearman	2025	3.67
+9	Castle	cas594	Blacksmith - White Shirt with Reddish Brown Vest, Blue Legs, Dark Tan Hair	2025	3.56
 768	Super Heroes / Spider-Man / Spider-Man 2	sh1057	Spider-Man - Dark Blue Arms and Legs, Red Boots, Silver Webbing, Light Nougat Costume Tears	2025	3.12
 768	Super Heroes / Spider-Man / Spider-Man 2	sh1058	Aunt May - Light Bluish Gray Cardigan Sweater, Bright Light Blue Legs	2025	3.46
 768	Super Heroes / Spider-Man / Spider-Man 2	sh1059	J. Jonah Jameson - Dark Blue Suit, Reddish Brown Hair	2025	3.32
@@ -17987,6 +17990,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1305	Wicked	wck017	Madame Morrible - Minifigure	2025	3.98
 1305	Wicked	wck018	Pfannee	2025	3.4
 1305	Wicked	wck019	Elphaba - Minifigure, Black Dress, Hat	2025	5.14
+850	Jurassic World	jw142	ACU Guard / Ranger - Male, Neck Bracket with Helipack (122505)	?	?
 9	Castle / Black Falcons	cas596	Black Falcon - Light Gray Legs with Black Hips, Dark Gray Chin-Guard, Quiver	?	4
 34	Space / Blacktron I	sp148	Blacktron I - Printed Legs, Gold Triangle Logos	2025	4.22
 67	Town / City	cty1930	Child - Boy, Polar Bear Costume, Medium Azure Scarf	2025	3.65
@@ -18100,6 +18104,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw1458	Han Solo - Stormtrooper Outfit, Printed Legs, Shoulder Belts, Smile / Angry	2025	3.65
 65	Star Wars / Star Wars Episode 4/5/6	sw1465	Imperial Navy Officer - Black Cap with Reddish Brown Hair	2025	3.68
 65	Star Wars / Star Wars Episode 4/5/6	sw1466	Astromech Droid, R3-T6	2025	4.52
+976	LEGO Brand / Promotional	gen196	LEGO Masters Minifigure Black (LEGO Masters Academy Grand Opening Exclusive)	2025	3
 65	Star Wars / Star Wars Other	sw1483	Darth Vader - Gingerbread	2025	4.08
 65	Star Wars / Star Wars Episode 4/5/6	sw1474	Imperial Gunner - Helmet with White Imperial Logo, Reddish Brown Head	2025	4
 65	Star Wars / Star Wars Episode 4/5/6	sw1472	Imperial Gunner - Helmet with White Imperial Logo, Sienna Head	2025	4
@@ -18128,7 +18133,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1266	Gabby's Dollhouse / Gabby's Dollhouse The Movie	gdh017	Kitty Jellyfish	2025	2.01
 167	DUPLO / Disney / Disney Princess / Frozen	47394pb370	Duplo Figure Lego Ville, Disney Princess, Elsa, Light Aqua Legs and Top (6545872)	2025	19.36
 167	DUPLO / Disney / Disney Princess / Frozen	47394pb371	Duplo Figure Lego Ville, Disney Princess, Anna, Medium Azure Top (6545379)	2025	20.29
-65	Star Wars / Star Wars Episode 4/5/6	sw1484	Imperial TIE Fighter Pilot - Medium Tan Head (40771)	?	4.2
+65	Star Wars / Star Wars Episode 4/5/6	sw1484	Imperial TIE Fighter Pilot - Medium Tan Head	2025	4.2
 390	Holiday & Event / Christmas	hol381	Santa - Fur Lined Jacket with 2 Black Creases on Back, Red Legs with Black Boots, Santa Hat with Molded Red Top	2025	4.05
 390	Holiday & Event / Christmas	hol384	Mrs. Claus - Red Jacket, Dark Red Printed Skirt	2025	4.1
 390	Holiday & Event / Christmas	hol382	Elf - Green Jacket with Christmas Trees, Reddish Brown Helmet, White Goggles	2025	3.34
@@ -18146,6 +18151,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / Bluey	47394pb372	Duplo Figure Lego Ville, Chilli (6559925)	2025	14.2
 167	DUPLO / Bluey	47394pb373	Duplo Figure Lego Ville, Bandit (6566890)	2025	14.2
 67	Town / City / Construction	cty1936	Construction Worker - Male, Reddish Orange Safety Jacket with Reflective Stripes, Dark Bluish Gray Legs, Red Construction Helmet, Beard	2025	3.36
+447	School Supplies	pln207	Plain Red Torso with Red Arms, Black Legs, Black Eyebrows, Thin Grin	?	3.05
 167	DUPLO / DUPLO, Town / Airport	47205pb130	Duplo Figure Lego Ville, Child Boy, Medium Lavender Legs, Bright Light Yellow and White Top Baseball T-Shirt, Sunflower ID Badge on Lanyard Pattern, Black Hair (6544013)	2025	12.48
 167	DUPLO / DUPLO, Town / Airport	47394pb374	Duplo Figure Lego Ville, Female, Black Legs, White Pilot Uniform, Blue Tie, Medium Lavender Glasses, Gold Wings Badge Pattern, Medium Nougat Hair (6559786)	2025	16.1
 1268	DREAMZzz	drm097	Dooper - Backpack with Chainsaws	2025	?
@@ -18153,17 +18159,78 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 545	FIRST LEGO League	fst054	Diver - Male, Black Wetsuit, Trans-Light Blue Visor, Orange Flippers	2024	4.95
 545	FIRST LEGO League	fst055	Skeleton - Standard Skull, Bent Arms Horizontal Grip, Black Bicorne Hat	2024	2.68
 545	FIRST LEGO League	fst056	Figurehead - Black Torso, Head, and Hair, Sand Green Mermaid Tail	2024	4.8
-817	LEGO Ideas (CUUSOO) / The Goonies	idea258	Michael Walsh (Mikey)	?	3.2
-817	LEGO Ideas (CUUSOO) / The Goonies	idea259	Lotney Fratelli (Sloth)	?	3.75
-817	LEGO Ideas (CUUSOO) / The Goonies	idea260	Mama Fratelli	?	4.1
-817	LEGO Ideas (CUUSOO) / The Goonies	idea261	Brandon Walsh (Brand)	?	3.95
-817	LEGO Ideas (CUUSOO) / The Goonies	idea262	Stephanie Steinbrenner (Stef)	?	3.6
-817	LEGO Ideas (CUUSOO) / The Goonies	idea263	Lawrence Cohen (Chunk)	?	3.46
-817	LEGO Ideas (CUUSOO) / The Goonies	idea264	Clark Devereaux (Mouth)	?	3.12
-817	LEGO Ideas (CUUSOO) / The Goonies	idea265	Richard Wang (Data)	?	3.4
-817	LEGO Ideas (CUUSOO) / The Goonies	idea266	Jake Fratelli	?	3.43
-817	LEGO Ideas (CUUSOO) / The Goonies	idea267	Francis Fratelli	?	3.4
-817	LEGO Ideas (CUUSOO) / The Goonies	idea268	Andrea Theresa Carmichael (Andy)	?	4.23
-817	LEGO Ideas (CUUSOO) / The Goonies	idea269	One-Eyed Willie	?	3.79
+817	LEGO Ideas (CUUSOO) / The Goonies	idea258	Michael Walsh (Mikey)	2025	3.2
+817	LEGO Ideas (CUUSOO) / The Goonies	idea259	Lotney Fratelli (Sloth)	2025	3.75
+817	LEGO Ideas (CUUSOO) / The Goonies	idea260	Mama Fratelli	2025	4.1
+817	LEGO Ideas (CUUSOO) / The Goonies	idea261	Brandon Walsh (Brand)	2025	3.95
+817	LEGO Ideas (CUUSOO) / The Goonies	idea262	Stephanie Steinbrenner (Stef)	2025	3.6
+817	LEGO Ideas (CUUSOO) / The Goonies	idea263	Lawrence Cohen (Chunk)	2025	3.46
+817	LEGO Ideas (CUUSOO) / The Goonies	idea264	Clark Devereaux (Mouth)	2025	3.12
+817	LEGO Ideas (CUUSOO) / The Goonies	idea265	Richard Wang (Data)	2025	3.4
+817	LEGO Ideas (CUUSOO) / The Goonies	idea266	Jake Fratelli	2025	3.43
+817	LEGO Ideas (CUUSOO) / The Goonies	idea267	Francis Fratelli	2025	3.4
+817	LEGO Ideas (CUUSOO) / The Goonies	idea268	Andrea Theresa Carmichael (Andy)	2025	4.23
+817	LEGO Ideas (CUUSOO) / The Goonies	idea269	One-Eyed Willie	2025	3.79
 817	LEGO Ideas (CUUSOO) / The Goonies	idea270	Irene Walsh	2025	3.85
 817	LEGO Ideas (CUUSOO) / The Goonies	idea271	Irving Walsh	2025	3.36
+1312	Wednesday	wed009	Lurch	2025	3.22
+1312	Wednesday	wed010	Morticia Addams	2025	3.15
+1312	Wednesday	wed011	Bianca Barclay	2025	2.38
+878	Disney / Toy Story	dis189	Woody - Plain Legs, Medium Nougat Chin Dimple	2025	3.91
+1095	Super Mario	mar0230	Blue Toad - Winking, Tan Hinge Brick	2025	9.05
+1355	Star Trek	trek001	Dr. Beverly Crusher	2025	4
+1355	Star Trek	trek002	Wesley Crusher	2025	3.37
+1355	Star Trek	trek003	Commander William Riker	2025	3.47
+1355	Star Trek	trek004	Lieutenant Commander Geordi La Forge	2025	3.39
+1355	Star Trek	trek005	Lieutenant Commander Data	2025	3.35
+1355	Star Trek	trek006	Captain Jean-Luc Picard	2025	3
+1355	Star Trek	trek007	Counsellor Deanna Troi	2025	4.52
+1355	Star Trek	trek008	Lieutenant Worf	2025	3.81
+1355	Star Trek	trek009	Guinan	2025	4.93
+1197	BrickLink Designer Program	bdp208	Black Falcon Archer - Female, Pearl Dark Gray Detailed Legs, Reddish Brown Hair, Quiver	2025	4.04
+1197	BrickLink Designer Program	bdp215	Black Falcon Archer - Male, Pearl Dark Gray Detailed Legs, Light Bluish Gray Helmet with Neck Protector, White Beard, Quiver	2025	4.35
+1197	BrickLink Designer Program	bdp216	Black Falcon Archer - Male, Pearl Dark Gray Detailed Legs, Black Helmet with Neck Protector, Moustache, Quiver	2025	4.15
+1197	BrickLink Designer Program	bdp217	Black Falcon - Male, Pearl Dark Gray Detailed Legs, Flat Silver Helmet with Broad Brim, Reddish Brown Spiked Shoulder Pads	2025	4.23
+1197	BrickLink Designer Program	bdp218	Black Falcon - Female, Pearl Dark Gray Detailed Legs, Flat Silver Helmet with Broad Brim, Dark Blue Shoulder Pads	2025	4.2
+1197	BrickLink Designer Program	bdp209	Blacksmith - Female, Dark Red Overalls and Legs with Trim, Black Hair, Shoulder Pads	2025	4.12
+1197	BrickLink Designer Program	bdp211	Herbalist	2025	4.68
+1197	BrickLink Designer Program	bdp214	Peasant - Male, Tan Vest, Black Legs, Reddish Brown Hood, Dark Tan Backpack	2025	4.82
+1197	BrickLink Designer Program	bdp213	Field Kitchen Chef	2025	3.95
+1197	BrickLink Designer Program	bdp221	Siege Engineer	2025	3.71
+1197	BrickLink Designer Program	bdp212	Bullock Cart Driver	2025	3.71
+1197	BrickLink Designer Program	bdp220	Queen - Black Dress with Gold and Silver Lines, Dark Orange Hair, Sand Blue Fur Collar	2025	4.5
+1197	BrickLink Designer Program	bdp210	Knight - Male, Dark Bluish Gray and Silver Armor, Black Boots, Pearl Dark Gray Helmet, White Feather, Dark Orange Beard, Light Bluish Gray Shoulder Pads	2025	4.3
+1197	BrickLink Designer Program	bdp219	Knight - Female, Dark Bluish Gray and Silver Armor, Black Boots, Black Helmet, Pearl Gold Crown, Flat Silver Breastplate	2025	4.6
+1197	BrickLink Designer Program	bdp222	Knight - Male, Dark Bluish Gray and Silver Armor, Black Boots, Flat Silver Helmet with Neck Protector, Neck Bracket with Clip	2025	4.15
+1197	BrickLink Designer Program	bdp223	Lion Knight - Female, Flat Silver Neck Protector	2025	3.67
+817	LEGO Ideas (CUUSOO)	idea272	Astronaut - Female, White Spacesuit with Bright Green Arms, Bright Green Legs, Trans-Clear Fishbowl Helmet	2025	4.18
+817	LEGO Ideas (CUUSOO)	idea273	Astronaut - Male, White Spacesuit with Bright Light Orange Arms, Bright Light Orange Legs, Trans-Clear Fishbowl Helmet	2025	4.18
+759	NINJAGO / Dragons Rising Season 3	njo0994	Kai - Dragons Rising, Tunic with Shoulder Armor, Hair (Book b25njo06)	?	4.05
+67	Town / City / Space Exploration	cty1937	Astronaut - Male, White Spacesuit with Bright Green Arms, Bright Green Helmet, Trans-Clear Visor, Bright Green Harness with 2 Clips	2025	?
+53	Adventurers / Orient Expedition	adv056	Ngan Pa (Yeti Hunter)	2003	4.14
+53	Adventurers / Orient Expedition	adv055	Sherpa Sangye Dorje with Backpack	2003	6.14
+1197	BrickLink Designer Program	bdp224	Antique Shop - Male, Light Bluish Gray Knit Cable Cardigan Sweater, Dark Tan Legs with Pockets, Reddish Brown Flat Cap	2025	3.57
+1197	BrickLink Designer Program	bdp225	Antique Shop - Female, Bright Light Orange Jacket, Dark Tan Legs with Molded Reddish Brown Boots, Black Ponytail	2025	3.98
+1197	BrickLink Designer Program	bdp226	Antique Shop - Female Child, Bright Light Blue Hoodie over Dark Purple Shirt, Medium Lavender Short Legs, Bright Light Yellow Ponytail	2025	3.3
+1197	BrickLink Designer Program	bdp227	Antique Shop - Male, Dark Green Hoodie, Sand Blue Legs with Pockets, Dark Brown Short Wavy Hair	2025	3.67
+1197	BrickLink Designer Program	bdp228	Antique Shop - Female, Bright Light Blue Knit Fair Isle Sweater, Dark Blue Legs, Reddish Brown Wavy Hair	2025	3.82
+390	Holiday & Event / Christmas	hol388	Boy - Medium Lavender Beanie, Red Scarf, Light Bluish Gray Cardigan, Blue Short Legs	2025	3.41
+390	Holiday & Event / Christmas	hol389	Postmaster - Dark Orange Ponytail, Glasses, Dark Turquoise Jacket, Black Legs	2025	3.64
+390	Holiday & Event / Christmas	hol390	Girl - Magenta Beanie, Dark Green Jacket, Dark Orange Short Legs	2025	3.73
+390	Holiday & Event / Christmas	hol391	Shopkeeper - Reddish Brown Hair, Moustache, Pearl Gold Vest, Dark Red Legs	2025	3.52
+390	Holiday & Event / Christmas	hol392	Elf - Female, Bright Green Hat, Green Top with Red Collar, Dark Blue Short Legs	2025	3.31
+390	Holiday & Event / Christmas	hol393	Elf - Bright Green Hat, Green Shirt with Red Collar, Dark Blue Short Legs	2025	3.31
+1197	BrickLink Designer Program	bdp229	Vampire Castle Visitor - Female, Red Plaid Flannel Shirt, Black Medium Legs, Reddish Brown Hair	2025	3.85
+1197	BrickLink Designer Program	bdp230	Child - Girl, Reddish Brown Overalls and Short Legs, Medium Nougat Hair	2025	3.6
+1197	BrickLink Designer Program	bdp231	Bandit - Male, Blue Coat, Dark Brown Legs, Dark Brown Fedora	2025	3.67
+1197	BrickLink Designer Program	bdp233	Vampire - Black Suit, Dark Bluish Gray Hair, Red Scarf	2025	3.75
+1197	BrickLink Designer Program	bdp240	Vampire's Bride - Black Dress, Ghost Legs, Black Hair	2025	4.48
+1197	BrickLink Designer Program	bdp236	Statue - Vampire Castle Knight	2025	4.71
+1197	BrickLink Designer Program	bdp237	Vampire Castle Chef	2025	3.74
+1197	BrickLink Designer Program	bdp232	Vampire Castle Visitor - Female, Tan Knit Argyle Sweater Vest, Dark Blue Skirt, Dark Brown Hair, Dark Blue Scarf	2025	4.17
+1197	BrickLink Designer Program	bdp234	Vampire Castle Visitor - Female, Black Suit Jacket with White Button Up Shirt, Dark Bluish Gray Legs with Black Boots, Reddish Brown Hair	2025	3.9
+1197	BrickLink Designer Program	bdp235	Vampire Castle Visitor - Male, Light Bluish Gray Jacket with Pinstripes, Pearl Dark Gray Legs, Yellowish Green Pith Helmet	2025	3.52
+1197	BrickLink Designer Program	bdp238	Vampire Castle Visitor - Male, Black Vest with Blue Striped Tie, Black Legs, Black Top Hat, Dark Tan Scarf	2025	3.81
+1197	BrickLink Designer Program	bdp239	Vampire Castle Visitor - Male, Dark Green Open Jacket, Dark Tan Legs with Reddish Brown Boots, Medium Nougat Hair	2025	3.56
+1197	BrickLink Designer Program	bdp241	Vampire Castle Visitor - Male, Blue Vest with Metallic Light Blue Lapels, Dark Blue Legs, Black Hair	2025	3.6
+1355	Star Trek	trek010	Ensign Ro Laren	2025	4

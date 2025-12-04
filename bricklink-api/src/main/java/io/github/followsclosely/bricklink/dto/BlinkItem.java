@@ -175,7 +175,7 @@ public class BlinkItem {
             @JsonProperty("item")
             private InventoryItem item;
             @JsonProperty("color_id")
-            private Integer colorId;
+            private Long colorId;
             @JsonProperty("quantity")
             private Integer quantity;
             @JsonProperty("extra_quantity")
