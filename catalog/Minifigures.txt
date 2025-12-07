@@ -3944,7 +3944,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 61	Pirates / Pirates II / Imperial Guards	pi085	Imperial Soldier II - Officer with Red Plume	2009	4.16
 61	Pirates / Pirates II / Imperial Guards	pi086	Admiral's Daughter (Maiden)	2009	5.6
 61	Pirates / Pirates II / Imperial Guards	pi087	Imperial Soldier II - Shako Hat Printed, Cheek Lines	2009	3.9
-61	Pirates / Pirates II	pi088	Mermaid - Long with Bracket	2009	7
+61	Pirates / Pirates II	pi088	Mermaid - Long with Bracket (Figurehead)	2009	7
 61	Pirates / Pirates II / Imperial Guards	pi089	Imperial Soldier II - Officer with Red Plume, Brown Beard	2009	4.8
 61	Pirates / Pirates II / Imperial Guards	pi090	Imperial Soldier II - Shako Hat Printed, Scowl	2009	3.87
 61	Pirates / Pirates II / Imperial Guards	pi091	Imperial Soldier II - Governor	2009	4.4
@@ -17902,7 +17902,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1347	One Piece	op025	Koby	2025	3.35
 1347	One Piece	op021	Garp	2025	3.6
 1347	One Piece	op023	Zeff	2025	3.7
-1347	One Piece	op020	Baratie Mermaid Statue	2025	4.45
+1347	One Piece	op020	Baratie Mermaid Statue (Monochrome)	2025	4.45
 1347	One Piece	op022	Sanji Vinsmoke - Chef Overalls	2025	3.55
 1347	One Piece	op019	Roronoa Zoro - Dark Blue Shirt, Black Bandana	2025	3.45
 67	Town	twn531	Gamer - Male, Light Bluish Gray Hoodie, Blue Legs, Dark Orange Hair	2025	3.54
@@ -18061,7 +18061,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 761	Pirates of the Caribbean	poc048	Anamaria	2025	4.23
 761	Pirates of the Caribbean	poc045	Will Turner - Reddish Brown Vest	2025	3.55
 761	Pirates of the Caribbean	poc049	Marty	2025	3.1
-761	Pirates of the Caribbean	poc052	Black Pearl Figurehead	2025	4.75
+761	Pirates of the Caribbean	poc052	Black Pearl Figurehead - Sand Green	2025	4.75
 1312	Wednesday	wed007	Marilyn Thornhill (Professor)	2025	3.23
 768	Super Heroes / Batman II	sh1088s	Batwing with Sticker	2025	6.3
 878	Disney / Disney Villains	dis188	Cruella de Vil	2025	4.2
@@ -18142,6 +18142,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 390	Holiday & Event / Christmas	hol385a	Elf - Green Jacket with Christmas Trees, Bright Green Neck Bracket with Robot Arms and Utensils	2025	8.05
 390	Holiday & Event / Christmas	hol387	Elf - Green Coat with Red Collar, Bright Green Helmet Castle	2025	3.22
 1095	Super Mario / Mario Kart	mar0226	King Boo - Dark Pink Tongue, White Scanner Tile Modified, Tall Base	2025	49
+761	Pirates of the Caribbean	poc030	Black Pearl Figurehead - Black (Monochrome)	?	?
 1095	Super Mario / Mario Kart	mar0227	Piranha Plant - Stem and Large Leaves	2025	26.04
 1312	Wednesday	wed008	Enid Sinclair - Black and Dark Purple Nevermore Academy Uniform	2025	3.22
 1095	Super Mario	mar0228	Captain Toad	2025	17.15
@@ -18231,6 +18232,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1197	BrickLink Designer Program	bdp234	Vampire Castle Visitor - Female, Black Suit Jacket with White Button Up Shirt, Dark Bluish Gray Legs with Black Boots, Reddish Brown Hair	2025	3.9
 1197	BrickLink Designer Program	bdp235	Vampire Castle Visitor - Male, Light Bluish Gray Jacket with Pinstripes, Pearl Dark Gray Legs, Yellowish Green Pith Helmet	2025	3.52
 1197	BrickLink Designer Program	bdp238	Vampire Castle Visitor - Male, Black Vest with Blue Striped Tie, Black Legs, Black Top Hat, Dark Tan Scarf	2025	3.81
+390	Holiday & Event / Christmas	hol394	Barista Hot Chocolate Stand - Female, Reddish Brown Apron with Cup and Name Tag, Reddish Brown Legs,  Dark Orange Hair with Braid	?	3.93
+390	Holiday & Event / Christmas	hol395	Customer Hot Chocolate Stand - Male, Bright Green Sweater with Bright Light Yellow Zigzag Lines, Blue Legs, Dark Blue Ushanka Hat	?	3.98
 1197	BrickLink Designer Program	bdp239	Vampire Castle Visitor - Male, Dark Green Open Jacket, Dark Tan Legs with Reddish Brown Boots, Medium Nougat Hair	2025	3.56
 1197	BrickLink Designer Program	bdp241	Vampire Castle Visitor - Male, Blue Vest with Metallic Light Blue Lapels, Dark Blue Legs, Black Hair	2025	3.6
 1355	Star Trek	trek010	Ensign Ro Laren	2025	4

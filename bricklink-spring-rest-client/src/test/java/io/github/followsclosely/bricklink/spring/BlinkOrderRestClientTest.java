@@ -1,10 +1,12 @@
 package io.github.followsclosely.bricklink.spring;
 
 import io.github.followsclosely.bricklink.BlinkOrderClient;
+import io.github.followsclosely.bricklink.DefaultBlinkApiRateLimiter;
 import io.github.followsclosely.bricklink.dto.BlinkOrder;
 import io.github.followsclosely.bricklink.dto.BlinkResponse;
 import io.github.followsclosely.bricklink.oauth.BlinkAuthSignerFactory;
 import lombok.extern.slf4j.Slf4j;
+import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
@@ -15,9 +17,15 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 @Slf4j
 class BlinkOrderRestClientTest {
 
+    private static BlinkOrderRestClient client = null;
+
+    @BeforeAll
+    public static void init() throws IOException {
+        BlinkOrderRestClientTest.client = new BlinkOrderRestClient(BlinkAuthSignerFactory.newInstance(), DefaultBlinkApiRateLimiter.DEFAULT_INSTANCE);
+    }
+
     @Test
     void getOrders() throws IOException {
-        BlinkOrderRestClient client = new BlinkOrderRestClient(BlinkAuthSignerFactory.newInstance());
         BlinkResponse<List<BlinkOrder>> response = client.getOrders(BlinkOrderClient.Query.builder().direction(BlinkOrderClient.Query.Direction.out).build());
 
         assertNotNull(response);
@@ -28,7 +36,6 @@ class BlinkOrderRestClientTest {
 
     @Test
     void getOrder() throws IOException {
-        BlinkOrderRestClient client = new BlinkOrderRestClient(BlinkAuthSignerFactory.newInstance());
         BlinkResponse<BlinkOrder> response = client.getOrder(25722880);
 
         assertNotNull(response);
@@ -37,7 +44,6 @@ class BlinkOrderRestClientTest {
 
     @Test
     void getOrderItems() throws IOException {
-        BlinkOrderRestClient client = new BlinkOrderRestClient(BlinkAuthSignerFactory.newInstance());
         BlinkResponse<List<List<BlinkOrder.OrderItem>>> response = client.getOrderItems(29671299);
 
         assertNotNull(response);
@@ -48,7 +54,6 @@ class BlinkOrderRestClientTest {
 
     @Test
     void getOrderMessages() throws IOException {
-        BlinkOrderRestClient client = new BlinkOrderRestClient(BlinkAuthSignerFactory.newInstance());
         BlinkResponse<List<BlinkOrder.Message>> response = client.getOrderMessages(29506181);
 
         assertNotNull(response);
@@ -59,7 +64,6 @@ class BlinkOrderRestClientTest {
 
     @Test
     void getOrderFeedback() throws IOException {
-        BlinkOrderRestClient client = new BlinkOrderRestClient(BlinkAuthSignerFactory.newInstance());
         BlinkResponse<List<BlinkOrder.Feedback>> response = client.getOrderFeedback(29506181);
 
         assertNotNull(response);

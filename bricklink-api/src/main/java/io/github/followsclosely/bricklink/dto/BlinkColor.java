@@ -20,7 +20,7 @@ import lombok.NoArgsConstructor;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class BlinkColor {
     @JsonProperty("color_id")
-    private Long id;
+    private Integer id;
     @JsonProperty("color_name")
     private String name;
     @JsonProperty("color_code")

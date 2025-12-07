@@ -55,4 +55,24 @@ public class BlinkCatalogLoaderConfiguration {
         log.info("Created BlinkCategoryCatalogLoader bean: {}", loader);
         return loader;
     }
+
+    @Bean
+    @Lazy
+    @ConditionalOnMissingBean(BlinkMinifigureCatalogLoader.class)
+    public BlinkMinifigureCatalogLoader blinkMinifigureCatalogLoader() {
+        BlinkMinifigureCatalogLoader loader = new BlinkMinifigureCatalogLoader();
+        loader.setRootDirectory(rootDirectory.getAbsolutePath());
+        log.info("Created BlinkMinifigureCatalogLoader bean: {}", loader);
+        return loader;
+    }
+
+    @Bean
+    @Lazy
+    @ConditionalOnMissingBean(BlinkPartCatalogLoader.class)
+    public BlinkPartCatalogLoader blinkPartCatalogLoader() {
+        BlinkPartCatalogLoader loader = new BlinkPartCatalogLoader();
+        loader.setRootDirectory(rootDirectory.getAbsolutePath());
+        log.info("Created BlinkPartCatalogLoader bean: {}", loader);
+        return loader;
+    }
 }

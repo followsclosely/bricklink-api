@@ -1,11 +1,14 @@
 package io.github.followsclosely.bricklink.spring;
 
+import io.github.followsclosely.bricklink.DefaultBlinkApiRateLimiter;
 import io.github.followsclosely.bricklink.dto.BlinkColor;
 import io.github.followsclosely.bricklink.dto.BlinkResponse;
 import io.github.followsclosely.bricklink.oauth.BlinkAuthSignerFactory;
 import lombok.extern.slf4j.Slf4j;
+import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
+import java.io.IOException;
 import java.util.List;
 import java.util.Optional;
 
@@ -14,9 +17,15 @@ import static org.junit.jupiter.api.Assertions.*;
 @Slf4j
 class BlinkColorRestClientTest {
 
+    private static BlinkColorRestClient client = null;
+
+    @BeforeAll
+    public static void init() throws IOException {
+        BlinkColorRestClientTest.client = new BlinkColorRestClient(BlinkAuthSignerFactory.newInstance(), DefaultBlinkApiRateLimiter.DEFAULT_INSTANCE);
+    }
+
     @Test
     public void testGetColor() throws Exception {
-        BlinkColorRestClient client = new BlinkColorRestClient(BlinkAuthSignerFactory.newInstance());
         BlinkResponse<BlinkColor> response = client.getColor(1);
         System.out.println(response);
 
@@ -28,7 +37,6 @@ class BlinkColorRestClientTest {
 
     @Test
     public void testGetColors() throws Exception {
-        BlinkColorRestClient client = new BlinkColorRestClient(BlinkAuthSignerFactory.newInstance());
         BlinkResponse<List<BlinkColor>> response = client.getColors();
 
         assertNotNull(response);

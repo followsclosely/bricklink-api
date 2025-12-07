@@ -37,7 +37,7 @@ public class BlinkItem {
 
         SET("S", "Set"),
         PART("P", "Part"),
-        MINIFIGURE("M", "Minifigure"),
+        MINIFIG("M", "Minifigure"),
         BOOK("B", "Book"),
         GEAR("G", "Gear"),
         CATALOG("C", "Catalog"),
@@ -51,8 +51,12 @@ public class BlinkItem {
         static {
             Map<String, Type> map = new HashMap<>();
             for (Type type : values()) {
-                map.put(type.name(), type);
+                map.put(type.name().toUpperCase(), type);
             }
+
+            map.put("BOX", ORIGINAL_BOX);
+            map.put("MINIFIGURE", MINIFIG);
+
             ID_MAP = Collections.unmodifiableMap(map);
         }
 
@@ -74,7 +78,7 @@ public class BlinkItem {
          */
         @JsonCreator
         public static Type fromId(String id) {
-            return ID_MAP.getOrDefault(id, UNKNOWN);
+            return ID_MAP.getOrDefault(id.toUpperCase(), UNKNOWN);
         }
     }
 
@@ -175,7 +179,7 @@ public class BlinkItem {
             @JsonProperty("item")
             private InventoryItem item;
             @JsonProperty("color_id")
-            private Long colorId;
+            private Integer colorId;
             @JsonProperty("quantity")
             private Integer quantity;
             @JsonProperty("extra_quantity")

@@ -1,5 +1,6 @@
 package io.github.followsclosely.bricklink.spring;
 
+import io.github.followsclosely.bricklink.BlinkApiRateLimiter;
 import io.github.followsclosely.bricklink.BlinkOrderClient;
 import io.github.followsclosely.bricklink.dto.BlinkOrder;
 import io.github.followsclosely.bricklink.dto.BlinkResponse;
@@ -13,12 +14,12 @@ import java.util.List;
  */
 public class BlinkOrderRestClient extends AbstractBlinkRestClient implements BlinkOrderClient {
 
-    public BlinkOrderRestClient(BlinkAuthSigner blinkAuthSigner) {
-        super(blinkAuthSigner);
+    public BlinkOrderRestClient(BlinkAuthSigner blinkAuthSigner, BlinkApiRateLimiter rateLimiter) {
+        super(blinkAuthSigner, rateLimiter);
     }
 
-    public BlinkOrderRestClient(RestClient restClient, BlinkAuthSigner blinkAuthSigner) {
-        super(blinkAuthSigner, restClient);
+    public BlinkOrderRestClient(BlinkAuthSigner blinkAuthSigner, BlinkApiRateLimiter rateLimiter, RestClient restClient) {
+        super(blinkAuthSigner, rateLimiter, restClient);
     }
 
     @Override
