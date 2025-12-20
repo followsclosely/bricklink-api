@@ -1,7 +1,6 @@
 package io.github.followsclosely.bricklink.spring;
 
 import io.github.followsclosely.bricklink.BlinkItemClient;
-import io.github.followsclosely.bricklink.DefaultBlinkApiRateLimiter;
 import io.github.followsclosely.bricklink.dto.BlinkItem;
 import io.github.followsclosely.bricklink.dto.BlinkResponse;
 import io.github.followsclosely.bricklink.oauth.BlinkAuthSignerFactory;
@@ -21,7 +20,7 @@ class BlinkItemRestClientTest {
 
     @BeforeAll
     public static void init() throws IOException {
-        BlinkItemRestClientTest.client = new BlinkItemRestClient(BlinkAuthSignerFactory.newInstance(), DefaultBlinkApiRateLimiter.DEFAULT_INSTANCE);
+        BlinkItemRestClientTest.client = new BlinkItemRestClient(BlinkAuthSignerFactory.newInstance());
     }
 
     @Test
@@ -49,7 +48,7 @@ class BlinkItemRestClientTest {
     //
     @Test
     void testGetItemSubsetsMINIFIGURE() throws Exception {
-        BlinkResponse<List<BlinkItem.SubsetEntry>> response = client.getItemSubsets(BlinkItem.Type.MINIFIG, "sp007", null );
+        BlinkResponse<List<BlinkItem.SubsetEntry>> response = client.getItemSubsets(BlinkItem.Type.MINIFIG, "sp007", null);
         assertNotNull(response);
         assertNotNull(response.getData());
         log.info("Retrieved inventory with {} entries!", response.getData().size());

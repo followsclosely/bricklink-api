@@ -1,12 +1,16 @@
 package io.github.followsclosely.bricklink.spring;
 
-import io.github.followsclosely.bricklink.BlinkApiRateLimiter;
 import io.github.followsclosely.bricklink.BlinkConfiguration;
-import io.github.followsclosely.bricklink.DefaultBlinkApiRateLimiter;
+import io.github.followsclosely.bricklink.BlinkItemClient;
+import io.github.followsclosely.bricklink.dto.BlinkItem;
+import io.github.followsclosely.bricklink.dto.BlinkResponse;
 import io.github.followsclosely.bricklink.oauth.BlinkAuthSigner;
+import io.github.followsclosely.toolbox.PathBuilder;
+import io.github.followsclosely.toolbox.web.cache.DiskCachingClientHttpRequestInterceptor;
+import io.github.followsclosely.toolbox.web.cache.DiskCachingHint;
+import io.github.followsclosely.toolbox.web.limiter.ApiRateLimiterClientHttpRequestInterceptor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
@@ -15,6 +19,8 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Lazy;
 import org.springframework.http.HttpHeaders;
 import org.springframework.web.client.RestClient;
+
+import java.util.List;
 
 @Slf4j
 @Configuration
@@ -30,23 +36,13 @@ public class BlinkRestClientConfiguration {
         );
     }
 
-    @Bean
-    @Lazy
-    @ConditionalOnMissingBean(value = BlinkApiRateLimiter.class, name = "blinkApiRateLimiter")
-    BlinkApiRateLimiter blinkApiRateLimiter(BlinkConfiguration c) {
-        return new DefaultBlinkApiRateLimiter(
-                c.getApiLimits().getMinWaitMsBetweenCalls(),
-                c.getApiLimits().getRandomMsAddition()
-        );
-    }
-
     @Bean(name = "blinkRestClient")
     @Lazy
     @ConditionalOnMissingBean(value = RestClient.class, name = "blinkRestClient")
-    RestClient blinkRestClient(BlinkConfiguration c) {
+    RestClient blinkRestClient(BlinkConfiguration configuration) {
 
         RestClient.Builder builder = RestClient.builder()
-                .baseUrl(c.getBaseUrl())
+                .baseUrl(configuration.getBaseUrl())
                 .defaultHeaders(headers -> {
                     headers.add(HttpHeaders.CONTENT_TYPE, "application/json");
                 });
@@ -59,6 +55,19 @@ public class BlinkRestClientConfiguration {
             });
         }
 
+        if (configuration.getApiLimits() != null && configuration.getApiLimits().isEnabled()) {
+            if (configuration.getCaching() != null && configuration.getCaching().isEnabled()) {
+                builder.requestInterceptor(new DiskCachingClientHttpRequestInterceptor(
+                        configuration.getCaching(), configuration.getApiLimits()));
+            } else {
+                builder.requestInterceptor(new ApiRateLimiterClientHttpRequestInterceptor(configuration.getApiLimits()));
+            }
+        } else if (configuration.getCaching() != null && configuration.getCaching().isEnabled()) {
+            builder.requestInterceptor(
+                    new DiskCachingClientHttpRequestInterceptor(configuration.getCaching())
+            );
+        }
+
         return builder.build();
     }
 
@@ -68,11 +77,10 @@ public class BlinkRestClientConfiguration {
     @ConditionalOnMissingBean(BlinkCategoryRestClient.class)
     BlinkCategoryRestClient blinkCategoryRestClient(
             @Qualifier("blinkRestClient") RestClient blinkRestClient,
-            BlinkAuthSigner blinkAuthSigner,
-            @Qualifier("blinkApiRateLimiter") BlinkApiRateLimiter blinkApiRateLimiter
+            BlinkAuthSigner blinkAuthSigner
     ) {
         log.info("Creating new BlinkCategoryRestClient({},{})", blinkRestClient, blinkAuthSigner);
-        return new BlinkCategoryRestClient(blinkAuthSigner, blinkApiRateLimiter, blinkRestClient);
+        return new BlinkCategoryRestClient(blinkAuthSigner, blinkRestClient);
     }
 
     @Bean
@@ -81,24 +89,59 @@ public class BlinkRestClientConfiguration {
     @ConditionalOnMissingBean(BlinkColorRestClient.class)
     BlinkColorRestClient blinkColorRestClient(
             @Qualifier("blinkRestClient") RestClient blinkRestClient,
-            BlinkAuthSigner blinkAuthSigner,
-            @Qualifier("blinkApiRateLimiter") BlinkApiRateLimiter blinkApiRateLimiter
+            BlinkAuthSigner blinkAuthSigner
     ) {
         log.info("Creating new BlinkColorRestClient({},{})", blinkRestClient, blinkAuthSigner);
-        return new BlinkColorRestClient(blinkAuthSigner, blinkApiRateLimiter, blinkRestClient);
+        return new BlinkColorRestClient(blinkAuthSigner, blinkRestClient);
     }
 
     @Bean
     @Lazy
-    @ConditionalOnClass(BlinkItemRestClient.class)
-    @ConditionalOnMissingBean(BlinkItemRestClient.class)
-    BlinkItemRestClient blinkItemRestClient(
+    @ConditionalOnClass(BlinkItemClient.class)
+    @ConditionalOnMissingBean(BlinkItemClient.class)
+    BlinkItemClient blinkItemRestClient(
             @Qualifier("blinkRestClient") RestClient blinkRestClient,
             BlinkAuthSigner blinkAuthSigner,
-            @Qualifier("blinkApiRateLimiter") BlinkApiRateLimiter blinkApiRateLimiter
+            BlinkConfiguration configuration
     ) {
         log.info("Creating new BlinkItemRestClient({},{})", blinkRestClient, blinkAuthSigner);
-        return new BlinkItemRestClient(blinkAuthSigner, blinkApiRateLimiter, blinkRestClient);
+
+        if (configuration.getCaching() != null && configuration.getCaching().isEnabled()) {
+            return new BlinkItemRestClient(blinkAuthSigner, blinkRestClient) {
+                public BlinkResponse<List<BlinkItem.SubsetEntry>> getItemSubsets(BlinkItem.Type type, String number, ItemSubsetsQuery query) {
+                    switch(type) {
+                        case MINIFIG:
+                            DiskCachingHint.set(new PathBuilder()
+                                    .add("minifigs")
+                                    .explodeOnGroups(number, "^(.*[a-zA-Z]+)\\d+$")
+                                    .add(number+"-bricklink-inventory")
+                                    .toArray());
+                            break;
+                        case SET:
+                            DiskCachingHint.set(new PathBuilder()
+                                    .add("sets")
+                                    .explode(number)
+                                    .add(number+"-bricklink-inventory")
+                                    .toArray());
+                            break;
+                        default:
+                            DiskCachingHint.set(new PathBuilder()
+                                    .add("subsets")
+                                    .explodeOnGroups(number, "^(.*[a-zA-Z]+)\\d+$")
+                                    .add(number+"-bricklink-inventory")
+                                    .toArray());
+                    }
+
+                    try {
+                        return super.getItemSubsets(type, number, query);
+                    } finally {
+                        DiskCachingHint.clear();
+                    }
+                }
+            };
+        } else {
+            return new BlinkItemRestClient(blinkAuthSigner, blinkRestClient);
+        }
     }
 
 }

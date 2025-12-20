@@ -76,6 +76,7 @@ Category ID	Category Name
 1249	2023
 1287	2024
 1319	2025
+1360	2026
 516	4 Juniors
 316	4.5V
 315	9V
@@ -168,6 +169,8 @@ Category ID	Category Name
 1342	BDP Series 3
 1343	BDP Series 4
 1344	BDP Series 5
+1358	BDP Series 6
+1363	BDP Series 7
 464	Bead
 1142	BeatBox
 1180	Beauty and the Beast
@@ -350,6 +353,7 @@ Category ID	Category Name
 1264	Dragons Rising Season 1
 1291	Dragons Rising Season 2
 1316	Dragons Rising Season 3
+1362	Dragons Rising Season 4
 1268	DREAMZzz
 720	Drome Racers
 1149	DuckTales
@@ -379,6 +383,7 @@ Category ID	Category Name
 488	DUPLO, Vehicle
 1209	E.T.
 392	Easter
+1359	Editions
 166	Educational & Dacta
 408	eLAB
 119	Electric
@@ -717,6 +722,7 @@ Category ID	Category Name
 1018	Paper, Certificate
 1104	Paper, Flyer
 1003	Paper, Forms & Surveys
+1356	Paper, Information
 71	Paradisa
 995	Party Supplies
 445	Patch & Pin
@@ -799,6 +805,7 @@ Category ID	Category Name
 539	Retail Display
 848	Retail Display Case
 526	Retail Display Flag
+1361	Rides
 225	Riding Cycle
 989	Ring
 945	Rise of the Snakes
@@ -850,6 +857,7 @@ Category ID	Category Name
 1288	Series 25 Minifigures
 1299	Series 26 Minifigures
 1318	Series 27 Minifigures
+1357	Series 28 Minifigures
 803	SERIOUS PLAY
 63	Service Packs
 1152	Shang-Chi

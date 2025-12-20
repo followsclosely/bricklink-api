@@ -2315,7 +2315,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 242	Technic, Figure Accessory	32037	Technic, Figure Accessory Scuba Mask		0.25	? x ? x ?
 242	Technic, Figure Accessory	32279	Technic, Figure Accessory Competition Helmet		1.8	? x ? x ?
 118	Brick, Decorated	3001p11	Brick 2 x 4 with Yellow Car Grille and Headlights, 2 Circles and 2 Horizontal Lines Pattern		2.32	2 x 4 x 1
-33	Slope, Decorated	3297px15	Slope 33 3 x 4 with 'R.E.S.' and Red Capital Letter Q on Yellow Triangle Pattern		2.57	3 x 4 x 1
+33	Slope, Decorated	3297px15	Slope 33 3 x 4 with 'R.E.S.' and Red Capital Letter Q (Res-Q) on Yellow Triangle Pattern		2.57	3 x 4 x 1
 118	Brick, Decorated	3009pb019	Brick 1 x 6 with Blue in White 'GENOVA' Pattern		2.42	1 x 6 x 1
 118	Brick, Decorated	3009pb020	Brick 1 x 6 with Blue in White 'BASEL' Pattern		2.42	1 x 6 x 1
 118	Brick, Decorated	3009pb021	Brick 1 x 6 with Blue in White 'HAMBURG' Pattern		2.42	1 x 6 x 1
@@ -3049,7 +3049,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 229	Rubber Band & Belt	x89	Rubber Belt Large (Round Cross Section) - Approx. 3 1/4 x 3 1/4	85545,70904	0.17	? x ? x ?
 229	Rubber Band & Belt	x90	Rubber Belt Extra Large (Round Cross Section) - Approx. 4 1/8 x 4 1/8	85546,70905	0.23	? x ? x ?
 229	Rubber Band & Belt	x71	Rubber Belt Small (Round Cross Section) - Approx. 2 x 2	85543,70902	0.11	? x ? x ?
-229	Rubber Band & Belt	x37	Rubber Belt Medium (Round Cross Section) - Approx. 3 x 3	70903,71321,85544,114484	0.15	? x ? x ?
+229	Rubber Band & Belt	x37	Rubber Belt Medium (Round Cross Section) - Approx. 3 x 3	22433,70903,71321,85544,114484	0.15	? x ? x ?
 231	String & Net	x77	String, Cord (Undetermined Type)		0.5	? x ? x ?
 231	String & Net	x64pb01	String with End Studs and Climbing Grips (21L Overall) with (Same Color) Studs and Grips Pattern	1155,14210,56577,63141,76065	1.05	21 x 1 x 0.33
 231	String & Net	71155	Net, String 10 x 10 Square		1.57	? x ? x ?
@@ -3173,7 +3173,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 18	Minifigure, Utensil	x169	Minifigure, Utensil Stretcher Holder Flexible	18390,30191	1.19	? x ? x ?
 159	Pneumatic	x189c01	Pneumatic Cylinder with 2 Inlets Small (32mm)		1.5	? x ? x ?
 159	Pneumatic	x191c01	Pneumatic Pump Small (5.5L)	74982	1.86	? x ? x ?
-115	Windscreen	30083	Windscreen 6 x 6 x 3 Canopy Half Sphere with Hinge		6.86	6 x 6 x 3
+115	Windscreen	30083	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Hinge		6.86	6 x 6 x 3
 636	Minifigure, Headgear Accessory	23318	Minifigure, Visor Large	769,71016	0.28	? x ? x ?
 636	Minifigure, Headgear Accessory	30170	Minifigure, Visor Goggles	28970	0.16	? x ? x ?
 273	BIONICLE	40507	Bionicle Tohunga Bamboo Disk Thrower Arm (4 Spines on Curve)		2.42	? x ? x ?
@@ -3950,16 +3950,16 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 85	Homemaker	685px2c01	Homemaker Figure / Maxifigure Torso Assembly with Yellow Head with Black Eyes, Glasses, and Smile Pattern (792c03 / 685px2)		5.93	? x ? x ?
 85	Homemaker	x197bun	Homemaker Figure / Maxifigure Headgear Hair Bun		1.72	? x ? x ?
 122	Electric, Train	71140	Electric, Train Speed Regulator 9V Power Adapter 240V (UK)	70928b,70938b	293	? x ? x ?
-234	Foam	42411b	Foam Soccer Goalie Mitt Small		0.08	? x ? x ?
-234	Foam	42411a	Foam Soccer Goalie Mitt Large		0.18	? x ? x ?
-234	Foam	42411	Foam for Set 3422 - Complete Sheet, Unpunched		1.26	9 x 8.5 x 0
+234	Foam	3422foam01b	Foam Part for Set 3422 - Soccer Goalie Mitt Small	42411b	0.08	? x ? x ?
+234	Foam	3422foam01a	Foam Part for Set 3422 - Soccer Goalie Mitt Large	42411a	0.18	? x ? x ?
+234	Foam	3422foam01	Foam Sheet for Set 3422	42410,42411	1.26	? x ? x ?
 28	Plate, Round	33291	Plate, Round 1 x 1 with Flower Edge (4 Knobs / Petals)	28573	0.11	1 x 1 x 0
 150	Minifigure, Torso	973pb0047	Torso Aquazone Hydronaut Silver Diving Pattern 1		0.82	? x ? x ?
 150	Minifigure, Torso	973pb0106	Torso Octan Logo and 'OIL' Pattern (Undetermined Type)		0.82	? x ? x ?
 150	Minifigure, Torso	973pb0046	Torso Aquazone Stingray with Red Circle with Target, Copper Spikes, and Green Armor Pattern		0.82	? x ? x ?
 33	Slope, Decorated	3298pb022	Slope 33 3 x 2 with Red Triangles Connected Pattern		1.27	3 x 2 x 1
 33	Slope, Decorated	3298pb088	Slope 33 3 x 2 with McDonald's Character with Blue Eyes, Orange Beak, Red Pigtails, and Yellow Skin Pattern (Birdie the Early Bird)	30474pb06	1.34	3 x 2 x 1
-33	Slope, Decorated	3298pb024	Slope 33 3 x 2 with 'R.E.S.' and Red Capital Letter Q in Black Triangle Pattern		1.27	3 x 2 x 1
+33	Slope, Decorated	3298pb024	Slope 33 3 x 2 with 'R.E.S.' and Red Capital Letter Q (Res-Q) in Black Triangle Pattern		1.27	3 x 2 x 1
 33	Slope, Decorated	3298pb089	Slope 33 3 x 2 with McDonald's Chicken Head Pattern	30474pb07	1.33	3 x 2 x 1
 33	Slope, Decorated	3298pb021	Slope 33 3 x 2 with '28' and Black and Yellow Stripes Pattern		1.27	3 x 2 x 1
 161	Plastic	x66px8	Plastic Triangle 6 x 12 Sail with Red and Blue Wavy Stripes on White Background Pattern		1.1	6 x 12 x 0
@@ -4223,7 +4223,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 161	Plastic	4795pls01a	Plastic Part for Set  4795 - Black Rectangle with Bubbles and Blue Underwater Windows Pattern	41534a,x353px1a	1.06	? x ? x ?
 160	Sticker Sheet	4793stk01	Sticker Sheet for Set 4793 - (42343/4163286)		0.89	? x ? x ?
 160	Sticker Sheet	4795stk01	Sticker Sheet for Set 4795 - (42258/4162751)	42258	1	? x ? x ?
-579	Windscreen, Decorated	30083pb01	Windscreen 6 x 6 x 3 Canopy Half Sphere with Hinge and Set 7163 Pattern		6.86	6 x 6 x 3
+579	Windscreen, Decorated	30083pb01	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Hinge and Set 7163 Pattern		6.86	6 x 6 x 3
 579	Windscreen, Decorated	x224pb001	Windscreen 8 x 6 x 2 Curved Sloped Sides with Evil Skull Logo and Windows Pattern		7.1	8 x 6 x 2
 30	Propeller	41530	Propeller 8 Blade 5 Diameter	60591	2.5	? x ? x ?
 461	Panel, Decorated	4865pb006	Panel 1 x 2 x 1 with Ogel Control Panel Pattern	30010pb006	0.65	1 x 2 x 1
@@ -6469,8 +6469,8 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 162	Cloth	x376px2	Cloth Flag 8 x 5 Wave with Red Border and Fright Knights Bat Emblem Pattern	71424	0.3	8 x 5 x 0
 1128	Animal, Body Part, Decorated	40382c01pb02	Dinosaur / Elephant Legs Long with Light Gray Middle Section with Black, Dark Gray, and Red Pattern	40383c01pb02	16.47	? x ? x ?
 294	Primo	31000pb02	Primo Brick 1 x 1 with Duplo Bunny Logo and 3 Red Spots Pattern on Opposite Sides		22	1 x 1 x 1
-234	Foam	45097	Foam for Set 5859 - Complete Sheet, Unpunched	45721	3.87	? x ? x ?
-234	Foam	45103	Foam for Set 5861 - Complete Sheet, Unpunched	45711	?	? x ? x ?
+234	Foam	5859foam01	Foam Sheet for Set 5859	45097,45721	3.87	? x ? x ?
+234	Foam	5861foam01	Foam Sheet for Set 5861	45103,45711	?	? x ? x ?
 538	DUPLO, Tile, Decorated	2756pb073	Duplo, Tile 2 x 2 x 1 with Lion Mosaic Picture 01 Pattern		5	2 x 2 x 1
 538	DUPLO, Tile, Decorated	2756pb074	Duplo, Tile 2 x 2 x 1 with Lion Mosaic Picture 02 Pattern		5	2 x 2 x 1
 538	DUPLO, Tile, Decorated	2756pb075	Duplo, Tile 2 x 2 x 1 with Lion Mosaic Picture 03 Pattern		5	2 x 2 x 1
@@ -6953,7 +6953,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 160	Sticker Sheet	10127stk02	Sticker Sheet for Set 10127, Sheet 2 - (47851/4210595)		2	11 x 17 x 0
 160	Sticker Sheet	10127stk03	Sticker Sheet for Set 10127, Sheet 3 - (47853/4210598)		2	? x ? x ?
 160	Sticker Sheet	65182stk01	Sticker Sheet for Set 65182		12.3	? x ? x ?
-234	Foam	45719	Foam for Set 5862 - Complete Sheet, Unpunched		?	? x ? x ?
+234	Foam	5862foam01	Foam Sheet for Set 5862	45171,45719	?	? x ? x ?
 473	Sports	44855	Sports Hockey Masks on Sprue - Masks 2, 3, 4		12.5	? x ? x ?
 473	Sports	44855a	Sports Hockey Mask 2 with Smile and 2 Teeth		1.42	? x ? x ?
 473	Sports	44855b	Sports Hockey Mask 3 with Wraparound Scowl		1.58	? x ? x ?
@@ -10453,7 +10453,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 160	Sticker Sheet	2149stk01	Sticker Sheet for Set 2149 - (71641/4114292)	71641	1.29	? x ? x ?
 160	Sticker Sheet	2998stk01	Sticker Sheet for Set 2998 - Sheet 1 (22004/4120485)		?	? x ? x ?
 33	Slope, Decorated	3939pb04	Slope 33 3 x 6 with Inner Walls with Stena Line Ferry Pattern (Sticker) - Set 2998		3.32	3 x 6 x 1
-579	Windscreen, Decorated	50747px1	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with SW Droid Tri-Fighter Pattern		7.25	6 x 6 x 3
+579	Windscreen, Decorated	50747px1	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with SW Droid Tri-Fighter Pattern		7.25	6 x 6 x 3
 583	Wedge, Plate	51739	Wedge, Plate 2 x 4		0.84	2 x 4 x 0
 160	Sticker Sheet	7252stk01	Sticker Sheet for Set 7252 - (52257/4256107)		0.73	? x ? x ?
 39	Tile, Decorated	3069pb0044	Tile 1 x 2 with 3 White Triangles Pattern	3069bpb0044	0.26	1 x 2 x 0
@@ -12571,9 +12571,9 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 575	Clikits, Icon	45471pb06	Clikits, Icon Round 2 x 2 Large with Pin with Yellow Flower with Sparkles Pattern	clikits086pb06	0.3	? x ? x ?
 105	Support	55767	Support 31 x 13 Girder, Trapezoid		21.88	31 x 13 x 1
 142	Minifigure, Body Wear	2587pb15	Minifigure Armor Breastplate with Leg Protection with Vladek Scorpion Silver Pattern		0.77	? x ? x ?
-234	Foam	bb0211	Foam Belville, Leaf 14 x 6, 2 Holes		1.7	14 x 6 x 0
-234	Foam	bb0210	Foam Belville, Flower/Crown Large 5 x 5, center hole		0.2	5 x 5 x 0
-234	Foam	bb0209	Foam Belville, Flower/Crown Small 3 x 3, center hole		0.06	3 x 3 x 0
+234	Foam	5861foam01c	Foam Part for Set 5861 - Belville, Leaf 14 x 5, 2 Holes	bb0211	1.7	? x ? x ?
+234	Foam	5861foam01f	Foam Part for Set 5861 -  Belville, Flower/Crown Large 5 x 5 with Center Hole	bb0210	0.2	? x ? x ?
+234	Foam	5861foam01e	Foam Part for Set 5861 - Belville, Flower/Crown Small 3 x 3 with Center Hole	bb0209	0.06	? x ? x ?
 606	Minifigure, Head, Modified	54874pb01	Minifigure, Head, Modified Mr. Krabs with Lime Eyes and Black Smile Pattern		0.4	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb0411c01	Torso SpongeBob with Black Navel and Red Spots Pattern / Light Nougat Arms / Light Nougat Hands		1.3	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb0413c01	Torso Shirt with Collar, Sand Green Neck Pattern / Sand Green Arms / Dark Bluish Gray Hands		1.33	? x ? x ?
@@ -12676,8 +12676,8 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 84	Window, Decorated	4347pb05	Window 1 x 4 x 5 with Fixed Glass with Light Gray Lever and Base and Black 'NEW' Pattern (Sticker) - Set 6378		4.2	1 x 4 x 5
 84	Window, Decorated	4347pb06	Window 1 x 4 x 5 with Fixed Glass with 'TX', Shell Logo and Yellow 1 x 1 Round Brick on Blue Striped Background Pattern (Sticker) - Set 6378		4.05	1 x 4 x 5
 238	Minifigure, Head	3626pb0060	Minifigure, Head Male Scar Across Lip, Angry Black Eyebrows and Messy Hair Pattern (Dracus)		0.54	? x ? x ?
-234	Foam	bb0213	Foam Belville, Leaf 19 x 12, 3 Holes		2.9	19 x 12 x 0
-234	Foam	bb0214	Foam Belville, Leaf 17 x 14, 4 Holes		2.4	17 x 14 x 0
+234	Foam	5861foam01b	Foam Part for Set 5861 - Belville, Leaf 19 x 12 with 3 Holes	bb0213	2.9	? x ? x ?
+234	Foam	5861foam01a	Foam Part for Set 5861 - Belville, Leaf 17 x 14 with 4 Holes	bb0214	2.4	? x ? x ?
 111	Wheel, Tire & Tread	54120	Tire 94.8 x 44 R Balloon		43.6	? x ? x ?
 532	Wheel & Tire Assembly	44772c02	Wheel 56mm D. x 34mm Technic Racing Medium, 3 Pin Holes with Black Tire 94.8 x 44 R Balloon (44772 / 54120)		58	? x ? x ?
 102	Scala	71241	Scala Cloth Curtain with Yellow Bow with Red Flowers Pattern	x1384cx1	4.41	? x ? x ?
@@ -13317,7 +13317,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 273	BIONICLE	44813pb01	Bionicle Weapon Staff of Light Blade with Marbled Dark Red Pattern	58813pb01	3.05	? x ? x ?
 242	Technic, Figure Accessory	57912c01	Technic, Figure Accessory Blade with Trans-Clear Center (Sky Guardian)		3.55	? x ? x ?
 22	Hinge	57906	Hinge Plate 3 x 12 with Angled Side Extensions and Tapered Ends	5379,53031,55345	3	3 x 12 x 1
-115	Windscreen	50747	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers	50809,52979,105165	7.3	6 x 6 x 3
+115	Windscreen	50747	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers	50809,52979,105165	7.3	6 x 6 x 3
 138	Technic, Link	57518	Technic, Link Tread Wide with 2 Pin Holes	42479,88323,89501	1.4	5 x 3 x 1
 43	Wheel	57520	Technic Tread Sprocket Wheel Small	75903	1.63	4 x 4 x 0
 74	Crane	57779	Crane Arm Outside, Wide with Pin Hole at Mid-Point		7.5	16 x 2 x 1.33
@@ -13940,7 +13940,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 234	Foam	bb0224	Foam Scala Bone, Medium #3150		0.08	? x ? x ?
 234	Foam	bb0225	Foam Scala Bone, Large #3150		0.1	? x ? x ?
 234	Foam	bb0226	Foam Scala Dog Mat, Bone Shape Cutouts #3150		1.2	? x ? x ?
-234	Foam	bb0227	Foam Scala Pet Bed with 8 Holes		1.56	? x ? x ?
+234	Foam	3150foam01b	Foam Part for Set 3150 - Scala Pet Bed with 8 Holes	bb0227	1.56	? x ? x ?
 234	Foam	bb0228	Foam Scala Dog Kennel Roof with 10 Holes #3150		3.98	? x ? x ?
 234	Foam	bb0229	Foam Scala Dog Kennel Roof Panel with 4 Holes #3150		1.34	? x ? x ?
 234	Foam	bb0230	Foam Scala Dog Kennel Front Panel #3150		0.56	? x ? x ?
@@ -15641,7 +15641,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 16	Minifigure, Headgear	6131pb02	Minifigure, Headgear Hat, Wizard / Witch with Gold Buckle and Stars Pattern		1.23	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c55pb01	Hips and Sand Blue Legs with Good Wizard Pattern		1.16	? x ? x ?
 33	Slope, Decorated	3939pb03	Slope 33 3 x 6 with Inner Walls with Computer/Radar Console Pattern (Sticker) - Set 7237		3.32	3 x 6 x 1
-579	Windscreen, Decorated	50747pb01	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with SW Rogue Shadow Cockpit Pattern		7.2	6 x 6 x 3
+579	Windscreen, Decorated	50747pb01	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with SW Rogue Shadow Cockpit Pattern		7.2	6 x 6 x 3
 153	Fabuland	2131	Fabuland Refrigerator Base		9.2	3 x 4 x 5.67
 153	Fabuland	2132	Fabuland Refrigerator Door		3.8	1 x 4 x 5
 153	Fabuland	4616b	Fabuland Airplane Motor / Engine Block, Technic Pin Hole		5.22	? x ? x ?
@@ -16610,9 +16610,9 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 153	Fabuland	x635c01pb03	Fabuland Building Wall 2 x 6 x 7 with Round Symmetric Red Window with Balloons Pattern (Sticker) - Set 3681		11.4	2 x 6 x 7
 153	Fabuland	x635c01pb04	Fabuland Building Wall 2 x 6 x 7 with Round Symmetric Red Window with Ice Cream and No 2 Pattern (Sticker) - Set 3681		11.4	2 x 6 x 7
 153	Fabuland	x637c02pb05	Fabuland Building Wall 2 x 6 x 7 with Squared Yellow Window with Sheriff Badge and No 64 Pattern (Sticker) - Set 3664		11.4	2 x 6 x 7
-234	Foam	bb0326	Foam Scala Flag Triangular		?	7 x 4 x 0
-234	Foam	bb0326pb01	Foam Scala Flag Triangular with Cracked Ice Pattern on Both Sides (Stickers) - Set 3148		?	7 x 4 x 0
-234	Foam	bb0326pb02	Foam Scala Flag Triangular with Bear Head Pattern on Both Sides (Stickers) - Set 3148		?	7 x 4 x 0
+234	Foam	3148foam01a	Foam Part for Set 3148 - Scala Flag Triangular with 2 Holes	bb0326	0.24	? x ? x ?
+234	Foam	3148foam01apb01	Foam Part for Set 3148 - Scala Flag Triangular with 2 Holes with Cracked Ice Pattern on Both Sides (Stickers) - Set 3148	bb0326pb01	0.25	? x ? x ?
+234	Foam	3148foam01apb02	Foam Part for Set 3148 - Scala Flag Triangular with 2 Holes with Bear Head Pattern on Both Sides (Stickers) - Set 3148	bb0326pb02	0.25	? x ? x ?
 153	Fabuland	4608pb01	Fabuland Window 2 x 4 x 5 with Square Top with Plane, Clouds and Sun Pattern (Sticker) - Set 3671		5	2 x 4 x 5
 160	Sticker Sheet	3670.1stk01	Sticker Sheet for Set 3670-1 - (195835)		?	8 x 9 x 0
 153	Fabuland	x636c02pb01	Fabuland Building Wall 2 x 6 x 7 with Round Top Yellow Window and No 70 Pattern (Sticker) - Set 3670		11.4	2 x 6 x 7
@@ -16696,7 +16696,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 638	Technic, Disk	2723pb036	Technic, Disk 3 x 3 with Purple, Yellow and Black Pattern on Both Sides (Stickers) - Set 8269		0.9	3 x 3 x 0
 160	Sticker Sheet	8496stk01	Sticker Sheet for Set 8496, Mirrored - (63061/4527043)	63061	2.9	? x ? x ?
 246	Paper	8496ppr01	Paper Cardboard Ramp with Tire Tracks and White Chalk Arrow for Set 8496 (62847)		20	? x ? x ?
-579	Windscreen, Decorated	50747pb02	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with SW Republic Attack Gunship Pattern		7.2	6 x 6 x 3
+579	Windscreen, Decorated	50747pb02	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with SW Republic Attack Gunship Pattern		7.2	6 x 6 x 3
 160	Sticker Sheet	7675stk01	Sticker Sheet for Set 7675 - (63676/4529536)	63676	2.2	? x ? x ?
 150	Minifigure, Torso	973pb0509	Torso SW Armor Clone Trooper with Dark Red Markings and Belt Pattern (Undetermined Type)		0.82	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb0509c01	Torso SW Armor Clone Trooper with Dark Red Markings and Belt Pattern / Dark Red Arms / Black Hands (Undetermined Type)		1.32	? x ? x ?
@@ -17498,7 +17498,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 231	String & Net	x77ac75	String, Cord Thin    75cm	7909	0.5	? x ? x ?
 160	Sticker Sheet	10194stk01	Sticker Sheet for Set 10194 - (85580/4544258)	85580	1.72	? x ? x ?
 504	Motor, Non-Electric	motor8pb01	Pullback Motor 10 x 5 x 4 Motorcycle (Motor 8) with Red Seat and Checkered Flag Pattern (Stickers) - Set 8371		45	10 x 5 x 4
-118	Brick, Decorated	crssprt01pb41	Brick 1 x 8 without Bottom Tubes with Cross Side Supports with Blue 'DEALER' Pattern		3.3	1 x 8 x 1
+118	Brick, Decorated	crssprt01pb41	Brick 1 x 8 without Bottom Tubes with Cross Side Supports with Blue 'DEALER' Bold Pattern		3.3	1 x 8 x 1
 578	Wedge, Decorated	45677pb015	Wedge 4 x 4 x 2/3 Triple Curved with White '01 POLICE' on Blue Background Pattern (Sticker) - Set 7744		2.72	4 x 4 x 0.67
 578	Wedge, Decorated	45677pb016	Wedge 4 x 4 x 2/3 Triple Curved with Black & Dark Gray Grille Pattern (Sticker) - Sets 4511 / 10158		2.72	4 x 4 x 0.67
 578	Wedge, Decorated	45677pb017L	Wedge 4 x 4 x 2/3 Triple Curved with Red and Bluish Silver Curves Pattern Model Left (Sticker) - Set 8669		2.72	4 x 4 x 0.67
@@ -20044,7 +20044,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 736	Brick, Round, Decorated	553pb007	Brick, Round 2 x 2 Dome Top with SW Astromech Droid Dark Silver Panels, Bright Light Blue Dot Pattern		0.84	2 x 2 x 1
 528	Hose, Rigid 3mm D.	75c49	Hose, Rigid 3mm D. 49L / 39.2cm		1.9	? x ? x ?
 160	Sticker Sheet	8709stk01	Sticker Sheet for Set 8709 - (85666/4546366)	85666	0.7	? x ? x ?
-579	Windscreen, Decorated	50747pb03	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with SW Droid Tri-Fighter Dark Blue Triangles Pattern		7.2	6 x 6 x 3
+579	Windscreen, Decorated	50747pb03	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with SW Droid Tri-Fighter Dark Blue Triangles Pattern		7.2	6 x 6 x 3
 606	Minifigure, Head, Modified	30378ps3	Minifigure, Head, Modified Mechanical (SW Battle Droid) with Yellow Insignia Pattern		0.2	? x ? x ?
 160	Sticker Sheet	8086stk01	Sticker Sheet for Set 8086 - (88526/4568120)		0.2	8 x 8.5 x 0
 238	Minifigure, Head	3626pb0403	Minifigure, Head Male Stern Black Eyebrows, Green Pupils and Chin Dimple Pattern		0.54	? x ? x ?
@@ -23300,7 +23300,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 966	Arch, Decorated	6108pb01	Arch 1 x 12 x 3 with Two Fish Pattern (Stickers) - Set 6441		5.26	1 x 12 x 3
 812	Tile, Round, Decorated	4150pb075	Tile, Round 2 x 2 with Yellow Helicopter on Radar Pattern (Sticker) - Set 8634		0.33	2 x 2 x 0
 812	Tile, Round, Decorated	4150pb076	Tile, Round 2 x 2 with Ammunition Drum Pattern (Sticker) - Set 7477		0.33	2 x 2 x 0
-579	Windscreen, Decorated	50747pb04	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with Black and White Target and Lines Pattern (Sticker) - Set 7694		7.3	6 x 6 x 3
+579	Windscreen, Decorated	50747pb04	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with Black and White Target and Lines Pattern (Sticker) - Set 7694		7.3	6 x 6 x 3
 777	Technic, Liftarm, Decorated	32348pb003L	Technic, Liftarm, Modified Bent Thick 1 x 7 (4 - 4) with Tread Plate and Filler Cap Pattern (Stickers) - Set 8236		2	? x ? x ?
 777	Technic, Liftarm, Decorated	32348pb003R	Technic, Liftarm, Modified Bent Thick 1 x 7 (4 - 4) with Tread Plate and Gauges and Buttons Pattern (Stickers) - Set 8236		2	? x ? x ?
 777	Technic, Liftarm, Decorated	32140pb05	Technic, Liftarm, Modified Bent Thick L-Shape 2 x 4 with Red Number 8 in White Circle Pattern (Sticker) - Set 8236		1.43	2 x 4 x 1
@@ -23476,7 +23476,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 738	Flag, Decorated	2335pb073	Flag 2 x 2 Square with Maersk Star Logo Pattern (Sticker) - Set 10219		0.5	2 x 2 x 0
 736	Brick, Round, Decorated	58846pb07L	Brick, Round Corner 10 x 10 with Slope 33 Edge, Axle Hole, Facet Cutout with Light Bars and Alien Characters Pattern Model Left (Sticker) - Set 7691		11	10 x 10 x 1
 736	Brick, Round, Decorated	58846pb07R	Brick, Round Corner 10 x 10 with Slope 33 Edge, Axle Hole, Facet Cutout with Light Bars and Alien Characters Pattern Model Right (Sticker) - Set 7691		11	10 x 10 x 1
-579	Windscreen, Decorated	50747pb05	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with SW Republic Attack Gunship Crosshairs Pattern		7.3	6 x 6 x 3
+579	Windscreen, Decorated	50747pb05	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with SW Republic Attack Gunship Crosshairs Pattern		7.3	6 x 6 x 3
 461	Panel, Decorated	30117pb06	Panel 10 x 10 x 2 1/3 Quarter Saucer Top with Ogel Skull Pattern (Sticker) - Set 4795		15	10 x 10 x 2.33
 741	Tail, Decorated	44661pb013	Tail Shuttle, Small with Black 'R POWER' on Lime Pattern both sides (Stickers) - Set 8139		0.82	2.75 x 2 x 2
 741	Tail, Decorated	6239pb030L	Tail Shuttle with Classic Space Logo Pattern Model Left Side (Sticker) - Sets 7690 / 7692		2.2	6 x 2 x 3.67
@@ -24107,8 +24107,8 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 238	Minifigure, Head	3626pb0594	Minifigure, Head Dual Sided Female Black Thin Eyebrows, Eyelashes, Red Lips, Open Mouth Smile with Teeth / Angry Frown Pattern	3626bpb0594,3626cpb0594	0.55	? x ? x ?
 238	Minifigure, Head	3626pb0596	Minifigure, Head Dual Sided Arched Eyebrows and Goatee, Smile / Angry Pattern	3626bpb0596,3626cpb0596	0.55	? x ? x ?
 238	Minifigure, Head	3626pb0593	Minifigure, Head Dual Sided Black Eyebrows, Dark Bluish Gray Beard Stubble, Open Mouth Smile with Full Teeth / Top Teeth Pattern	3626bpb0593,3626cpb0593	0.55	? x ? x ?
-234	Foam	42374pb01	Foam Soccer Target 10 x 9 with Two Holes and Number 10, Number 20 and Two Soccer Balls (Football) Pattern (Stickers) - Set 3423		1.16	10 x 9 x 0
-234	Foam	42379pb01	Foam Soccer Target 10 x 9 with One Hole and Number 5 and Soccer Ball (Football) Pattern (Stickers) - Set 3423		0.95	10 x 9 x 0
+234	Foam	42374pb01	Foam Soccer Target 10 x 9 with Two Holes with Number 10, Number 20 and Two Soccer Balls (Football) Pattern (Stickers) - Set 3423		1.16	10 x 9 x 0
+234	Foam	42379pb01	Foam Soccer Target 10 x 9 with One Hole with Number 5 and Soccer Ball (Football) Pattern (Stickers) - Set 3423		0.95	10 x 9 x 0
 504	Motor, Non-Electric	47715c01pb02	Pullback Motor 9 x 4 x 2 2/3 with Number 18 Pattern on Both Sides (Stickers) - Set 8383		22	9 x 4 x 2.67
 504	Motor, Non-Electric	47715c01pb03	Pullback Motor 9 x 4 x 2 2/3 with Red, Lime and Black Pattern on Both Sides (Stickers) - Set 8384		22	9 x 4 x 2.67
 39	Tile, Decorated	3069pb0167	Tile 1 x 2 with 'Zoom BOX CAMERAS FAST' Pattern (Sticker) - Set 8198	3069bpb0167	0.26	1 x 2 x 0
@@ -25707,7 +25707,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 974	Cone, Decorated	98100pb01	Cone 2 x 2 Truncated with SW R5-D8 / R5-D4 Astromech Droid, Printed Top Pattern		0.87	2 x 2 x 0
 775	Slope, Curved, Decorated	6191pb002	Slope, Curved 1 x 4 x 1 1/3 with Round 'BULLET RUN' Pattern (Sticker) - Set 8495		1.79	1 x 4 x 1.33
 579	Windscreen, Decorated	6238pb05	Windscreen 4 x 4 x 1 with Round 'BULLET RUN' Pattern on Both Sides (Stickers) - Set 8495		2.25	4 x 4 x 1
-579	Windscreen, Decorated	50747pb06	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with SW Tie-Fighter Pattern		7.4	6 x 6 x 3
+579	Windscreen, Decorated	50747pb06	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with SW Tie-Fighter Pattern		7.4	6 x 6 x 3
 812	Tile, Round, Decorated	4150pb086	Tile, Round 2 x 2 with Black SW Tie Fighter Pattern		0.3	2 x 2 x 0
 39	Tile, Decorated	2431pb0201	Tile 1 x 4 with 'CELLFISH' on Yellow Background Pattern (Sticker) - Set 8495		0.53	1 x 4 x 0
 39	Tile, Decorated	3069pb0185	Tile 1 x 2 with Black 'F3 5P35D' on White Background Pattern (Sticker) - Set 8495	3069bpb0185	0.26	1 x 2 x 0
@@ -27447,7 +27447,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 160	Sticker Sheet	9515stk01	Sticker Sheet for Set 9515 - (10537/6005137)	10537	1.3	? x ? x ?
 473	Sports	45535	Sports Hockey Masks on Sprue - Masks 5, 6, 7		11	? x ? x ?
 943	Minifigure, Utensil, Decorated	33009pb035	Minifigure, Utensil Book 2 x 3 with Moria Chronicles Pattern (Stickers) - Set 9473		0.85	? x ? x ?
-579	Windscreen, Decorated	50747pb07	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with SW Sith Fighter Pattern		7.4	6 x 6 x 3
+579	Windscreen, Decorated	50747pb07	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with SW Sith Fighter Pattern		7.4	6 x 6 x 3
 39	Tile, Decorated	3068pb0588	Tile 2 x 2 with Iron Cross Pattern (Sticker) - Set 7198	3068bpb0588	0.45	2 x 2 x 0
 506	DUPLO, Brick, Promotional	4066pb421	Duplo, Brick 1 x 2 x 2 with LEGOLAND Discovery Centre Fabrik 2012 Pattern 1		8	1 x 2 x 2
 160	Sticker Sheet	3184stk01	Sticker Sheet for Set 3184 - (10095456/4620856)		0.2	11 x 8 x 0
@@ -30789,7 +30789,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 530	Hose, Pneumatic 4mm D.	5102c39	Hose, Pneumatic 4mm D.  39L / 31.2cm		3.8	? x ? x ?
 238	Minifigure, Head	3626pb0964	Minifigure, Head Dual Sided Cyborg Eyepiece, Beard, Determined / Breathing Apparatus Pattern		0.54	? x ? x ?
 160	Sticker Sheet	70708stk01	Sticker Sheet for Set 70708 - (14278/6037987)	14278	1.85	? x ? x ?
-579	Windscreen, Decorated	50747pb08	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with White Compound Eye Pattern		7.35	6 x 6 x 3
+579	Windscreen, Decorated	50747pb08	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with White Compound Eye Pattern		7.35	6 x 6 x 3
 238	Minifigure, Head	3626pb0946	Minifigure, Head Beard Stubble, Brown Angry Eyebrows, White Pupils Pattern		0.55	? x ? x ?
 463	Electric, Programmable	95646c01	Mindstorms EV3 - Complete Brick		180	? x ? x ?
 121	Electric, Motor	95658	Electric, Motor EV3, Large		80.7	? x ? x ?
@@ -31223,7 +31223,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 238	Minifigure, Head	3626pb0995	Minifigure, Head Dual Sided Beard Stubble Dark Red, Sideburns, Goatee, Curved Black Eyebrows, Lopsided Open Grin / Determined Pattern		0.54	? x ? x ?
 238	Minifigure, Head	3626pb0996	Minifigure, Head Dual Sided Beard Stubble, Missing Tooth, Open Grin / Frown Pattern		0.54	? x ? x ?
 27	Plate, Modified	15573	Plate, Modified 1 x 2 with 1 Stud with Groove and Bottom Stud Holder (Jumper)	78823	0.3	1 x 2 x 0
-579	Windscreen, Decorated	50747pb09	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with SW Republic Gunship Pattern		7.2	6 x 6 x 3
+579	Windscreen, Decorated	50747pb09	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with SW Republic Gunship Pattern		7.2	6 x 6 x 3
 20	Minifigure, Body Part	981pb019	Arm, Left with Lime Markings and Silver Circle and Lines Pattern		0.12	? x ? x ?
 20	Minifigure, Body Part	982pb019	Arm, Right with Lime Markings and Silver Circle and Lines Pattern		0.12	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb1511c01	Torso Police Uniform Jacket with Silver '1337' on Collar, Badge with 'JCF', and Buttons, Dark Bluish Gray Belt with Buckle, Yellow Neck Pattern / Black Arms / Yellow Hands		1.25	? x ? x ?
@@ -31993,7 +31993,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 749	Hero Factory	15362	Hero Factory Weapon, Claw Wide Curved		1.43	? x ? x ?
 160	Sticker Sheet	41054stk01a	Sticker Sheet for Set 41054, Sheet 1, Transparent Background Version - (16558/6062159)	16558	2.72	? x ? x ?
 160	Sticker Sheet	41054stk02	Sticker Sheet for Set 41054, Sheet 2, Mirrored - (16412/6059281)	16412	0.75	? x ? x ?
-147	Animal, Land	15678pb01	Chameleon, Friends Style with Black, Reddish Brown and White Eyes and Marbled Green Pattern (Pascal)		1.08	? x ? x ?
+147	Animal, Land	15678pb01	Chameleon, Friends Style with Marbled Green and Printed Black, Reddish Brown and White Eyes Pattern (Disney Pascal)		1.08	? x ? x ?
 160	Sticker Sheet	70722stk01	Sticker Sheet for Set 70722 - (16052/6056950)		0.46	6.5 x 8 x 0
 142	Minifigure, Body Wear	15619	Minifigure Bandana Ninja		0.12	? x ? x ?
 147	Animal, Land	snail01	Snail, The Lego Movie - Brick Built		8.1	? x ? x ?
@@ -33251,7 +33251,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 246	Paper	paper05	Paper Cardboard Backdrop for Set 40115		?	? x ? x ?
 33	Slope, Decorated	4515pb050	Slope 10 6 x 8 with Lime Screen with 'WARNING: UNIDENTIFIED FLYING AGENT' and 'ARMED ACTIVATE LASER IN 00:12'  Pattern  (Sticker) - Set 8637		7.3	6 x 8 x 1
 147	Animal, Land	14732pb01	Bear, Friends Style, Baby Cub, Sitting with Black Nose, Dark Azure Eyes and Dark Tan Paws and Muzzle Pattern		1.73	? x ? x ?
-147	Animal, Land	14736pb01	Monkey, Friends Style, Baby (Orangutan) with Bright Green Eyes, Black Nose, Dark Tan Face and Stomach Pattern		1.44	? x ? x ?
+147	Animal, Land	14736pb01	Ape, Friends Style, Baby (Orangutan) with Bright Green Eyes, Black Nose, Dark Tan Face and Stomach Pattern (Orangutan)		1.44	? x ? x ?
 943	Minifigure, Utensil, Decorated	42511c03pb14	Minifigure, Utensil Skateboard Deck with Dark Red Stripe Pattern with Medium Lavender Wheels (42511pb14 / 2496)	88422c03pb14	2	? x ? x ?
 160	Sticker Sheet	75059stk01a	Sticker Sheet for Set 75059 - International Version - (16421/6060716)	16421	1	? x ? x ?
 578	Wedge, Decorated	47753pb053	Wedge 4 x 4 Triple Curved No Studs with Sentinel Yellow, Orange and Red Triangle and Black Stripe Trim Pattern		2.1	4 x 4 x 1
@@ -33287,7 +33287,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 148	Animal, Body Part	15429	Cat Tail	7100,37993	0.7	1 x 2 x 2
 39	Tile, Decorated	2431pb0339	Tile 1 x 4 with 'MA-xxxxxxxx' Pattern		0.55	1 x 4 x 0
 148	Animal, Body Part	16770	Barb / Claw / Horn / Tooth with Clip, Curved	30936	0.49	? x ? x ?
-147	Animal, Land	15678pb02	Chameleon, Friends Style with Black, Medium Azure and White Eyes and Marbled Medium Lavender Pattern		1	? x ? x ?
+147	Animal, Land	15678pb02	Chameleon, Friends Style with Marbled Medium Lavender and Printed Black, Medium Azure and White Eyes Pattern		1	? x ? x ?
 160	Sticker Sheet	41033stk01	Sticker Sheet for Set 41033 (Undetermined Type)		0.2	8 x 6 x 0
 160	Sticker Sheet	41038stk01	Sticker Sheet for Set 41038 - (17792/6076022)		0.3	8 x 7.5 x 0
 160	Sticker Sheet	70141stk01	Sticker Sheet for Set 70141 - (17694/6075144)		0.3	? x ? x ?
@@ -33403,7 +33403,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 39	Tile, Decorated	3070pb083	Tile 1 x 1 with SW Snowtrooper Backpack Pattern	3070bpb083	0.16	1 x 1 x 0
 160	Sticker Sheet	75049stk01a	Sticker Sheet for Set 75049 - International Version - (17590/6074039)		0.6	8.5 x 8 x 0
 39	Tile, Decorated	3068pb0850	Tile 2 x 2 with White 'HIT ME!' and Red Button Pattern (Sticker) - Set 7886	3068bpb0850	0.5	2 x 2 x 0
-579	Windscreen, Decorated	50747pb10	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with SW Droid Tri-Fighter Dark Blue Small Triangles Pattern		7.2	6 x 6 x 3
+579	Windscreen, Decorated	50747pb10	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with SW Droid Tri-Fighter Dark Blue Small Triangles Pattern		7.2	6 x 6 x 3
 160	Sticker Sheet	75051stk01a	Sticker Sheet for Set 75051 - International Version - (17592/6074049)		1	13.5 x 9.5 x 1
 160	Sticker Sheet	76020stk01a	Sticker Sheet for Set 76020 - International Version - (17671/6074938)		0.53	8 x 7.5 x 0
 160	Sticker Sheet	76019stk01	Sticker Sheet for Set 76019 - (17668/6074929)	17668	0.67	? x ? x ?
@@ -33437,7 +33437,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 1012	Aircraft, Decorated	54092c01pb04	Aircraft Fuselage Forward Top Curved 8 x 16 x 5 with Trans-Brown Glass with Blue 'POLICE' and Stripes Pattern on Both Sides (Stickers) - Set 7723		31.4	8 x 16 x 5
 578	Wedge, Decorated	52031pb078	Wedge 4 x 6 x 2/3 Triple Curved with White 'L.C.B.' Pattern (Sticker) - Set 7998		3.3	4 x 6 x 0.67
 741	Tail, Decorated	54094pb03	Tail 14 x 2 x 8 with White 'POLICE' and Stripes on Blue Background Pattern on Both Sides (Stickers) - Set 7723		18.66	14 x 2 x 8
-579	Windscreen, Decorated	50747pb11	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with SW Rebel Ghost Pattern		7	6 x 6 x 3
+579	Windscreen, Decorated	50747pb11	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with SW Rebel Ghost Pattern		7	6 x 6 x 3
 16	Minifigure, Headgear	15404	Minifigure, Headgear Head Cover, Flames Small		0.98	? x ? x ?
 142	Minifigure, Body Wear	72326	Minifigure Armor Space with Shoulder Protection		1.8	? x ? x ?
 160	Sticker Sheet	70135stk01a	Sticker Sheet for Set 70135 - Transparent Background Version - (17725/6075224)		0.3	6 x 6 x 0
@@ -33537,7 +33537,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 578	Wedge, Decorated	93589pb006	Wedge 4 x 2 x 1 1/3 with 1 x 4 Base with Ferrari Logo on White Stripe Pattern (Sticker) - Set 30195		2	4 x 4 x 1.33
 578	Wedge, Decorated	64225pb010	Wedge 4 x 3 Triple Curved No Studs with White Square Pattern (Sticker) - Set 30195		1.66	4 x 3 x 1
 33	Slope, Decorated	54200pb061	Slope 30 1 x 1 x 2/3 with White Square Pattern (Sticker) - Set 30195		0.21	1 x 1 x 0.67
-147	Animal, Land	14736pb02	Monkey, Friends Style, Baby (Orangutan) with Medium Azure Eyes, Black Nose, Nougat Face and Stomach Pattern		1.44	? x ? x ?
+147	Animal, Land	14736pb02	Ape, Friends Style, Baby (Orangutan) with Medium Azure Eyes, Black Nose, Nougat Face and Stomach Pattern		1.44	? x ? x ?
 39	Tile, Decorated	3069pb0319	Tile 1 x 2 with 'PIRELLI' Pattern (Sticker) - Set 30192	3069bpb0319	0.26	1 x 2 x 0
 39	Tile, Decorated	3069pb0320	Tile 1 x 2 with 3 White Circles on Black Oval Pattern (Sticker) - Set 30194	3069bpb0320	0.26	1 x 2 x 0
 775	Slope, Curved, Decorated	61678pb070L	Slope, Curved 4 x 1 with Shell and Scuderia Ferrari Logos Pattern Model Left Side (Stickers) - Set 30190		0.8	4 x 1 x 1
@@ -35099,7 +35099,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 5	Brick	2453a	Brick 1 x 1 x 5 - Hollow Stud		2.13	1 x 1 x 5
 167	DUPLO	16205	Duplo Animal Accessory Cratch		9.4	4 x 3 x 2
 39	Tile, Decorated	2431pb0366	Tile 1 x 4 with Wood Grain Medium Nougat Pattern		0.54	1 x 4 x 0
-91	Panel	18910	Panel 3 x 4 x 3 Curved with Double Clip Hinge		2	3 x 4 x 3
+91	Panel	18910	Panel 3 x 4 x 3 Curved with Double Clip Hinge		2.5	3 x 4 x 3
 160	Sticker Sheet	60083stk01	Sticker Sheet for Set 60083 - (19272/6097533)	19272	?	? x ? x ?
 578	Wedge, Decorated	50948pb02	Wedge 4 x 3 Cut Back with Cutout, 2 Studs with Black and Silver Pattern		1.33	4 x 3 x 0.67
 160	Sticker Sheet	76027stk01b	Sticker Sheet for Set 76027 - North American Version - (20116/6103314)		0.8	8 x 11 x 0
@@ -36215,7 +36215,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 916	Mini Doll, Legs	19190c00pb01	Mini Doll Hips and Trousers Baggy with Light Aqua Shoes Pattern - Thick Hinge	19193c00pb01	1.43	? x ? x ?
 914	Mini Doll, Head	19690	Mini Doll, Head Friends with Brown Eyes, Bright Pink Lips and Open Mouth Pattern		0.61	? x ? x ?
 160	Sticker Sheet	76031stk01a	Sticker Sheet for Set 76031 - International Version - (20676/6107981)	20676	0.7	? x ? x ?
-579	Windscreen, Decorated	18990pb01	Windscreen 4 x 4 x 1 2/3 Canopy Half Sphere with Bar Handle with Gold Hulkbuster Face with Silver Side Panels Pattern		3	4 x 4 x 1.67
+579	Windscreen, Decorated	18990pb01	Windscreen 4 x 4 x 1 2/3 Canopy Dome Half Sphere with Bar Handle with Gold Hulkbuster Face with Silver Side Panels Pattern		3	4 x 4 x 1.67
 1097	Minifigure, Torso Assembly, Decor.	973pb1963c01	Torso Female Jacket Open over Red and White Shirt with Wrinkle, Silver Infinity Pendant Necklace, Yellow Neck Pattern / Green Arms / Yellow Hands		1.18	? x ? x ?
 150	Minifigure, Torso	973pb1963	Torso Female Jacket Open over Red and White Shirt with Wrinkle, Silver Infinity Pendant Necklace, Yellow Neck Pattern		0.82	? x ? x ?
 911	Mini Doll, Body Part	16529c00pb02	Mini Doll Hips and Mermaid / Merman Tail Assembly with Bright Pink Caudal Fin Pattern		1.36	? x ? x ?
@@ -36958,7 +36958,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 33	Slope, Decorated	3037pb039	Slope 45 2 x 4 with Justice League Javelin Spaceship Control Panel Pattern (Sticker) - Set 76028		2.1	2 x 4 x 1
 160	Sticker Sheet	76036stk01a	Sticker Sheet for Set 76036 - International Version - (21415/6116290)		0.1	? x ? x ?
 812	Tile, Round, Decorated	15535pb01	Tile, Round 2 x 2 with Hole with Rotor Blade Pattern		0.32	2 x 2 x 0
-115	Windscreen	18990	Windscreen 4 x 4 x 1 2/3 Canopy Half Sphere with Bar Handle	35322	2	4 x 4 x 1.67
+115	Windscreen	18990	Windscreen 4 x 4 x 1 2/3 Canopy Dome Half Sphere with Bar Handle	35322	2	4 x 4 x 1.67
 160	Sticker Sheet	41106stk01	Sticker Sheet for Set 41106, Mirrored - (21508/6116823)	21508	1.71	? x ? x ?
 121	Electric, Motor	bb0007c01pb01	Electric, Motor 4.5V Type A 12 x 4 x 4 (Train) with Engraved '4,5 VOLT' Pattern		110	12 x 4 x 3.75
 118	Brick, Decorated	crssprt02pb41d	Brick 1 x 6 without Bottom Tubes with Cross Side Supports with Green 'TOBAK' Serif Pattern		2.43	1 x 6 x 1
@@ -38301,7 +38301,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 778	Tile, Modified, Decorated	6179pb096	Tile, Modified 4 x 4 with Studs on Edge with Spider-Man Eyes Pattern		1.95	4 x 4 x 0
 812	Tile, Round, Decorated	14769pb077	Tile, Round 2 x 2 with Bottom Stud Holder with Pumpkin Jack O' Lantern Pattern		0.35	2 x 2 x 0
 16	Minifigure, Headgear	20908	Minifigure, Headgear Helmet SW First Order Crew Member		1	? x ? x ?
-238	Minifigure, Head	3626pb1429	Minifigure, Head Black Eyebrows, Left Raised, Dark Brown Chin Dimple, Frown Pattern	3626cpb1429	0.54	? x ? x ?
+238	Minifigure, Head	3626pb1429	Minifigure, Head Thick Black Eyebrows, Left Raised, Dark Brown Chin Dimple, Frown Pattern (Undetermined Type)	3626cpb1429	0.54	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb2134c01	Torso SW First Order Crew Member Uniform Pattern / Black Arms / Black Hands		1.25	? x ? x ?
 150	Minifigure, Torso	973pb2134	Torso SW First Order Crew Member Uniform Pattern		0.82	? x ? x ?
 27	Plate, Modified	18601	Plate, Modified 12 x 24 with 6 x 6 Square Cutouts at 2 Corners and 6 x 6 Round Cutout		24.46	12 x 24 x 0
@@ -38954,7 +38954,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 569	Large Figure Part	21561pb05	Large Figure Torso with SW Robe and Belt Pattern (Kylo Ren)		9.32	? x ? x ?
 569	Large Figure Part	21561pb06	Large Figure Torso with SW Gray Armor Pattern (Captain Phasma)		9.32	? x ? x ?
 778	Tile, Modified, Decorated	11203pb013	Tile, Modified 2 x 2 Inverted with Gift Wrap Medium Blue Bow Pattern		0.62	2 x 2 x 0
-147	Animal, Land	24183pb01	Hamster / Mouse, Friends Style with Black Eyes, Nose and Mouth and White Muzzle Pattern (Gus Gus / Heidi / Rumble)		0.39	? x ? x ?
+147	Animal, Land	24183pb01	Hamster / Mouse, Friends Style with Black Eyes, Nose and Mouth and White Muzzle Pattern (Heidi / Rumble / Disney Gus Gus)		0.39	? x ? x ?
 147	Animal, Land	24183pb02	Hamster / Mouse, Friends Style with Black Eyes, Nose and Mouth and White Muzzle and Blaze Pattern (Harry)		0.39	? x ? x ?
 532	Wheel & Tire Assembly	50944c02	Wheel 11mm D. x 6mm with 5 Spokes with Black Tire 17.5mm D. x 6mm with Shallow Staggered Treads - Band Around Center of Tread (50944 / 92409)		1.12	? x ? x ?
 39	Tile, Decorated	3070pb090	Tile 1 x 1 with Black and Dark Bluish Gray SW Rebel Alliance Jet Pack Pattern	3070bpb090	0.16	1 x 1 x 0
@@ -39126,7 +39126,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 943	Minifigure, Utensil, Decorated	62698pb06	Minifigure, Utensil Computer Laptop with Arrow, Comet, and Solar System Pattern (Sticker) - Set 41100		0.72	? x ? x ?
 160	Sticker Sheet	60130stk01	Sticker Sheet for Set 60130 - (24542/6133174)	24542	1.29	? x ? x ?
 160	Sticker Sheet	70314stk01	Sticker Sheet For Set 70314 - (24352/6132309)		0.66	8.5 x 8 x 0
-579	Windscreen, Decorated	50747pb12	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with Globlin with Yellow and Orange Eyes Pattern		7.3	6 x 6 x 3
+579	Windscreen, Decorated	50747pb12	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with Globlin with Yellow and Orange Eyes Pattern		7.3	6 x 6 x 3
 1098	Minifigure, Legs, Decorated	970c00pb0480	Hips and Legs with SW Pockets and Black Lines Pattern (Imperial Combat Driver)		1.18	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c86pb21	Hips and Light Bluish Gray Legs with 2 Silver Dots, Reddish Brown Coattails and Holster Pattern		1.18	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb2188c01	Torso SW Quilted Coat, Tan Bandana, Reddish Brown Straight Belt Pattern / Dark Brown Arms / White Hands		1.25	? x ? x ?
@@ -39211,7 +39211,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 160	Sticker Sheet	76017stk01b	Sticker Sheet for Set 76017 - North American Version - (17755/6075329)		0.3	6 x 7 x 0
 12	Door	60797pb03	Door 1 x 4 x 6 with 3 Panes with Molded Reddish Brown Glass with Stud Handle  Pattern		3.43	1 x 4 x 6
 943	Minifigure, Utensil, Decorated	93221pb03	Minifigure, Utensil Radio Boom Box with Bar Handle with Black Cassette Player, Switches and Rimmed Speakers Pattern		1.21	1 x 3 x 0
-579	Windscreen, Decorated	50747pb13	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with Globlin with Squinting Yellow Eyes Pattern		7.3	6 x 6 x 3
+579	Windscreen, Decorated	50747pb13	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with Globlin with Squinting Yellow Eyes Pattern		7.3	6 x 6 x 3
 36	Technic	32474pb005	Technic Ball Joint with Globlin Type 2 Pattern		0.42	? x ? x ?
 36	Technic	32474pb006	Technic Ball Joint with Globlin Type 3 Pattern		0.42	? x ? x ?
 36	Technic	32474pb007	Technic Ball Joint with Globlin Type 4 Pattern		0.42	? x ? x ?
@@ -39986,7 +39986,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 775	Slope, Curved, Decorated	15068pb053	Slope, Curved 2 x 2 x 2/3 with Deep Sea Logo with Silver Anchor and Red Tentacle Pattern (Sticker) - Sets 60093 / 60096		0.57	2 x 2 x 0.67
 812	Tile, Round, Decorated	15535pb02	Tile, Round 2 x 2 with Hole with Propeller with 3 Silver Blades Pattern		0.32	2 x 2 x 0
 19	Minifigure, Weapon	23985	Minifigure, Weapon Djinn Blade Hilt with Skull and Bar		0.53	? x ? x ?
-579	Windscreen, Decorated	50747pb14	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with Bat Pattern		7.3	6 x 6 x 3
+579	Windscreen, Decorated	50747pb14	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with Bat Pattern		7.3	6 x 6 x 3
 118	Brick, Decorated	3010pb191	Brick 1 x 4 with Sand Green Flowers and Vines Wallpaper Pattern		1.64	1 x 4 x 1
 847	Minifigure, Hair	15491	Minifigure, Hair Male Bald Top		0.49	? x ? x ?
 812	Tile, Round, Decorated	98138pb040	Tile, Round 1 x 1 with Red Bat Batman Logo Pattern		0.11	1 x 1 x 0
@@ -41450,7 +41450,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 534	Brick, Promotional	30144pb191	Brick 2 x 4 x 3 with LEGO Friends Event Legoland Deutschland Resort 2016 Pattern		6.7	2 x 4 x 3
 147	Animal, Land	19532pb03	Fox, Friends Style with Black Nose, Bright Light Blue Eyes, White Blaze and Eye Borders and Dark Bluish Gray Tail Pattern		1.75	? x ? x ?
 812	Tile, Round, Decorated	98138pb055	Tile, Round 1 x 1 with White Animal Paw Print on Reddish Brown Background Pattern	35381pb055	0.14	1 x 1 x 0
-117	Tile, Round	25269	Tile, Round 1 x 1 Quarter	48410,67173,84411,113481	0.1	1 x 1 x 0
+117	Tile, Round	25269	Tile, Round 1 x 1 Quarter	48410,67173,84411,113481,113489	0.1	1 x 1 x 0
 812	Tile, Round, Decorated	25269pb001	Tile, Round 1 x 1 Quarter with Lattice Pie Pattern		0.1	1 x 1 x 0
 812	Tile, Round, Decorated	25269pb002	Tile, Round 1 x 1 Quarter with Red Watermelon Pattern		0.1	1 x 1 x 0
 28	Plate, Round	26047	Plate, Round 1 x 1 with Bar Handle		0.3	1.5 x 1 x 0
@@ -44519,7 +44519,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 160	Sticker Sheet	41185stk01	Sticker Sheet for Set 41185 - (31921/6181563)		0.63	8.5 x 8.5 x 0
 418	Minifigure, Shield	3846pb042	Minifigure, Shield Triangular Short with Gold Goblin King Eye Pattern		0.4	? x ? x ?
 36	Technic	32474pb012	Technic Ball Joint with Red Mouth and Lime Sharp Teeth Pattern		0.44	? x ? x ?
-147	Animal, Land	15678pb03	Chameleon, Friends Style with Black, Magenta and White Eyes and Marbled Magenta Pattern (Hidee)		1.08	? x ? x ?
+147	Animal, Land	15678pb03	Chameleon, Friends Style with Marbled Magenta and Printed Black, Magenta and White Eyes Pattern (Elves Hidee)		1.08	? x ? x ?
 147	Animal, Land	11602pb05	Cat, Friends Style, Sitting with Magenta Eyes, Inner Ears, Patches and Paws, Black Eyelashes, Nose and Claws Pattern (Elves Panthara)		1.14	? x ? x ?
 39	Tile, Decorated	87079pb0388	Tile 2 x 4 with White BrickHeadz Head and Word Balloon with Red Number 1 Pattern		0.95	2 x 4 x 0
 812	Tile, Round, Decorated	98138pb072	Tile, Round 1 x 1 with 2 White Squares Pattern (BrickHeadz Standard Eye)	35381pb072	0.15	1 x 1 x 0
@@ -47013,7 +47013,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 780	Vehicle, Mudguard, Decorated	30839pb003	Vehicle, Mudguard 3 x 4 x 2 with Flat Top, Steep Front and Curved Fenders with Headlights, Grille, Curved Bumper and Thin Mouth Pattern (Smokey)		3.71	3 x 4 x 2
 780	Vehicle, Mudguard, Decorated	93587pb16	Vehicle, Mudguard 3 x 4 x 1 2/3 Curved with Back with Taillight, Bumper, Trunk Outline and Handle and 'MOON SHNE' License Plate Pattern		2.9	3 x 4 x 1.67
 775	Slope, Curved, Decorated	15625pb020	Slope, Curved 5 x 8 x 2/3 with 4 Studs with Yellow Stripes, Skidmarks and Oil Splotch Pattern		5.15	5 x 8 x 0.67
-147	Animal, Land	14736	Monkey, Friends Style, Baby (Orangutan)		1.44	? x ? x ?
+147	Animal, Land	14736	Ape, Friends Style, Baby (Orangutan)		1.44	? x ? x ?
 578	Wedge, Decorated	45677pb106	Wedge 4 x 4 x 2/3 Triple Curved with Dark Blue 'HYDRO DYNAMICS COACH' and Faucet Pattern		2.7	4 x 4 x 0.67
 585	DUPLO, Figure Wear & Utensil	bb0800pb01	Duplo Wear Cloth Santa Cap with White Trim Pattern and Chin Strap		2.5	? x ? x ?
 488	DUPLO, Vehicle	25026pb02	Duplo Horse Carriage Base with Green Ribbon Pattern		45	8 x 5 x 3
@@ -48558,7 +48558,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 150	Minifigure, Torso	28680pb02	Torso, Modified Short with Smooth Armor Breastplate with Shoulder Pads and Silver Armor and Dark Purple Splatters Pattern		0.89	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	28680pb02c01	Torso, Modified Short with Smooth Armor Breastplate with Shoulder Pads and Silver Armor and Dark Purple Splatters Pattern / Black Arms / Black Hands		1.4	? x ? x ?
 131	Vehicle, Base	30842	Vehicle, Base 4 x 14 x 1 with Tow Ball Socket Hitch (Semi Tractor)		13.5	4 x 14 x 1
-131	Vehicle, Base	30833	Vehicle, Base 6 x 21 x 3		57.07	6 x 21 x 3
+131	Vehicle, Base	30833c01	Vehicle, Base 6 x 21 x 3	30834c01	57.07	6 x 21 x 3
 780	Vehicle, Mudguard, Decorated	30843pb01	Vehicle, Mudguard 6 x 7 x 3 2/3 with 'MACK' on Silver Truck Grille, Headlights and Mouth Pattern		16.79	6 x 7 x 3.66
 142	Minifigure, Body Wear	26871pb01	Minifigure Cape Cloth, Rounded Bottom and Straight Collar with Red Flowers Pattern - Traditional Starched Fabric	36318	0.26	? x ? x ?
 847	Minifigure, Hair	35685pb02	Minifigure, Hair Combo, Tiara with Molded White Bangs, Top, and Ponytail Pattern		1.16	? x ? x ?
@@ -48680,7 +48680,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 39	Tile, Decorated	2431pb0510	Tile 1 x 4 with Gray Triangle and Three Orange Stripes Pattern		0.53	1 x 4 x 0
 39	Tile, Decorated	26603pb016	Tile 2 x 3 with Reddish Brown Diamond Shaped Scar Pattern		0.69	2 x 3 x 0
 39	Tile, Decorated	3070pb123	Tile 1 x 1 with Silver Circuitry Pattern	3070bpb123	0.14	1 x 1 x 0
-579	Windscreen, Decorated	18990pb02	Windscreen 4 x 4 x 1 2/3 Canopy Half Sphere with Bar Handle with Gold Hulkbuster Face with Dark Bluish Gray Cheeks and Forehead Panel Pattern		3	4 x 4 x 1.67
+579	Windscreen, Decorated	18990pb02	Windscreen 4 x 4 x 1 2/3 Canopy Dome Half Sphere with Bar Handle with Gold Hulkbuster Face with Dark Bluish Gray Cheeks and Forehead Panel Pattern		3	4 x 4 x 1.67
 707	DUPLO, Doll	99136	Duplo, Doll Cloth Nightdress with Pink Stripes Pattern, no Trim		3.19	? x ? x ?
 707	DUPLO, Doll	99233	Duplo, Doll Cloth T-Shirt Plain with Short Sleeves, Velveteen Fabric		3.63	? x ? x ?
 707	DUPLO, Doll	61209	Duplo, Doll Cloth T-Shirt with Sun Pattern		3.37	? x ? x ?
@@ -48979,7 +48979,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 142	Minifigure, Body Wear	35904	Minifigure Cape Cloth, Tattered and Pixelated (Minecraft) - Starched Fabric		0.05	? x ? x ?
 606	Minifigure, Head, Modified	19729pb024	Minifigure, Head, Modified Cube with Pixelated Light Bluish Gray Face with Nose, White Eyes, Black Mouth Pattern	25194pb024	0.98	? x ? x ?
 160	Sticker Sheet	76105stk01	Sticker Sheet for Set 76105 - (38385/6224451)		2.85	19.5 x 15 x 0
-579	Windscreen, Decorated	50747pb15	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with Hulk Buster Face Pattern		7.3	6 x 6 x 3
+579	Windscreen, Decorated	50747pb15	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with Hulk Buster Face Pattern		7.3	6 x 6 x 3
 72	Vehicle	2440pb020	Vehicle, Spoiler / Plow Blade 6 x 3 with Hinge with White and Blue Snow Chunks Pattern (Sticker) - Set 76098		2.2	6 x 3 x 0
 740	Technic, Panel, Decorated	11947pb023	Technic, Panel Fairing #22 Very Small Smooth, Side A with Flames Pattern (Sticker) - Set 42005		2	5 x 2 x 1
 740	Technic, Panel, Decorated	11946pb023	Technic, Panel Fairing #21 Very Small Smooth, Side B with Flames Pattern (Sticker) - Set 42005		2	5 x 2 x 1
@@ -53205,7 +53205,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 1098	Minifigure, Legs, Decorated	970c55pb15	Hips and Sand Blue Legs with Silver Belt and Chain, Tattered Reddish Brown Apron, Silver Spiked Boot Tips Pattern		1.18	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c03pb37	Hips and Yellow Legs with Tattered Sand Blue and Dark Blue Surf Shorts with Flowers and Reddish Brown Sandal Straps Pattern		1.18	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c03pb38	Hips and Yellow Legs with Black Boots and Silver Knee Pad and Boot Tips Pattern		1.18	? x ? x ?
-1098	Minifigure, Legs, Decorated	970d44pb01	Hips and 1 Dark Blue Left Leg, 1 Red Right Leg with Reddish Brown Boots, Black Belt with Silver Rivets, White Fishnet Stockings and Knee Pad Pattern		1.18	? x ? x ?
+1098	Minifigure, Legs, Decorated	970d44pb01	Hips and 1 Dark Blue Left Leg, 1 Red Right Leg with Reddish Brown Boots, Black Belt with Silver Rivets, White Fishnet Stockings and Knee Pad Pattern	20926d44pb01,20932d44pb01	1.18	? x ? x ?
 238	Minifigure, Head	3626pb2327	Minifigure, Head Beard Stubble, Sideburns, Eyebrows, Crow's Feet, Scar Pattern		0.55	? x ? x ?
 238	Minifigure, Head	3626pb2328	Minifigure, Head Gray Eye Patch, Moustache Dark Brown Fu Manchu, Scar, Wrinkles, Crow's Feet Pattern		0.55	? x ? x ?
 643	Container, Decorated	29632c15pb01	Container, Pod with Light Bluish Gray 6 x 6 Round Plate and Blue 1 x 2 Plate with The LEGO Movie 2 Pattern (Sticker) and Hologram - Set 853874		26.9	? x ? x ?
@@ -53551,7 +53551,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 812	Tile, Round, Decorated	14769pb259	Tile, Round 2 x 2 with Bottom Stud Holder with Dark Blue and Metallic Light Blue Avengers Logo Pattern		0.33	2 x 2 x 0
 943	Minifigure, Utensil, Decorated	25975pb02	Minifigure, Utensil Musical Instrument, Guitar Acoustic with Silver Strings and Black Tuning Knobs Pattern		0.78	? x ? x ?
 39	Tile, Decorated	3068pb1216	Tile 2 x 2 with 'TURKEY IN THE STRAW' Sheet Music and Goat Pattern	3068bpb1216	0.49	2 x 2 x 0
-579	Windscreen, Decorated	18990pb03	Windscreen 4 x 4 x 1 2/3 Canopy Half Sphere with Bar Handle and War Machine Face Pattern		2	4 x 4 x 1.67
+579	Windscreen, Decorated	18990pb03	Windscreen 4 x 4 x 1 2/3 Canopy Dome Half Sphere with Bar Handle and War Machine Face Pattern		2	4 x 4 x 1.67
 1098	Minifigure, Legs, Decorated	970c00pb0946	Hips and Legs with Black Armor with Silver Dots and Red Trim Pattern		1.18	2 x 1 x 2.5
 1098	Minifigure, Legs, Decorated	970c00pb0947	Hips and Legs with Asymmetric Makeshift Armor, Dark Tan and Dark Blue Trim Pattern		1.19	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb0948	Hips and Legs with Armor with Gold and Silver Outlines Pattern		1.19	? x ? x ?
@@ -53665,7 +53665,6 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 33	Slope, Decorated	3297pb043R	Slope 33 3 x 4 with SW Snowspeeder Hull Plates with Orange Outline Pattern Model Right Side (Sticker) - Set 75259		2.57	3 x 4 x 1
 160	Sticker Sheet	75243stk01	Sticker Sheet for Set 75243 - (50112/6257051)	50112	0.82	? x ? x ?
 39	Tile, Decorated	3068pb1218	Tile 2 x 2 with 'STRALIS', 'SCUDERIA FERRARI' Logo and 'IVECO' Pattern (Sticker) - Sets 8153 / 8155	3068bpb1218	0.57	2 x 2 x 0
-246	Paper	4499296	Paper Information Note, Environmental Warning Leaflet		4	? x ? x ?
 736	Brick, Round, Decorated	20952pb03	Brick, Round 1 1/2 x 1 1/2 x 2/3 Dome Top with SW BB-8 Droid Head, Large Photoreceptor Pattern		0.34	1.5 x 1.5 x 0.67
 16	Minifigure, Headgear	87556pb10	Minifigure, Headgear Helmet SW Stormtrooper Type 2, Black Ace Skull Pattern		1.25	? x ? x ?
 420	DUPLO, Animal	54033pb01	Duplo Dragon Head with Tan Horns and Red Eyes Pattern		?	? x ? x ?
@@ -54212,7 +54211,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 778	Tile, Modified, Decorated	27263pb001R	Tile, Modified Facet 2 x 2 with Square Rear Red Reflector Pattern Model Right Side (Sticker) - Set 42078		0.35	2 x 2 x 0
 234	Foam	bb0909	Foam Scala Puzzle Piece 6 x 5		0.5	6 x 5 x 0
 234	Foam	bb0908	Foam Scala Bush 23 x 12 with Cutout and 5 Holes		3	23 x 12 x 0
-234	Foam	bb0911	Foam Scala Leaf 5 x 5 with Hole		0.5	5 x 5 x 0
+234	Foam	3148foam02h	Foam Part for Set 3148 - Scala Part of Bracelet with Hole, Type 4	bb0911	0.5	5 x 5 x 0
 234	Foam	bb0912	Foam Scala Flower Medium 4 x 4 with 3 Petals and Hole		0.5	4 x 4 x 0
 234	Foam	bb0906	Foam Scala Bush 11 x 9 with Cutout and 4 Holes		?	11 x 9 x 0
 234	Foam	bb0907	Foam Scala Bush 15 x 9 with Cutout and 4 Holes		?	15 x 9 x 0
@@ -54376,7 +54375,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 606	Minifigure, Head, Modified	49230pb01	Minifigure, Head, Modified Rabbit Large Head with Lime Auricles and Muzzle, Medium Lavender Eyes Pattern		2.19	? x ? x ?
 847	Minifigure, Hair	49890pb01	Minifigure, Hair Female Smooth with 3 Locks in Back and Bright Pink Bow Pattern		0.64	? x ? x ?
 461	Panel, Decorated	15626pb07	Panel 4 x 16 x 10 with Medium Lavender Cloud with Stars and Planets, Carnival Prizes Pattern		26.29	4 x 16 x 10
-579	Windscreen, Decorated	50747pb16	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with Dark Pink and Lime Jewels with Large Yellowed Teeth Pattern		7.35	6 x 6 x 3
+579	Windscreen, Decorated	50747pb16	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with Dark Pink and Lime Jewels with Large Yellowed Teeth Pattern		7.35	6 x 6 x 3
 778	Tile, Modified, Decorated	6178pb026	Tile, Modified 6 x 12 with Studs on Edges with 'STAR ADVENTURER', Spaceship, Planets and Star Pattern		8.41	6 x 12 x 0
 1048	Road Sign, Decorated	30261pb039	Road Sign 2 x 2 Round with Clip with Red Bullseye and Lime Rocket Pattern		0.39	2 x 2 x 0
 1097	Minifigure, Torso Assembly, Decor.	973pb3550c01	Torso Lime Chest with Puffy Tail and White Tag on Back Pattern / Dark Azure Arms / Dark Azure Hands		1.32	? x ? x ?
@@ -55015,17 +55014,17 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 740	Technic, Panel, Decorated	64683pb049	Technic, Panel Fairing # 3 Small Smooth Long, Side A with Medium Azure, Red and Dark Purple Dragon Head Pattern (Sticker) - Set 70642		3.2	7 x 3 x 2
 740	Technic, Panel, Decorated	87086pb048	Technic, Panel Fairing # 2 Small Smooth Short, Side B with Dark Purple and Medium Azure Pattern (Sticker) - Set 70642		2.5	5 x 3 x 2
 102	Scala	6953pb10	Scala Wall, Panel 6 x 10 with Beach Umbrella and Sun Pattern (Sticker) - Set 3243		7	6 x 10 x 0
-234	Foam	bb0938	Foam Scala Sleeping Pad with 6 Holes		?	? x ? x ?
-234	Foam	bb0939	Foam Scala Basket with 8 Holes		?	? x ? x ?
-234	Foam	3159foam02a	Foam Part for Set 3159 - Scala Bush with Cutouts and 3 Holes	bb0930	?	? x ? x ?
-234	Foam	3159foam03a	Foam Part for Set 3159 - Scala Bag with 6 Holes	bb0929	?	? x ? x ?
-234	Foam	3159foam01ac01	Foam Part for Set 3159 - Scala Tiara with 3 Holes with Yellow Dot	bb0933c01	?	? x ? x ?
-234	Foam	3159foam01bc01	Foam Part for Set 3159 - Scala Tray Liner with Hole with Yellow Dot	bb0937c01	?	? x ? x ?
-234	Foam	3159foam03b	Foam Part for Set 3159 - Scala Crown for Cake	bb0932	?	? x ? x ?
-234	Foam	3159foam03dc01	Foam Part for Set 3159 - Scala Pizza with 4 Holes with 2 Red and 2 Bright Green Dots	bb0934c01	?	? x ? x ?
-234	Foam	3159foam01c	Foam Part for Set 3159 - Scala Meat for Sandwich with Hole, Type 1		0.08	? x ? x ?
+234	Foam	3151foam02a	Foam Part for Set 3151 - Scala Sleeping Pad with 6 Holes	bb0938	3.09	? x ? x ?
+234	Foam	3151foam01a	Foam Part for Set 3151 - Scala Basket with 8 Holes	bb0939	1.9	? x ? x ?
+234	Foam	3159foam02a	Foam Part for Set 3159 - Scala Bush with Cutouts and 3 Holes	bb0930	1.48	? x ? x ?
+234	Foam	3159foam03a	Foam Part for Set 3159 - Scala Bag with 6 Holes	bb0929	1.1	? x ? x ?
+234	Foam	3159foam01ac01	Foam Part for Set 3159 - Scala Tiara with 3 Holes with Yellow Dot	bb0933c01	0.53	? x ? x ?
+234	Foam	3159foam01bc01	Foam Part for Set 3159 - Scala Tray Liner with Hole with Yellow Dot	bb0937c01	0.3	? x ? x ?
+234	Foam	3159foam03b	Foam Part for Set 3159 - Scala Crown for Cake	bb0932	0.2	? x ? x ?
+234	Foam	3159foam03dc01	Foam Part for Set 3159 - Scala Pizza with 4 Holes with 2 Red and 2 Bright Green Dots	bb0934c01	0.27	? x ? x ?
+234	Foam	3159foam01c	Foam Part for Set 3159 - Scala Meat for Sandwich with Hole, Type 1		0.04	? x ? x ?
 234	Foam	bb0936	Foam Scala Lettuce for Sandwich with Hole		?	? x ? x ?
-234	Foam	3159foam03c	Foam Part for Set 3159 - Scala Cheese for Sandwich with Hole	bb0931	?	? x ? x ?
+234	Foam	3159foam03c	Foam Part for Set 3159 - Scala Cheese for Sandwich with Hole	bb0931	0.04	? x ? x ?
 585	DUPLO, Figure Wear & Utensil	35735	Duplo Utensil Teapot		8.9	? x ? x ?
 1038	DUPLO, Food	43872	Duplo Pineapple		19	? x ? x ?
 778	Tile, Modified, Decorated	22385pb176	Tile, Modified 2 x 3 Pentagonal with Flat Silver Bat on Black Background Pattern (Sticker) - Set 76045		0.6	2 x 3 x 0
@@ -55108,17 +55107,17 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 234	Foam	bb0928	Foam Scala Chair Cushion #3149		?	? x ? x ?
 234	Foam	bb0925	Foam Scala Sandbox with 8 Holes		?	? x ? x ?
 234	Foam	bb0927	Foam Scala Decoration for Hair Clip with Hole		?	? x ? x ?
-234	Foam	bb0952	Foam Scala Tarpaulin with 13 Holes #3148		?	? x ? x ?
-234	Foam	bb0951	Foam Scala Snow Mountain with 2 Holes #3148		?	? x ? x ?
-234	Foam	bb0940	Foam Scala Snowflake with Hole #3148		?	? x ? x ?
-234	Foam	bb0947	Foam Scala Bush with 3 Holes #3148		?	? x ? x ?
-234	Foam	bb0945	Foam Scala Bush with 3 Holes #3148		?	? x ? x ?
-234	Foam	bb0946	Foam Scala Bush with 3 Holes #3148		?	? x ? x ?
-234	Foam	bb0948	Foam Scala Part of Pine Tree with 3 Holes #3148		?	? x ? x ?
-234	Foam	bb0949	Foam Scala Part of Pine Tree with Hole #3148		?	? x ? x ?
+234	Foam	3148foam03a	Foam Part for Set 3148 - Scala Tarpaulin with 13 Holes	bb0952	?	? x ? x ?
+234	Foam	3148foam04a	Foam Part for Set 3148 - Scala Snow Mountain with 2 Holes	bb0951	?	? x ? x ?
+234	Foam	3148foam04b	Foam Part for Set 3148 - Scala Snowflake with Hole	bb0940	?	? x ? x ?
+234	Foam	3148foam04l	Foam Part for Set 3148 - Scala Bush with 3 Holes, Medium	bb0947	?	? x ? x ?
+234	Foam	3148foam04m	Foam Part for Set 3148 - Scala Bush with 3 Holes, Large	bb0945	?	? x ? x ?
+234	Foam	3148foam04j	Foam Part for Set 3148 - Scala Bush with 3 Holes, Small	bb0946	?	? x ? x ?
+234	Foam	3148foam04h	Foam Part for Set 3148 - Scala Part of Pine Tree with 3 Holes	bb0948	?	? x ? x ?
+234	Foam	3148foam02g	Foam Part for Set 3148 - Scala Part of Pine Tree with Hole	bb0949	?	? x ? x ?
 234	Foam	bb0944	Foam Scala Part 3 of Bracelet with Hole #3148		?	? x ? x ?
-234	Foam	bb0943	Foam Scala Part 2 of Bracelet with Hole #3148		?	? x ? x ?
-234	Foam	bb0942	Foam Scala Part of Bracelet with Hole #3148		?	? x ? x ?
+234	Foam	3148foam04f	Foam Part for Set 3148 - Scala Part of Bracelet with Hole, Type 2	bb0943	?	? x ? x ?
+234	Foam	3148foam04e	Foam Part for Set 3148 - Scala Part of Bracelet with Hole, Type 1	bb0942	?	? x ? x ?
 490	Clikits	48345	Clikits Frame, Square with 8 Holes and Pane Backer		9.01	? x ? x ?
 578	Wedge, Decorated	43711pb28	Wedge 4 x 2 Triple Right with Medium Azure Splash Pattern (Sticker) - Set 75902		1.3	4 x 2 x 1
 575	Clikits, Icon	48346	Clikits, Icon Stars (Six Connected) with Two Pins		5.65	? x ? x ?
@@ -55303,7 +55302,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 184	Animal, Dinosaur	trex08	Dinosaur Tyrannosaurus rex with Dark Bluish Gray Back and Dark Brown Markings		122.12	? x ? x ?
 578	Wedge, Decorated	52031pb129	Wedge 4 x 6 x 2/3 Triple Curved with Arctic Explorer Logo on Orange Background Pattern (Sticker) - Set 60195		3.3	4 x 6 x 0.67
 578	Wedge, Decorated	45677pb117	Wedge 4 x 4 x 2/3 Triple Curved with 'EMERGENCY EXIT' and Hatch Pattern (Sticker) - Set 60195		2.67	4 x 4 x 0.67
-147	Animal, Land	16606pb002	Dog, Husky with Marbled Black Ears and Back and Printed Black Eyes and Nose, Dark Orange Face and Ears Pattern (Red / Copper)		2.21	? x ? x ?
+147	Animal, Land	16606pb002	Dog, Husky with Marbled Black Ears and Back and Printed Black Eyes and Nose, Dark Orange Face and Ears Pattern (Copper / Jurassic World Red)		2.21	? x ? x ?
 225	Riding Cycle	52035c01pb08	Motorcycle City with Black Chassis, LBG Wheels and Fairing with Tow Truck Danger Sign on Front and White and Black Lines on Both Sides Pattern (Stickers) - Set 7686		12	? x ? x ?
 39	Tile, Decorated	3068pb1250	Tile 2 x 2 with Face, Surprised, Black Eyes with White Pupils, Raised Eyebrows, Orange Cheeks Pattern	3068bpb1250	0.48	2 x 2 x 0
 39	Tile, Decorated	3068pb1251	Tile 2 x 2 with Face, Cheerful, Closed Eyes, Raised Eyebrows, Orange Cheeks Pattern	3068bpb1251	0.48	2 x 2 x 0
@@ -55524,14 +55523,14 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 150	Minifigure, Torso	973pb3637	Torso Female Chef with 6 Black Buttons and Yellow Neck, 'LEGO HOUSE Home of the Brick' on Back Pattern		0.81	? x ? x ?
 778	Tile, Modified, Decorated	6179pb163	Tile, Modified 4 x 4 with Studs on Edge with SW '20 YEARS LEGO STAR WARS 1999-2019' and 'OBI-WAN KENOBI' Pattern		1.94	4 x 4 x 0
 847	Minifigure, Hair	53798	Minifigure, Hair Swept Back with Spikes on Side		0.87	? x ? x ?
-234	Foam	bb1096	Foam Scala Snowy Ground 13 x 13 with Cutout and 5 Holes #3148		?	13 x 13 x 0
-234	Foam	bb1097	Foam Scala Snowy Ground 6 x 6 with Hole #3148		?	6 x 6 x 0
-234	Foam	bb1098	Foam Scala Snowy Ground 10 x 6 with Hole #3148		?	10 x 6 x 0
+234	Foam	3148foam04c	Foam Part for Set 3148 - Scala Snowy Ice Ground 13 x 13 with Cutout and 5 Holes	bb1096	?	13 x 13 x 0
+234	Foam	3148foam04d	Foam Part for Set 3148 - Scala Snowy Ice Ground 6 x 6 with Hole	bb1097	?	6 x 6 x 0
+234	Foam	3148foam04i	Foam Part for Set 3148 - Scala Snowy Ground 10 x 6 with Hole	bb1098	?	10 x 6 x 0
 238	Minifigure, Head	3626pb2449	Minifigure, Head Alien Ghost with Yellowish Green Face, Dark Green Bushy Eyebrows, Lime Eye Shadow, Green Open Mouth with Sharp Teeth and Tongue, Flames on Back Pattern	3626cpb2449,28621pb0003,30011pb2449	0.55	? x ? x ?
-234	Foam	bb1088	Foam Scala Bush 6 x 6 with 3 Holes #3148		?	6 x 6 x 0
-234	Foam	bb1090	Foam Scala Bush 7 x 6 with 3 Holes #3148		?	7 x 6 x 0
-234	Foam	bb1089	Foam Scala Bush 7 x 6 with 3 Holes #3148		?	7 x 6 x 0
-234	Foam	bb1095	Foam Scala Part of Bracelet 5 x 4 with Hole #3148		?	5 x 4 x 0
+234	Foam	3148foam04k	Foam Part for Set 3148 - Scala Bush with 3 Holes, Medium	bb1088	?	6 x 6 x 0
+234	Foam	3148foam02f	Foam Part for Set 3148 - Scala Bush 7 x 6 with 3 Holes	bb1090	?	7 x 6 x 0
+234	Foam	3148foam02e	Foam Part for Set 3148 - Scala Bush 7 x 6 with 3 Holes	bb1089	?	7 x 6 x 0
+234	Foam	3148foam04g	Foam Part for Set 3148 - Scala Part of Bracelet with Hole, Type 3	bb1095	?	5 x 4 x 0
 234	Foam	bb1099	Foam Scala Tablecloth 11 x 7 with 4 Holes #3152		?	11 x 7 x 0
 234	Foam	bb1100	Foam Scala Lamp Shade 6 x 6 with Hole #3152		?	6 x 6 x 0
 234	Foam	bb1101	Foam Scala Basket 13 x 11 with 10 Holes #3152		?	13 x 11 x 0
@@ -55547,10 +55546,10 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 234	Foam	bb1110	Foam Scala Tree Palm Trunk 9 x 3 with 2 Holes #3152		?	9 x 3 x 0
 234	Foam	bb1111	Foam Scala Tree Palm Leafs 10 x 7 with Hole #3152		?	10 x 7 x 0
 234	Foam	bb1112	Foam Scala Bush 6 x 6 with Hole #3152		?	6 x 6 x 0
-234	Foam	bb1093	Foam Scala Part of Pine Tree 7 x 7 with 3 Holes #3148		?	7 x 7 x 0
-234	Foam	bb1091	Foam Scala Part of Pinetree 8 x 7 with 3 Holes #3148		?	8 x 7 x 0
-234	Foam	bb1094	Foam Scala Part of Pine Tree 9 x 8 with 3 Holes #3148		?	9 x 8 x 0
-234	Foam	bb1092	Foam Scala Part of Pine Tree 10 x 10 with 3 Holes #3148		?	10 x 10 x 0
+234	Foam	3148foam02a	Foam Part for Set 3148 - Scala Part of Pine Tree 7 x 7 with 3 Holes	bb1093	?	7 x 7 x 0
+234	Foam	3148foam02d	Foam Part for Set 3148 - Scala Part of Pinetree 8 x 7 with 3 Holes	bb1091	?	8 x 7 x 0
+234	Foam	3148foam02b	Foam Part for Set 3148 - Scala Part of Pine Tree 9 x 8 with 3 Holes	bb1094	?	9 x 8 x 0
+234	Foam	3148foam02c	Foam Part for Set 3148 - Scala Part of Pine Tree 10 x 10 with 3 Holes	bb1092	?	10 x 10 x 0
 102	Scala	6896ac01pb02	Scala Door 10 x 1 x 18 2/3 Mullioned with Fixed Trans-Clear Glass - Top and Bottom Dimples with Leaves, Flower and Lines Pattern on Both Sides (Stickers) - Set 3290	74694apb02	30	16 x 1 x 18.67
 102	Scala	6896ac01pb01	Scala Door 10 x 1 x 18 2/3 Mullioned with Fixed Trans-Clear Glass - Top and Bottom Dimples with Hearts and Lines Pattern on Both Sides (Stickers) - Set 3270	74694apb01	30	10 x 1 x 18.67
 102	Scala	6874pb05	Scala Dresser without Top with Pink Ornament Pattern on Both Sides (Stickers) - Set 3202		24	6 x 6 x 7.67
@@ -58071,7 +58070,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 1097	Minifigure, Torso Assembly, Decor.	973pb3837c01	Torso Super Hero Costume with Dark Silver Armor Plates and Silver Claw Necklace with Panther Head Pattern / Black Arms / Black Hands		1.28	? x ? x ?
 238	Minifigure, Head	3626pb2575	Minifigure, Head Mask with White Eye Holes, Dark Silver Eyebrows and Cheek Lines, Furrowed Brow Pattern		0.55	? x ? x ?
 238	Minifigure, Head	3626pb3334	Minifigure, Head Alien Ghost with Yellowish Green Face, Slime Mouth, Glasses and Flames in Back Pattern	28621pb0005	0.55	1.26 x 1.26 x 1
-994	Energy Effect	65726a	Slime, Blaster with Bar Handle		3	? x ? x ?
+994	Energy Effect	65726a	Slime, Blaster with Bar Handle		0.32	? x ? x ?
 994	Energy Effect	65726d	Slime, Splat with Hole		0.36	? x ? x ?
 994	Energy Effect	65726e	Slime, Splat with Bar End		0.45	? x ? x ?
 994	Energy Effect	65726b	Slime, Claws with Bar Handle		0.27	? x ? x ?
@@ -59587,7 +59586,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 1	Antenna	3957pb02	Antenna 4H with Flag with Yellow, Pink and Blue Balloons Pattern (Sticker) - Set 3159		?	? x ? x ?
 145	Animal, Water	14518c04pb03	Shark with Rounded Nose and Debossed Gills with Black Eyes, Silver Pupils and Lime Slime Pattern		7.75	? x ? x ?
 1128	Animal, Body Part, Decorated	20512pb04	Shark Head with Rounded Nose with Black Eyes, Silver Pupils and Lime Slime Pattern		0.95	? x ? x ?
-579	Windscreen, Decorated	50747pb17	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with Dark Azure Eyes, White Teeth with Dark Purple Outline, 'WHAT SUB?' and "#1" Pattern		7.3	6 x 6 x 3
+579	Windscreen, Decorated	50747pb17	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with Dark Azure Eyes, White Teeth with Dark Purple Outline, 'WHAT SUB?' and &#34;#1&#34; Pattern		7.3	6 x 6 x 3
 39	Tile, Decorated	3069pb0791	Tile 1 x 2 with Cell Phone / Smartphone with Bright Light Orange and Dark Azure Ghosts Pattern	3069bpb0791	0.26	1 x 2 x 0
 582	Stickered Assembly	BA162pb01R	Stickered Assembly 4 x 1 x 1 1/3 with Arctic Logo Pattern Model Right Side (Sticker) - Set 8640 - 1 Slope 45 2 x 1, 1 Plate 1 x 4, 1 Technic 1 x 2		2.2	4 x 1 x 1.33
 582	Stickered Assembly	BA162pb01L	Stickered Assembly 4 x 1 x 1 1/3 with Arctic Logo Pattern Model Left Side (Sticker) - Set 8640 - 1 Slope 45 2 x 1, 1 Plate 1 x 4, 1 Technic 1 x 2		2.2	4 x 1 x 1.33
@@ -61354,7 +61353,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 147	Animal, Land	16674pb04	Panda, Friends Style, Sitting with Molded White Head, Stomach and Back and Printed Black Nose and Eye Patches, Bright Light Blue Eyes and Bright Pink Paws Pattern		2	? x ? x ?
 160	Sticker Sheet	41436stk01	Sticker Sheet for Set 41436 - (67815/6299794)	67815	1	? x ? x ?
 160	Sticker Sheet	41437stk01	Sticker Sheet for Set 41437 - (67816/6299795)		1	10 x 11 x 0
-147	Animal, Land	14736pb03	Monkey, Friends Style, Baby (Orangutan) with Lime Eyes, Coral Nose, White Face and Stomach Pattern		1.44	? x ? x ?
+147	Animal, Land	14736pb03	Ape, Friends Style, Baby (Orangutan) with Lime Eyes, Coral Nose, White Face and Stomach Pattern		1.44	? x ? x ?
 740	Technic, Panel, Decorated	11954pb010	Technic, Panel Curved 11 x 3 with 10 Pin Holes through Panel Surface with Black 'OK LIFTING SERVICE' Pattern (Sticker) - Set 42108		7.4	11 x 3 x 2
 847	Minifigure, Hair	18829pb02	Minifigure, Hair Combo, Hat with Hair, Pith Helmet and Red Hair in Ponytail Pattern		1.4	? x ? x ?
 943	Minifigure, Utensil, Decorated	62698pb13	Minifigure, Utensil Computer Laptop with Control Crane Screen Pattern (Sticker) - Set 60225		0.7	? x ? x ?
@@ -61390,7 +61389,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 238	Minifigure, Head	3626pb2682	Minifigure, Head Dark Bluish Gray Eyebrows, Nougat Eye Shadow, Medium Nougat Cheek Lines, Chin Dimple, and Wrinkles, Scowl with 4 Sharp Teeth Pattern		0.56	? x ? x ?
 238	Minifigure, Head	3626pb2683	Minifigure, Head Dual Sided Female, Dark Tan Eyebrows, Bright Pink Lips, Neutral / Smile Showing Teeth Pattern		0.54	? x ? x ?
 238	Minifigure, Head	3626pb2684	Minifigure, Head Dual Sided Child Dark Orange Eyebrows, Lopsided Smirk / Confused with Raised Right Eyebrow Pattern		0.55	? x ? x ?
-147	Animal, Land	15678pb04	Chameleon, Friends Style with Black, Medium Azure and White Eyes, Metallic Pink Head Markings, and Marbled Magenta Pattern		1	? x ? x ?
+147	Animal, Land	15678pb04	Chameleon, Friends Style with Marbled Magenta and Printed Black, Medium Azure and White Eyes, Metallic Pink Head Markings Pattern		1	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1125	Hips and Legs with Black Belt, Jeans Pockets, and Shoes, Silver Buckle Pattern		1.18	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1126	Hips and Legs with Dark Bluish Gray Boots and Light Bluish Gray Fur Pattern		1.28	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1127	Hips and Legs with Pockets and Dark Bluish Gray Shoes Pattern		1.17	? x ? x ?
@@ -61506,7 +61505,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 1097	Minifigure, Torso Assembly, Decor.	973pb4042c01	Torso Knit Fair Isle Holiday Sweater with Teddy Bear, Dark Blue Snowflakes and Black Collar Pattern / Blue Arms / Yellow Hands		1.29	? x ? x ?
 150	Minifigure, Torso	973pb4042	Torso Knit Fair Isle Holiday Sweater with Teddy Bear, Dark Blue Snowflakes and Black Collar Pattern		0.81	? x ? x ?
 160	Sticker Sheet	41413stk01	Sticker Sheet for Set 41413 - (67801/6299744)		1.07	10 x 11 x 0
-145	Animal, Water	16765pb04	Seal, Friends Style with Black Nose and Eyelashes, Gold Eyes and Hearts on Forehead Pattern		1.66	? x ? x ?
+145	Animal, Water	16765pb04	Seal, Friends Style with Black Nose and Eyelashes, Gold Eyes, Heart and Spots on Forehead Pattern		1.66	? x ? x ?
 917	Mini Doll, Torso	FTGpb288c01	Torso Mini Doll Girl Bright Light Blue Sleepshirt with Sleeping Moon, Stars and Buttons Pattern, Light Nougat Arms with Hands		0.64	? x ? x ?
 1082	Micro Doll, Body Part	bb1357pb006	Micro Doll, Body with Molded Yellowish Green Top and Sand Green Pants and Printed Red Collar, Buttons, and Belt with Gold Buckle Pattern		0.55	? x ? x ?
 914	Mini Doll, Head	68937	Mini Doll, Head Friends with Bright Light Blue Eyes, Smiling and Freckles Pattern		0.58	? x ? x ?
@@ -65362,7 +65361,6 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 736	Brick, Round, Decorated	24599pb03b	Brick, Round Corner 5 x 5 x 1 without Studs with Damaged Medium Azure Stripe and Rust Pattern Side B (Sticker) - Set 70423		3.36	5 x 5 x 1
 736	Brick, Round, Decorated	24599pb03a	Brick, Round Corner 5 x 5 x 1 without Studs with Damaged Medium Azure Stripe and Rust Pattern Side A (Sticker) - Set 70423		3.36	5 x 5 x 1
 160	Sticker Sheet	21326stk01	Sticker Sheet for Set 21326, Sheet 1 - (77398/6337749)	77398	0.5	? x ? x ?
-246	Paper	4527556	Paper Information Note, Environmental Warning Leaflet		5.01	? x ? x ?
 118	Brick, Decorated	2454pb176	Brick 1 x 2 x 5 with SW Death Star Wall Lights Double Column with Dark Azure Border on Light Bluish Gray Background Pattern (Sticker) - Set 75291		3.5	1 x 2 x 5
 39	Tile, Decorated	87079pb0921L	Tile 2 x 4 with Digital Display Screen with SW Death Star Map Pattern Model Left Side (Sticker) - Set 75291		0.9	2 x 4 x 0
 39	Tile, Decorated	87079pb0921R	Tile 2 x 4 with Digital Display Screen with SW Death Star Map Pattern Model Right Side (Sticker) - Set 75291		0.9	2 x 4 x 0
@@ -67010,7 +67008,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 20	Minifigure, Body Part	981982pb262	Arm, (Matching Left and Right) Pair with Orange Scales and Black Flames Pattern		0.31	? x ? x ?
 20	Minifigure, Body Part	981pb262	Arm, Left with Orange Scales and Black Flames Pattern		0.15	? x ? x ?
 20	Minifigure, Body Part	982pb262	Arm, Right with Orange Scales and Black Flames Pattern		0.15	? x ? x ?
-582	Stickered Assembly	BA279pb01	Stickered Assembly 10 x 2 x 3 with Black 'R.E.S.' and Red 'Q' on Yellow Triangle Pattern (Sticker) - Set 6479 - 1 Slope 45 10 x 2 x 2 Double, 2 Brick 1 x 4		8.25	10 x 2 x 3
+582	Stickered Assembly	BA279pb01	Stickered Assembly 10 x 2 x 3 with Black 'R.E.S.' and Red 'Q' (Res-Q) on Yellow Triangle Pattern (Sticker) - Set 6479 - 1 Slope 45 10 x 2 x 2 Double, 2 Brick 1 x 4		8.25	10 x 2 x 3
 1097	Minifigure, Torso Assembly, Decor.	973pb4353c01	Torso Blue Vest with Pockets, White Stripe, Dark Blue Belt with Buckle, Wildlife Rescue Logo on Back Pattern / Dark Tan Arms / Dark Bluish Gray Hands		1.25	? x ? x ?
 150	Minifigure, Torso	973pb4353	Torso Blue Vest with Pockets, White Stripe, Dark Blue Belt with Buckle, Wildlife Rescue Logo on Back Pattern		0.82	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb4354c01	Torso Hospital Scrubs with Dark Turquoise Pockets and Collar and Sand Blue and Silver Stethoscope Pattern / Light Aqua Arms / Dark Turquoise Hands		1.25	? x ? x ?
@@ -67733,7 +67731,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 39	Tile, Decorated	2431pb0735	Tile 1 x 4 with Arm and Grabber Lever Control Pattern (Sticker) - Set 8443		0.54	1 x 4 x 0
 160	Sticker Sheet	42128stk01	Sticker Sheet for Set 42128 - (77597/6338466)	77597	6	? x ? x ?
 160	Sticker Sheet	76194stk01	Sticker Sheet for Set 76194 - (79270/6351837)	79270	1.22	? x ? x ?
-579	Windscreen, Decorated	18990pb04	Windscreen 4 x 4 x 1 2/3 Canopy Half Sphere with Bar Handle and Orange Iron Man Face Pattern		3	4 x 4 x 1.67
+579	Windscreen, Decorated	18990pb04	Windscreen 4 x 4 x 1 2/3 Canopy Dome Half Sphere with Bar Handle and Orange Iron Man Face Pattern		3	4 x 4 x 1.67
 39	Tile, Decorated	3069pb0971L	Tile 1 x 2 with Black Air Vent Grille Pattern Model Left Side (Sticker) - Set 75873	3069bpb0971L	0.26	1 x 2 x 0
 39	Tile, Decorated	3069pb0971R	Tile 1 x 2 with Black Air Vent Grille Pattern Model Right Side (Sticker) - Set 75873	3069bpb0971R	0.26	1 x 2 x 0
 160	Sticker Sheet	76177stk01	Sticker Sheet for Set 76177 - (74502/6329734)		1	? x ? x ?
@@ -69221,7 +69219,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 1082	Micro Doll, Body Part	65203pb011	Micro Doll, Body with Molded Lavender Dress and Printed Medium Lavender and Metallic Pink Flowers, Ruffled Collar Pattern		0.6	? x ? x ?
 914	Mini Doll, Head	83502	Mini Doll, Head Friends with Black Eyebrows, Large Sand Green Eyes, Right Wink, Freckles, Dark Pink Lips Pattern (Luisa)		0.58	? x ? x ?
 914	Mini Doll, Head	83499	Mini Doll, Head Friends with Black Eyebrows, Reddish Brown Eyes, Beauty Mark, Dark Red Lips Pattern		0.59	? x ? x ?
-914	Mini Doll, Head	93832	Mini Doll, Head Friends with Black Eyebrows, Large Dark Green Glasses, Olive Green Eyes, Open Mouth Pattern (Mirabel)		0.59	? x ? x ?
+914	Mini Doll, Head	93832	Mini Doll, Head Friends with Black Eyebrows, Large Dark Green Glasses, Olive Green Eyes, Open Mouth Pattern		0.59	? x ? x ?
 225	Riding Cycle	18895c02pb03	Motorcycle Sport Bike with Black Windshield Pattern, Black Frame, Light Bluish Gray Wheels and Dark Bluish Gray Handlebars with Gold Badge with '03' and 'POLICE' Pattern on Both Sides (Stickers) - Set 60139		10.46	? x ? x ?
 484	Minifigure, Legs	970c50	Hips and Trans-Dark Pink Legs		1.2	? x ? x ?
 39	Tile, Decorated	3068pb1870	Tile 2 x 2 with BeatBit Album Cover - Lavender Elf Playing Medium Lavender Ukulele Pattern	3068bpb1870	0.47	2 x 2 x 0
@@ -69249,7 +69247,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 917	Mini Doll, Torso	FTGpb352c01	Torso Mini Doll Girl White Blouse Top with Flowers and Butterflies Pattern, Nougat Arms with Hands with White Short Sleeves		0.62	? x ? x ?
 917	Mini Doll, Torso	FTWpb007c01	Torso Mini Doll Woman Magenta Dress Top with Belt, Gold Butterfly, Dark Red Trim, Black Filigree Pattern, Nougat Arms with Hands with Magenta Long Sleeves		0.61	? x ? x ?
 914	Mini Doll, Head	83514	Mini Doll, Head Friends with Black Eyebrows, Right Raise, Reddish Brown Eyes, Dark Red Lips Pattern		0.61	? x ? x ?
-914	Mini Doll, Head	83510	Mini Doll, Head Friends with Black Eyebrows, Large Dark Green Glasses, Olive Green Eyes, Dark Red Lips Pattern (Mirabel)		0.6	? x ? x ?
+914	Mini Doll, Head	83510	Mini Doll, Head Friends with Black Eyebrows, Large Dark Green Glasses, Olive Green Eyes, Dark Red Lips Pattern		0.6	? x ? x ?
 916	Mini Doll, Legs	36187c00pb009	Mini Doll Hips and Skirt Full Length with Dark Red Dots and Panel, Butterflies and Black Stitching Pattern - Thin Hinge		1.1	? x ? x ?
 916	Mini Doll, Legs	59595c00pb09	Mini Doll Hips and Skirt Long with Molded Nougat Legs and Printed Magenta and Yellow Flowers, Animals, 'MadRigal' and Shoes Pattern - Thick Hinge	59794c00pb09	1.33	? x ? x ?
 150	Minifigure, Torso	973pb4517	Torso Bomber Jacket, Tan Fur Collar, Dark Bluish Gray Straps with Gold Clasps Pattern		0.81	? x ? x ?
@@ -69554,7 +69552,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 162	Cloth	82254	Cloth Wing Dragon Left, Sand Green Ribs, Lime and Dark Green Scales Pattern		2.54	? x ? x ?
 162	Cloth	82253	Cloth Wing Dragon Right, Medium Azure Ribs, Lime and Dark Green Scales Pattern		2.54	? x ? x ?
 39	Tile, Decorated	87079pb1075	Tile 2 x 4 with Spidey (Spider-Man), Miles Morales, and Gwen Pattern		0.92	2 x 4 x 0
-579	Windscreen, Decorated	50747pb18	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with Spider-Man Face and Dark Red Webbing Pattern		6.19	6 x 6 x 3
+579	Windscreen, Decorated	50747pb18	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with Spider-Man Face and Dark Red Webbing Pattern		6.19	6 x 6 x 3
 118	Brick, Decorated	22886pb13	Brick 1 x 2 x 3 with Black and Silver Speakers, Medium Azure Music Notes, Magenta Equalizer Pattern		2.12	1 x 2 x 3
 578	Wedge, Decorated	64225pb050	Wedge 4 x 3 Triple Curved No Studs with Magenta Eye Outlines, Dark Purple Trim Pattern		1.7	4 x 3 x 1
 132	Window, Glass & Shutter, Decorated	57895pb099	Glass for Window 1 x 4 x 6 with Medium Azure, Red and White Warning Screen, Green Goblin with Pizza Pattern		2.36	? x ? x ?
@@ -73163,7 +73161,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 812	Tile, Round, Decorated	98138pb321	Tile, Round 1 x 1 with Mickey Mouse Head Profile on Blue, Bright Light Orange, and Dark Turquoise Background Pattern	35381pb321	0.11	1 x 1 x 0
 1098	Minifigure, Legs, Decorated	970c07pb13	Hips and Blue Legs with Red Surcoat, Reddish Brown Belt and Silver Chain Mail Pattern		1.19	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c01pb59	Hips and White Legs with Red Surcoat with Gold Border Pattern		1.19	? x ? x ?
-579	Windscreen, Decorated	50747pb19	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with Angry Cat Face Pattern		7.3	6 x 6 x 3
+579	Windscreen, Decorated	50747pb19	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with Angry Cat Face Pattern		7.3	6 x 6 x 3
 238	Minifigure, Head	3626pb3074	Minifigure, Head Dual Sided Metallic Light Blue Eyes, Magenta Bushy Eyebrows and Goatee, Cheek Lines, Wrinkles, Sad / Angry Pattern		0.56	? x ? x ?
 1118	Minifigure, Legs, Modified, Decorated	36036pb040	Lower Body, Skirt with Robe Ends over Dark Turquoise Robe with Gold Trim Pattern		1.49	? x ? x ?
 847	Minifigure, Hair	85832pb01	Minifigure, Hair Swept Back and Wavy with Parted Beard with Gold Horns and Bun Pattern		1.5	? x ? x ?
@@ -76862,10 +76860,10 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 150	Minifigure, Torso	973pb5139	Torso Open Suit Jacket with Pockets over Sand Blue and Dark Bluish Gray Plaid Shirt with White Buttons Pattern		0.84	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb5140c01	Torso Armor with Gold Scales and Dark Bluish Gray Lines with Short End Lines and Tips at Neck Pattern / Black Arms / Black Hands		1.33	? x ? x ?
 150	Minifigure, Torso	973pb5140	Torso Armor with Gold Scales and Dark Bluish Gray Lines with Short End Lines and Tips at Neck Pattern		0.84	? x ? x ?
-579	Windscreen, Decorated	18990pb05	Windscreen 4 x 4 x 1 2/3 Canopy Half Sphere with Bar Handle with Gold Hulkbuster Face with Silver Cheeks and Forehead Panel Pattern		3	4 x 4 x 1.67
+579	Windscreen, Decorated	18990pb05	Windscreen 4 x 4 x 1 2/3 Canopy Dome Half Sphere with Bar Handle with Gold Hulkbuster Face with Silver Cheeks and Forehead Panel Pattern		3	4 x 4 x 1.67
 926	Cylinder, Decorated	87926pb027	Cylinder Half 3 x 6 x 6 with 1 x 2 Cutout with Bright Green Grass and Vines, 2 Bright Light Blue Round Windows with Silver Frames, and Dark Purple Bricks Pattern	35347pb027	9	3 x 6 x 6
 926	Cylinder, Decorated	24593pb16	Cylinder Half 2 x 4 x 2 with 1 x 2 Cutout with Bright Light Blue Round Window with Silver Frame and Dark Purple Bricks Pattern	35402pb16	2.46	2 x 4 x 2
-579	Windscreen, Decorated	50747pb20	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with Pumpkin Jack O' Lantern with Yellow Eyes and Mouth and Dark Orange Lines Pattern	50809pb20	6.2	6 x 6 x 3
+579	Windscreen, Decorated	50747pb20	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with Pumpkin Jack O' Lantern with Yellow Eyes and Mouth and Dark Orange Lines Pattern	50809pb20	6.2	6 x 6 x 3
 461	Panel, Decorated	60581pb235	Panel 1 x 4 x 3 with Side Supports - Hollow Studs with Miles Morales, Green Goblin, Ghost-Spider, and Sandman Heads and Lighthouse on Control Screen Pattern	35323pb235	2.41	1 x 4 x 3
 238	Minifigure, Head	3626pb3268	Minifigure, Head Pumpkin Jack O' Lantern with Yellow Eyes and Mouth and Dark Orange Vertical Lines Pattern		0.55	? x ? x ?
 534	Brick, Promotional	30144pb394	Brick 2 x 4 x 3 with LEGOLAND Deutschland Resort FABRIK 2023 Pattern		6.9	2 x 4 x 3
@@ -79657,7 +79655,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 150	Minifigure, Torso	973pb5414	Torso Armor, White and Metallic Light Blue Circle Arc Reactor, Red and Gold Plates, Trim and Belt Pattern		0.82	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1548	Hips and Legs with Gold Armor with Dark Orange Cracks, Knee Pads, Red Shoe Tips and Dots Pattern		1.2	? x ? x ?
 812	Tile, Round, Decorated	14769pb626	Tile, Round 2 x 2 with Bottom Stud Holder with Dark Blue, Metallic Light Blue, and Bright Light Blue Arc Reactor Pattern		0.34	2 x 2 x 0
-579	Windscreen, Decorated	18990pb06	Windscreen 4 x 4 x 1 2/3 Canopy Half Sphere with Bar Handle with Gold Hulkbuster Face with Dark Bluish Gray Cheeks and Forehead Panel and Black Air Holes Pattern		2.48	4 x 4 x 1.67
+579	Windscreen, Decorated	18990pb06	Windscreen 4 x 4 x 1 2/3 Canopy Dome Half Sphere with Bar Handle with Gold Hulkbuster Face with Dark Bluish Gray Cheeks and Forehead Panel and Black Air Holes Pattern		2.48	4 x 4 x 1.67
 812	Tile, Round, Decorated	98138pb392	Tile, Round 1 x 1 with Dark Turquoise Circle Offset Pattern (Super Mario Dixie Kong Ear and Earring)		0.11	1 x 1 x 0
 118	Brick, Decorated	3004pb314	Brick 1 x 2 with Green and White Eyes with Long Black Eyelashes on Dark Orange Background Pattern (Super Mario Dixie Kong Upper Face)		0.83	1 x 2 x 1
 118	Brick, Decorated	3004pb315	Brick 1 x 2 with Small Round Reddish Brown and Black Eyes on White Background Pattern (Super Mario Squawks)		0.83	1 x 2 x 1
@@ -79729,7 +79727,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 150	Minifigure, Torso	973pb5320	Torso Shirt with White 'BE KIND REWIND' and Black Video Cassette / VHS Tape Pattern (San Diego Comic-Con 2023 Exclusive)		0.82	? x ? x ?
 440	DUPLO, Brick, Decorated	4066pb803	Duplo, Brick 1 x 2 x 2 with Map, Coral Buildings and White Bus Timetable with Blue '8.00', '8.15', '8.30' and Border on Medium Blue Background Pattern	76371pb262	8.1	1 x 2 x 2
 150	Minifigure, Torso	973pb5343	Torso LEGO World 2020 with Yellow Stripes, Head with Eyes and Number 12 Pattern		0.82	? x ? x ?
-579	Windscreen, Decorated	50747pb21	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with SW Rebel Ghost Cockpit, White Perpendicular Lines with Rivets and Black Outlines Pattern		7.3	6 x 6 x 3
+579	Windscreen, Decorated	50747pb21	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with SW Rebel Ghost Cockpit, White Perpendicular Lines with Rivets and Black Outlines Pattern		7.3	6 x 6 x 3
 1012	Aircraft, Decorated	4868bpb020L	Engine, Smooth Large, 2 x 2 Thin Top Plate with SWISS Air Logo Pattern Model Left Side (Sticker) - Set 4032-8		3.54	? x ? x ?
 114	Wing	3476	Wing Plate 16 x 56 x 2 with 6 x 10 Recessed Studs and 45 Holes		72.26	16 x 56 x 2
 736	Brick, Round, Decorated	553pb049	Brick, Round 2 x 2 Dome Top with SW New Republic Astromech Droid Blue and Silver Pattern	3262pb04	0.84	2 x 2 x 1
@@ -80753,7 +80751,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 39	Tile, Decorated	63864pb247	Tile 1 x 3 with 'BBQ champs'19' and Hot Dog on Grille Pattern (Sticker) - Set 70436		0.42	1 x 3 x 0
 1060	Cardboard Sleeve	6476250	Cardboard Sleeve 6476250 with Contents		2.25	? x ? x ?
 736	Brick, Round, Decorated	20952pb06	Brick, Round 1 1/2 x 1 1/2 x 2/3 Dome Top with SW RJ-83 Droid Head, Orange Stripes and Dark Blue Eyes on Silver Background Pattern 		0.32	1.5 x 1.5 x 0.67
-736	Brick, Round, Decorated	3062pb080	Brick, Round 1 x 1 with SW RJ-83 Droid Body, Orange, Bright Light Orange and Silver Pattern	3062bpb080	29	1 x 1 x 1
+736	Brick, Round, Decorated	3062pb080	Brick, Round 1 x 1 with SW RJ-83 Droid Body, Orange, Bright Light Orange and Silver Pattern	3062bpb080	0.3	1 x 1 x 1
 847	Minifigure, Hair	5255	Minifigure, Hair Female with Clipped-up Ponytail, Long Bangs Swept Right		0.7	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb5505c01	Torso SW Jacket with Dark Tan Lapels over Sand Blue Shirt, Reddish Brown Belt with Silver Bars Pattern / Dark Brown Arms / Light Nougat Hands		1.3	? x ? x ?
 150	Minifigure, Torso	973pb5505	Torso SW Jacket with Dark Tan Lapels over Sand Blue Shirt, Reddish Brown Belt with Silver Bars Pattern		0.82	? x ? x ?
@@ -81817,7 +81815,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 146	Animal, Air	78523pb02	Cornish Pixie with Black Eyes, Wink and Lopsided Open Mouth Smile with White Teeth Pattern		0.57	? x ? x ?
 38	Tile, Modified	2229	Tile, Modified 2 x 2 x 2/3 with Paper / Photo Holder		0.87	2 x 2 x 0.67
 146	Animal, Air	80674pb05	Butterfly with Stud Holder with White Wings Pattern		0.27	? x ? x ?
-943	Minifigure, Utensil, Decorated	24093pb078	Minifigure, Utensil Book Cover with Gold Tree Pattern		0.54	? x ? x ?
+943	Minifigure, Utensil, Decorated	24093pb078	Minifigure, Utensil Book Cover with Gold Tree of Life Pattern		0.54	? x ? x ?
 39	Tile, Decorated	87079pb1371	Tile 2 x 4 with Reddish Brown 'our family' in Heart Shaped Branch with Red, Orange, Yellow and Medium Lavender Leaves Pattern		0.91	2 x 4 x 0
 1097	Minifigure, Torso Assembly, Decor.	973pb5579c01	Torso Hawaiian Shirt with Medium Azure Leaves, Medium Nougat Buttons and Bright Light Orange Pin Pattern / Medium Nougat Arms with Molded White Short Sleeves Pattern / Dark Brown Hands		1.3	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb5580c01	Torso Dress with White Collar and Magenta, Bright Pink, Bright Light Blue, and Bright Light Yellow Checkered Pattern / Medium Blue Arms / White Hands		1.3	? x ? x ?
@@ -82287,7 +82285,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 39	Tile, Decorated	26603pb406	Tile 2 x 3 with Spiders on Black, Medium Azure, Medium Lavender and Red Spider Web Pattern		0.68	2 x 3 x 0
 461	Panel, Decorated	60581pb257	Panel 1 x 4 x 3 with Side Supports - Hollow Studs with Zola and News Anchor on Screen with Red Border and White Spider Web Pattern		2.34	1 x 4 x 3
 579	Windscreen, Decorated	92474pb009	Windscreen 6 x 2 x 2 with Bar Handle with White Spider with Curved Legs Pattern		2.1	6 x 2 x 2
-579	Windscreen, Decorated	50747pb22	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with Spider-Man Face and Gold Webbing Pattern		7.3	6 x 6 x 3
+579	Windscreen, Decorated	50747pb22	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with Spider-Man Face and Gold Webbing Pattern		7.3	6 x 6 x 3
 485	Minifigure, Torso Assembly	973c098	Torso Plain / Bright Light Orange Arms / Dark Purple Hands		1.32	? x ? x ?
 736	Brick, Round, Decorated	553pb051	Brick, Round 2 x 2 Dome Top with Robot Face with Eyes and Zigzag Line Mouth on Lime Background with Orange Border Pattern		0.84	2 x 2 x 1
 606	Minifigure, Head, Modified	5465pb01	Minifigure, Head, Modified Robot with Shoulder Pads with Lime Screen Face, Dark Purple Eyes, Mouth and Armor Plates on Back Pattern		1.62	? x ? x ?
@@ -83954,7 +83952,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 812	Tile, Round, Decorated	14769pb702R	Tile, Round 2 x 2 with Bottom Stud Holder with 2 White Squares with Dark Azure Border Pattern Model Right Side (BrickHeadz Sadness Partially Closed Eye)		0.34	2 x 2 x 0
 812	Tile, Round, Decorated	14769pb702L	Tile, Round 2 x 2 with Bottom Stud Holder with 2 White Squares with Dark Azure Border Pattern Model Left Side (BrickHeadz Sadness Partially Closed Eye)		0.34	2 x 2 x 0
 135	Technic, Brick	5565	Technic, Brick 1 x 3 with Holes		1	1 x 3 x 1
-579	Windscreen, Decorated	18990pb07	Windscreen 4 x 4 x 1 2/3 Canopy Half Sphere with Bar Handle with Red and Black Round Eyes, Yellow Screws, and Dark Bluish Gray Mouth Pattern (Sonic the Hedgehog Eggrobo Face)		2.5	4 x 4 x 1.67
+579	Windscreen, Decorated	18990pb07	Windscreen 4 x 4 x 1 2/3 Canopy Dome Half Sphere with Bar Handle with Red and Black Round Eyes, Yellow Screws, and Dark Bluish Gray Mouth Pattern (Sonic the Hedgehog Eggrobo Face)		2.5	4 x 4 x 1.67
 1128	Animal, Body Part, Decorated	5722pb01	Creature Head Large Smooth with 6 Studs and Axle Holder on Back with Medium Nougat Eyes, White Muzzle and Fur, Black Nose, Medium Lavender Tongue, Spots, and Eye Shadow Pattern		10.55	? x ? x ?
 146	Animal, Air	5272pb01	Bird, Raven with Spread Wings with Marbled Black Pattern		1.74	? x ? x ?
 8	Brick, Round	5331	Brick, Round 2 x 2 x 2 Crystal Facets on Top		1.26	2 x 2 x 2
@@ -84170,7 +84168,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 160	Sticker Sheet	71479stk01	Sticker Sheet for Set 71479 - (10109144/6489976)	109144	0.51	? x ? x ?
 160	Sticker Sheet	21265stk01	Sticker Sheet for Set 21265 - (10109595/6501471)	109595	1.07	? x ? x ?
 569	Large Figure Part	21560pb18	Large Figure Armor, Round, Smooth with Medium Azure Eyes, Curls, Whisker Dots, and Forehead Triangle, Coral Nose and Cheek Lines Pattern (Cat Head)		2	? x ? x ?
-812	Tile, Round, Decorated	1748pb01	Tile, Round 1 x 2 Half with Orange Wedge / Segment Pattern (Sticker) - Set 76919		0.21	1 x 2 x 0
+812	Tile, Round, Decorated	1748pb001	Tile, Round 1 x 2 Half with Orange Wedge / Segment Pattern (Sticker) - Set 76919		0.21	1 x 2 x 0
 39	Tile, Decorated	63864pb260	Tile 1 x 3 with White 'DARKTRACE' Pattern (Sticker) - Set 76919		0.4	1 x 3 x 0
 238	Minifigure, Head	3626pb3653	Minifigure, Head Dual Sided Black Eyebrows, Medium Nougat Chin Dimple, Worried Smile / Tan Face with Nostrils, Wrinkles, Fierce Pattern	28621pb0337	0.55	? x ? x ?
 238	Minifigure, Head	3626pb3654	Minifigure, Head Dual Sided Dark Bluish Gray Eyebrows, Light Bluish Gray Crow's Feet, Cheek Lines, Chin Dimple, Grin / Surprised Open Mouth Pattern	28621pb0338	0.55	? x ? x ?
@@ -84256,7 +84254,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 532	Wheel & Tire Assembly	84772c01	Wheel 62.3mm D. x 20.3mm Technic with Dark Bluish Gray Tire 100.6 x 28 (84772 / 4456)		62.14	? x ? x ?
 740	Technic, Panel, Decorated	4458pb01a	Technic, Panel Car Mudguard Arched 15 x 5 x 7 with United States of America (USA) Flag Pattern Side A		14.07	15 x 5 x 7
 740	Technic, Panel, Decorated	4458pb01b	Technic, Panel Car Mudguard Arched 15 x 5 x 7 with United States of America (USA) Flag Pattern Side B		14.07	15 x 5 x 7
-579	Windscreen, Decorated	50747pb23	Windscreen 6 x 6 x 3 Canopy Half Sphere with Dual 2 Fingers with Panda Face with Blue and Dark Blue Fur, Bright Light Orange Eyes, Black Nose and Mouth Pattern	50809pb23	6.26	6 x 6 x 3
+579	Windscreen, Decorated	50747pb23	Windscreen 6 x 6 x 3 Canopy Dome Half Sphere with Dual 2 Fingers with Panda Face with Blue and Dark Blue Fur, Bright Light Orange Eyes, Black Nose and Mouth Pattern	50809pb23	6.26	6 x 6 x 3
 39	Tile, Decorated	3069pb1272	Tile 1 x 2 with Light Bluish Gray Rock, Lime Grass, White Windmill, Skull and Waterfall Pattern		0.27	1 x 2 x 0
 8	Brick, Round	5906	Brick, Round Corner 2 x 2 x 1 2/3 Dome Top		1.1	2 x 2 x 1.67
 438	Slope, Curved	5907	Slope, Curved 2 x 1 x 1 2/3		0.6	2 x 1 x 1.67
@@ -84518,7 +84516,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 578	Wedge, Decorated	80177pb011	Wedge 3 x 2 Left No Studs with Red Stripe, Dark Bluish Gray Triangle and Armor Plates with Black Outlines Pattern (Sticker) - Set 76831		0.78	3 x 2 x 1
 1048	Road Sign, Decorated	15210pb179	Road Sign 2 x 2 Square with Open O Clip with Maria Robotnik and Shadow the Hedgehog Minifigures Pattern		0.5	2 x 2 x 0
 778	Tile, Modified, Decorated	11203pb118	Tile, Modified 2 x 2 Inverted with Medium Azure and Dark Azure Sphere on Black and Dark Blue Striped Screen with Buttons Pattern (Sonic the Hedgehog Shield Item Box)		0.62	2 x 2 x 0
-579	Windscreen, Decorated	18990pb08	Windscreen 4 x 4 x 1 2/3 Canopy Half Sphere with Bar Handle with Metallic Light Blue Eyes and Mouth and Yellow Nose Pattern (Sonic the Hedgehog Egg Pawn Face)		2.5	4 x 4 x 1.67
+579	Windscreen, Decorated	18990pb08	Windscreen 4 x 4 x 1 2/3 Canopy Dome Half Sphere with Bar Handle with Metallic Light Blue Eyes and Mouth and Yellow Nose Pattern (Sonic the Hedgehog Egg Pawn Face)		2.5	4 x 4 x 1.67
 578	Wedge, Decorated	2876pb01	Wedge 6 x 6 Cutout (Train Roof) with Yellow Arrow on Light Gray Background Pattern on Both Sides (Stickers) - Set 8856		4.81	6 x 6 x 1
 812	Tile, Round, Decorated	14769pb680	Tile, Round 2 x 2 with Bottom Stud Holder with Bright Light Yellow Sun with Light Aqua Sunglasses and Smile Pattern (Sticker) - Set 41412		0.33	2 x 2 x 0
 36	Technic	99012pb13	Technic Rotor Blade Small with Axle and Pin Connector End with Aston Martin Valkyrie Logo on Black Background Pattern on Both Sides (Stickers) - Set 76910		1.6	8 x 1.5 x 1
@@ -86918,7 +86916,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 913	Mini Doll, Hair	19195pb02	Mini Doll, Hair Friends Long with Braided Pigtails with Bright Light Blue Winter Hat with White Fur Trim Pattern		0.59	? x ? x ?
 147	Animal, Land	23946c01pb01	Reindeer, Frozen with Molded Light Bluish Gray Flexible Rubber Antlers, Tail and Fur Around Neck and Printed White and Dark Tan Eyes with Black Round Eyebrows, Upper Eyelids Pattern (Sven)		14.21	? x ? x ?
 147	Animal, Land	23946c01pb02	Reindeer, Frozen with Molded Light Bluish Gray Flexible Rubber Antlers, Tail and Fur Around Neck and Printed White and Dark Tan Eyes with Black Angled Eyebrows, Upper Eyelids Pattern (Sven)		14.23	? x ? x ?
-238	Minifigure, Head	3626pb3804	Minifigure, Head Dual Sided Dark Brown Eyebrows, Moustache and Beard with Light Bluish Gray Highlights, Grin / Angry Open Mouth with Teeth Pattern	3274pb3804	56	? x ? x ?
+238	Minifigure, Head	3626pb3804	Minifigure, Head Dual Sided Dark Brown Eyebrows, Moustache and Beard with Light Bluish Gray Highlights, Grin / Angry Open Mouth with Teeth Pattern	3274pb3804	0.55	? x ? x ?
 238	Minifigure, Head	3626pb3803	Minifigure, Head Dual Sided Reddish Brown Eyebrows, Moustache and Beard with Light Bluish Gray Highlights, Grin / Angry Open Mouth with Teeth Pattern	3274pb3803	0.56	? x ? x ?
 775	Slope, Curved, Decorated	88930pb189	Slope, Curved 2 x 4 x 2/3 with Bottom Tubes with Dark Bluish Gray Batman Logo Pattern (Sticker) - Set 70916		1.36	2 x 4 x 0.67
 974	Cone, Decorated	4742pb006L	Cone 4 x 4 x 2 Hollow No Studs with Red Arrow and White 'EXHAUST' Pattern Model Left Side (Sticker) - Set 70916		3.77	4 x 4 x 2
@@ -88365,12 +88363,12 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 966	Arch, Decorated	6806pb008	Arch 6 x 2 x 5/6 Inverted with White 'WILLIAMS' Logo and Dark Blue Panel Pattern (Stickers) - Set 77249		2.1	6 x 2 x 0.83
 966	Arch, Decorated	6806pb009	Arch 6 x 2 x 5/6 Inverted with White 'MoneyGram' and Arrow Logo and 'HAAS' on Red Background Pattern (Stickers) - Set 77250		2.1	6 x 2 x 0.83
 966	Arch, Decorated	6806pb010	Arch 6 x 2 x 5/6 Inverted with 'DKX DKX' 'ACCELERATING WEB3' on Orange Background and White 'McLaren' Logo Pattern (Stickers) - Set 77251		2.1	6 x 2 x 0.83
-812	Tile, Round, Decorated	1748pb02	Tile, Round 1 x 2 Half with White 'GENESYS' and Logo Pattern (Sticker) - Set 77242		0.21	1 x 2 x 0
-812	Tile, Round, Decorated	1748pb03	Tile, Round 1 x 2 Half with Black 'PETRONAS Synthium' Logo on Light Bluish Gray Background Pattern (Sticker) - Set 77244		0.21	1 x 2 x 0
-812	Tile, Round, Decorated	1748pb04	Tile, Round 1 x 2 Half with White 'cognizant' Pattern (Sticker) - Sets 76925 / 77245		0.21	1 x 2 x 0
-812	Tile, Round, Decorated	1748pb05	Tile, Round 1 x 2 Half with Blue 'BWT' Logo on White and Bright Light Blue Background Pattern (Sticker) - Set 77248		0.21	1 x 2 x 0
-812	Tile, Round, Decorated	1748pb06	Tile, Round 1 x 2 Half with 'TRICORP' and White and Red Polygon Logo Pattern (Sticker) - Set 77250		0.21	1 x 2 x 0
-812	Tile, Round, Decorated	1748pb07	Tile, Round 1 x 2 Half with Orange Triangle Pattern (Sticker) - Set 77251		0.21	1 x 2 x 0
+812	Tile, Round, Decorated	1748pb002	Tile, Round 1 x 2 Half with White 'GENESYS' and Logo Pattern (Sticker) - Set 77242		0.21	1 x 2 x 0
+812	Tile, Round, Decorated	1748pb003	Tile, Round 1 x 2 Half with Black 'PETRONAS Synthium' Logo on Light Bluish Gray Background Pattern (Sticker) - Set 77244		0.21	1 x 2 x 0
+812	Tile, Round, Decorated	1748pb004	Tile, Round 1 x 2 Half with White 'cognizant' Pattern (Sticker) - Sets 76925 / 77245		0.21	1 x 2 x 0
+812	Tile, Round, Decorated	1748pb005	Tile, Round 1 x 2 Half with Blue 'BWT' Logo on White and Bright Light Blue Background Pattern (Sticker) - Set 77248		0.21	1 x 2 x 0
+812	Tile, Round, Decorated	1748pb006	Tile, Round 1 x 2 Half with 'TRICORP' and White and Red Polygon Logo Pattern (Sticker) - Set 77250		0.21	1 x 2 x 0
+812	Tile, Round, Decorated	1748pb007	Tile, Round 1 x 2 Half with Orange Triangle Pattern (Sticker) - Set 77251		0.21	1 x 2 x 0
 578	Wedge, Decorated	3388pb04	Wedge 5 x 1 x 1 1/3 with 4 x 1 Base Left with Blue and White Circle 'hp' Logo Pattern (Sticker) - Set 77242		1.08	5 x 1 x 1.33
 578	Wedge, Decorated	3388pb05	Wedge 5 x 1 x 1 1/3 with 4 x 1 Base Left with White 'KICK' Logo Pattern (Sticker) - Set 77247		1.08	5 x 1 x 1.33
 578	Wedge, Decorated	3388pb06	Wedge 5 x 1 x 1 1/3 with 4 x 1 Base Left with White 'MoneyGram' and Red Circle with Arrow Logo Pattern (Sticker) - Set 77250		1.08	5 x 1 x 1.33
@@ -88740,6 +88738,8 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 440	DUPLO, Brick, Decorated	4066pb852	Duplo, Brick 1 x 2 x 2 with Medical Supplies, White Bandages, Dark Azure Band Aid, Bottle with EMT Star of Life, Red Hearts Pattern	76371pb852	8.1	1 x 2 x 2
 440	DUPLO, Brick, Decorated	3437pb140	Duplo, Brick 2 x 2 with Yellow and Bright Light Yellow Banana Peel Pattern		6.65	2 x 2 x 1
 534	Brick, Promotional	30144pb459	Brick 2 x 4 x 3 with 23 Jahre 2025 LEGOLAND Deutschland Resort Pattern		6.9	2 x 4 x 3
+238	Minifigure, Head	3626pb4036	Minifigure, Head Black Thick Eyebrows, Left Raised, Dark Brown Chin Dimple, Thin Mouth, Frown Pattern		0.54	? x ? x ?
+238	Minifigure, Head	3626pb4037	Minifigure, Head Black Thick Eyebrows, Left Raised, Right Notched, Dark Brown Chin Dimple, Slight Frown Pattern		0.57	? x ? x ?
 812	Tile, Round, Decorated	5520pb004	Tile, Round 2 x 2 Half Circle Extended with Wood Grain and 'SLEEPY' Pattern (Sticker) - Set 43242		0.42	2 x 2 x 0
 812	Tile, Round, Decorated	5520pb005	Tile, Round 2 x 2 Half Circle Extended with Wood Grain and 'SNEEZY' Pattern (Sticker) - Set 43242		0.42	2 x 2 x 0
 812	Tile, Round, Decorated	5520pb006	Tile, Round 2 x 2 Half Circle Extended with Wood Grain and 'GRUMPY' Pattern (Sticker) - Set 43242		0.42	2 x 2 x 0
@@ -90539,7 +90539,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 1098	Minifigure, Legs, Decorated	970c00pb1817	Hips and Legs with Molded Medium Nougat Lower Leg / Boot Left, Molded Red Lower Leg / Boot Right and Prined Medium Nougat Fur Behind Rips and Tears, Tan Claws Pattern		1.27	? x ? x ?
 606	Minifigure, Head, Modified	79435	Minifigure, Head, Modified Giant		1.65	? x ? x ?
 39	Tile, Decorated	69729pb195	Tile 2 x 6 with Red LEGO Marvel Logo and White 'IRON SPIDER-MAN' Pattern		1.35	2 x 6 x 0
-812	Tile, Round, Decorated	1748pb09	Tile, Round 1 x 2 Half with White Gradient Dots on Metallic Light Blue Background Pattern		0.21	1 x 2 x 0
+812	Tile, Round, Decorated	1748pb008	Tile, Round 1 x 2 Half with White Gradient Dots on Metallic Light Blue Background Pattern		0.21	1 x 2 x 0
 775	Slope, Curved, Decorated	93273pb216	Slope, Curved 4 x 1 x 2/3 Double with Dark Red Spider Web Pattern		0.6	4 x 1 x 0.67
 578	Wedge, Decorated	5095pb004	Wedge 2 x 2 x 2/3 Left with Dark Red Spider Web Pattern		0.5	2 x 2 x 0.67
 578	Wedge, Decorated	5093pb004	Wedge 2 x 2 x 2/3 Right with Dark Red Spider Web Pattern		0.5	2 x 2 x 0.67
@@ -91955,7 +91955,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 578	Wedge, Decorated	93348pb010	Wedge 4 x 4 Taper with Stud Notches with Lime Stripe, Black Line and Rivets Pattern (Sticker) - Set 75342		2.26	4 x 4 x 1
 39	Tile, Decorated	26603pb540L	Tile 2 x 3 with Dark Red and Lime Stripes, Dark Bluish Gray Armor Plate Outline and Rivets Pattern Model Left Side (Sticker) - Set 75342		0.69	2 x 3 x 0
 39	Tile, Decorated	26603pb540R	Tile 2 x 3 with Dark Red and Lime Stripes, Dark Bluish Gray Armor Plate Outline and Rivets Pattern Model Right Side (Sticker) - Set 75342		0.69	2 x 3 x 0
-160	Sticker Sheet	10356stk01	Sticker Sheet for Set 10356 - (10111843/6531941)	111843	2.03	? x ? x ?
+160	Sticker Sheet	10356stk01a	Sticker Sheet for Set 10356 - (10111843/6531941) (First Version with Error 'Boldy')	111843	2.03	? x ? x ?
 777	Technic, Liftarm, Decorated	32526pb039	Technic, Liftarm, Modified Bent Thick L-Shape 3 x 5 with Kawasaki Logo Pattern (Sticker) - Set 42170		1.78	3 x 5 x 1
 461	Panel, Decorated	78594pb01L	Panel 2 x 2 x 5 Corner Wall with Gold Ornate Swirls Pattern Model Left Side (Sticker) - Set 40701		2.4	2 x 2 x 5
 150	Minifigure, Torso	973pb6386	Torso Santa Jacket with Gold and Copper Fur Collar and Waistband, Reddish Brown Creases and Belt with Buckle Pattern (BAM)		0.82	? x ? x ?
@@ -91981,6 +91981,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 579	Windscreen, Decorated	41883pb007	Windscreen 6 x 4 x 2 Wedge Curved with White Crosshairs Pattern (Sticker) - Set 7709		5.1	6 x 4 x 2
 118	Brick, Decorated	crssprt01pb89	Brick 1 x 8 without Bottom Tubes with Cross Side Supports with Red 'THEATRE' Serif Bold Pattern		3.21	1 x 8 x 1
 118	Brick, Decorated	30145pb031	Brick 2 x 2 x 3 with Magenta Curtain, Yellow Rope and Iridescent Mirrored Stars Pattern (Sticker) - Set 41688		3.8	2 x 2 x 3
+642	Door, Decorated	60623pb17	Door 1 x 4 x 6 with 4 Panes and Stud Handle with Exposed Wood in Hole Pattern (Sticker) - Set 41702		1.92	1 x 4 x 6
 160	Sticker Sheet	910049stk01	Sticker Sheet for Set 910049 - (10114792/6574412)	114792	1.29	? x ? x ?
 150	Minifigure, Torso	973pb6401	Torso with 'LEGO MASTERS' and White and Light Bluish Gray LEGO Masters Logo Pattern		0.82	? x ? x ?
 160	Sticker Sheet	910050stk01	Sticker Sheet for Set 910050 - (10114795/6574420)	114795	1.4	? x ? x ?
@@ -92018,6 +92019,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 812	Tile, Round, Decorated	14769pb821	Tile, Round 2 x 2 with Bottom Stud Holder with Coral Watermelon Slice with Face on Yellowish Green Background Pattern (Sticker) - Set 41926		0.33	2 x 2 x 0
 812	Tile, Round, Decorated	14769pb822	Tile, Round 2 x 2 with Bottom Stud Holder with Coral Cherries with Faces on Bright Light Orange Background Pattern (Sticker) - Set 41926		0.33	2 x 2 x 0
 812	Tile, Round, Decorated	14769pb823	Tile, Round 2 x 2 with Bottom Stud Holder with Bright Pink Peach with Face on Coral Background Pattern (Sticker) - Set 41926		0.33	2 x 2 x 0
+118	Brick, Decorated	crssprt01pb90	Brick 1 x 8 without Bottom Tubes with Cross Side Supports with Blue 'DEALER' Thin Pattern		3.2	1 x 8 x 1
 160	Sticker Sheet	4002025stk01	Sticker Sheet for Set 4002025 - (10117141/6601056)	117141	1.07	? x ? x ?
 643	Container, Decorated	2821pb08	Container, Box 2 x 2 x 1 - Top Opening with Raised Inner Bottom with Medium Lavender, Medium Azure and White Half Circle Confetti Pattern on Both Sides (Stickers) - Set 42666		1.25	2 x 2 x 1
 39	Tile, Decorated	3068pb2744	Tile 2 x 2 with Present, White Fish Wrapping Paper and Lime Bow Pattern (Sticker) - Set 42666		0.5	2 x 2 x 0
@@ -92039,7 +92041,77 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 534	Brick, Promotional	30144pb501	Brick 2 x 4 x 3 with WinterWonder LEGOLAND 2025 Pattern		6.9	2 x 4 x 3
 535	Brick, Modified, Decorated	22885pb012	Brick, Modified 1 x 2 x 1 2/3 with Studs on Side with Dark Blue Screen with White Orbiting Planets, 'Planet N1C3' and Red Marker Pattern (Sticker) - Set 42602		1.28	1 x 2 x 1.67
 847	Minifigure, Hair	1987	Minifigure, Hair Female Long Wavy, High Back Ponytail		1.5	? x ? x ?
+118	Brick, Decorated	crssprt01pb91	Brick 1 x 8 without Bottom Tubes with Cross Side Supports with Black 'GROCERY' Pattern		3.2	1 x 8 x 1
 943	Minifigure, Utensil, Decorated	24093pb130	Minifigure, Utensil Book Cover with Computer Screen with Dinosaur Therizinosaurus and Text in Open Windows Pattern (Sticker) - Set 76949		0.57	? x ? x ?
 160	Sticker Sheet	40776stk01	Sticker Sheet for Set 40776 - (10114131/6551657)	114131	0.42	? x ? x ?
+118	Brick, Decorated	49311pb057	Brick 1 x 4 x 3 with Red Fish and 2 Orange 1 x 1 Plates Pattern		4.03	1 x 4 x 3
+1097	Minifigure, Torso Assembly, Decor.	973pb6402c01	Torso Uniform Vest with Gold and Silver Star Trek Starfleet Insignia, Dark Azure Front and Back Panel Pattern / Dark Azure Arms with Black Shoulders Pattern / Light Nougat Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6403c01	Torso Uniform Vest with Gold and Silver Star Trek Starfleet Insignia, Bright Light Orange Front and Back Panel Pattern / Bright Light Orange Arms with Black Shoulders Pattern / Tan Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6403c02	Torso Uniform Vest with Gold and Silver Star Trek Starfleet Insignia, Bright Light Orange Front and Back Panel Pattern / Bright Light Orange Arms with Black Shoulders Pattern / Medium Brown Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6404c01	Torso Uniform Vest with Gold and Silver Star Trek Starfleet Insignia, Red Front and Back Panel Pattern / Red Arms with Black Shoulders Pattern / Light Nougat Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6405c01	Torso Uniform Vest with Gold and Silver Star Trek Starfleet Insignia, Baldric Belt over Shoulder, Bright Light Orange Front and Back Panel Pattern / Bright Light Orange Arms with Black Shoulders Pattern / Medium Brown Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6406c01	Torso Female Uniform Vest with Gold and Silver Star Trek Starfleet Insignia, Light Nougat Neck Pattern / Medium Lavender Arms / Light Nougat Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6407c01	Torso Vest with Black Folds and Creases, Medium Lavender Shoulders with Metallic Pink Trim Line Pattern / Dark Purple Arms / Medium Brown Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6408c01	Torso Uniform Vest with Dark Bluish Gray Panel and Creases, Red, Yellow and Dark Azure Stripes Pattern / Light Bluish Gray Arms / Light Nougat Hands		1.3	? x ? x ?
+847	Minifigure, Hair	7433pb01	Minifigure, Hair Male Bald Top with Center Ridges with Molded Black Hair and Printed Thick Black Eyebrows Pattern		0.8	? x ? x ?
+847	Minifigure, Hair	7432pb01	Minifigure, Hair Combo, Hat with Hair, Round Wide Hat with Molded Black Long Dreadlocks Pattern		1.89	? x ? x ?
+20	Minifigure, Body Part	981982pb429	Arm, (Matching Left and Right) Pair with Black Shoulders Pattern		0.3	? x ? x ?
+20	Minifigure, Body Part	982pb429	Arm, Right with Black Shoulder Pattern		0.15	? x ? x ?
+20	Minifigure, Body Part	981pb429	Arm, Left with Black Shoulder Pattern		0.15	? x ? x ?
 234	Foam	3159foam01b	Foam Part for Set 3159 - Scala Tray Liner with Hole		0.27	? x ? x ?
 234	Foam	3159foam01a	Foam Part for Set 3159 - Scala Tiara with 3 Holes		0.49	? x ? x ?
+778	Tile, Modified, Decorated	22385pb387	Tile, Modified 2 x 3 Pentagonal with Tombstone, Dark Bluish Gray 'r.i.p A.v.H. 1836-1898' and Leaves Pattern (Sticker) - Set 910049		0.6	2 x 3 x 0
+234	Foam	3159foam01d	Foam Part for Set 3159 - Scala Meat for Sandwich with Hole, Type 2		0.03	? x ? x ?
+234	Foam	3159foam01e	Foam Part for Set 3159 - Scala Flower with 5 Petals and Hole		0.07	? x ? x ?
+234	Foam	3159foam01f	Foam Part for Set 3159 - Scala Flower with 4 Petals and Hole		0.05	? x ? x ?
+234	Foam	3159foam02b	Foam Part for Set 3159 - Scala Lettuce for Sandwich with Hole, Type 1		0.06	? x ? x ?
+234	Foam	3159foam02c	Foam Part for Set 3159 - Scala Lettuce for Sandwich with Hole, Type 2		0.07	? x ? x ?
+234	Foam	3159foam03e	Foam Part for Set 3159 - Scala Large Circle 3 x 3		0.12	? x ? x ?
+234	Foam	3159foam03d	Foam Part for Set 3159 - Scala Pizza with 4 Holes		0.25	? x ? x ?
+160	Sticker Sheet	910052stk01	Sticker Sheet for Set 910052 - (10114794/6574417)	114794	0.4	? x ? x ?
+238	Minifigure, Head	3626pb4028	Minifigure, Head Dual Sided Alien Female Black Eyebrows, Medium Nougat Bajoran Nose Ridges, Dark Red Lips, Silver Earring, Angry Open Mouth with Teeth / Neutral Pattern		0.55	? x ? x ?
+160	Sticker Sheet	40768stk01	Sticker Sheet for Set 40768 - (10115725/6585267)	115725	?	? x ? x ?
+150	Minifigure, Torso	973pb6402	Torso Uniform Vest with Gold and Silver Star Trek Starfleet Insignia, Dark Azure Front and Back Panel Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6403	Torso Uniform Vest with Gold and Silver Star Trek Starfleet Insignia, Bright Light Orange Front and Back Panel Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6404	Torso Uniform Vest with Gold and Silver Star Trek Starfleet Insignia, Red Front and Back Panel Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6405	Torso Uniform Vest with Gold and Silver Star Trek Starfleet Insignia, Baldric Belt over Shoulder, Bright Light Orange Front and Back Panel Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6406	Torso Female Uniform Vest with Gold and Silver Star Trek Starfleet Insignia, Light Nougat Neck Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6407	Torso Vest with Black Folds and Creases, Medium Lavender Shoulders with Metallic Pink Trim Line Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6408	Torso Uniform Vest with Dark Bluish Gray Panel and Creases, Red, Yellow and Dark Azure Stripes Pattern		0.82	? x ? x ?
+72	Vehicle	98834pb47R	Vehicle, Spoiler with Bar Handle with White Number 1 Pattern Model Right Side (Sticker) - Set 70656		0.93	? x ? x ?
+72	Vehicle	98834pb47L	Vehicle, Spoiler with Bar Handle with White Number 1 Pattern Model Left Side (Sticker) - Set 70656		0.93	? x ? x ?
+238	Minifigure, Head	3626pb4029	Minifigure, Head Dual Sided Female Dark Orange Eyebrows, Coral Lips, Medium Nougat Eye Shadow, Cheek Lines and Dimples, Lopsided Grin / Open Mouth Smile with Teeth Pattern		0.55	? x ? x ?
+238	Minifigure, Head	3626pb4030	Minifigure, Head Dual Sided Dark Brown Eyebrows and Beard, Right Eyebrow Raised, Lower Eyelids, Open Mouth Smile with Teeth / Neutral Pattern		0.55	? x ? x ?
+238	Minifigure, Head	3626pb4031	Minifigure, Head Dual Sided Black Eyebrows, Gold and Silver Visor, Reddish Brown Chin Dimple, Open Mouth Smile with Teeth / Neutral Pattern		0.55	? x ? x ?
+238	Minifigure, Head	3626pb4032	Minifigure, Head Dual Sided Dark Tan Eyebrows and Chin Dimple, Yellow Eyes with White Glints, Right Eyebrow Raised, Slight Smile / Neutral Pattern		0.55	? x ? x ?
+238	Minifigure, Head	3626pb4033	Minifigure, Head Dark Bluish Gray Thick Eyebrows, Medium Nougat Forehead Creases, Crow's Feet, Cheek Lines and Chin Dimples, Neutral Pattern		0.55	? x ? x ?
+238	Minifigure, Head	3626pb4034	Minifigure, Head Dual Sided Black Upper Eyelids, Goatee Beard and Fu Manchu Moustache, Reddish Brown Creases and Cheek Lines, Neutral / Open Mouth Fierce with Teeth Pattern		0.55	? x ? x ?
+238	Minifigure, Head	3626pb4035	Minifigure, Head Dual Sided Female Reddish Brown Eyebrows, Cheek Lines and Chin Dimple, Single Eyelashes, Dark Brown Lips, Neutral / Open Mouth Smile with Teeth Pattern		0.55	? x ? x ?
+234	Foam	3151foam01	Foam Sheet for Set 3151, Sheet 1	22941	6.19	? x ? x ?
+234	Foam	3151foam02	Foam Sheet for Set 3151, Sheet 2	22942	6	? x ? x ?
+39	Tile, Decorated	90498pb62	Tile 8 x 16 with Bottom Tubes, Textured Surface with Screen with The Penguin and Catwoman Minifigures, 'JAM FREQUENCY' and 'REC' Pattern (Sticker) - Set 76252		14.3	8 x 16 x 0
+234	Foam	3151foam02b	Foam Part for Set 3151 - Scala Flower with 4 Petals and Hole		0.05	? x ? x ?
+234	Foam	3151foam02c	Foam Part for Set 3151 - Scala Flower with 5 Petals and Hole		0.07	? x ? x ?
+740	Technic, Panel, Decorated	80285pb001	Technic, Panel Curved 2 x 5 x 3 Double Modified L-Shape Quarter Ellipse Thick with Bright Green Stripes and Gas Filler Cap Pattern (Sticker) - Set 42170		4.73	2 x 5 x 3
+812	Tile, Round, Decorated	67095pb127	Tile, Round 3 x 3 with Crankcase Cover Panel with Screws, Bent Line and Silver Gradient Pattern (Sticker) - Set 42170		0.76	3 x 3 x 0
+741	Tail, Decorated	6239pb121L	Tail Shuttle with Light Bluish Gray Worn Stripes and Armor Plates with Black Outlines Pattern Model Left Side (Sticker) - Set 75346		2.4	6 x 2 x 3.67
+741	Tail, Decorated	6239pb121R	Tail Shuttle with Light Bluish Gray Worn Stripes and Armor Plates with Black Outlines Pattern Model Right Side (Sticker) - Set 75346		2.4	6 x 2 x 3.67
+579	Windscreen, Decorated	98878pb01	Windscreen 10 x 4 x 2 with Bar Handle with Light Bluish Gray Stripe with Dark Bluish Gray Edges Pattern on Both Sides (Stickers) - Set 75346		5.26	10 x 4 x 2
+812	Tile, Round, Decorated	1748pb009	Tile, Round 1 x 2 Half with Black Curved Line Pattern (Mario Kart Teddy Buggy Mouth) (Sticker) - Set 72038		0.21	1 x 2 x 0
+775	Slope, Curved, Decorated	5907pb001	Slope, Curved 2 x 1 x 1 2/3 with Dark Bluish Gray, Black and White Oval Headlight Pattern (Sticker) - Set 72044		0.6	2 x 1 x 1.67
+775	Slope, Curved, Decorated	15068pb662	Slope, Curved 2 x 2 x 2/3 with Dark Orange Oval and Black Vent Lines Pattern (Sticker) - Set 72044		0.57	2 x 2 x 1.67
+775	Slope, Curved, Decorated	15068pb663	Slope, Curved 2 x 2 x 2/3 with Blue Stripes and Yellow Dotted Lines Pattern (Sticker) - Set 72038		0.57	2 x 2 x 1.67
+578	Wedge, Decorated	52031pb205	Wedge 4 x 6 x 2/3 Triple Curved with White Circle and Dark Purple Letter W Wario Logo Pattern (Sticker) - Set 72038		3.3	4 x 6 x 0.67
+461	Panel, Decorated	18910pb010	Panel 3 x 4 x 3 Curved with Double Clip Hinge with Black Vent Lines Pattern (Sticker) - Set 72044		2.52	3 x 4 x 3
+738	Flag, Decorated	2335pb264	Flag 2 x 2 Square with Coral Dragon Fruit in Lime Bowl, Tan Diamonds, Bright Light Orange and Dark Turquoise Stripes Pattern (Sticker) - Set 43185		0.5	2 x 2 x 0
+779	Dish, Decorated	44375bpb31	Dish 6 x 6 Inverted (Radar) - Solid Studs with Gold and Dark Blue Compass Rose and Dark Red Needle Pattern		2.74	6 x 6 x 0.67
+738	Flag, Decorated	2335pb265	Flag 2 x 2 Square with Bright Light Orange Shrimp, Lime and Coral Stripes with Dark Turquoise Zigzags Pattern on Both Sides (Stickers) - Set 43185		0.5	2 x 2 x 0
+812	Tile, Round, Decorated	14769pb828	Tile, Round 2 x 2 with Bottom Stud Holder with Coral Dragon Fruit and Wavy Border Pattern (Sticker) - Set 43185		0.33	2 x 2 x 0
+39	Tile, Decorated	3069pb1450	Tile 1 x 2 with Banana Leaf on Tan Woven Mat Pattern (Sticker) - Set 43185		0.26	1 x 2 x 0
+234	Foam	3151foam01b	Foam Part for Set 3151 - Scala Flower with 4 Petals and Hole		0.09	? x ? x ?
+234	Foam	3151foam01c	Foam Part for Set 3151 - Scala Flower with 5 Petals and Hole		0.07	? x ? x ?
+234	Foam	3148foam01b	Foam Part for Set 3148 - Scala Sleeping Pad with 6 Holes		3.09	? x ? x ?
+234	Foam	3151foam01d	Foam Part for Set 3151 - Scala Flag Triangular with 2 Holes		0.24	? x ? x ?
+234	Foam	5861foam01d	Foam Part for Set 5861 - Belville, Leaf 18 x 6 with 2 Holes		1.35	? x ? x ?
+160	Sticker Sheet	10356stk01b	Sticker Sheet for Set 10356 - (10119706/6644796) (Second Version with Corrected 'Boldly')	119706	2.03	? x ? x ?
+160	Sticker Sheet	910053stk01	Sticker Sheet for Set 910053 - (10114793/6574414)	114793	0.67	? x ? x ?

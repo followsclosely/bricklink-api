@@ -3731,7 +3731,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 54	Aquazone / Aquaraiders II	7770-1	Deep Sea Treasure Hunter	2007	14	14.3 x 14.3 x 4.7
 568	Exo-Force	7713-1	Bridge Walker vs. White Lightning	2006	206	47.5 x 38 x 6.7
 516	4 Juniors / Pirates	7075-2	Captain Redbeard's Pirate Ship - Limited Edition with Motor	2004	?	? x ? x ?
-273	BIONICLE	7216-1	Gold Good Guy - Looking Right (Duracell 8 pack AA) {Turaga Lhikan}	2006	?	? x ? x ?
+273	BIONICLE	7216-1	Gold Good Guy (Duracell 8 pack AA) {Turaga Lhikan}	2006	?	? x ? x ?
 390	Holiday & Event / Christmas	4169306A-1	Christmas Tree Ornament	2005	?	? x ? x ?
 390	Holiday & Event / Christmas	4169306B-1	Snowman Ornament	2005	?	? x ? x ?
 390	Holiday & Event / Christmas	4169306C-1	Santa Claus Ornament	2005	?	? x ? x ?
@@ -3786,7 +3786,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 568	Exo-Force	8102-1	Blade Titan	2007	43	19 x 28.5 x 4.8
 976	LEGO Brand / LEGO Brand Store / Building Event	GATOR-1	LEGO Brand Store Exclusive Build - Boford P. Alligator	2006	?	? x ? x ?
 171	Creator / Model / Traffic	4939-1	Cool Cars	2007	105	28.5 x 19 x 5
-273	BIONICLE	7216-3	Gold Good Guy - Looking Right (Duracell 12 pack AA) {Turaga Lhikan}	2006	?	17.3 x 11.9 x 4.5
+273	BIONICLE	7216-3	Gold Good Guy (Duracell 12 pack AA) {Turaga Lhikan}	2006	?	17.3 x 11.9 x 4.5
 390	Holiday & Event / Christmas	10106-1	Snowflake polybag	2006	8.2	? x ? x ?
 422	Universal Building Set / Airport	4038-1	Fun Flyer polybag	2003	?	14.5 x 16.8 x 1
 166	Educational & Dacta / Technic	9632-1	Science & Technology Base Set	2006	994	42 x 31 x 16
@@ -12689,7 +12689,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Building Event	6546260-1	LEGO Brand Store Exclusive Build - Gaming Controller	2024	?	? x ? x ?
 171	Creator / Creator Expert	10366-1	Tropical Aquarium	2025	?	? x ? x ?
 983	Promotional	5009823-1	Fish Tank Filter & Fish Food	2025	?	15 x 15 x 4.5
-983	Promotional	5009626-1	Fish Tank	2025	?	? x ? x ?
+983	Promotional	5009626-1	Fish Tank	2025	?	14.2 x 14.7 x 4.7
 817	LEGO Ideas (CUUSOO) / The Goonies	40773-1	The Goonies: The Walshes' Attic	2025	?	20.3 x 19 x 4.5
 817	LEGO Ideas (CUUSOO) / The Goonies	21363-1	The Goonies	2025	750	55 x 37.8 x 12.8
 976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Halloween	6565159-1	LEGO Brand Store Exclusive Build - Witch	2025	28.5	21.5 x 21.5 x 1.5
@@ -12699,8 +12699,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1355	Star Trek	40768-1	Type-15 Shuttlepod	2025	?	20.4 x 18.9 x 4.5
 988	Building Event / Holiday & Event / Thanksgiving	5009616-1	Macy's / Toys "R" Us Exclusive Build - Turkey Time Build	2025	23	? x ? x ?
 34	Space / Classic Space	5009806-1	Retro Space Explorer	2025	?	15 x 15 x 4.5
-9	Castle	40775-1	Mini Knight's Castle	2025	?	26.3 x 13.8 x 9
+9	Castle	40775-1	Mini Knight's Castle	2025	140.3	26.3 x 13.8 x 9
 390	Holiday & Event / Christmas	40776-1	Hot Chocolate Stand	2025	56.15	20.6 x 19 x 7.1
 390	Holiday & Event / Christmas	5009615-1	Holiday Snowman {Barnes & Noble Promotional}	2025	?	? x ? x ?
 976	LEGO Brand / LEGO Employee Gift	4002025-1	2025 Employee Exclusive - Toy Store	2025	442	38.1 x 25.9 x 11.5
-390	Holiday & Event / Christmas	40778-1	Winter Gazebo	2025	?	20.3 x 18.8 x 6
+390	Holiday & Event / Christmas	5009614-1	Skaters in the Park {Barnes & Noble Promotional}	2025	?	? x ? x ?
+390	Holiday & Event / Christmas	40778-1	Winter Gazebo	2025	40.25	20.3 x 18.8 x 6
+390	Holiday & Event / Christmas	5009635-1	Holiday Train	2025	40	17 x 17 x 4
+447	School Supplies	53709-99	Ruler, Buildable Ruler - Multicolor Plates with Blue Baseplates with Construction Worker Minifigure	2025	?	9.7 x 20 x 1.9
+171	Creator / Model / Holiday & Event / Christmas	40777-1	Celebration Series: 4. Gingerbread Train Ornament	2025	?	18.9 x 13.8 x 4.4

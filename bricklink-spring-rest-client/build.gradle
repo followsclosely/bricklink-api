@@ -11,6 +11,7 @@ dependencies {
 
     compileOnly('org.springframework:spring-web:6.2.11')
     implementation(project(':bricklink-api'))
+    implementation('io.github.followsclosely:toolbox-spring-web:1.0.0')
     //implementation('com.fasterxml.jackson.core:jackson-annotations:2.20')
 
     // For testing

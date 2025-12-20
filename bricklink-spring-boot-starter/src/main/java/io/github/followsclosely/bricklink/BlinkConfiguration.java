@@ -1,9 +1,9 @@
 package io.github.followsclosely.bricklink;
 
-import lombok.Data;
+import io.github.followsclosely.toolbox.web.cache.DiskCachingConfiguration;
+import io.github.followsclosely.toolbox.web.limiter.ApiRateLimiterConfiguration;
 import lombok.Getter;
 import lombok.Setter;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 @Getter
@@ -19,12 +19,6 @@ public class BlinkConfiguration {
     private String tokenValue = null;
     private String tokenSecret = null;
 
-    private ApiLimits apiLimits;
-
-    @Getter
-    @Setter
-    public static class ApiLimits {
-        private long minWaitMsBetweenCalls = 250;
-        private long randomMsAddition = 50;
-    }
+    private DiskCachingConfiguration caching = new DiskCachingConfiguration();
+    private ApiRateLimiterConfiguration apiLimits = new ApiRateLimiterConfiguration();
 }

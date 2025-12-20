@@ -1,6 +1,5 @@
 package io.github.followsclosely.bricklink.spring;
 
-import io.github.followsclosely.bricklink.BlinkApiRateLimiter;
 import io.github.followsclosely.bricklink.oauth.BlinkAuthSigner;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.client.RestClient;
@@ -13,7 +12,6 @@ public class AbstractBlinkRestClient {
     public static final String API_BASE_URL = "https://api.bricklink.com/api/store/v1/";
 
     protected final BlinkAuthSigner blinkAuthSigner;
-    protected final BlinkApiRateLimiter rateLimiter;
     protected final RestClient restClient;
 
     /**
@@ -21,7 +19,7 @@ public class AbstractBlinkRestClient {
      *
      * @param blinkAuthSigner The authentication signer for Bricklink API requests.
      */
-    public AbstractBlinkRestClient(BlinkAuthSigner blinkAuthSigner, BlinkApiRateLimiter rateLimiter) {
-        this(blinkAuthSigner, rateLimiter, RestClient.builder().baseUrl(API_BASE_URL).build());
+    public AbstractBlinkRestClient(BlinkAuthSigner blinkAuthSigner) {
+        this(blinkAuthSigner, RestClient.builder().baseUrl(API_BASE_URL).build());
     }
 }

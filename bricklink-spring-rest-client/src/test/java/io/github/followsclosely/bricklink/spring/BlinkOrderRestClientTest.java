@@ -1,7 +1,6 @@
 package io.github.followsclosely.bricklink.spring;
 
 import io.github.followsclosely.bricklink.BlinkOrderClient;
-import io.github.followsclosely.bricklink.DefaultBlinkApiRateLimiter;
 import io.github.followsclosely.bricklink.dto.BlinkOrder;
 import io.github.followsclosely.bricklink.dto.BlinkResponse;
 import io.github.followsclosely.bricklink.oauth.BlinkAuthSignerFactory;
@@ -21,7 +20,7 @@ class BlinkOrderRestClientTest {
 
     @BeforeAll
     public static void init() throws IOException {
-        BlinkOrderRestClientTest.client = new BlinkOrderRestClient(BlinkAuthSignerFactory.newInstance(), DefaultBlinkApiRateLimiter.DEFAULT_INSTANCE);
+        BlinkOrderRestClientTest.client = new BlinkOrderRestClient(BlinkAuthSignerFactory.newInstance());
     }
 
     @Test

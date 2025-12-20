@@ -1,6 +1,5 @@
 package io.github.followsclosely.bricklink.spring;
 
-import io.github.followsclosely.bricklink.BlinkApiRateLimiter;
 import io.github.followsclosely.bricklink.BlinkItemClient;
 import io.github.followsclosely.bricklink.dto.BlinkItem;
 import io.github.followsclosely.bricklink.dto.BlinkResponse;
@@ -16,31 +15,27 @@ import static io.github.followsclosely.bricklink.spring.TypeReferences.*;
  */
 public class BlinkItemRestClient extends AbstractBlinkRestClient implements BlinkItemClient {
 
-    public BlinkItemRestClient(BlinkAuthSigner blinkAuthSigner, BlinkApiRateLimiter rateLimiter) {
-        super(blinkAuthSigner, rateLimiter);
+    public BlinkItemRestClient(BlinkAuthSigner blinkAuthSigner) {
+        super(blinkAuthSigner);
     }
 
-    public BlinkItemRestClient(BlinkAuthSigner blinkAuthSigner, BlinkApiRateLimiter rateLimiter, RestClient restClient) {
-        super(blinkAuthSigner, rateLimiter, restClient);
+    public BlinkItemRestClient(BlinkAuthSigner blinkAuthSigner, RestClient restClient) {
+        super(blinkAuthSigner, restClient);
     }
 
     public BlinkResponse<BlinkItem> getItem(BlinkItem.Type type, String number) {
-        rateLimiter.waitAsNeeded();
         BlinkAuthSigner.SignatureBuilder signature = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("items/" + type.name() + "/" + number);
 
-        BlinkResponse<BlinkItem> response = restClient.get()
+        return restClient.get()
                 .uri(signature.buildUrl())
                 .header(BlinkAuthSigner.HEADER, signature.buildAuthorizationHeader())
                 .retrieve().body(BLINK_CATALOG_ITEM);
-
-        rateLimiter.resetLastCallTime();
-        return response;
     }
 
     public BlinkResponse<List<BlinkItem.SubsetEntry>> getItemSubsets(BlinkItem.Type type, String number, ItemSubsetsQuery query) {
-        rateLimiter.waitAsNeeded();
+
         BlinkAuthSigner.SignatureBuilder signature = blinkAuthSigner.signatureBuilder()
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("items/" + type.name() + "/" + number + "/subsets");
@@ -53,13 +48,10 @@ public class BlinkItemRestClient extends AbstractBlinkRestClient implements Blin
             if (query.getBreakSubsets() != null) signature.parameter("break_subsets", query.getBreakSubsets());
         }
 
-        BlinkResponse<List<BlinkItem.SubsetEntry>> response = restClient.get()
+        return restClient.get()
                 .uri(signature.buildUrl())
                 .header(BlinkAuthSigner.HEADER, signature.buildAuthorizationHeader())
                 .retrieve().body(BLINK_ITEM_SUBSET_ENTRY_LIST);
-
-        rateLimiter.resetLastCallTime();
-        return response;
     }
 
     @Override
@@ -79,13 +71,10 @@ public class BlinkItemRestClient extends AbstractBlinkRestClient implements Blin
             if (query.getVat() != null) signature.parameter("vat", query.getVat().getValue());
         }
 
-        BlinkResponse<BlinkItem.BlinkPriceGuide> response = restClient.get()
+        return restClient.get()
                 .uri(signature.buildUrl())
                 .header(BlinkAuthSigner.HEADER, signature.buildAuthorizationHeader())
                 .retrieve().body(BLINK_ITEM_PRICE_GUIDE);
-
-        rateLimiter.resetLastCallTime();
-        return response;
     }
 
     @Override
@@ -94,13 +83,10 @@ public class BlinkItemRestClient extends AbstractBlinkRestClient implements Blin
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("items/" + type.name() + "/" + number + "/colors");
 
-        BlinkResponse<List<BlinkItem.KnownColor>> response = restClient.get()
+        return restClient.get()
                 .uri(signature.buildUrl())
                 .header(BlinkAuthSigner.HEADER, signature.buildAuthorizationHeader())
                 .retrieve().body(BLINK_ITEM_KNOWN_COLOR);
-
-        rateLimiter.resetLastCallTime();
-        return response;
     }
 
     public BlinkResponse<BlinkItem.Image> getImage(BlinkItem.Type type, String number, Integer color) {
@@ -108,13 +94,10 @@ public class BlinkItemRestClient extends AbstractBlinkRestClient implements Blin
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("items/" + type.name() + "/" + number + "/images/" + color);
 
-        BlinkResponse<BlinkItem.Image> response = restClient.get()
+        return restClient.get()
                 .uri(signature.buildUrl())
                 .header(BlinkAuthSigner.HEADER, signature.buildAuthorizationHeader())
                 .retrieve().body(BLINK_ITEM_IMAGE);
-
-        rateLimiter.resetLastCallTime();
-        return response;
     }
 
     public BlinkResponse<List<BlinkItem.ElementIdMapping>> getElementId(BlinkItem.Type type, String number) {
@@ -122,13 +105,10 @@ public class BlinkItemRestClient extends AbstractBlinkRestClient implements Blin
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("item_mapping/" + type.name() + "/" + number);
 
-        BlinkResponse<List<BlinkItem.ElementIdMapping>> response = restClient.get()
+        return restClient.get()
                 .uri(signature.buildUrl())
                 .header(BlinkAuthSigner.HEADER, signature.buildAuthorizationHeader())
                 .retrieve().body(BLINK_ITEM_ELEMENT_ID_MAPPING);
-
-        rateLimiter.resetLastCallTime();
-        return response;
     }
 
     public BlinkResponse<List<BlinkItem.ElementIdMapping>> getItemNumber(String elementId) {
@@ -136,12 +116,9 @@ public class BlinkItemRestClient extends AbstractBlinkRestClient implements Blin
                 .verb(BlinkAuthSigner.Method.GET)
                 .uri("item_mapping/" + elementId);
 
-        BlinkResponse<List<BlinkItem.ElementIdMapping>> response = restClient.get()
+        return restClient.get()
                 .uri(signature.buildUrl())
                 .header(BlinkAuthSigner.HEADER, signature.buildAuthorizationHeader())
                 .retrieve().body(BLINK_ITEM_ELEMENT_ID_MAPPING);
-
-        rateLimiter.resetLastCallTime();
-        return response;
     }
 }
