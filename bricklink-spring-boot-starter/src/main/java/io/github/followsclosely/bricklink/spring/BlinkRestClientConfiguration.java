@@ -113,7 +113,7 @@ public class BlinkRestClientConfiguration {
                         case MINIFIG:
                             DiskCachingHint.set(new PathBuilder()
                                     .add("minifigs")
-                                    .explodeOnGroups(number, "^(.*[a-zA-Z]+)\\d+$")
+                                    .explodeOnGroups(number, "^(.*[a-zA-Z]+)\\d+.*$")
                                     .add(number+"-bricklink-inventory")
                                     .toArray());
                             break;
@@ -127,7 +127,7 @@ public class BlinkRestClientConfiguration {
                         default:
                             DiskCachingHint.set(new PathBuilder()
                                     .add("subsets")
-                                    .explodeOnGroups(number, "^(.*[a-zA-Z]+)\\d+$")
+                                    .explodeOnGroups(number, "^(.*[a-zA-Z]+)\\d+.*$")
                                     .add(number+"-bricklink-inventory")
                                     .toArray());
                     }
