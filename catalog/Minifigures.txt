@@ -89,7 +89,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 34	Space / Life on Mars	lom016	Life on Mars (LoM) - Doc	2001	4
 34	Space / Life on Mars	lom017	Life on Mars (LoM) - Mac	2001	4.81
 61	Pirates / Pirates I / Imperial Guards	pi001	Imperial Guard - Admiral	1995	3.74
-61	Pirates / Pirates I / Imperial Soldiers	pi004	Imperial Soldier - Governor	1989	3.9
+61	Pirates / Pirates I / Imperial Soldiers	pi004	Imperial Soldier - Governor with Yellow Feather	1989	3.9
 61	Pirates / Pirates I	pi005	Pirate Blue Jacket, Light Gray Legs, Black Pirate Triangle Hat	1989	3.84
 61	Pirates / Pirates I	pi006	Pirate Blue Jacket White Legs, Black Pirate Triangle Hat	1993	3.86
 61	Pirates / Pirates I	pi008	Pirate Blue Jacket, Light Gray Legs, Brown Pirate Triangle Hat	1989	3.85
@@ -233,7 +233,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0010	C-3PO - Pearl Light Gold	2000	3
 65	Star Wars / Star Wars Episode 4/5/6	sw0011	Chewbacca (Brown)	2000	4.67
 65	Star Wars / Star Wars Episode 4/5/6	sw0012	Dak Ralter with Dark Gray Hips	1999	3.64
-65	Star Wars / Star Wars Episode 1	sw0013	Gungan Soldier	2000	4.26
+65	Star Wars / Star Wars Episode 1	sw0013	Gungan Soldier - Green Outfit, Plain Head	2000	4.26
 65	Star Wars / Star Wars Episode 4/5/6	sw0014	Han Solo - Yellow Head, Black Vest over Tan Shirt, Blue Legs with Belts	2000	3.34
 65	Star Wars / Star Wars Episode 4/5/6	sw0015	Han Solo - White Shirt without Wrinkles, Brown Legs	2000	3.36
 65	Star Wars / Star Wars Episode 4/5/6	sw0016	Hoth Rebel (Yellow Head, Brown Visor)	1999	4.42
@@ -242,11 +242,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0019	Luke Skywalker - Pilot Suit, Simple Torso and Helmet, Dark Gray Hips, Yellow Head	1999	4.6
 65	Star Wars / Star Wars Episode 4/5/6	sw0020	Luke Skywalker (Skiff)	2000	3.36
 65	Star Wars / Star Wars Episode 4/5/6	sw0021	Luke Skywalker (Tatooine)	1999	3.44
-65	Star Wars / Star Wars Episode 1	sw0022	Naboo Security Officer	2000	3.4
+65	Star Wars / Star Wars Episode 1	sw0022	Naboo Security Officer - Brown Uniform, Yellow Head, Police Hat	2000	3.4
 65	Star Wars / Star Wars Episode 4/5/6	sw0023	Obi-Wan Kenobi - Old, Yellow Head, Light Gray Hair	1999	3.36
 65	Star Wars / Star Wars Episode 1	sw0024	Obi-Wan Kenobi (Young with Hood and Cape)	1999	4
 65	Star Wars / Star Wars Episode 1	sw0025	Padmé Naberrie (Amidala) (Yellow)	1999	4
-65	Star Wars / Star Wars Episode 4/5/6	sw0026	Princess Leia - Yellow Head, White Dress, Simple Belt	2000	4
+65	Star Wars / Star Wars Episode 4/5/6	sw0026	Princess Leia - White Dress, Simple Belt, Yellow Head and Hands	2000	4
 65	Star Wars / Star Wars Episode 1	sw0027	Qui-Gon Jinn (Yellow Head)	1999	3.85
 65	Star Wars	sw0028	Astromech Droid, R2-D2	1999	3.7
 65	Star Wars	sw0029	Astromech Droid, R5-D4 - Dome Head with Short Red Stripes	1999	4.7
@@ -908,7 +908,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Classic Town / Coast Guard	res002	Coast Guard 1 - Red Legs, Blue Cap, Sunglasses	1996	3.37
 67	Town / Classic Town / Coast Guard	res003	Coast Guard 2 - Red Legs, Blue Cap, Moustache	1995	3.35
 67	Town / Classic Town / Coast Guard	res004	Coast Guard 1 - Red Legs, Blue Helmet, Trans-Light Blue Visor	1995	3.68
-65	Star Wars / Star Wars Episode 4/5/6	sw0042	Imperial Shuttle Pilot - Yellow Head	2001	3.38
+65	Star Wars / Star Wars Episode 4/5/6	sw0042	Imperial Shuttle Pilot - Yellow Head, Police Cap	2001	3.38
 65	Star Wars / Star Wars Episode 1	sw0043	Gasgano	1999	2.63
 170	Alpha Team	alp008	Ogel - Black Hands	2001	5
 67	Town / Classic Town	ver002	Vertical Lines Red & Blue - Blue Arms - White Legs, Red Helmet, Trans-Light Blue Visor	1992	3.68
@@ -944,9 +944,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0046	Imperial Officer (Captain / Commandant / Commander) - Police Cap, Yellow Head with Standard Grin	2002	3.5
 65	Star Wars / Star Wars Episode 1	sw0047	Security Battle Droid - Dark Red Torso with Tan Insignia, Angled Arms	2002	2
 65	Star Wars / Star Wars Episode 1	sw0048	Battle Droid Commander - Tan with Line, Angled Arms	2000	2
-65	Star Wars / Star Wars Episode 4/5/6	sw0049	Lobot (Yellow Head)	2002	3
+65	Star Wars / Star Wars Episode 4/5/6	sw0049	Lobot - Light Gray Uniform, Yellow Head	2002	3
 65	Star Wars / Star Wars Episode 4/5/6	sw0050	Ewok, Brown Hood (Wicket)	2002	4.05
-65	Star Wars / Star Wars Episode 4/5/6	sw0067	Ewok, Tan Hood (Paploo)	2002	4.05
+65	Star Wars / Star Wars Episode 4/5/6	sw0067	Paploo (Ewok) - Tan Head with Hood	2002	4.05
 36	Technic	tech008	Technic Figure Red/Black Legs, Red Top, Black Hair (Fireman)	1995	12
 36	Technic	tech009	Technic Figure Red/Black Legs, Red Top, Brown Hair (Fireman)	1995	12
 9	Castle / Dragon Knights	cas001	Dragon Knights - Dragon Master, Yellow Plumes, Dragon Cape	1993	4.52
@@ -995,7 +995,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Other	sw0057	Jedi Knight (Jedi Bob) - Dark Gray Tunic, Brown Hood and Cape	2002	3.89
 65	Star Wars / Star Wars Episode 2	sw0058	Clone Trooper (Phase 1) - Black Head	2002	4
 65	Star Wars / Star Wars Episode 2	sw0059	Zam Wesell	2002	3.8
-65	Star Wars / Star Wars Episode 2	sw0060	Count Dooku	2002	3.55
+65	Star Wars / Star Wars Episode 2	sw0060	Count Dooku - Light Gray Smooth Hair, Brown Cape	2002	3.55
 67	Town / Classic Town	jstr001	Jacket 2 Stars Red - Red Legs, Blue Helmet 4 Stars & Stripes, Trans-Light Blue Visor, Life Jacket	1996	3.68
 67	Town / Classic Town	jstr002	Jacket 2 Stars White - White Legs, Red Helmet 7 White Stars, Trans-Light Blue Visor	1996	3.68
 167	DUPLO / DUPLO, Town / Police	4555pb061	Duplo Figure, Police Officer - Male, Adult Man, Blue Legs, Black Top with Buttons and Badge Pattern, Blue Hat, Nougat Head with Turned Down Nose	1989	16.57
@@ -1162,7 +1162,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter / Chamber of Secrets	hp018	Lucius Malfoy - Dark Gray Suit	2002	3.6
 124	Train	trn075	Conductor Charlie	2002	3.4
 124	Train	trn076	Engineer Max with Dark Gray Hands	2002	3.6
-65	Star Wars / Star Wars Episode 4/5/6	sw0070	Princess Leia - Jabba Slave Outfit, Yellow Skin	2003	3.6
+65	Star Wars / Star Wars Episode 4/5/6	sw0070	Princess Leia - Jabba Slave Outfit, Yellow Skin, Neck Bracket	2003	3.6
 65	Star Wars / Star Wars Episode 4/5/6	sw0071	Jabba the Hutt - Sand Green	2003	30
 65	Star Wars / Star Wars Episode 4/5/6	sw0072	EV-9D9	2003	1.95
 65	Star Wars / Star Wars Episode 4/5/6	sw0073	Gonk Droid (GNK Power Droid), Light and Dark Gray	2003	3.63
@@ -1254,7 +1254,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Classic Town / Race	oct035	Octan - Racing, Light Gray Legs, Black Male Hair	1998	3.36
 67	Town / Classic Town / Race	oct038	Octan - Stars, White Legs, White Helmet, Trans-Dark Blue Visor	1999	3.68
 65	Star Wars / Star Wars Episode 4/5/6	sw0077	T-16 Skyhopper Pilot - Red Helmet	2003	3.56
-65	Star Wars / Star Wars Episode 2	sw0078	Geonosian with Wings	2003	4.01
+65	Star Wars / Star Wars Episode 2	sw0078	Geonosian - Dark Gray, with Wings	2003	4.01
 67	Town / Classic Town / Race	oct039	Octan - Racing, Red Legs, Blue Helmet 4 Stars & Stripes, Trans-Light Blue Visor	1998	3.68
 473	Sports / Basketball	nba016	NBA Paul Pierce, Boston Celtics #34	2003	4
 473	Sports / Basketball	nba017	NBA Jerry Stackhouse, Detroit Pistons #42	2003	3
@@ -2088,7 +2088,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / World City / Coast Guard	wc014	Coast Guard World City, Orange Jacket with Zipper, Black Male Hair	2003	3.36
 67	Town / World City / Coast Guard	wc015	Doctor - Stethoscope with 4 Side Buttons, Orange Legs, Black Flat Top Hair, Glasses	2003	3.42
 65	Star Wars / Star Wars Episode 4/5/6	sw0109	Sandtrooper - Orange Pauldron (Solid), Survival Backpack, No Dirt Stains, Helmet with Solid Mouth Pattern and Solid Yellow Head	2004	5.74
-65	Star Wars / Star Wars Episode 4/5/6	sw0110	Greedo	2004	3.2
+65	Star Wars / Star Wars Episode 4/5/6	sw0110	Greedo - Tan Vest, Sky Blue Legs	2004	3.2
 65	Star Wars / Star Wars Episode 4/5/6	sw0108	Hoth Rebel (Yellow Head, White Visor Goggles)	2004	4.42
 65	Star Wars / Star Wars Episode 4/5/6	sw0111	Han Solo - Yellow Head, Black Vest over Tan Shirt, Dark Blue Legs with Belts	2004	3.36
 65	Star Wars / Star Wars Episode 4/5/6	sw0023a	Obi-Wan Kenobi - Old, Yellow Head, Light Bluish Gray Hair	2004	3.36
@@ -2215,7 +2215,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 516	4 Juniors / Jack Stone	js027	Crewman with Dark Turquoise Vest and Pants, Red Arms (4169124)	2002	6
 179	Racers / Ferrari	rac022	F1 Ferrari - M. Schumacher with Helmet - without Torso Stickers	2004	3.68
 179	Racers / Ferrari	rac023	F1 Ferrari - R. Barrichello / F. Massa with Helmet Printed - without Torso Stickers	2004	3.68
-65	Star Wars / Star Wars Episode 4/5/6	sw0113	Princess Leia - Hoth Outfit, Textured Hair with Buns	2004	3.81
+65	Star Wars / Star Wars Episode 4/5/6	sw0113	Princess Leia - Hoth Outfit, Tan Jacket, Textured Hair with Buns	2004	3.81
 227	Harry Potter / Prisoner of Azkaban	hp024	Draco Malfoy - Dark Bluish Gray Sweater, Cape	2004	3.5
 516	4 Juniors / Spider-Man	4j004	Spider-Man - 4 Juniors (4254731)	2004	5.5
 227	Harry Potter / Prisoner of Azkaban	hp050	Professor Severus Snape - Prisoner of Azkaban Pattern, Light Bluish Gray Hands	2004	3.15
@@ -2608,7 +2608,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 48	Belville	belvfemale62	Belville Female - Girl with Black Ponytail and Orange Shirt	2004	10.3
 48	Belville	belvfemale62a	Belville Female - Girl, Black Ponytail, Orange Shirt, Tan Pants, Black Riding Helmet	2004	12.9
 48	Belville	belvfemale63a	Belville Female - Girl, Brown Hair, Pink Shirt, White Pants, Black Riding Helmet	2004	13.34
-65	Star Wars / Star Wars Episode 4/5/6	sw0140	Owen Lars	2005	3.36
+65	Star Wars / Star Wars Episode 4/5/6	sw0140	Owen Lars - Plain Legs, Smooth Hair	2005	3.36
 65	Star Wars / Star Wars Episode 4/5/6	sw0141	Jawa with Cape	2005	3.55
 65	Star Wars / Star Wars Episode 4/5/6	sw0142	Astromech Droid, R5-D4 - Dome Head	2005	5.09
 65	Star Wars / Star Wars Episode 4/5/6	sw0145	ASP Droid	2005	1.59
@@ -2685,7 +2685,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Classic Town	oct037a	Octan - Blue Oil, Blue Legs, Life Jacket, Blue Helmet 4 Stars & Stripes, Trans-Light Blue Visor	1994	3.68
 67	Town / Classic Town / Race	oct036	Octan - Racing, Red Legs, Red Helmet 7 White Stars, Trans-Light Blue Visor, Life Jacket	1994	3.68
 65	Star Wars / Star Wars Episode 4/5/6	sw0151	IG-88	2006	1.88
-65	Star Wars / Star Wars Episode 4/5/6	sw0149	Dengar	2006	3.97
+65	Star Wars / Star Wars Episode 4/5/6	sw0149	Dengar - Reddish Brown Torso, White Ninja Wrap	2006	3.97
 65	Star Wars / Star Wars Episode 4/5/6	sw0150	Bespin Guard - Reddish Brown Head, Cavalry Kepi	2006	3.4
 227	Harry Potter / Goblet of Fire	hp064	Ron Weasley - Gryffindor Stripe Torso, Sleeping / Awake Face	2005	3.5
 227	Harry Potter / Goblet of Fire	hp065	Hermione Granger - Gryffindor Stripe Torso, Dark Bluish Gray Legs, Sleeping / Awake Face	2005	4
@@ -3409,7 +3409,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / Dolls	31310pb02	Duplo Figure Doll, Lisa Large, without Clothes	2001	80
 167	DUPLO / Dolls	31310pb03	Duplo Figure Doll, Marie Large, without Clothes	2001	80
 167	DUPLO / Dolls	31310pb04	Duplo Figure Doll, Sarah Large, without Clothes	2001	77
-167	DUPLO / Princess Castle	47394pb085	Duplo Figure Lego Ville, Male, Dark Blue-Violet Legs, Bright Light Blue Top with Straps and Key Necklace, Bright Light Blue Hands, Black Hair	2005	13
+167	DUPLO / Princess Castle	47394pb085	Duplo Figure Lego Ville, Male, Dark Royal Blue Legs, Bright Light Blue Top with Straps and Key Necklace, Bright Light Blue Hands, Black Hair	2005	13
 167	DUPLO / Basic Set	dupfig039	Duplo 2 x 2 x 2 Figure Brick Early, Male on Green Base, Red Police Hat	1980	11
 67	Town	pln146	Plain Blue Torso with White Arms, Black Legs, Red Cap	2006	3.35
 67	Town	pln147	Plain White Torso with White Arms, Green Legs, Reddish Brown Ponytail Hair	2006	3.7
@@ -3577,7 +3577,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City	chef016	Chef - White Torso with 8 Buttons, Light Bluish Gray Legs	2007	3.8
 67	Town / City	par062	Surfboard on Ocean - Blue Legs, Reddish Brown Ponytail Hair	2007	3.71
 65	Star Wars / Star Wars Episode 4/5/6	sw0177	AT-AT Driver - Red Imperial Logo, Bluish Grays, Black Head, Stormtrooper Helmet	2007	4.12
-65	Star Wars / Star Wars Episode 4/5/6	sw0178	General Maximillian Veers - Goggles Print and Dark Bluish Gray Helmet	2007	3.71
+65	Star Wars / Star Wars Episode 4/5/6	sw0178	General Maximillian Veers - Officer Uniform, Dark Bluish Gray Helmet	2007	3.71
 9	Castle / Fantasy Era	cas351	Fantasy Era - Evil Bishop (Chess Piece)	2007	4
 9	Castle / Fantasy Era	cas352	Fantasy Era - Crown Bishop (Chess Piece)	2007	4
 9	Castle / Fantasy Era	cas353	Fantasy Era - Evil Queen (Chess Piece)	2007	5.87
@@ -4032,7 +4032,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars The Clone Wars	sw0225	Pilot Droid	2009	1.44
 573	SpongeBob SquarePants	bob023	Mr. Krabs - Large Grin	2009	3.2
 65	Star Wars / Star Wars Episode 3	sw0234	Obi-Wan Kenobi - Young, Light Nougat, Reddish Brown Hood and Cape, Gold Headset	2009	3.6
-65	Star Wars / Star Wars The Clone Wars	sw0224	Count Dooku - Large Eyes	2009	3.72
+65	Star Wars / Star Wars The Clone Wars	sw0224	Count Dooku - Light Bluish Gray Swept Back Hair, Reddish Brown Cape, Large Eyes	2009	3.72
 67	Town / City / Construction	cty0132	Construction Worker - Orange Zipper, Safety Stripes, Orange Arms, Orange Legs, Red Construction Helmet, Orange Glasse	2009	3.32
 67	Town / Classic Town	pln136	Plain Black Torso with Black Arms, Blue Legs, Black Pigtails Hair	1978	3.26
 61	Pirates / Pirates II / Imperial Guards	pi104	Imperial Soldier II - Shako Hat Printed, Smirk and Stubble Beard	2009	3.8
@@ -4088,11 +4088,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Classic Town	pln110	Plain Red Torso with Red Arms, Blue Legs with Black Hips, Black Pigtails Hair	1987	3.6
 67	Town / Classic Town	pln114	Plain Black Torso with Black Arms, White Legs, Yellow Helmet	1987	3.6
 67	Town / Classic Town	pln115	Plain White Torso with White Arms, Red Legs, Red Female Hair	1987	3.5
-65	Star Wars / Star Wars Episode 4/5/6	sw0235	Princess Leia (Endor Outfit)	2009	3.63
+65	Star Wars / Star Wars Episode 4/5/6	sw0235	Princess Leia - Endor Outfit, Sand Green Camouflage, Sand Blue Legs	2009	3.63
 65	Star Wars / Star Wars Episode 4/5/6	sw0236	Chief Chirpa (Ewok)	2009	4.46
 65	Star Wars / Star Wars Episode 4/5/6	sw0239	Endor Rebel Commando - Frown	2009	4.26
 65	Star Wars / Star Wars Episode 4/5/6	sw0237	Wicket (Ewok)	2009	4.49
-65	Star Wars / Star Wars Episode 4/5/6	sw0238	Paploo (Ewok)	2009	4.46
+65	Star Wars / Star Wars Episode 4/5/6	sw0238	Paploo (Ewok) - Reddish Brown Head with Tan Hood Pattern	2009	4.46
 65	Star Wars / Star Wars Episode 4/5/6	sw0240	Endor Rebel Commando - Beard	2009	4.27
 473	Sports / Soccer	soc117s	Soccer Goalie Black - Adidas Logo, White and Yellow Torso Stickers (#1)	2006	3.34
 473	Sports / Soccer	soc116s	Soccer Goalie Black - Adidas Logo, White and Red Torso Stickers (#1)	2006	3.34
@@ -4148,12 +4148,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 34	Space / Space Police III	sp098	Space Police 3 Officer 3	2009	4.4
 65	Star Wars / Star Wars The Clone Wars	sw0233	Clone Jet Trooper (Phase 1) - Large Eyes	2009	4.3
 65	Star Wars / Star Wars The Clone Wars	sw0241	Onaconda Farr	2009	3.2
-65	Star Wars / Star Wars The Clone Wars	sw0242	Nute Gunray	2009	4
-65	Star Wars / Star Wars The Clone Wars	sw0243	Chancellor Palpatine - Large Eyes	2009	3.6
+65	Star Wars / Star Wars The Clone Wars	sw0242	Nute Gunray - Dark Red Outfit, Dark Bluish Gray Headgear	2009	4
+65	Star Wars / Star Wars The Clone Wars	sw0243	Chancellor Palpatine - Red Outfit, Dark Red Pauldrons, Large Eyes	2009	3.6
 65	Star Wars / Star Wars The Clone Wars	sw0244	Senate Commando	2009	3.8
 65	Star Wars / Star Wars The Clone Wars	sw0245	Turk Falso	2009	3.02
 65	Star Wars / Star Wars The Clone Wars	sw0246	Hondo Ohnaka	2009	3.63
-65	Star Wars / Star Wars Episode 4/5/6	sw0247	Admiral Ackbar	2009	3.96
+65	Star Wars / Star Wars Episode 4/5/6	sw0247	Admiral Ackbar - White Spacesuit	2009	3.96
 65	Star Wars / Star Wars Episode 4/5/6	sw0248	Mon Calamari Officer	2009	3.93
 65	Star Wars / Star Wars Episode 4/5/6	sw0249	Mon Mothma	2009	3.89
 65	Star Wars / Star Wars Episode 4/5/6	sw0250	Crix Madine, Dark Tan Hips and Legs	2009	3.34
@@ -4421,7 +4421,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 48	Belville	belvmale17a	Belville Male, Child Boy - Blue Swimsuit, Brown Hair, Life Jacket	1998	10.79
 48	Belville	belvmale18a	Belville Male, Adult Man (King) - Black Pants, Light Blue Top with White Fur and Gold Trim Pattern, Black Hair, Black Shoes, Cloak, Crown	2006	19.03
 48	Belville	belvmale19a	Belville Male, Adult Man (King) - Black Shorts, Dark Purple Top with Gold Trim and White Shirt Pattern, Light Yellow Hair, Black Shoes, Crown	2007	17
-65	Star Wars / Star Wars Episode 3	sw0269	Barriss Offee - Black Cape and Hood	2010	3.9
+65	Star Wars / Star Wars Episode 3	sw0269	Barriss Offee - Black Cape, Hood and Legs	2010	3.9
 733	Atlantis	atl010	Atlantis Diver 1 - Axel - With Horizontal Lights	2010	7.2
 167	DUPLO	4555pb203	Duplo Figure, Female, Blue Legs, Red Top with Yellow and Red Polka Dot Scarf, Yellow Hair, without Nose	?	16
 61	Pirates / Pirates II	pi116	Captain Brickbeard - Plain Bicorne Hat	2010	3.79
@@ -4558,7 +4558,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0279	Boba Fett - Pauldron, Helmet, Jet Pack	2010	4.21
 65	Star Wars / Star Wars Episode 4/5/6	sw0280	Bossk - Sand Green	2010	3.28
 65	Star Wars / Star Wars Episode 3	sw0281	Clone Trooper V-wing Pilot (Phase 2) - Sand Blue Arms and Legs, White Head	2010	4.05
-65	Star Wars / Star Wars Episode 3	sw0282	2-1B Medical Droid (Badge with Letter 'T' Pattern)	2010	2.27
+65	Star Wars / Star Wars Episode 3	sw0282	2-1B Medical Droid - Badge with Letter 'T' Pattern	2010	2.27
 65	Star Wars / Star Wars Episode 3	sw0283	Anakin Skywalker - Battle Damaged with Darth Vader Helmet	2010	3.81
 65	Star Wars / Star Wars The Clone Wars	sw0216s	EV-A4-D with Sticker	2010	5.08
 67	Town / City / Farm	cty0176	Overalls Farmer Green, Black Short Bill Cap	2010	3.36
@@ -4748,7 +4748,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 9	Castle / Kingdoms	cas473	Kingdoms - Blue Wizard	2010	4.7
 167	DUPLO / DUPLO, Town / Police	4555pb266	Duplo Figure, Male Police, Blue Legs, Black Top with Gold Badge, Black Hat, Turned Down Nose and Elliptical Eyes	1991	16
 65	Star Wars / Star Wars The Clone Wars	sw0244a	Senate Commando - Plain Light Nougat Head	2010	3.8
-65	Star Wars / Star Wars Episode 4/5/6	sw0289	General Maximillian Veers - Light Bluish Gray Helmet and Armor	2010	3.7
+65	Star Wars / Star Wars Episode 4/5/6	sw0289	General Maximillian Veers - Chest Armor, Light Bluish Gray Helmet	2010	3.7
 65	Star Wars / Star Wars Episode 4/5/6	sw0294	Imperial Pilot (Cap)	2010	3.4
 65	Star Wars / Star Wars Episode 4/5/6	sw0291	Hoth Rebel Trooper (Black Chin Dimple)	2010	4.6
 65	Star Wars / Star Wars Episode 4/5/6	sw0292	Luke Skywalker (Jedi Knight, Pupils)	2010	3.3
@@ -4914,7 +4914,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / World City / Coast Guard	wc019a	Coast Guard World City - Orange Jacket with Zipper, Silver Sunglasses, Dark Bluish Gray Helmet, Dark Bluish Gray Hands	2004	3.68
 65	Star Wars / Star Wars Episode 1	sw0300	Battle Droid Pilot - Blue Torso with Tan Insignia, Angled Arms	2011	2
 65	Star Wars / Star Wars Episode 1	sw0301	Jar Jar Binks (Printed Head)	2011	4.3
-65	Star Wars / Star Wars Episode 1	sw0302	Gungan Soldier (Printed Head)	2011	4.3
+65	Star Wars / Star Wars Episode 1	sw0302	Gungan Soldier - Dark Brown Vest, Dark Tan Legs, Printed Head	2011	4.3
 227	Harry Potter	hp117	Goblin - Black Jacket, Light Bluish Gray Legs	2011	2.91
 227	Harry Potter	hp118	Goblin - Black Jacket, Reddish Brown Legs	2011	2.91
 227	Harry Potter	hp119	Garrick Ollivander - Bushy Hair with Bangs	2011	4.9
@@ -4946,7 +4946,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars The Clone Wars	sw0307	Embo	2011	3.96
 65	Star Wars / Star Wars The Clone Wars	sw0308	Saesee Tiin	2011	4.16
 65	Star Wars / Star Wars The Clone Wars	sw0309	Shaak Ti	2011	4.46
-65	Star Wars / Star Wars The Clone Wars	sw0310	Luminara Unduli	2011	4.4
+65	Star Wars / Star Wars The Clone Wars	sw0310	Luminara Unduli - Black Headgear	2011	4.4
 65	Star Wars / Star Wars The Clone Wars	sw0311	DRK-1 Dark Eye Probe Droid - Bluish Grays	2008	1.5
 65	Star Wars / Star Wars The Clone Wars	sw0312	TX-20 (Tactical Droid)	2011	2.2
 65	Star Wars / Star Wars The Clone Wars	sw0313	Astromech Droid, R8-B7	2011	4.6
@@ -5099,8 +5099,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 761	Pirates of the Caribbean	poc005	Admiral Norrington	2011	4
 761	Pirates of the Caribbean	poc006	Angelica	2011	5.19
 761	Pirates of the Caribbean	poc007	Blackbeard	2011	4.93
-761	Pirates of the Caribbean	poc008	Cannibal 1	2011	4.3
-761	Pirates of the Caribbean	poc009	Cannibal 2	2011	4.3
+761	Pirates of the Caribbean	poc008	Cannibal - Skull Necklace	2011	4.3
+761	Pirates of the Caribbean	poc009	Cannibal - White Face Paint	2011	4.3
 761	Pirates of the Caribbean	poc010	Captain Jack Sparrow - Cannibal Face	2011	5.4
 761	Pirates of the Caribbean	poc011	Captain Jack Sparrow - Dark Brown Jacket, Tricorne	2011	5.28
 761	Pirates of the Caribbean	poc012	Captain Jack Sparrow - Skeleton Face	2011	4.36
@@ -5246,8 +5246,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0342	Luke Skywalker (Bacta Tank Outfit)	2011	3.57
 65	Star Wars / Star Wars Episode 4/5/6	sw0343	Han Solo, Tan Legs with Holster Pattern, Parka Hood with Tan Fur	2011	4.03
 65	Star Wars / Star Wars Episode 4/5/6	sw0344	R-3PO Protocol Droid	2011	3.03
-65	Star Wars / Star Wars Episode 4/5/6	sw0345	2-1B Medical Droid (Dotted Badge Pattern, Light Bluish Gray Legs)	2011	2.15
-65	Star Wars / Star Wars Episode 4/5/6	sw0346	Princess Leia (Hoth Outfit, French Braid Hair)	2011	3.64
+65	Star Wars / Star Wars Episode 4/5/6	sw0345	2-1B Medical Droid - Dotted Badge Pattern (Sand Blue), Light Bluish Gray Legs	2011	2.15
+65	Star Wars / Star Wars Episode 4/5/6	sw0346	Princess Leia - Hoth Outfit, Tan Jacket, Braided Hair	2011	3.64
 768	Super Heroes / Super Heroes Other	sh0001	Green Lantern (Comic-Con 2011 Exclusive)	2011	3.3
 65	Star Wars / Star Wars Episode 1	sw0340	Naboo Fighter Pilot - Red Jumpsuit	2011	3.7
 65	Star Wars / Star Wars Episode 1	sw0347	Security Battle Droid - Dark Red Torso with Tan Insignia and Chest Badge, Angled Arm and Straight Arm	2011	1.5
@@ -5277,7 +5277,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Police	cty0255	Police - City Suit with Blue Tie and Badge, Black Legs, White Short Bill Cap, Scowl	2011	3.32
 67	Town / City / Police	cty0256	Police - City Leather Jacket with Gold Badge and 'POLICE' on Back, White Hat, Lopsided Smile	2011	3
 9	Castle / Crusaders	cas119a	Crusader Lion - Red Legs with Black Hips, Dark Gray Chin-Guard, Quiver	1987	3.91
-65	Star Wars / Star Wars Episode 4/5/6	sw0350	Dengar (Light Bluish Gray Torso)	2011	4.49
+65	Star Wars / Star Wars Episode 4/5/6	sw0350	Dengar - Light Bluish Gray Torso, White Bandana	2011	4.49
 65	Star Wars / Star Wars Episode 4/5/6	sw0351	IG-88 (Printed Head)	2011	2.5
 65	Star Wars / Star Wars Episode 4/5/6	sw0352	Admiral Firmus Piett	2011	3.37
 65	Star Wars / Star Wars The Clone Wars	sw0355	Clone Trooper Pilot (Phase 1) - Yellow Markings, Black Head	2011	3.68
@@ -5518,7 +5518,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City	cty0296	Overalls Farmer Green, Lime Short Bill Cap	2012	3.3
 65	Star Wars / Star Wars Episode 3	sw0361	Anakin Skywalker (Sith Face)	2012	3.67
 65	Star Wars / Star Wars Episode 3	sw0362	Obi-Wan Kenobi (Dark Tan Legs)	2012	3.4
-65	Star Wars / Star Wars Episode 3	sw0363	Nute Gunray - Orange Robe	2012	4.8
+65	Star Wars / Star Wars Episode 3	sw0363	Nute Gunray - Dark Orange Robe, Dark Red Headgear	2012	4.8
 65	Star Wars / Star Wars Episode 4/5/6	sw0364	Sandtrooper - Orange Pauldron, Survival Backpack, Dirt Stains, Balaclava Head Print and Helmet with Dotted Mouth Pattern	2012	7
 65	Star Wars / Star Wars Episode 4/5/6	sw0383	Sandtrooper - White Pauldron, Survival Backpack, Dirt Stains, Balaclava Head Print and Helmet with Dotted Mouth Pattern	2012	7
 65	Star Wars / Star Wars Episode 4/5/6	sw0365	C-3PO - Colorful Wires Pattern	2012	3
@@ -5537,10 +5537,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0376	Imperial Officer (Captain / Commandant / Commander) - Two Code Cylinders, Cavalry Kepi	2012	3.41
 65	Star Wars / Star Wars The Clone Wars	sw0377	Clone ARC Trooper Hammer, Rancor Battalion (Phase 2) - Dark Red Cloth Pauldron, Black Cloth Kama, Large Eyes	2012	5.8
 65	Star Wars / Star Wars The Clone Wars	sw0378	Clone ARF Trooper, Rancor Battalion (Phase 1) - Large Eyes	2012	3.8
-65	Star Wars / Star Wars The Clone Wars	sw0379	Barriss Offee - Dark Blue Cape and Hood	2012	3.87
+65	Star Wars / Star Wars The Clone Wars	sw0379	Barriss Offee - Dark Blue Cape and Hood, Black Legs	2012	3.87
 65	Star Wars / Star Wars The Clone Wars	sw0380	Clone Trooper Commander Gree, 41st Elite Corps (Phase 1) - Large Eyes	2012	3.75
-65	Star Wars / Star Wars The Clone Wars	sw0381	Geonosian Warrior with Wings	2012	3.85
-65	Star Wars / Star Wars The Clone Wars	sw0382	Geonosian Zombie with Wings	2012	3.85
+65	Star Wars / Star Wars The Clone Wars	sw0381	Geonosian Warrior - Dark Tan, with Wings	2012	3.85
+65	Star Wars / Star Wars The Clone Wars	sw0382	Geonosian Zombie - Dark Bluish Gray, with Wings	2012	3.85
 67	Town / City / Police	cty0297	Police - Jail Prisoner 50380 Prison Stripes, Light Bluish Gray Legs, Black Knit Cap, Bandana	2011	3.6
 67	Town / City / Police	cty0298	Police - City Shirt with Dark Blue Tie and Gold Badge, Black Legs, Black Cap	2011	3.4
 9	Castle / Knights Kingdom I	cas020	Knights Kingdom I - King Leo, Black Dragon Helmet, Red Plume Feather Triple	2002	4.1
@@ -5715,7 +5715,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Other	sw0424	Astromech Droid, R2-D2, Snowman	2012	5.29
 768	Super Heroes / Ultimate Spider-Man	sh0038	Spider-Man - Black Web Pattern	2012	3
 65	Star Wars / Star Wars Episode 4/5/6	sw0399	Rebel Pilot X-wing	2012	3.52
-65	Star Wars / Star Wars Episode 4/5/6	sw0400	Lobot - Light Nougat, Black Eyebrows	2012	3
+65	Star Wars / Star Wars Episode 4/5/6	sw0400	Lobot - Light Bluish Gray Uniform, Light Nougat Head, Black Eyebrows	2012	3
 65	Star Wars / Star Wars Episode 4/5/6	sw0401	Imperial AT-ST Pilot / Driver (Plain Helmet, Dual Sided Head)	2012	3.7
 768	Super Heroes / Batman II	sh0016a	Batman - Black Suit with Yellow Belt and Crest (Type 2 Cowl)	2012	3.8
 746	Collectible Minifigures / Team GB	tgb001	Brawny Boxer, Team GB (Minifigure Only without Stand and Accessories)	2012	4.42
@@ -5816,13 +5816,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 746	Collectible Minifigures / Series  8 Minifigures	col127	Pirate Captain, Series 8 (Minifigure Only without Stand and Accessories)	2012	3.65
 746	Collectible Minifigures / Series  8 Minifigures	col128	Alien Villainess, Series 8 (Minifigure Only without Stand and Accessories)	2012	5.4
 65	Star Wars / Star Wars Episode 3	sw0417	Mace Windu (Cape)	2012	3.18
-65	Star Wars / Star Wars Episode 3	sw0418	Chancellor Palpatine - Episode 3 Dark Red Outfit	2012	3.58
+65	Star Wars / Star Wars Episode 3	sw0418	Chancellor Palpatine - Dark Red Outfit, Legs, Tan Hair	2012	3.58
 65	Star Wars / Star Wars Episode 3	sw0419	Anakin Skywalker (Sith Face, Cape)	2012	3.48
 65	Star Wars / Star Wars Episode 3	sw0420	Saesee Tiin with Cape	2012	4.34
 65	Star Wars / Star Wars Episode 3	sw0421	Agen Kolar	2012	4.38
 817	LEGO Ideas (CUUSOO) / Space Exploration	idea012	Hayabusa Project Manager - J. Kawaguchi	2012	3.38
 65	Star Wars / Star Wars Other	sw0423	Santa Darth Maul	2012	4.22
-65	Star Wars / Star Wars Episode 3	sw0422	Kit Fisto with Cape	2012	4.44
+65	Star Wars / Star Wars Episode 3	sw0422	Kit Fisto - Reddish Brown Cape	2012	4.44
 67	Town / City / Hospital	cty0317	Paramedic - Red Uniform, Female, Blue Short Bill Cap	2012	3.4
 67	Town / City	cty0318	Green V-Neck Sweater, Light Bluish Gray Legs, Reddish Brown Hair	2012	3.4
 67	Town / City / Hospital	cty0319	Doctor - Long Lab Coat over Dark Azure Shirt, Stethoscope, Black Smooth Hair	2012	3.4
@@ -6012,7 +6012,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars The Clone Wars	sw0448	Commando Droid Captain	2013	1.9
 65	Star Wars / Star Wars The Clone Wars	sw0449	Obi-Wan Kenobi (Medium Nougat Legs)	2013	3.53
 65	Star Wars / Star Wars The Clone Wars	sw0450	Clone Trooper Captain Rex, 501st Legion (Phase 2) - Blue Cloth Pauldron, Black Cloth Kama, Large Eyes	2013	4.03
-65	Star Wars / Star Wars The Clone Wars	sw0452	Ahsoka Tano (Padawan) - Backless Vest with Belt and Sash	2013	4
+65	Star Wars / Star Wars The Clone Wars	sw0452	Ahsoka Tano (Padawan) - Reddish Brown Backless Vest with Necklace and Belt	2013	4
 65	Star Wars / Star Wars The Clone Wars	sw0453	Clone Trooper, 212th Attack Battalion (Phase 2) - Bright Light Orange Arms, Large Eyes	2013	3.9
 65	Star Wars / Star Wars The Clone Wars	sw0454	Umbaran Soldier	2013	4.15
 65	Star Wars / Star Wars Episode 4/5/6	sw0451	Han Solo - Black Vest with Pockets over Tan Shirt with Dark Tan Creases, Reddish Brown Legs with Belts	2013	3.36
@@ -6241,7 +6241,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 2	sw0468	Jango Fett - Light Nougat Head, Smile	2013	4.2
 65	Star Wars / Star Wars Episode 2	sw0469	Stass Allie	2013	3.9
 65	Star Wars / Star Wars Episode 2	sw0471	Yoda - Olive Green, Open Robe with Large Creases, Neck Bracket	2013	3.25
-65	Star Wars / Star Wars Episode 2	sw0472	Count Dooku - White Hair	2013	3.55
+65	Star Wars / Star Wars Episode 2	sw0472	Count Dooku - White Combed Hair, Reddish Brown Cape, Frown / Angry	2013	3.55
 65	Star Wars / Star Wars Episode 2	sw0473	FA-4 Pilot Droid	2013	2.7
 65	Star Wars / Star Wars Episode 2	sw0474	Poggle the Lesser	2013	4.2
 65	Star Wars / Star Wars Yoda Chronicles	sw0475	Jek-14 with Clone Helmet	2013	3.65
@@ -6253,7 +6253,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 2	sw0481	Clone Trooper Commander (Phase 1) - Yellow Arms, Scowl	2013	3.7
 65	Star Wars / Star Wars Episode 2	sw0482	Battle Droid Commander - Dark Orange with Dot, Angled Arm and Straight Arm	2013	1.45
 65	Star Wars / Star Wars Episode 4/5/6	sw0483	Ree-Yees	2013	3.85
-65	Star Wars / Star Wars Episode 4/5/6	sw0485	Princess Leia - Jabba Slave Outfit, Dark Brown Long Braid	2013	3.9
+65	Star Wars / Star Wars Episode 4/5/6	sw0485	Princess Leia - Jabba Slave Outfit, Dark Brown Long Braid, Neck Bracket	2013	3.9
 65	Star Wars / Star Wars Episode 4/5/6	sw0486	Max Rebo	2013	4.3
 65	Star Wars / Star Wars Episode 4/5/6	sw0487	Weequay Skiff Guard (Pagetti Rook)	2013	3.1
 65	Star Wars / Star Wars Episode 2	sw0488	Anakin Skywalker (Padawan, Combed Hair)	2013	3.54
@@ -6434,7 +6434,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 473	Sports / Soccer	soc008s01	Soccer Player - US Goalie, US Flag Torso Sticker on Front, White Number Sticker on Back (1, 18 or 22, specify number in listing)	2000	3.4
 390	Holiday & Event	hol018	Plain Red Torso with Red Arms, Dark Purple Short Legs, Dark Brown Ponytail and Swept Sideways Fringe	2013	3.2
 390	Holiday & Event	hol019	Overalls Blue over V-Neck Shirt, Blue Legs, Red Short Bill Cap, Open Grin	2013	3.3
-65	Star Wars / Star Wars Episode 4/5/6	sw0504	Princess Leia (Endor, Loose Hair)	2013	4.43
+65	Star Wars / Star Wars Episode 4/5/6	sw0504	Princess Leia - Endor Outfit, Dark Tan Robe and Skirt, Loose Hair	2013	4.43
 65	Star Wars / Star Wars Episode 4/5/6	sw0505	Imperial Scout Trooper - Printed Black Head and Legs	2013	4
 65	Star Wars / Star Wars Episode 4/5/6	sw0508	Ewok Warrior	2013	4.44
 65	Star Wars / Star Wars Episode 4/5/6	sw0509	Luke Skywalker (Jedi Master, Endor, Dark Tan Hair, Smile / Open Mouth)	2013	3
@@ -6570,7 +6570,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars	sw0532	Chewbacca - Medium Nougat Fur	2014	5.05
 65	Star Wars / Star Wars Episode 3	sw0528	Clone Trooper Commander Gree, 41st Elite Corps (Phase 2) - Kashyyyk Camouflage, Scowl	2014	3.9
 65	Star Wars / Star Wars Episode 3	sw0530	Chief Tarfful	2014	5
-65	Star Wars / Star Wars Episode 3	sw0540	Chancellor Palpatine - Episode 3 Dark Bluish Gray Outfit	2014	3.4
+65	Star Wars / Star Wars Episode 3	sw0540	Chancellor Palpatine - Dark Bluish Gray Outfit, White Combed Hair	2014	3.4
 65	Star Wars / Star Wars The Clone Wars	sw0537	Clone Trooper, 104th Battalion 'Wolfpack' (Phase 2) - Dark Bluish Gray Markings, Large Eyes	2014	3.9
 65	Star Wars / Star Wars The Clone Wars	sw0538	Plo Koon - Dark Brown Robe, Dark Tan Shirt	2014	3.5
 65	Star Wars / Star Wars The Clone Wars	sw0542	Anakin Skywalker (Dark Brown Legs)	2014	3.65
@@ -6865,7 +6865,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 277	LEGOLAND	old051	LEGOLAND - Red Torso, Blue Legs, Blue Cowboy Hat	1975	2.9
 65	Star Wars / Star Wars Episode 4/5/6	sw0560	Jawa - Straps	2014	3.5
 65	Star Wars / Star Wars Episode 4/5/6	sw0589	Astromech Droid, R1-G4, Decorated Truncated Cone	2014	4.9
-65	Star Wars / Star Wars Episode 4/5/6	sw0559	Owen Lars (Printed Legs)	2014	3
+65	Star Wars / Star Wars Episode 4/5/6	sw0559	Owen Lars - Printed Legs, Tousled Hair	2014	3
 65	Star Wars / Star Wars Episode 4/5/6	sw0562	Gonk Droid (GNK Power Droid), Dark Bluish Gray	2014	5.7
 65	Star Wars / Star Wars Episode 4/5/6	sw0550	Treadwell Droid - White and Red Body, Dark Bluish Gray Binoculars	2014	6.8
 768	Super Heroes / X-Men	sh0116	Storm - Black Suit	2014	4
@@ -6906,7 +6906,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 976	LEGO Brand	gen057	LEGO Kladno 2013 Minifigure	2014	4
 65	Star Wars / Star Wars Episode 4/5/6	sw0551	Luke Skywalker (Tatooine, White Legs, Detailed Face Print)	2014	3.55
 65	Star Wars / Star Wars Episode 4/5/6	sw0552	Obi-Wan Kenobi (Dark Brown Hooded Coat)	2014	3.4
-65	Star Wars / Star Wars Episode 4/5/6	sw0553	Greedo (with Belt)	2014	3.25
+65	Star Wars / Star Wars Episode 4/5/6	sw0553	Greedo - Medium Nougat Vest, Belt on Legs, Medium Azure Legs	2014	3.25
 65	Star Wars / Star Wars Episode 4/5/6	sw0554	Bith Musician	2014	4
 65	Star Wars / Star Wars Episode 4/5/6	sw0548	Stormtrooper	?	6
 771	Friends	frnd0071	Friends Mia - Sand Green Skirt, Lavender Top	2014	3.25
@@ -6997,7 +6997,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Guardians of the Galaxy	sh0126	Ronan the Accuser - Blue Head and Hands	2014	4
 787	LEGENDS OF CHIMA	loc095	Stealthor - Heavy Armor	2014	5
 787	LEGENDS OF CHIMA	loc096	Vornon - Trans-Light Blue Armor	2014	6
-65	Star Wars / Star Wars Episode 4/5/6	sw0579	General Maximillian Veers	2014	3.7
+65	Star Wars / Star Wars Episode 4/5/6	sw0579	General Maximillian Veers - Chest Armor, Sand Blue Helmet	2014	3.7
 65	Star Wars / Star Wars Episode 4/5/6	sw0580	Snowtrooper Commander	2014	5
 65	Star Wars / Star Wars Episode 4/5/6	sw0581	AT-AT Driver - Dark Red Imperial Logo, Grimacing	2014	4.3
 65	Star Wars / Star Wars Episode 4/5/6	sw0582	Imperial Officer (Captain / Commandant / Commander)	2014	4
@@ -7526,7 +7526,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 61	Pirates / Pirates III	pi160	Pirate 2 - Red and White Stripes, Light Bluish Gray Legs, Beard	2015	3.37
 61	Pirates / Pirates III	pi161	Pirate 3 - Black and Red Stripes, Blue Legs, Scar	2015	3.37
 61	Pirates / Pirates III	pi162	Pirate 4 - Vest and Anchor, Eye Patch	2015	5.67
-61	Pirates / Pirates III	pi163	Pirate Boy	2015	3.05
+61	Pirates / Pirates III	pi163	Pirate - Boy, White Tank Top with Red Stripes, Red Short Legs, Red Bandana	2015	3.05
 61	Pirates / Pirates III	pi164	Pirate Cook	2015	3.4
 61	Pirates / Pirates III	pi165	Pirate Princess	2015	4.2
 768	Super Heroes / Avengers	sh0181	Winter Soldier - Dark Brown Hair, Light Bluish Gray Hand	2015	3.59
@@ -7613,7 +7613,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 746	Collectible Minifigures / The Simpsons / The Simpsons Series 2	sim042	Dr. Hibbert, The Simpsons, Series 2 (Minifigure Only without Stand and Accessories)	2015	3.74
 65	Star Wars / Star Wars Episode 4/5/6	sw0632	Imperial TIE Fighter Pilot - Printed Arms	2015	4.3
 65	Star Wars / Star Wars Other	sw0631	Boba Fett - White, Detailed Pattern	2015	4.2
-65	Star Wars / Star Wars Episode 4/5/6	sw0633	Admiral (Colonel) Wullf Yularen - Combed Hair	2015	3.4
+65	Star Wars / Star Wars Episode 4/5/6	sw0633	Admiral Wullf Yularen - White Uniform, White Combed Hair (Colonel)	2015	3.4
 787	LEGENDS OF CHIMA	loc149	Bladvic - Armor Breastplate, Flame Wings	2015	7.24
 572	LEGOLAND Parks	LLP001	LEGOLAND Park Female, I Brick LEGOLAND Top	2015	2
 759	NINJAGO / Rebooted	njo0139	Cole - Rebooted, Shoulder Armor	2015	4.2
@@ -7704,12 +7704,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 815	Ultra Agents	uagt034	Professor Brainstein with Mech Suit	2015	14.25
 771	Friends	frnd0120	Friends Livi - Pearl Gold Layered Skirt, Gold Sequined Halter Top, Medium Lavender Sequined Cloth Skirt	2015	3.49
 771	Friends	frnd0121	Friends Emma - Dark Blue Layered Skirt, Medium Lavender Vest	2015	3.06
-65	Star Wars / Star Wars Episode 1	sw0638	Naboo Security Officer - Light Nougat Head	2015	3.84
+65	Star Wars / Star Wars Episode 1	sw0638	Naboo Security Officer - Reddish Brown and Sand Blue Uniform, Light Nougat Head, Hat with Neck Protector	2015	3.84
 65	Star Wars / Star Wars Episode 1	sw0639	Captain Tarpals	2015	4.81
 65	Star Wars / Star Wars Episode 1	sw0640	Anakin Skywalker - Short Legs, Short Tousled Hair, Belt with Pouches on Back	2015	3.38
 65	Star Wars / Star Wars Episode 1	sw0641	Naboo Fighter Pilot - Medium Nougat Jacket	2015	3.73
 65	Star Wars / Star Wars Episode 1	sw0642	Droideka (Destroyer Droid) - Reddish Brown Triangles without Stickers	2015	10.43
-65	Star Wars / Star Wars Episode 4/5/6	sw0643	Princess Leia (Camouflage Cape)	2015	3.73
+65	Star Wars / Star Wars Episode 4/5/6	sw0643	Princess Leia - Endor Outfit, Dark Tan Jacket, Camouflage Cape, Sand Blue Legs	2015	3.73
 65	Star Wars / Star Wars Episode 4/5/6	sw0644	Han Solo (Endor Outfit)	2015	3.37
 65	Star Wars / Star Wars Episode 4/5/6	sw0645	Endor Rebel Trooper 1 (Olive Green)	2015	3.76
 65	Star Wars / Star Wars Episode 4/5/6	sw0646	Endor Rebel Trooper 2 (Olive Green) (Commander Rex)	2015	3.76
@@ -8083,7 +8083,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 7	sw0716	Finn (FN-2187)	2016	3.5
 65	Star Wars / Star Wars Episode 7	sw0717	Kylo Ren (Hair)	2016	3.7
 65	Star Wars / Star Wars Episode 7	sw0718	General Leia	2016	3.61
-65	Star Wars / Star Wars Episode 7	sw0719	Admiral Ackbar (Medium Nougat Robe)	2016	3.9
+65	Star Wars / Star Wars Episode 7	sw0719	Admiral Ackbar  - Medium Nougat Robe	2016	3.9
 67	Town / City / Fire	cty0627	Fire - Reflective Stripes with Utility Belt and Flashlight, White Fire Helmet, Nougat Lips	2016	3.31
 67	Town / City / Fire	cty0626	Fire - Reflective Stripes with Utility Belt, White Fire Helmet, Breathing Neck Gear with Air Tanks, Trans-Brown Visor, Goatee	2016	4.5
 67	Town / City / Fire	cty0628	Fire - Reflective Stripes with Utility Belt, White Fire Helmet, Breathing Neck Gear with Air Tanks, Trans-Brown Visor, Beard Stubble	2016	4.6
@@ -8357,7 +8357,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 7	sw0723	Unkar's Brute	2016	3.1
 868	NEXO KNIGHTS	nex026	Crust Smasher - Bare Chest, Red Legs	2016	3.74
 65	Star Wars / Star Wars Episode 4/5/6	sw0724	Astromech Droid, R3-A2	2016	5
-65	Star Wars / Star Wars Episode 4/5/6	sw0725	K-3PO (Printed Legs)	2016	3
+65	Star Wars / Star Wars Episode 4/5/6	sw0725	K-3PO - Printed Legs, Bright Light Yellow Eyes	2016	3
 65	Star Wars / Star Wars Episode 4/5/6	sw0726	Toryn Farr	2016	3.5
 65	Star Wars / Star Wars Episode 4/5/6	sw0727	Han Solo (Hoth)	2016	3.3
 67	Town / City / Space Exploration	cty0225a	Spacesuit, White Legs, Blue Short Bill Cap, Eyelashes, Black Eyebrows	2011	3.28
@@ -8459,7 +8459,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Rebels	sw0742	Sabine Wren - Bright Green and Dark Blue Hair	2016	3.7
 65	Star Wars / Star Wars Rebels	sw0743	Rebel Pilot A-wing (Open Helmet, Sand Blue Jumpsuit, Female)	2016	3.93
 65	Star Wars / Star Wars Rebels	sw0744	Darth Vader (White Head, Rebels)	2016	4
-65	Star Wars / Star Wars Episode 3	sw0745	Luminara Unduli (Cape)	2016	3.99
+65	Star Wars / Star Wars Episode 3	sw0745	Luminara Unduli - Dark Brown Headgear, Cape	2016	3.99
 65	Star Wars / Star Wars Episode 3	sw0746	Quinlan Vos - Printed Legs	2016	4.02
 65	Star Wars / Star Wars Rebels	sw0747	Imperial Inquisitor Fifth Brother - Dark Bluish Gray Uniform	2016	4.6
 65	Star Wars / Star Wars Rebels	sw0748	Commander Gregor	2016	3
@@ -8504,7 +8504,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Skybound	njo0231	Sky Pirate Foot Soldier with Turban	2016	4.1
 759	NINJAGO / Rebooted	njo0232	Jay - Rebooted, Stone Armor	2016	4
 771	Friends	frnd0165	Friends Andrea - Light Aqua Layered Skirt, Bright Light Orange Top with Music Notes, Magenta Party Hat	2016	3.43
-65	Star Wars / Star Wars Episode 4/5/6	sw0751	Dengar (White Torso)	2016	6
+65	Star Wars / Star Wars Episode 4/5/6	sw0751	Dengar - White Torso, Wrap	2016	6
 65	Star Wars / Star Wars Other / Star Wars The Freemaker Adventures	sw0752	Naare	2016	5
 65	Star Wars / Star Wars Other / Star Wars The Freemaker Adventures	sw0755	Kordi - Sand Blue Legs	2016	3.6
 65	Star Wars / Star Wars Other / Star Wars The Freemaker Adventures	sw0756	R0-GR (Roger)	2016	2
@@ -8594,7 +8594,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Superman	sh0300	Superman - Blue Suit, Spongy Cape, Hair with Front Curl, Open Mouth / Red Eyes	2016	3.6
 868	NEXO KNIGHTS	nex052	Flame Thrower (Lava Fighter)	2016	3.7
 759	NINJAGO / Tournament of Elements	njo0249	Jay - Tournament of Elements, Bandana and Scabbard	2016	4
-65	Star Wars / Star Wars Rebels	sw0759	Ahsoka Tano (Adult) - Tunic with Armor and Belt	2016	4
+65	Star Wars / Star Wars Rebels	sw0759	Ahsoka Tano (Adult) - Dark Bluish Gray Vest, Tan Tunic, Plain Arms, Dark Brown Legs	2016	4
 868	NEXO KNIGHTS	nex055	Lance Richmond - Trans-Clear Visor and Armor (Ultimate Lance)	2016	5.6
 67	Town	twn262	Light Keeper Girl, Green Overalls, Short Legs	2016	3.46
 67	Town	twn263	Light Keeper, Blue Anchor Jacket	2016	3.32
@@ -8855,7 +8855,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / The LEGO Batman Movie	sh0316	Kabuki Twin	2017	3
 65	Star Wars / Star Wars Rogue One	sw0800	Rebel Pilot U-wing	2017	4
 65	Star Wars / Star Wars Rogue One	sw0801	Rebel Pilot Y-wing (Dark Blue Jumpsuit)	2017	3.5
-65	Star Wars / Star Wars Episode 4/5/6	sw0802	Imperial Shuttle Pilot - Light Nougat Head	2017	3.6
+65	Star Wars / Star Wars Episode 4/5/6	sw0802	Imperial Shuttle Pilot - Light Nougat Head with Headset, Imperial Officer Cap	2017	3.6
 65	Star Wars / Star Wars Rogue One	sw0803	Rebel Trooper - White Goggles, Dark Bluish Gray Helmet, Black Beard (Private Kappehl)	2017	3.8
 65	Star Wars / Star Wars Rogue One	sw0804	Rebel Trooper - White Goggles, Dark Tan Helmet, Medium Nougat Beard (Corporal Rostok)	2017	3.8
 65	Star Wars / Star Wars Rogue One	sw0805	Rebel Trooper - Light Nougat Head, Helmet with Pearl Dark Gray Band (Private Calfor)	2017	3.8
@@ -9581,7 +9581,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 920	The LEGO NINJAGO Movie	njo0361	Shark Army Great White - Scuba Suit, Air Tanks	2017	4.72
 920	The LEGO NINJAGO Movie	njo0363	Cole - The LEGO Ninjago Movie	2017	3.58
 65	Star Wars / Star Wars Episode 8	sw0857	Rose Tico - Dark Tan Outfit, Hair	2017	3.7
-65	Star Wars / Star Wars Episode 8	sw0858	Finn - Worn Jacket	2017	3.5
+65	Star Wars / Star Wars Episode 8	sw0858	Finn - Medium Nougat Worn Jacket, Pearl Dark Gray Legs with Holster	2017	3.5
 65	Star Wars / Star Wars Episode 8	sw0859	Kylo Ren (Cape)	2017	3.8
 65	Star Wars / Star Wars Episode 8	sw0860	First Order TIE Pilot, Two Red Stripes on Helmet	2017	4.2
 65	Star Wars / Star Wars Episode 8	sw0861	Resistance Bomber Pilot	2017	3.8
@@ -9629,7 +9629,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0224	Friends Mia - Medium Blue Overalls, Striped Shirt, Dark Red Hair	2017	3.25
 768	Super Heroes / Justice League	sh0436	Cyborg - Blaster Arm	2017	3.85
 167	DUPLO / Basic Set	2327pb36	Duplo 2 x 2 x 2 Figure Brick, Black Base with Police Pattern, Yellow Head with Freckles, Brown Male Hair	1995	?
-65	Star Wars / Star Wars Episode 4/5/6	sw0878	Princess Leia (Hoth Outfit White)	2017	3.6
+65	Star Wars / Star Wars Episode 4/5/6	sw0878	Princess Leia - Hoth Outfit, White Jacket, Smile / Breathing Mask	2017	3.6
 860	Dimensions / Super Heroes / Teen Titans Go!	dim048	Raven	2017	6.03
 860	Dimensions / Super Heroes / Teen Titans Go!	dim049	Beast Boy - Lime Head, Short Legs	2017	3.1
 860	Dimensions / Beetlejuice	dim050	Beetlejuice	2017	3.77
@@ -9838,7 +9838,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Recreation	twn307	Camper, Hooded Sweatshirt	2018	3.3
 976	LEGO Brand	gen092	5K Family Road Race Female 2017	2017	3.8
 976	LEGO Brand	gen093	5K Family Road Race Male 2017	2017	3.8
-65	Star Wars / Star Wars Episode 4/5/6	sw0898	Greedo (with Belt on Torso)	2018	3.2
+65	Star Wars / Star Wars Episode 4/5/6	sw0898	Greedo - Medium Nougat Vest, Belt on Legs and Torso, Medium Azure Legs	2018	3.2
 878	Disney / Disney Princess / Mulan	dp044	Mulan - Full Length Dress, Flower	2018	3.45
 878	Disney / Disney Princess / Sleeping Beauty	dp045	Aurora - Open Mouth	2018	3.7
 878	Disney / Disney Princess / Sleeping Beauty	dp046	Maleficent - Mini Doll, Lavender Eye Shadow, Red Lips, Dark Purple Cape	2018	3.44
@@ -10040,7 +10040,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Avengers Infinity War	sh0496	Iron Man - Mark 50 Armor, Small Helmet Visor	2018	3.88
 771	Friends	frnd0242	Friends Andrea - Dark Blue Skirt, Dark Turquoise Top	2018	3.5
 771	Friends	frnd0243	Friends Steve - Dark Blue Pants, Sand Green Top	2018	3.51
-65	Star Wars / Star Wars Episode 2	sw0909	Barriss Offee - Skirt	2018	4.2
+65	Star Wars / Star Wars Episode 2	sw0909	Barriss Offee - Dark Blue Cape and Hood, Black Skirt	2018	4.2
 65	Star Wars / Star Wars Episode 2	sw0911	Ki-Adi-Mundi - Printed Legs, Nougat Eye Shadow	2018	3.6
 65	Star Wars / Star Wars Episode 2	sw0910	Clone Trooper (Phase 1) - Printed Legs, Scowl	2018	3.6
 748	Cars / Cars 3	crs001	Lightning McQueen - Dark Blue	2017	24.83
@@ -10098,7 +10098,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / Disney / Planes	crs048	Duplo Dottie	2013	38
 167	DUPLO / DUPLO, Town / Airport	47394pb249	Duplo Figure Lego Ville, Female Pilot, Dark Blue Legs, Medium Azure Top with Red Tie, Black Hair (6273387)	2018	16.32
 167	DUPLO	47394pb246	Duplo Figure Lego Ville, Male, Dark Bluish Gray Legs, Dark Azure Jacket, Black Shirt, Reddish Brown Hair	2018	14.96
-65	Star Wars / Star Wars Episode 4/5/6	sw0113a	Princess Leia - Hoth Outfit, Smooth Hair with Buns	2006	3.8
+65	Star Wars / Star Wars Episode 4/5/6	sw0113a	Princess Leia - Hoth Outfit, Tan Jacket, Smooth Hair with Buns	2006	3.8
 927	Building Bigger Thinking	pln187	Plain Red Torso with Red Arms, Lime Legs, Dark Orange Female Ponytail Long	2018	3.88
 927	Building Bigger Thinking	pln188	Plain Black Torso with Black Arms, Blue Legs, Reddish Brown Male Hair	2018	3.33
 927	Building Bigger Thinking	pln189	Plain White Torso with White Arms, Pearl Gold Legs, Tan Tousled Hair	2018	3.6
@@ -10284,7 +10284,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	gen103	Skeleton - Plain Head	2017	1.63
 976	LEGO Brand	gen104	Mr. ReBrick (2012) - 'COMPETITION WINNER' Torso	?	?
 65	Star Wars / Star Wars The Clone Wars	sw0939	Anakin Skywalker (Black Legs, Headset)	2018	3.6
-65	Star Wars / Star Wars Episode 4/5/6	sw0958	Princess Leia (Hoth Outfit White, Crooked Smile)	2018	3.5
+65	Star Wars / Star Wars Episode 4/5/6	sw0958	Princess Leia - Hoth Outfit, White Jacket, Lopsided Grin / Angry Frown	2018	3.5
 65	Star Wars / Star Wars Episode 4/5/6	sw0944	Biggs Darklighter - Light Nougat Head, Dual Molded Helmet	2018	4.21
 65	Star Wars / Star Wars Episode 4/5/6	sw0943	Astromech Droid, R2-Q2 (Large Red Dots)	2018	4.7
 67	Town / City / Arctic	cty0904	Arctic Snowmobile Driver	2018	3.8
@@ -10346,7 +10346,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town	twn334	Mechanic - Dark Green Cap, Dark Blue Legs	2018	3.39
 850	Jurassic World / Fallen Kingdom	jw043	ACU Pilot - Male, Black Aviator Cap with Dark Bluish Gray Goggles, Reddish Brown Head	2018	3.72
 850	Jurassic World / Fallen Kingdom	jw044	Owen Grady - Backpack	2018	4.56
-65	Star Wars / Star Wars Episode 4/5/6	sw0956	2-1B Medical Droid (Dotted Badge Pattern, Dark Bluish Gray Legs)	2018	2.2
+65	Star Wars / Star Wars Episode 4/5/6	sw0956	2-1B Medical Droid - Dotted Badge Pattern (Sand Blue), Dark Bluish Gray Legs	2018	2.2
 65	Star Wars / Star Wars Solo	sw0945	Dryden's Guard (Hylobon Enforcer) - Open Mouth	2018	3.7
 768	Super Heroes / Super Heroes Other	sh0519	Lex Luthor - Superman Armor	2018	3.2
 771	Friends	frnd0253	Friends Andrea - White Trousers, Bright Light Orange and Dark Turquoise Racing Jacket	2018	3.51
@@ -10375,7 +10375,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Sons of Garmadon	njo0445	Buffer	2018	4.2
 771	Friends	frnd0259	Friends Emma - Dark Purple Skirt, Medium Lavender Top, Light Aqua Shoes, Dark Purple Bow	2018	3.5
 920	The LEGO NINJAGO Movie	njo0446	Baby - White Body with Yellow Hands, Head with Neck	2017	0.68
-65	Star Wars / Star Wars Episode 4/5/6	sw0936	2-1B Medical Droid (Dotted Badge and Peeling Paint Pattern)	2018	2.2
+65	Star Wars / Star Wars Episode 4/5/6	sw0936	2-1B Medical Droid - Dotted Badge and Peeling Paint Pattern (Tan)	2018	2.2
 65	Star Wars / Star Wars Episode 4/5/6	sw0957	Luke Skywalker (Bacta Tank Outfit, Dark Tan Hair)	2018	3.5
 65	Star Wars / Star Wars Solo	sw0946	Qi'ra - Fur Coat	2018	3.89
 227	Harry Potter	hp134	Professor Severus Snape - Dark Purple Shirt, Black Robes, Printed Legs (Undetermined Legs)	2019	3.55
@@ -10590,7 +10590,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0971	Luke Skywalker (Cloud City, Dark Tan Shirt)	2018	3.5
 65	Star Wars / Star Wars Episode 4/5/6	sw0972	Princess Leia - Bespin Outfit	2018	3.9
 65	Star Wars / Star Wars Episode 4/5/6	sw0973	Lando Calrissian, Cloud City Outfit (Coiled Texture Hair)	2018	3.7
-65	Star Wars / Star Wars Episode 4/5/6	sw0974	Lobot - Light Nougat, Dark Orange Eyebrows	2018	3
+65	Star Wars / Star Wars Episode 4/5/6	sw0974	Lobot - Light Bluish Gray Uniform, Light Nougat Head, Dark Orange Eyebrows	2018	3
 65	Star Wars / Star Wars Episode 4/5/6	sw0975	Bespin Guard - Light Nougat Head, Detailed Gold Trim, Moustache	2018	3.4
 65	Star Wars / Star Wars Episode 4/5/6	sw0976	Han Solo - Dual Molded Legs	2018	3.7
 227	Harry Potter	90398pb027	Gryffindor Student Statuette / Trophy #1, Dark Brown Hair	2018	0.2
@@ -11047,7 +11047,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw1027	Lando Calrissian, Cloud City Outfit (20th Anniversary Torso)	2019	3.6
 65	Star Wars / Star Wars Episode 4/5/6	sw1025	Dak Ralter (Jumpsuit Pockets and Three Bullets on Right Leg)	2019	3.5
 65	Star Wars / Star Wars Episode 4/5/6	sw1026	Hoth Rebel Trooper White Uniform, Dark Tan Legs, Backpack (Cheek Lines)	2019	4.5
-65	Star Wars / Star Wars Episode 4/5/6	sw1022	Princess Leia - 20th Anniversary Torso	2019	3.6
+65	Star Wars / Star Wars Episode 4/5/6	sw1022	Princess Leia - White Dress, Simple Belt, Yellow Head and Hands, 20th Anniversary Torso	2019	3.6
 65	Star Wars / Star Wars Episode 4/5/6	sw1020	Zuckuss	2019	3.9
 65	Star Wars / Star Wars Episode 4/5/6	sw1021	Han Solo, Dark Brown Legs with Holster Pattern, Dark Blue Jacket, Wavy Hair, Smile / Frown	2019	3.6
 65	Star Wars / Star Wars Episode 7	sw1006	Kylo Ren (Tattered Robe, Scar)	2019	3.6
@@ -12207,7 +12207,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars The Clone Wars	sw1097	Clone Trooper, 501st Legion, 332nd Company (Phase 2) - Togruta Helmet Markings	2020	3.9
 65	Star Wars / Star Wars Episode 9	sw1099	Knight of Ren (Cardo)	2020	3.8
 65	Star Wars / Star Wars Episode 3	sw1100	Clone Airborne Trooper, 212th Attack Battalion (Phase 2) - White Arms, Dirt Stains, Dark Bluish Gray Cloth Kama, Nougat Head	2020	4.1
-65	Star Wars / Star Wars Episode 4/5/6	sw1101	General Maximillian Veers - Helmet with Goggles Print	2020	3.9
+65	Star Wars / Star Wars Episode 4/5/6	sw1101	General Maximillian Veers - Chest Armor, Sand Blue Helmet with Goggles Pattern, Plain Legs	2020	3.9
 65	Star Wars / Star Wars Episode 4/5/6	sw1105	AT-AT Driver - Dark Red Imperial Logo, Cheek Lines, Smile	2020	4.3
 65	Star Wars / Star Wars Galaxy's Edge	sw1109	Lieutenant Bek	2020	3.92
 65	Star Wars / Star Wars The Mandalorian	sw1114	Greef Karga	2020	3.6
@@ -12324,18 +12324,18 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1095	Super Mario	mar0002	Bowser - Tan Tile, Round 1 x 1 Quarter on Nose	2020	77.22
 1095	Super Mario	mar0003	Bowser Jr. - 2 Lime Brick 1 x 1	2020	21.2
 1095	Super Mario / Super Mario Series 1	mar0016	Bullet Bill, Super Mario, Series 1 (Character Only)	2020	6.35
-1095	Super Mario / Super Mario Series 1	mar0017	Buzzy Beetle, Super Mario, Series 1 (Character Only)	2020	?
+1095	Super Mario / Super Mario Series 1	mar0017	Buzzy Beetle, Super Mario, Series 1 (Character Only)	2020	8
 1095	Super Mario	mar0018	Cheep Cheep - White Lower Face	2020	8.11
 1095	Super Mario	mar0019	Pokey	2020	26.77
 1095	Super Mario	mar0004	Dry Bones - Looking Straight	2020	16.36
-1095	Super Mario / Super Mario Series 1	mar0020	Eep Cheep, Super Mario, Series 1 (Character Only)	2020	?
+1095	Super Mario / Super Mario Series 1	mar0020	Eep Cheep, Super Mario, Series 1 (Character Only)	2020	8.1
 1095	Super Mario / Super Mario Series 1	mar0021	Fuzzy, Super Mario, Series 1 (Character Only)	2020	5.8
 1095	Super Mario	mar0023	Goomba (Dark Bluish Gray Interior Pieces) - Neutral	2020	6.7
 1095	Super Mario	mar0005	King Boo - Red Tongue	2020	52.7
 1095	Super Mario	mar0006	Koopa Troopa - Scanner Code with Pink Lines	2020	16.75
 1095	Super Mario	mar0007	Mario	2020	42
 1095	Super Mario	mar0008	Monty Mole - Face on 2 x 2 Brick	2020	6.59
-1095	Super Mario / Super Mario Series 1	mar0025	Paragoomba, Super Mario, Series 1 (Character Only)	2020	?
+1095	Super Mario / Super Mario Series 1	mar0025	Paragoomba, Super Mario, Series 1 (Character Only)	2020	7.6
 1095	Super Mario / Super Mario Series 1	mar0026	Peepa, Super Mario, Series 1 (Character Only)	2020	?
 1095	Super Mario	mar0009	Shy Guy - Black Belt	2020	12.55
 1095	Super Mario / Super Mario Series 1	mar0028	Spiny, Super Mario, Series 1 (Character Only)	2020	8
@@ -12784,7 +12784,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1095	Super Mario / Super Mario Series 2	mar0047	Fly Guy, Super Mario, Series 2 (Character Only)	2021	?
 1095	Super Mario / Super Mario Series 2	mar0048	Parachute Goomba, Super Mario, Series 2 (Character Only)	2021	?
 1095	Super Mario / Super Mario Series 2	mar0049	Ninji, Super Mario, Series 2 (Character Only)	2021	?
-1095	Super Mario / Super Mario Series 2	mar0050	Huckit Crab, Super Mario, Series 2 (Character Only)	2021	?
+1095	Super Mario / Super Mario Series 2	mar0050	Huckit Crab, Super Mario, Series 2 (Character Only)	2021	6.9
 771	Friends	frnd0423	Friends Emma - Dark Pink Layered Skirt, Sand Blue Top with Birds	2021	2.98
 67	Town / City	cty1267	Car Driver - Male, Lime Hoodie, Light Bluish Gray Legs, Medium Nougat Hair	2021	3.59
 67	Town / City	cty1268	Baker - Male, Reddish Brown Apron with Cup and Name Tag, Sand Blue Legs, White Chef Toque	2021	3.8
@@ -12863,7 +12863,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 976	LEGO Brand / LEGO Brand Store / Build-A-Minifigure / Holiday & Event / Christmas	hol238	Girl - Dark Blue Knit Sweater, Dark Turquoise Short Legs, Bright Light Yellow Hair	2020	3.55
 976	LEGO Brand / LEGO Brand Store / Build-A-Minifigure / Holiday & Event / Christmas	hol238a	Girl - Dark Blue Knit Sweater, Green Short Legs, Bright Light Yellow Hair	2020	3.55
 976	LEGO Brand / LEGO Brand Store / Build-A-Minifigure / Holiday & Event / Christmas	hol239	Santa - Fur Lined Jacket with Copper Belt Buckle, Red Legs, Glasses	2020	4
-748	Cars / Cars 2	crs065	Lightning McQueen - Rust-eze Hood, Red and White Sides, Light Bluish Gray 1 x 4 Plates	2011	?
+748	Cars / Cars 2	crs065	Lightning McQueen - Rust-eze Hood, Red and White Sides, Light Bluish Gray 1 x 4 Plates	2011	27.7
 748	Cars / Cars 2	crs067	Tow Mater - Eyes Looking Straight	2011	?
 748	Cars / Cars 2	crs066	Sally Carrera	2011	28.18
 748	Cars / Cars 2	crs064	Luigi - Headset with Microphone	2011	33.06
@@ -12909,7 +12909,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Spider-Man	sh0691	Spider-Man - Stealth 'Big Time' Suit	2021	3.02
 768	Super Heroes / Spider-Man	sh0692	Iron Spider Armor - Mechanical Arms with Barbs	2021	5
 768	Super Heroes / Spider-Man	sh0693	Spider-Man - Peter Parker	2021	3.5
-1095	Super Mario / Super Mario Series 2	mar0059	Thwimp, Super Mario, Series 2 (Character Only)	2021	?
+1095	Super Mario / Super Mario Series 2	mar0059	Thwimp, Super Mario, Series 2 (Character Only)	2021	5.8
 167	DUPLO / Bob The Builder	btb004	Duplo Muck - Looking Straight, 2 Red 2 x 4 Plates	2001	210
 759	NINJAGO / The Island	njo0682	Lloyd - The Island, Mask and Hair with Bandana, Armor Shoulder Pad	2021	4.38
 759	NINJAGO / The Island	njo0683	Nya - The Island, Mask and Hair	2021	4.48
@@ -13007,7 +13007,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0427	Friends Emma - Medium Lavender Skirt, Coral and Lavender Top with Cat Head	2021	3.02
 771	Friends	frnd0428	Friends June	2021	2.95
 771	Friends	frnd0429	Friends Robert	2021	2.85
-771	Friends	frnd0430	Baby / Infant - with Stud Holder on Back with Smiling Face and Large Eyes Pattern (Baby Sophie)	2021	0.61
+771	Friends	frnd0430	Baby / Infant - with Stud Holder on Back with Smiling Face and Large Eyes Pattern (Baby Sophie) (6397924)	2021	0.61
 771	Friends	frnd0431	Friends Mia - Dark Purple Shorts, White Top with Pug Head	2021	3.21
 759	NINJAGO / Master of the Mountain	njo0691	Skull Sorcerer without Wings	2021	4.3
 545	FIRST LEGO League	fst033	FIRST LEGO League (FLL) RePLAY Dummy	2020	2.95
@@ -13191,7 +13191,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Spider-Man	sh0724	Daredevil	2021	3.14
 768	Super Heroes / Spider-Man	sh0725	Amber Grant	2021	3.84
 768	Super Heroes / Spider-Man	sh0726	Betty Brant	2021	3.5
-65	Star Wars / Star Wars Episode 4/5/6	sw1154	General Maximillian Veers - Cap	2021	3.35
+65	Star Wars / Star Wars Episode 4/5/6	sw1154	General Maximillian Veers - Officer Uniform, Imperial Officer Cap	2021	3.35
 65	Star Wars / Star Wars The Clone Wars	sw1155	Darth Maul - Printed Legs with Silver Armor	2021	3.1
 65	Star Wars / Star Wars The Mandalorian	sw1156	Greef Karga - Black Magistrate Robe and Gray Beard	2021	4
 65	Star Wars / Star Wars The Mandalorian	sw1157	Imperial Artillery Stormtrooper - Male, Light Nougat Head, Cheek Lines	2021	6
@@ -13544,7 +13544,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter	hp318	Griphook Goblin - Dark Red Jacket, Dark Bluish Gray Vest	2021	3.3
 227	Harry Potter	hp319	Ron Weasley - Hogwarts Robe, Black Tie	2021	3.2
 227	Harry Potter	hp320	Hermione Granger - Hogwarts Robe, Black Tie	2021	3.75
-227	Harry Potter	hp321	Draco Malfoy - Hogwarts Robe, Black Tie	2021	3.1
+227	Harry Potter	hp321	Draco Malfoy - Hogwarts Robe, Black Tie, Suspicious	2021	3.1
 227	Harry Potter	hp322	Albus Dumbledore - 20th Anniversary Pearl Gold	2021	4.9
 227	Harry Potter	hp323	Professor Minerva McGonagall - 20th Anniversary Pearl Gold	2021	4.9
 227	Harry Potter	hp324	Rubeus Hagrid - 20th Anniversary Pearl Gold	2021	7.4
@@ -13671,7 +13671,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 390	Holiday & Event / Christmas	hol254	Dad - Medium Nougat Argyle Sweater, Red Scarf, Black Legs, Reddish Brown Hair	2021	3.7
 390	Holiday & Event / Christmas	hol255	Mom - Medium Lavender Jacket, Dark Blue Legs, Black Coiled Hair	2021	4.1
 390	Holiday & Event / Christmas	hol256	Girl - Dark Turquoise Pajamas, Dark Turquoise Short Legs, Black Pigtails	2021	3.3
-65	Star Wars / Star Wars Episode 4/5/6	sw1175	General Maximillian Veers - Dual Molded Legs	2021	3.8
+65	Star Wars / Star Wars Episode 4/5/6	sw1175	General Maximillian Veers - Chest Armor, Sand Blue Helmet with Goggles Pattern, Dual Molded Legs	2021	3.8
 65	Star Wars / Star Wars Episode 4/5/6	sw1176	AT-AT Driver - Dark Red Imperial Logo, Female	2021	4.3
 65	Star Wars / Star Wars Episode 4/5/6	sw1177	Snowtrooper Commander, Printed Legs, Dark Tan Hands	2021	4
 65	Star Wars / Star Wars Episode 4/5/6	sw1178	Snowtrooper - Female, Printed Legs, Dark Tan Hands, Light Nougat Head, Angry Smile	2021	4
@@ -13750,7 +13750,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 976	LEGO Brand / LEGO Brand Store / Building Event	gen160	Newsstand Worker, Blue Cap, Striped Shirt, Red Bow Tie	2020	3.4
 768	Super Heroes / Doctor Strange in the Multiverse of Madness	sh0793	Wong - Dark Red Robe, Dark Purple Legs	2022	3.51
 768	Super Heroes / Spidey and his Amazing Friends	sh0794	Ghost-Spider (Gwen Stacy) - Dark Purple Medium Legs, White Hood, Medium Azure Spider Logo	2022	3.71
-768	Super Heroes / Spidey and his Amazing Friends	sh0795	Rhino - Shoulder Armor	2022	4.09
+768	Super Heroes / Spidey and his Amazing Friends	sh0795	Rhino - Shoulder Armor with White Horn	2022	4.09
 768	Super Heroes / Spidey and his Amazing Friends	sh0796	Doc Ock - Female, Medium Legs, Flat Silver Arms	2022	4.99
 768	Super Heroes / Spidey and his Amazing Friends	sh0797	Spider-Man (Peter 'Spidey' Parker) - Medium Legs, Black Spider Logo	2022	2.92
 768	Super Heroes / Spidey and his Amazing Friends	sh0798	Hulk - Minifigure, Dark Purple Pants, Short Tousled Hair	2022	3.68
@@ -13942,7 +13942,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Core	njo0739	Kai - Core, Hair, Shoulder Pad	2022	4.32
 759	NINJAGO / Core	njo0740	Cobra Mechanic - Harness Torso, Neck Bracket with Drills	2022	6.01
 759	NINJAGO / Core	njo0744	Jay - Core, Hair, Shoulder Pad	2022	4
-167	DUPLO / Princess Castle	47394pb085a	Duplo Figure Lego Ville, Male, Dark Blue-Violet Legs, Bright Light Blue Top with Straps and Key Necklace, Nougat Hands, Black Hair	2005	?
+167	DUPLO / Princess Castle	47394pb085a	Duplo Figure Lego Ville, Male, Dark Royal Blue Legs, Bright Light Blue Top with Straps and Key Necklace, Nougat Hands, Black Hair	2005	?
 167	DUPLO / Super Heroes / Batman II	47394pb224a	Duplo Figure Lego Ville, Poison Ivy, Bright Green Arms, Lime Hands	2017	17.5
 801	Minecraft	min110	Fox Skin	2022	3.48
 759	NINJAGO / Core	njo0745	Kai - Core	2022	3.88
@@ -14724,7 +14724,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 748	Cars / Cars 2	crs088	Tow Mater - Eyes Looking Straight with Headset	2011	?
 748	Cars / Cars 2	crs089	Luigi - Headset without Microphone	2011	?
 1095	Super Mario	mar0126	Monty Mole - Face on 1 x 2 Brick	2022	6.55
-748	Cars / Cars 2	crs091	Tow Mater - Parachute	2012	?
+748	Cars / Cars 2	crs091	Tow Mater - Parachute	2012	47
 748	Cars / Cars 2	crs090	Ivan Mater	2012	?
 748	Cars / Cars 2	crs092	Francesco Bernoulli - Green 2 x 8 Plate	2011	?
 748	Cars / Cars 2	crs093	Lightning McQueen - Rust-eze Hood, Red Sides	2011	29
@@ -14739,12 +14739,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 748	Cars / Cars 2	crs040	Tow Mater without Sticker - Side Engines	2011	?
 748	Cars / Cars 2	crs099	Finn McMissile - Trans-Neon Green Panel, Missile Launcher	2012	?
 976	LEGO Brand / LEGO Brand Store	tls113	LEGO Delivery Truck Driver - Blue Jacket and Cap, Tan Legs	2022	3.4
-748	Cars / Cars 2	crs100	Francesco Bernoulli - Squinting Eyes	2012	?
+748	Cars / Cars 2	crs100	Francesco Bernoulli - Squinting Eyes	2012	25.8
 748	Cars / Cars 2	crs101	Grem - Orange	2012	?
 748	Cars / Cars 2	crs102	Finn McMissile - Water Skis	2012	?
 748	Cars / Cars 2	crs103	Professor Zundapp - Angry	2012	?
 748	Cars / Cars 2	crs104s	Crane with Stickers	2012	38.7
-748	Cars / Cars 2	crs105	Petrov Trunkov	2012	?
+748	Cars / Cars 2	crs105	Petrov Trunkov	2012	33.9
 748	Cars / Cars 2	crs106	Finn McMissile - Wings, Propeller	2011	35.64
 67	Town / City / Race	cty0983a	Desert Rally Racer Driver with Orange 'ViTA RUSH' Logo and Black Eyebrows	2019	3.65
 167	DUPLO / Lightyear	47394pb336	Duplo Figure Lego Ville, Male, Buzz Lightyear with Dark Brown Hair	2022	16.9
@@ -15265,7 +15265,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw1263	Emperor Palpatine - Spongy Cape, Hood Basic, Yellow Eyes	2023	4.1
 65	Star Wars / Star Wars Episode 4/5/6	sw1262	Luke Skywalker - Jedi, Hair with Side Part, Smile / Stern	2023	3.55
 65	Star Wars / Star Wars Episode 4/5/6	sw1266	Luke Skywalker - Dark Tan Endor Outfit, Helmet	2023	3.76
-65	Star Wars / Star Wars Episode 4/5/6	sw1264	Princess Leia - Olive Green Endor Outfit, Helmet	2023	3.76
+65	Star Wars / Star Wars Episode 4/5/6	sw1264	Princess Leia - Endor Outfit, Olive Green Camouflage, Helmet	2023	3.76
 65	Star Wars / Star Wars Episode 4/5/6	sw1265	Imperial Scout Trooper - Male, Dual Molded Helmet, Light Nougat Head, Dark Brown Eyebrows, Frown	2023	4.3
 65	Star Wars / Star Wars Young Jedi Adventures	sw1271	Training Droid	2023	4.33
 768	Super Heroes / Guardians of the Galaxy Vol. 3	sh0879	Drax - Dark Blue Suit	2023	3
@@ -15397,7 +15397,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Other	sw1297	Emperor Palpatine - Holiday Sweater	2023	3.8
 65	Star Wars / Star Wars Other	sw1294	Pit Droid - Holiday Outfit	2023	3.63
 65	Star Wars / Star Wars Other	sw1295	Reindeer Gonk Droid (GNK Power Droid)	2023	8.5
-65	Star Wars / Star Wars Episode 4/5/6	sw1296	Princess Leia - Olive Green Endor Outfit, Hair	2023	3.64
+65	Star Wars / Star Wars Episode 4/5/6	sw1296	Princess Leia - Endor Outfit, Olive Green Camouflage, Braided Hair	2023	3.64
 850	Jurassic World / Jurassic Park	jw105	Dr. Alan Grant - Medium Blue Shirt with Pockets with Black Buttons Outline	2023	3.7
 850	Jurassic World / Jurassic Park	jw104	Dr. Ellie Sattler - Coral Shirt, Ponytail	2023	4.41
 850	Jurassic World / Jurassic Park	jw103	John Hammond - Shirt with 4 Pockets	2023	3.7
@@ -15639,7 +15639,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 878	Disney / Disney 100	dis136	Prince Naveen	2023	?
 878	Disney / Disney 100	dis137	Flynn Rider - Minifigure	2023	3.66
 878	Disney / Disney 100	dis138	Rapunzel - Minifigure, Bright Pink Flower	2023	?
-65	Star Wars / Star Wars Ahsoka	sw1300	Ahsoka Tano (Adult) - Printed Arms, Pearl Dark Gray Legs	2023	3.93
+65	Star Wars / Star Wars Ahsoka	sw1300	Ahsoka Tano (Adult) - Pearl Dark Gray Robe, Printed Arms	2023	3.93
 65	Star Wars / Star Wars Ahsoka	sw1302	Sabine Wren - Dark Brown Armor, Helmet	2023	4
 65	Star Wars / Star Wars Ahsoka	sw1299	Professor Huyang	2023	3.72
 65	Star Wars / Star Wars Ahsoka	sw1301	Marrok, Inquisitor	2023	4.58
@@ -15679,7 +15679,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0656	Friends Aliya - Medium Lavender Vest, Yellow Skirt, Metallic Pink Sandals	2023	3.36
 771	Friends	frnd0657	Friends Darrel - Orange Safety Shirt, Sand Blue Legs, Medium Nougat Boots, Red Construction Helmet	2023	2.69
 65	Star Wars / Star Wars Episode 4/5/6	sw1275	Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Nougat Head	2023	4.3
-65	Star Wars / Star Wars The Clone Wars	sw1306	Chancellor Palpatine - Skirt	2023	3.75
+65	Star Wars / Star Wars The Clone Wars	sw1306	Chancellor Palpatine - Dark Red Outfit, Skirt, Tan Hair	2023	3.75
 65	Star Wars / Star Wars The Clone Wars	sw1303	Padmé Amidala - Senator, Nougat Lips	2023	3.4
 65	Star Wars / Star Wars The Clone Wars	sw1304	Clone Trooper Commander Fox, Coruscant Guard (Phase 2) - Dark Bluish Gray Visor, Printed Legs	2023	4.07
 65	Star Wars / Star Wars The Clone Wars	sw1305	Clone Shock Trooper, Coruscant Guard (Phase 2) - Nougat Head	2023	3.9
@@ -15823,7 +15823,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Batman II	sh0902	Batman - Black Suit, Yellow Belt, Cowl with White Eyes, Lopsided Grin / Open Mouth Smile with Teeth	2023	3.45
 768	Super Heroes / Batman II	sh0903	The Joker - Medium Lavender Suit, Dark Green Vest, Green Hair Swept Back	2023	4.1
 65	Star Wars / Star Wars Other	sw1317	Rey - Holiday Sweater	2023	3.6
-65	Star Wars / Star Wars Other	sw1318	Finn - Holiday Sweater	2023	3.54
+65	Star Wars / Star Wars Other	sw1318	Finn - Holiday Sweater, Dark Blue Legs with Holster	2023	3.54
 746	Collectible Minifigures / Super Heroes / Marvel Studios Series 2	colmar14	Moon Knight, Marvel Studios, Series 2 (Minifigure Only without Stand and Accessories)	2023	4
 801	Minecraft	min153	Diver Explorer	2023	3.45
 746	Collectible Minifigures / Super Heroes / Marvel Studios Series 2	colmar13	Agatha Harkness, Marvel Studios, Series 2 (Minifigure Only without Stand and Accessories)	2023	4.99
@@ -15850,7 +15850,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / DUPLO, Town	47205pb105	Duplo Figure Lego Ville, Child Girl, Bright Light Yellow Legs and Hair, Dark Azure Vest, Dark Pink Goggles, Light Aqua Arms (6449853)	2023	12.82
 167	DUPLO / DUPLO, Town	47205pb106	Duplo Figure Lego Ville, Child Boy, Bright Light Yellow Legs, Dark Azure Vest and Goggles, Dark Blue Arms, Dark Brown Hair (6449847)	2023	13.74
 65	Star Wars / Star Wars The Clone Wars	sw1315	Clone Trooper Captain Rex, 501st Legion (Phase 2) - Blue Cloth Pauldron, Rangefinder, Printed White Arms	2023	4.05
-65	Star Wars / Star Wars The Clone Wars	sw1316	Admiral Wullf Yularen	2023	3.5
+65	Star Wars / Star Wars The Clone Wars	sw1316	Admiral Wullf Yularen - Dark Bluish Gray Uniform, Dark Brown Hair	2023	3.5
 771	Friends	frnd0664	Friends Aliya - Orange Jacket over Dark Pink Sweater, Dark Blue Skirt, Dark Pink Snowshoes	2023	3.84
 771	Friends	frnd0665	Friends Paisley - Magenta Jacket over Bright Light Yellow Sweater, Light Aqua Trousers Bell-Bottoms, Dark Pink Snowshoes	2023	3.75
 771	Friends	frnd0666	Friends Ella - Micro Doll, Dark Turquoise and Lime Ski Suit	2023	1.75
@@ -16761,7 +16761,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Skeleton Crew	sw1352	KB	2024	3.64
 65	Star Wars / Star Wars Skeleton Crew	sw1353	Jod	2024	3.64
 65	Star Wars / Star Wars Obi-Wan Kenobi	sw1348	Princess Leia - Young	2024	3.3
-65	Star Wars / Star Wars Ahsoka	sw1354	Ahsoka Tano (Adult) - Printed Arms, Light Bluish Gray Legs	2024	3.98
+65	Star Wars / Star Wars Ahsoka	sw1354	Ahsoka Tano (Adult) - Dark Bluish Gray Vest, Tan Tunic, Printed Arms, Light Bluish Gray Legs	2024	3.98
 65	Star Wars / Star Wars Ahsoka	sw1355	Ezra Bridger - Dark Red Robe	2024	3.77
 65	Star Wars / Star Wars Ahsoka	sw1356	Grand Admiral Thrawn - Medium Blue Skin	2024	3.51
 65	Star Wars / Star Wars Ahsoka	sw1357	Morgan Elsbeth - Black Legs	2024	3.57
@@ -16782,7 +16782,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 801	Minecraft	min182	Micromob Steve - Short, Reddish Brown Hair	2024	0.51
 801	Minecraft	min183	Micromob Skeleton	2024	0.51
 801	Minecraft	min184	Micromob Witch	2024	0.54
-801	Minecraft	min185	Micromob Creeper - Short (6481522)	2024	0.43
+801	Minecraft	min185	Micromob Creeper - Short (6481522 / 6632619)	2024	0.43
 801	Minecraft	min186	Micromob Villager - Short	2024	0.51
 801	Minecraft	min187	Micromob Alex	2024	0.51
 842	SPEED CHAMPIONS	sc120	NASCAR Next Gen Chevrolet Camaro ZL1 Driver	2024	3.68
@@ -16947,7 +16947,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1095	Super Mario	mar0206	Toad - Happy, Open Mouth, White Hinge Top Plate, Black Hinge Brick and 2 x 2 Plate	2024	9.05
 65	Star Wars / Star Wars Obi-Wan Kenobi	sw1394	L0-LA59 Droid (Lola)	2024	0.86
 65	Star Wars / Star Wars Episode 4/5/6	sw1383	Bib Fortuna - Black Robe, Dark Silver Armor	2024	4.66
-65	Star Wars / Star Wars Episode 4/5/6	sw1389	Princess Leia - Jabba Slave Outfit, Dark Brown Braid over Shoulder	2024	4.11
+65	Star Wars / Star Wars Episode 4/5/6	sw1389	Princess Leia - Jabba Slave Outfit, Dark Brown Braid over Shoulder, Neck Bracket	2024	4.11
 65	Star Wars / Star Wars Episode 4/5/6	sw1386	Kithaba (Klatooinian Skiff Guard) - Medium Nougat Vest	2024	3.4
 65	Star Wars / Star Wars Episode 4/5/6	sw1390	Vizam	2024	3.6
 65	Star Wars / Star Wars Episode 4/5/6	sw1384	Wooof	2024	3.59
@@ -17073,7 +17073,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Captain America Brave New World	sh1002	Ruth Bat-Seraph	2024	3.85
 768	Super Heroes / Captain America Brave New World	sh1003	Captain America (Sam Wilson) - Dark Blue Suit, Backpack and Wings without Stickers	2024	9.41
 768	Super Heroes / Captain America Brave New World	sh1000	Falcon (Joaquín Torres) - Backpack and Wings without Stickers	2024	9.08
-65	Star Wars / Star Wars The Clone Wars	sw1396	Ahsoka Tano (Padawan) - Medium Legs	2025	3.87
+65	Star Wars / Star Wars The Clone Wars	sw1396	Ahsoka Tano (Padawan) - Dark Red Backless Vest with Necklace and Belt, Medium Legs	2025	3.87
 65	Star Wars / Star Wars The Clone Wars	sw1398	Anakin Skywalker - Dark Brown and Black Robe, Black Hands	2025	3.68
 65	Star Wars / Star Wars The Clone Wars	sw1397	Astromech Droid, R7-A7 - Dark Bluish Gray Rectangles	2025	4.45
 65	Star Wars / Star Wars Episode 3	sw1399	Clone Trooper Pilot Odd Ball (Phase 2)	2025	3.8
@@ -17269,7 +17269,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / The Infinity Saga	sh1018	The Scarlet Witch (Wanda Maximoff) - Plain Legs, Medium Nougat Hair	2025	4.55
 768	Super Heroes / The Infinity Saga	sh1019	Black Panther - Dark Bluish Gray Armor	2025	3.12
 768	Super Heroes / The Infinity Saga	sh1020	Spider-Man - Printed Dark Blue Arms, Red Boots	2025	3.1
-759	NINJAGO / Dragons Rising Season 3	njo0941	Rogue (Jay) - Hat, Shoulder Armor	2025	4.56
+759	NINJAGO / Dragons Rising Season 3	njo0941	Rogue (Jay) - Dark Blue Hat, Shoulder Armor	2025	4.56
 759	NINJAGO / Dragons Rising Season 3	njo0939	Zane - Dragons Rising, Tunic with Shoulder Armor, Head Wrap, Scabbard	2025	4.42
 771	Friends	frnd0783	Friends Sage - Blue Tank Top, Yellowish Green Shorts, Bright Light Yellow Sandals, Reddish Orange Bicycle Helmet	2025	3.44
 771	Friends	frnd0784	Friends Paisley - Bright Pink Tank Top, Nougat Skirt Mid-Length, Bright Light Blue Shoes	2025	3.44
@@ -17549,7 +17549,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town	twn520	Gardener - Female, Medium Nougat Overalls over Sand Green Shirt, Reddish Brown Boots, Red Ball Cap with Reddish Brown Ponytail	2024	3.9
 801	Minecraft	min206	Shadow Hoodie	2025	3.43
 801	Minecraft	min207	Breeze	2025	5.47
-65	Star Wars / Star Wars Episode 1	sw1413	Pit Droid (Anakin's) - Dark Bluish Gray Mechanical Arms (b25sw03uk)	?	3.47
+65	Star Wars / Star Wars Episode 1	sw1413	Pit Droid (Anakin's) - Dark Bluish Gray Mechanical Arms (b25sw03uk)	2025	3.47
 759	NINJAGO / Dragons Rising Season 2	njo0966	Cinder - Ghost Legs	2025	4.67
 759	NINJAGO / Dragons Rising Season 3	njo0967	Kai - Dragons Rising, Tunic with Strap and Charm, Dragon Shoulder Armor	2025	4.95
 759	NINJAGO / Dragons Rising Season 3	njo0972	Arin - Shirt with Magenta Dragon, Hair, Bandana	2025	3.7
@@ -17749,7 +17749,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars The Clone Wars	sw1419	DRK-1 Dark Eye Probe Droid - Black, Single Radar Dish	2025	1.22
 1350	Nike	nike001	B'Ball Head	2025	3.85
 227	Harry Potter / Prisoner of Azkaban	hp568	Marge Dursley - Inflated	2025	11.31
-759	NINJAGO / Dragons Rising Season 3	njo0986	Rogue (Jay) - Hat	2025	4.15
+759	NINJAGO / Dragons Rising Season 3	njo0986	Rogue (Jay) - Dark Blue Hat	2025	4.15
 759	NINJAGO / Dragons Rising Season 3	njo0987	Rogue (Jay) - Head Wrap	2025	3.9
 759	NINJAGO / Dragons Rising Season 3	njo0988	Nya - Dragons Rising, Tunic with Strap and Charm	2025	3.9
 1197	BrickLink Designer Program	bdp187	Riverside Scholars Village Boy	2025	4.02
@@ -18017,11 +18017,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 817	LEGO Ideas (CUUSOO)	idea245	Nonna / Fishmonger - Light Aqua Apron, Light Bluish Gray Wavy Hair	2025	3.82
 817	LEGO Ideas (CUUSOO)	idea242	Tourist - Tan Suit Jacket, Dark Red Legs, Light Bluish Gray Hair	2025	3.41
 817	LEGO Ideas (CUUSOO)	idea247	Fisher - Dark Green Open Jacket, Dark Bluish Gray Legs with Black Boots, Reddish Brown Flat Cap, Orange Life Jacket	2025	3.85
-771	Friends	frnd0855	Aliya - Lime Top with Snowflakes and Christmas Gift and Trousers Bell-Bottoms with Dark Red Shoes	2025	3.44
-771	Friends	frnd0856	Friends Liann Coral Outfit with Raccoon and Christmas Lights	2025	3.08
-771	Friends	frnd0857	Friends Leo Bright Light Blue Shirt with Gingerbread Men	2025	2.98
-771	Friends	frnd0858	Autumn - Bright Green Outfit with Reindeer in Santa Hat	2025	2.92
-771	Friends	frnd0859	Friends Nova Dark Azure Outfit with Falling Snow and Game Controller in Santa Hat	2025	3.25
+771	Friends	frnd0855	Friends Aliya - Lime Top with Snowflakes and Christmas Gift and Trousers Bell-Bottoms with Dark Red Shoes	2025	3.44
+771	Friends	frnd0856	Friends Liann - Coral Outfit with Raccoon and Christmas Lights	2025	3.08
+771	Friends	frnd0857	Friends Leo - Bright Light Blue Shirt with Gingerbread Men	2025	2.98
+771	Friends	frnd0858	Friends Autumn - Bright Green Outfit with Reindeer in Santa Hat	2025	2.92
+771	Friends	frnd0859	Friends Nova - Dark Azure Outfit with Falling Snow and Game Controller in Santa Hat	2025	3.25
 768	Super Heroes / Batman II	sh1088	Batwing without Sticker	2025	6.3
 768	Super Heroes / Batman II	sh1083	Batwoman - Cape Black and Red Sides	2025	4.47
 768	Super Heroes / Batman II	sh1079	Robin - Green Mask, Red Hands, Black Medium Legs, Scalloped Asymmetrical Cape Black and Yellow Sides	2025	3.6
@@ -18114,7 +18114,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 390	Holiday & Event / Christmas / Train	hol380	Holiday Express Train Conductor - Pearl Gold Vest, Dark Blue Legs and Hat	2025	3.57
 65	Star Wars / Star Wars Episode 4/5/6	sw1467	Obi-Wan Kenobi - Old, Dark Brown Hood and Spongy Cape	2025	4.12
 65	Star Wars / Star Wars Episode 4/5/6	sw1471	Grand Moff Wilhuff Tarkin - Dark Bluish Gray Uniform, Swept Back Hair, Dark Bluish Gray Eyebrows	2025	3.44
-65	Star Wars / Star Wars Episode 4/5/6	sw1470	Admiral (Colonel) Wullf Yularen - Swept Back Hair	2025	3.44
+65	Star Wars / Star Wars Episode 4/5/6	sw1470	Admiral Wullf Yularen - White Uniform, White Swept Back Hair (Colonel)	2025	3.44
 65	Star Wars / Star Wars Episode 4/5/6	sw1468	Admiral Motti	2025	3.4
 65	Star Wars / Star Wars Episode 4/5/6	sw1469	General Tagge	2025	3.48
 65	Star Wars / Star Wars Episode 4/5/6	sw1473	5D6-RA-7 Protocol Droid	2025	3.15
@@ -18125,7 +18125,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Other	sw1479	Hot Tub Stormtrooper	2025	4.35
 65	Star Wars / Star Wars Rogue One	sw1481	Galen Erso	2025	3.38
 65	Star Wars / Star Wars Episode 4/5/6	sw1478	Imperial Royal Guard - Dark Red Arms and Hands, Torso Creases on Front and Back	2025	4.1
-65	Star Wars / Star Wars Episode 4/5/6	sw1480	Imperial Shuttle Pilot - Medium Nougat Head	2025	3.37
+65	Star Wars / Star Wars Episode 4/5/6	sw1480	Imperial Shuttle Pilot - Medium Nougat Head, Imperial Officer Cap	2025	3.37
 768	Super Heroes / Avengers	sh1093	Captain America - Dark Blue Suit with Dark Blue Belt, Red Hands, Helmet	2025	3.5
 768	Super Heroes / Avengers	sh1094	Thanos - Minifigure, Dark Blue and Gold Outfit, Dark Blue Arms, Medium Lavender Hands, Helmet	2025	3.72
 1095	Super Mario / Mario Kart	mar0225	Shy Guy - Dark Brown Belt	2025	12.4
@@ -18211,10 +18211,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1197	BrickLink Designer Program	bdp223	Lion Knight - Female, Flat Silver Neck Protector	2025	3.67
 817	LEGO Ideas (CUUSOO)	idea272	Astronaut - Female, White Spacesuit with Bright Green Arms, Bright Green Legs, Trans-Clear Fishbowl Helmet	2025	4.18
 817	LEGO Ideas (CUUSOO)	idea273	Astronaut - Male, White Spacesuit with Bright Light Orange Arms, Bright Light Orange Legs, Trans-Clear Fishbowl Helmet	2025	4.18
-759	NINJAGO / Dragons Rising Season 3	njo0994	Kai - Dragons Rising, Tunic with Shoulder Armor, Hair (Book b25njo06)	?	4.05
+759	NINJAGO / Dragons Rising Season 3	njo0994	Kai - Dragons Rising, Tunic with Shoulder Armor, Hair (Book b25njo06)	2025	4.05
 67	Town / City / Space Exploration	cty1937	Astronaut - Male, White Spacesuit with Bright Green Arms, Bright Green Helmet, Trans-Clear Visor, Bright Green Harness with 2 Clips	2025	?
 53	Adventurers / Orient Expedition	adv056	Ngan Pa (Yeti Hunter)	2003	4.14
-53	Adventurers / Orient Expedition	adv055	Sherpa Sangye Dorje with Backpack	2003	6.14
+53	Adventurers / Orient Expedition	adv055	Sherpa Sanjye Dorje with Backpack	2003	6.14
 1197	BrickLink Designer Program	bdp224	Antique Shop - Male, Light Bluish Gray Knit Cable Cardigan Sweater, Dark Tan Legs with Pockets, Reddish Brown Flat Cap	2025	3.57
 1197	BrickLink Designer Program	bdp225	Antique Shop - Female, Bright Light Orange Jacket, Dark Tan Legs with Molded Reddish Brown Boots, Black Ponytail	2025	3.98
 1197	BrickLink Designer Program	bdp226	Antique Shop - Female Child, Bright Light Blue Hoodie over Dark Purple Shirt, Medium Lavender Short Legs, Bright Light Yellow Ponytail	2025	3.3
@@ -18260,4 +18260,86 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 976	LEGO Brand / LEGO Brand Store / Build-A-Minifigure / Holiday & Event / Halloween	hol397	Witch Girl	2025	5.81
 390	Holiday & Event / Christmas	hol402	Ice Skater - Female, Reddish Brown Jacket, Dark Blue Legs, Medium Lavender Beanie	2025	3.6
 390	Holiday & Event / Christmas	hol403	Ice Skater - Male, Red Jacket over White Shirt, Dark Blue Legs, Dark Bluish Gray Beanie	2025	3.6
-102	Scala	scaFemY04a	Scala Doll Female Young (Emma with 3117 Outfit)	?	23.27
+390	Holiday & Event / Christmas	hol404	Carol Choir Saxophone Player - Boy, Bright Light Blue Knit Fair Isle Sweater	2025	3.24
+390	Holiday & Event / Christmas	hol405	Carol Choir Double Bass Player - Female, Tan Knit Argyle Sweater Vest	2025	4.64
+390	Holiday & Event / Christmas	hol406	Carol Choir Singer / Caroler - Girl, Dark Green Knit Fair Isle Holiday Sweater	2025	3.32
+102	Scala	scaFemY04a	Scala Doll Female Young (Emma with 3117 Outfit)	1998	23.27
+1197	BrickLink Designer Program	bdp252	Pirate - Male, Sand Blue Vest, Dark Blue Legs, Red Bandana	2025	3.42
+1197	BrickLink Designer Program	bdp253	Fortune Teller - Female	2025	4.43
+759	NINJAGO / Dragons Rising Season 3	njo0995	Rogue (Jay) - Black Hat	2025	3.84
+1197	BrickLink Designer Program	bdp254	Pirate Captain Ogel	2025	4.4
+1197	BrickLink Designer Program	bdp255	Pirate - Female, Dark Red Vest and Legs, Bright Light Yellow Long Wavy Hair	2025	4.12
+1197	BrickLink Designer Program	bdp256	Pirate - Male, Blue Vest, Black Legs, Black Hair with Short Ponytail	2025	3.5
+1197	BrickLink Designer Program	bdp257	Pirate - Female, Sand Green Vest, Reddish Brown Legs, Red Bandana	2025	3.46
+1197	BrickLink Designer Program	bdp258	Pirate - Female, Olive Green Vest and Legs, Black Bicorne Hat	2025	3.64
+1197	BrickLink Designer Program	bdp259	Pirate - Female, Tan Vest and Legs, Black Tricorne Hat	2025	3.8
+1197	BrickLink Designer Program	bdp260	Pirate - Male, Reddish Brown Apron, Black Hair and Moustache	2025	3.76
+1197	BrickLink Designer Program	bdp261	Pirate - Boy, White Tank Top with Red Stripes, Dark Green Medium Legs, Red Bandana	2025	3.32
+1197	BrickLink Designer Program	bdp262	Imperial Soldier - Female, Sand Green Jacket Formal, White Legs with Black Boots, Reddish Brown Backpack, Black Tricorne Hat	2025	4.69
+1197	BrickLink Designer Program	bdp264	Imperial Soldier - Male, Sand Green Jacket Formal, White Legs with Black Boots, Reddish Brown Backpack, Black Tricorne Hat	2025	4.69
+1197	BrickLink Designer Program	bdp263	Pirate - Male, White Tank Top with Red Stripes, Blue Legs, Black Bicorne Hat with Skull and Crossbones	2025	3.6
+102	Scala	22356	Scala Doll Female Young (Marie with 3134 Outfit)	1999	23.67
+102	Scala	22684	Scala Doll Male Adult (Christian in 3158 Outfit)	2000	45.05
+102	Scala	22358	Scala Doll Male Adult (Christian in 3136 Outfit)	1999	41.38
+746	Collectible Minifigures / Series 28 Minifigures	col461	Peacock Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	6.36
+746	Collectible Minifigures / Series 28 Minifigures	col462	Cat Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	4.68
+746	Collectible Minifigures / Series 28 Minifigures	col463	Goldfish Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	5.8
+746	Collectible Minifigures / Series 28 Minifigures	col464	Monkey Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	4.6
+746	Collectible Minifigures / Series 28 Minifigures	col465	Frog Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	3.93
+166	Educational & Dacta / Science	pln208	Plain Bright Light Orange Torso, Bright Light Orange Legs, Bright Light Orange Head (Monochrome)	2025	3.03
+166	Educational & Dacta / Science	pln209	Plain White Torso, Dark Blue Legs, Standard Grin	2025	3.03
+746	Collectible Minifigures / Series 28 Minifigures	col466	Koala Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	3.97
+746	Collectible Minifigures / Series 28 Minifigures	col467	Dalmatian Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	4.67
+1043	Stranger Things	st010	Mr. Whatsit (11370)	2026	3.38
+1043	Stranger Things	st016	Mike Wheeler - Light Aqua Jacket (11370)	2026	3.68
+1043	Stranger Things	st012	Robin Buckley (11370)	2026	3.83
+1043	Stranger Things	st013	Will Byers - Blue Jacket, Reddish Brown Legs (11370)	2026	3.38
+1043	Stranger Things	st015	Max Mayfield (11370)	2026	4.58
+1043	Stranger Things	st011	Eleven - Dark Brown Hair (11370)	2026	3.5
+1043	Stranger Things	st017	Holly Wheeler (11370)	2026	4.11
+1043	Stranger Things	st018	Lucas Sinclair - Dark Azure Shirt (11370)	2026	3.71
+1043	Stranger Things	st019	Dustin Henderson - Bright Light Orange Cap (11370)	2026	3.89
+1043	Stranger Things	st020	Nancy Wheeler (11370)	2026	4.85
+1043	Stranger Things	st021	Steve Harrington (11370)	2026	3.64
+1043	Stranger Things	st022	Jonathan Byers (11370)	2026	3.75
+746	Collectible Minifigures / Series 28 Minifigures	col468	Crocodile Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	5.18
+746	Collectible Minifigures / Series 28 Minifigures	col469	Dolphin Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	5.22
+746	Collectible Minifigures / Series 28 Minifigures	col470	Bunny Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	4.36
+746	Collectible Minifigures / Series 28 Minifigures	col471	Lion Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	5.9
+746	Collectible Minifigures / Series 28 Minifigures	col472	Parrot Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	4.82
+227	Harry Potter / Deathly Hallows	hp597	Harry Potter - Dark Brown Open Jacket, Sand Blue Legs (76467)	2026	3.4
+227	Harry Potter / Deathly Hallows	hp598	Xenophilius Lovegood (76467)	2026	4.12
+227	Harry Potter / Deathly Hallows	hp599	Death Eater - Black Hood, Black Arms (76467)	2026	3.88
+801	Minecraft	min242	Micromob Steve - Short, Dark Brown Hair, Dark Azure Legs (21589)	2026	0.5
+801	Minecraft	min243	Micromob Husk (21589)	2026	0.5
+801	Minecraft	min244	Micromob Pillager (21589)	2026	0.5
+67	Town	twn533	Shopping Street Shop Manager - Male, Sand Blue Shirt, Dark Bluish Gray Legs, Reddish Brown Hair	2026	3.52
+67	Town	twn532	Shopping Street Mum - Bright Light Blue Denim Jacket, Black Legs, Dark Brown Hair	2026	3.64
+67	Town	twn534	Shopping Street Child - Boy, Dark Purple Marching Band Jacket, White Short Legs, Reddish Brown Hair	2026	3.42
+67	Town	twn536	Shopping Street Child - Girl, Dark Purple Marching Band Jacket, White Short Legs, Reddish Brown Hair	2026	3.28
+67	Town	twn535	Shopping Street Plumber - Male, Bright Light Blue Shirt, Dark Blue Overalls and Legs, Red Construction Helmet	2026	3.54
+67	Town	twn537	Shopping Street Carpenter - Female, White Shirt, Reddish Brown Apron, Sand Blue Legs, Dark Orange Hair	2026	3.85
+67	Town	twn538	Shopping Street Furniture Mover - Male, Tan Sweater, Bright Light Blue Legs, Dark Blue Cap	2026	3.38
+759	NINJAGO / Legacy	njo1012	Mystake - Light Bluish Gray Sweater, Conical Hat	2026	3.47
+759	NINJAGO / Legacy	njo1014	Chuck the Carpenter	2026	3.58
+759	NINJAGO / Legacy	njo1020	Administrative Agent	2026	4.41
+759	NINJAGO / Legacy	njo1021	Faith - Legacy	2026	3.53
+759	NINJAGO / Legacy	njo1023	Harumi - Legacy	2026	3.73
+759	NINJAGO / Legacy	njo1026	Dr. Sanders Saunders (Krux Disguise)	2026	3.44
+759	NINJAGO / Legacy	njo1028	Dr. Julien	2026	3.57
+759	NINJAGO / Legacy	njo1000	First Spinjitzu Master	2026	3.44
+801	Minecraft	min246	Wastelands Wanderer (21587)	2026	4.25
+801	Minecraft	min245	Zombie - Medium Lavender Legs (21587)	2026	3.42
+227	Harry Potter / Prisoner of Azkaban	hp600	Penelope Clearwater	2026	3.83
+227	Harry Potter / Prisoner of Azkaban	hp601	The Grey Lady - Parted Bangs Swept Back	2026	4.6
+227	Harry Potter / Prisoner of Azkaban	hp602	Dementor - Black with Black Cape, Head with Eye Holes	2026	4.54
+227	Harry Potter / Prisoner of Azkaban	hp603	Professor Remus Lupin - Olive Green Suit	2026	3.56
+227	Harry Potter / Prisoner of Azkaban	hp604	Ron Weasley - Gryffindor Robe Clasped, Black Medium Legs, Open Mouth Smile	2026	3.36
+227	Harry Potter / Prisoner of Azkaban	hp605	Harry Potter - Gryffindor Robe Open, Black Medium Legs, Hair Thick and Messy	2026	3.62
+227	Harry Potter / Prisoner of Azkaban	hp606	Hermione Granger - Bright Pink Hoodie with Time Turner Necklace	2026	4.33
+759	NINJAGO / Dragons Rising Season 4	njo1032	Acid Monster	2026	7.98
+67	Town / City / Food & Drink	cty1939	Fries Food Truck Vendor - Female, Black Vest, Sand Blue Legs, Red Cap	2026	3.39
+67	Town / City / Food & Drink	cty1940	Construction Worker - Female, Reddish Orange Safety Jacket with Reflective Stripes, Dark Bluish Gray Legs with Knee Pads, Black Hair Braided with Knot Bun	2026	3.76
+227	Harry Potter / Sorcerer's Stone	hp607	Harry Potter - Hogwarts Robe, Black Tie, Surprised	2026	3.36
+227	Harry Potter / Sorcerer's Stone	hp608	Draco Malfoy - Hogwarts Robe, Black Tie, Grin	2026	3.03
+227	Harry Potter / Sorcerer's Stone	hp609	Professor Minerva McGonagall - Dark Green Robe, Plain Skirt, Hat with Hair	2026	4.65

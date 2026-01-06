@@ -561,7 +561,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 317	Idea Book	5919de	Lustige Spiele mit deinen Steinen (ISBN 3-551-59164-4)	1987	175	20 x 26 x 0.5
 572	LEGOLAND Parks	b03lldepg	LEGOLAND Deutschland Park Guide 2003	2003	35	? x ? x ?
 331	Comic Book / BIONICLE	biocom10DE	Bionicle #10 January 2003 Die Kal kommen	2003	30	17 x 26 x 0.1
-331	Comic Book / BIONICLE	biocom03DE	Bionicle # 3 2002 Die Bohrok Erwachen	2002	30	17 x 26.1 x 0.1
+331	Comic Book / BIONICLE	biocom03DE	Bionicle # 3 2002 Die Bohrok Erwachen (German Edition)	2002	30	17 x 26.1 x 0.1
 331	Comic Book / BIONICLE	biocom02uk	Bionicle # 2 September 2001 The Legend Continues	2001	30	17 x 26.1 x 0.1
 462	Magazine	b95lolm	Lift Off Lego Maniacs	1995	25	? x ? x ?
 505	Story Book / BIONICLE	b06bio01	BIONICLE - Legends  #1: Island of Doom (Softcover)	2006	90	13.33 x 19.05 x 0.56
@@ -693,7 +693,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 576	Curriculum Activity Book / Educational & Dacta / Technic	9607b14	Set 9607 Activity Booklet 14 - {Oscillating Fan}	1994	25	14.8 x 21 x 0.1
 576	Curriculum Activity Book / Educational & Dacta / Technic	9607b15	Set 9607 Activity Booklet 15 - {Pallet Lifter}	1994	33.5	14.8 x 21 x 0.1
 462	Magazine	amUK01Sep	Adventures! Magazine UK - Issue 30 - September 2001	2001	?	? x ? x ?
-331	Comic Book / BIONICLE	biocom03uk	Bionicle # 3 April 2002 The Bohrok Awake!	2002	43	17 x 26.1 x 0.1
+331	Comic Book / BIONICLE	biocom03uk	Bionicle # 3 April 2002 The Bohrok Awake! (English - UK Edition)	2002	43	17 x 26.1 x 0.1
 331	Comic Book / BIONICLE	biocom12uk	Bionicle #12 June 2003 All Our Powers Against Us (English - UK Edition)	2003	45	17 x 26 x 0.1
 331	Comic Book / BIONICLE	biocom13uk	Bionicle #13 September 2003 Unleash the Rahkshi (English - UK Edition)	2003	45	? x ? x ?
 331	Comic Book / BIONICLE	biocom16uk	Bionicle #16 March 2004 Toa Metru! (English - UK Edition)	2004	40	17 x 26 x 0.1
@@ -1366,7 +1366,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 332	Informational Book / Technic	112185	Technic Pneumatic Pamphlet Overseas (112185-UK/F/E)	1985	5.6	14.8 x 21 x 0
 1102	Sticker Book	b09stk01	Ultimate Sticker Collection - Minifigure (9781405367110)	2009	492	21.5 x 27.8 x 0.8
 331	Comic Book / BIONICLE	4200400	Bionicle Mini Comic Book (4200400-IN)	2003	5	8.2 x 12 x 0.1
-572	LEGOLAND Parks	b97lluksg	LEGOLAND Windsor Souvenir Guidebook	1997	85	17 x 24 x 0.5
+572	LEGOLAND Parks	b97lluksg	LEGOLAND Windsor Souvenir Guidebook 1997	1997	85	17 x 24 x 0.5
 462	Magazine / DUPLO	DuploMag01	DUPLO Spiel & Spass Magazin 2010 01 'Ein Tag im Zoo'	2009	?	? x ? x ?
 462	Magazine / DUPLO	DuploMag02	DUPLO Spiel & Spass Magazin 2010 02 'Ein Tag auf dem Bauernhof'	2010	?	? x ? x ?
 462	Magazine / DUPLO	DUPLOMag03	DUPLO Spiel & Spass Magazin 2010 03 'Ein Tag bei den Pferden'	2010	?	? x ? x ?
@@ -2335,11 +2335,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 462	Magazine / DUPLO	dupmag14nl01	Duplo Magazine 2014 Spring (089380-BE-NL)	2014	?	? x ? x ?
 317	Idea Book / Star Wars	b14sw09pl	Star Wars - Brickmaster: Bitwa o Skradzione Kryształy (Hardcover) (Polish Edition)	2014	820	23.5 x 28.3 x 4
 766	Activity Book / Town / City	b14cty03pl	City - Podstęp rekinów (Polish Edition)	2014	?	20.5 x 29 x 1.8
-332	Informational Book / Star Wars	5004195	Star Wars - The Visual Dictionary: Updated and Expanded	2014	1208	26 x 30.8 x 2.5
+332	Informational Book / Star Wars	b14sw01	Star Wars - The Visual Dictionary: Updated and Expanded	2014	1208	26 x 30.8 x 2.5
 331	Comic Book / Super Heroes	mc22	Super Heroes Comic Book, Marvel, Rocket Raccoon #1 Variant Cover	2014	?	? x ? x ?
 331	Comic Book / Super Heroes	6090093	Super Heroes Comic Book, Marvel, Guardians of the Galaxy / X-Men (6090093 / 6090096)	2014	9.1	12.6 x 17 x 2
 1167	Magazine, LEGO Club	mag2014be3nl	Lego Club Magazine (Belgium) 2014 June - July - August	2014	60	20.3 x 26.7 x 0.5
-1026	Magazine, LEGENDS OF CHIMA	mag2014chi06uk	LEGENDS OF CHIMA Magazine 2014 Issue 9 (English - UK)	2014	?	? x ? x ?
+1026	Magazine, LEGENDS OF CHIMA	mag2014chi09uk	LEGENDS OF CHIMA Magazine 2014 Issue 9 (English - UK)	2014	?	? x ? x ?
 572	LEGOLAND Parks	b13llukpg2	LEGOLAND Windsor Resort Guide 2013 (2 September - 4 November)	2013	?	? x ? x ?
 331	Comic Book / LEGENDS OF CHIMA	25094462-BENL	LEGENDS OF CHIMA Comic Book - Issue 3 - Beheers het Vuur (25094462_BENL)	2014	32	14.8 x 21 x 0.1
 1167	Magazine, LEGO Club	mag2014ausnz3	Lego Club Magazine (Australia/New Zealand) 2014 Jul - Sep	2014	?	? x ? x ?
@@ -3028,7 +3028,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 505	Story Book / Star Wars / Star Wars Yoda Chronicles	b13sw01nl	Star Wars - De Yoda Kronieken (Hardcover) (Dutch Edition)	2013	699	23.6 x 28.1 x 2.4
 317	Idea Book / Star Wars	b13sw05nl	Star Wars - Bouwmeester: Strijd Om De Gestolen Kristallen (Hardcover) (Dutch Edition)	2013	820	23.7 x 28.3 x 3.7
 505	Story Book / Star Wars	b11sw04nl	Star Wars - Anakin: Ruimtepiloot (Hardcover) (Dutch Edition)	2011	325	20.9 x 27.8 x 2.2
-332	Informational Book / Star Wars	9789030500995	Star Wars - Het Complete Werk - Vernieuwd En Uitgebreid (Dutch Edition)	2015	1204	26 x 30.8 x 2.3
+332	Informational Book / Star Wars	b15sw21nl	Star Wars - Het Complete Werk - Vernieuwd En Uitgebreid (Dutch Edition)	2015	1204	26 x 30.8 x 2.3
 317	Idea Book / NINJAGO / Rise of the Snakes	b12njo07nl	NINJAGO - Bouwmeester: Strijd Tegen De Machtige Slangen (Hardcover) (Dutch Edition)	2012	705	23.9 x 28.2 x 3.4
 332	Informational Book / NINJAGO	9789048826308	NINJAGO - De Verborgen Wereld Van De Ninja (Hardcover)	2015	819	23.6 x 28 x 2.5
 317	Idea Book / NINJAGO / Rebooted	b15njo07nl	NINJAGO - Bouw je eigen Avontuur (Box Set) (Dutch Edition)	2015	1029	22.5 x 27.5 x 4.5
@@ -4082,7 +4082,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 576	Curriculum Activity Book / Educational & Dacta / DUPLO	9067b01	Set 9067 Activity Booklet	1999	?	? x ? x ?
 1025	Magazine, Star Wars	mag2018sw07pl	Star Wars Magazine 2018 Issue 7 (Polish)	2018	81	21 x 28 x 0.13
 1024	Magazine, NINJAGO	mag2018njo06pl	NINJAGO Magazine 2018 Issue 6 (Polish)	2018	81	21 x 28 x 0.13
-332	Informational Book / Super Heroes	9780241320037	DC Super Heroes - Visual Dictionary	2018	?	25.2 x 30.1 x 0
+332	Informational Book / Super Heroes	9780241320037	DC Super Heroes - Visual Dictionary	2018	1136	25.2 x 30.1 x 0
 332	Informational Book / Super Heroes / Justice League	9781338128123	DC Comics Super Heroes The Official Justice League Training Manual	2018	?	15.9 x 20.7 x 0
 576	Curriculum Activity Book / Educational & Dacta / Town	9364b02	Set 9364 Cover Card (167444)	1993	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta / Town	9364b03	Set 9364 Activity Card 1	1993	0.34	37 x 25.5 x 0
@@ -4995,7 +4995,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 332	Informational Book / Super Heroes	b19sh03	DC Super Heroes - Super-Villain's Guide to Being Bad (Hardcover)	2019	?	? x ? x ?
 332	Informational Book / Super Heroes / Batman II	9781553632771	DC Comics Super Heroes - Adventure Pack (Canadian Edition)	2016	?	? x ? x ?
 505	Story Book / NINJAGO	9781407197081	NINJAGO - Legends of the Ninja (Hardcover)	2019	?	? x ? x ?
-332	Informational Book / NINJAGO	9780241401279	NINJAGO - Choose Your Ninja Mission (Hardcover)	2020	?	20 x 26 x 2.7
+332	Informational Book / NINJAGO	b20njol17	NINJAGO - Choose Your Ninja Mission (Hardcover)	2020	?	20 x 26 x 2.7
 1024	Magazine, NINJAGO / Legacy	mag2020njol02pl	NINJAGO Legacy Magazine 2020 Issue 2 (Polish)	2020	81	23 x 30 x 0.13
 1102	Sticker Book / Star Wars	b14sw11	Star Wars - Ultimate Sticker Collection: Choose Your Side! (2014 Edition) (Softcover)	2014	?	21.7 x 28.1 x 0.9
 1102	Sticker Book / Star Wars	b15sw17	Star Wars - Ultimate Sticker Collection: Choose Your Side! (2015 Edition) (Softcover)	2015	?	21.7 x 28.1 x 0.9
@@ -6116,7 +6116,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1021	Magazine, City	mag2022cty48de	City Magazine 2022 Issue 48 (German)	2022	?	? x ? x ?
 766	Activity Book / Super Heroes / Batman II	b21sh01de	Batman - Rätselspass für wahre Helden (Softcover) (German Edition)	2021	170	20.5 x 29 x 2
 1024	Magazine, NINJAGO	mag2022njo96de	NINJAGO Magazine 2022 Issue 96 (German)	2022	?	? x ? x ?
-766	Activity Book / Holiday & Event / Easter	b21hol01	Build Easter Fun! (Softcover)	2021	?	? x ? x ?
+766	Activity Book / Holiday & Event / Easter	b21hol01	Build Easter Fun! (Softcover)	2021	270	21.5 x 27.4 x 3
 1063	Magazine, Super Heroes / Batman II	mag2022shba24de	Batman Magazine 2022 Issue 24 (German)	2022	81	21 x 28 x 0.13
 1063	Magazine, Super Heroes / Spider-Man	mag2022shsp05nl	Spider-Man Magazine 2022 Issue 5 (Dutch)	2022	105	21 x 28.5 x 1.5
 1165	Magazine, Minecraft	mag2022min06nl	Minecraft Magazine 2022 Issue 6 (Dutch)	2022	116	21 x 28.5 x 1.5
@@ -6160,7 +6160,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1063	Magazine, Super Heroes / Avengers	mag2020shav01cz	Avengers Magazine 2020 Issue 1 (Czech)	2020	80	21 x 28 x 0.13
 505	Story Book / The LEGO Movie 2	b19tlm07	The LEGO Movie 2 - Welcome to Apocalypseburg (Softcover)	2019	70.87	15.24 x 22.86 x 0.32
 505	Story Book / The LEGO NINJAGO Movie	b17tlnm06	The LEGO NINJAGO Movie - Lloyd: A Hero's Journey (Softcover)	2017	70.87	15.24 x 22.86 x 0.32
-766	Activity Book / Harry Potter	b22hp07	Harry Potter - 5-Minute Harry Potter Builds	2022	?	? x ? x ?
+766	Activity Book / Harry Potter	b22hp07	Harry Potter - 5-Minute Harry Potter Builds	2022	680	? x ? x ?
 766	Activity Book / Harry Potter	b22hp08de	Harry Potter - Zeit für Zauberer (German Edition)	2022	?	? x ? x ?
 1024	Magazine, NINJAGO	mag2022njo97de	NINJAGO Magazine 2022 Issue 97 (German)	2022	?	? x ? x ?
 766	Activity Book / NINJAGO	b22njo07de	NINJAGO - Rätselabenteuer für Teamplayer (Softcover) (German Edition)	2022	153	21 x 29 x 3
@@ -6186,7 +6186,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 572	LEGOLAND Parks	b06llukpg3	LEGOLAND Windsor Park Guide 2006	2006	10	10 x 21 x 0.1
 572	LEGOLAND Parks	b10llukpg	LEGOLAND Windsor Park Guide 2010 with Map	2010	19	10 x 21 x 0.2
 572	LEGOLAND Parks	b13llukpg1	LEGOLAND Windsor Resort Guide 2013 (20 July - 2 September)	2013	29	10 x 21 x 0.2
-766	Activity Book / Harry Potter	b22hp09	Harry Potter - 5-Minute Harry Potter Builds - book only entry	2022	?	? x ? x ?
+766	Activity Book / Harry Potter	b22hp09	Harry Potter - 5-Minute Harry Potter Builds - book only entry	2022	310	? x ? x ?
 331	Comic Book / Super Heroes / Avengers	com2022shav09de	Avengers Comic 2022 Issue 9 (German)	2022	?	17 x 26 x 0.3
 1025	Magazine, Star Wars	mag2022sw91de	Star Wars Magazine 2022 Issue 91 (German)	2022	?	21 x 28 x 0.5
 331	Comic Book / NINJAGO	com2022njo48de	NINJAGO Comic 2022 Issue 48 (German)	2022	?	17 x 26 x 1
@@ -6827,7 +6827,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1022	Magazine, Friends	mag2024frnd23uk	Friends Magazine 2024 Issue 23 (English - UK)	2024	78	20.8 x 27.8 x 0.2
 1261	Magazine, LEGO Life	mag2024life02de	LEGO Life Magazine 2024 Issue 2 March - June (German)	2024	65	20.4 x 26.8 x 0.2
 1269	Magazine, DREAMZzz	mag2024drm04de	DREAMZzz Magazine 2024 Issue 4 (German)	2024	?	? x ? x ?
-766	Activity Book / Harry Potter	b24hp01de	Harry Potter - Rätselspaß mit Bellatrix (Softcover) (German Edition)	2024	?	? x ? x ?
+766	Activity Book / Harry Potter	b24hp01de	Harry Potter - Rätselspaß mit Bellatrix (Softcover) (German Edition)	2024	155	20.6 x 28.9 x 2.4
 1063	Magazine, Super Heroes / Spider-Man	mag2024shsp08de	Spider-Man Magazine 2024 Issue 8 (German)	2024	81	21 x 28 x 0.13
 1024	Magazine, NINJAGO	mag2024njo112uk	NINJAGO Magazine 2024 Issue 112 (English - UK)	2024	84	20.8 x 27.8 x 0.2
 1269	Magazine, DREAMZzz	mag2024drm04uk	DREAMZzz Magazine 2024 Issue 4 (English - UK)	2024	84	20.8 x 27.8 x 0.2
@@ -6840,7 +6840,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 332	Informational Book / Scala	b00sca01nl	Scala - Hoi, ik heet Emma: Hoe heet jij? (Softcover) (Dutch Edition)	2000	44	12 x 17 x 1
 1021	Magazine, City	mag2024cty64de	City Magazine 2024 Issue 64 (German)	2024	?	? x ? x ?
 1022	Magazine, Friends	mag2024frnd03nl	Friends Magazine 2024 Issue 3 (Dutch)	2024	97.8	21 x 28 x 1.4
-505	Story Book / Dungeons & Dragons	b24dnd01	Dungeons & Dragons - Red Dragon's Tale: A LEGO Adventure (Softcover)	2024	?	? x ? x ?
+505	Story Book / Dungeons & Dragons	b24dnd01	Dungeons & Dragons - Red Dragon's Tale: A LEGO Adventure (Softcover)	2024	152	? x ? x ?
 505	Story Book / Disney / Disney Princess	b21dp01	Disney Princess - Enchanted Treasury (Box Set)	2021	?	21.6 x 26.7 x 3.2
 332	Informational Book / Star Wars	b15sw19	Star Wars - In 100 Scenes (with Minifigure) (Hardcover)	2015	798	18.8 x 23.7 x 2.8
 332	Informational Book / Star Wars	b20sw11	Star Wars - Character Encyclopedia: New Edition (Hardcover)	2020	?	? x ? x ?
@@ -6936,7 +6936,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1024	Magazine, NINJAGO / Legacy	mag2024njol31de	NINJAGO Legacy Magazine 2024 Issue 31 (German)	2024	?	? x ? x ?
 766	Activity Book / Harry Potter	b20hp01de	Harry Potter - Magische Rätsel mit Grossen Zauberern (Softcover) (German Edition)	2020	154	21.5 x 29 x 2
 766	Activity Book / Harry Potter	b23hp04de	Harry Potter - Magische Rätselmissionen (Softcover) (German Edition)	2023	?	? x ? x ?
-766	Activity Book / Harry Potter	b24hp03de	Harry Potter - Rätselspass mit Voldemort (Softcover) (German Edition)	2024	?	? x ? x ?
+766	Activity Book / Harry Potter	b24hp03de	Harry Potter - Rätselspass mit Voldemort (Softcover) (German Edition)	2024	165	20.5 x 28.8 x 2.5
 766	Activity Book / Harry Potter	b21hp01de	Harry Potter - Die Macht der Magie (Softcover) (German Edition)	2021	161	20.5 x 29 x 2
 766	Activity Book / Harry Potter	b21hp16	Harry Potter - Zauberschüler auf Mission (Softcover) (German Edition)	2021	?	? x ? x ?
 766	Activity Book / Harry Potter	b23hp10de	Harry Potter - Dumbledores geheime Welt (Softcover) (German Edition)	2023	?	? x ? x ?
@@ -7249,7 +7249,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1063	Magazine, Super Heroes / Avengers	mag2024shav03nl	Avengers Magazine 2024 Issue 3 (Dutch)	2024	95	21 x 28 x 1.5
 1024	Magazine, NINJAGO	mag2024njo08nl	NINJAGO Magazine 2024 Issue 8 (Dutch)	2024	85	21 x 28 x 1.5
 766	Activity Book / Star Wars	b22sw08uk	Star Wars - Fun Time (Softcover) (English - UK Edition) {Biggs Darklighter Minifigure}	2022	?	14.3 x 20.1 x 2
-766	Activity Book / Jurassic World	b25jw01de	Jurassic World - Rätselspass für Jurassic-Fans (Softcover) (German Edition)	2025	?	? x ? x ?
+766	Activity Book / Jurassic World	b25jw01de	Jurassic World - Rätselspass für Jurassic-Fans (Softcover) (German Edition)	2025	159	20.4 x 28.8 x 2.15
 1323	Magazine, LEGO Magazine	mag2024lmag01de	LEGO Magazine 2024 Issue 1 November - December (German)	2024	63	20.2 x 26.8 x 0.2
 1063	Magazine, Super Heroes / Avengers	mag2024shav27de	Avengers Magazine 2024 Issue 27 (German)	2024	81	21 x 28 x 0.13
 1084	Magazine, Jurassic World	mag2024jw42de	Jurassic World Magazine 2024 Issue 42 (German)	2024	81	21 x 28 x 0.13
@@ -7374,6 +7374,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1025	Magazine, Star Wars	mag2025sw120uk	Star Wars Magazine 2025 Issue 120 (English - UK)	2025	85	21 x 28 x 0.2
 1022	Magazine, Friends	mag2025frnd09de	Friends Magazine 2025 Issue 9 (German)	2025	?	? x ? x ?
 1024	Magazine, NINJAGO	mag2025njo127de	NINJAGO Magazine 2025 Issue 127 (German)	2025	?	? x ? x ?
+766	Activity Book / Friends	b16frnd02	Friends - A Day Out (Softcover)	2016	?	? x ? x ?
 1261	Magazine, LEGO Life	mag2018life02	LEGO Life Magazine 2018 Issue 2 March - May	2018	?	? x ? x ?
 1261	Magazine, LEGO Life	mag2018life01	LEGO Life Magazine 2018 Issue 1 January - February	2018	?	? x ? x ?
 1261	Magazine, LEGO Life	mag2018life04	LEGO Life Magazine 2018 Issue 4 September - October	2018	?	? x ? x ?
@@ -7388,7 +7389,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 505	Story Book / NINJAGO	b12njo24	NINJAGO - Masters of Spinjitzu - Cole: Ninja of Earth / Jay: Ninja of Lightning (Softcover)	2012	117.2	13.5 x 19.1 x 1
 1269	Magazine, DREAMZzz	mag2025drm09de	DREAMZzz Magazine 2025 Issue 9 (German)	2025	?	? x ? x ?
 1165	Magazine, Minecraft	mag2023min13de	Minecraft Magazine 2023 Issue 13 (German)	2023	?	21 x 28 x 3
-766	Activity Book / Star Wars / Star Wars Episode 1	b25sw03uk	Star Wars - The Chosen One (English - UK Edition)	2025	158	? x ? x ?
+766	Activity Book / Star Wars / Star Wars Episode 1	b25sw03uk	Star Wars - The Chosen One (English - UK Edition)	2025	158	20.5 x 28.8 x 2.5
 1024	Magazine, NINJAGO / Legacy	mag2025njol37de	NINJAGO Legacy Magazine 2025 Issue 37 (German)	2025	?	? x ? x ?
 1021	Magazine, City	mag2025cty77de	City Magazine 2025 Issue 77 (German)	2025	?	? x ? x ?
 332	Informational Book / DUPLO / DUPLO, Train	b25dup01	Information Foldout for Duplo Push & Go Motor (6524385/6524387)	2025	22.1	41.5 x 59.4 x 0.02
@@ -7414,7 +7415,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1024	Magazine, NINJAGO	mag2024njo122uk	NINJAGO Magazine 2024 Issue 122 (English - UK)	2024	?	? x ? x ?
 1102	Sticker Book / NINJAGO / Dragons Rising Season 3	b25njo02de	NINJAGO - Stickeralbum: Dragons Rising (Softcover) (German Edition)	2025	120	21 x 28 x 0.3
 1024	Magazine, NINJAGO	mag2025njo129de	NINJAGO Magazine 2025 Issue 129 (German)	2025	?	? x ? x ?
-462	Magazine / Star Wars	mag2015sw01es	Star Wars Magazine 2015 Issue 1 (Spanish)	2015	?	21 x 28 x 0.1
+1025	Magazine, Star Wars	mag2015sw01es	Star Wars Magazine 2015 Issue 1 (Spanish)	2015	?	21 x 28 x 0.1
 1024	Magazine, NINJAGO / Legacy	mag2025njol38de	NINJAGO Legacy Magazine 2025 Issue 38 (German)	2025	?	? x ? x ?
 1167	Magazine, LEGO Club	mag2012nl4	Lego Club Magazine (Dutch) 2012 Editie 4	2012	?	20.5 x 26.5 x 0.2
 576	Curriculum Activity Book	6475688	Set 40724 Inventory Card with Braille Embossed Pattern - Spanish	2024	26	35 x 23 x 0.05
@@ -7424,6 +7425,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1024	Magazine, NINJAGO	mag2025njo03nl	NINJAGO Magazine 2025 Issue 3 (Dutch)	2025	98	21 x 28 x 1.5
 1021	Magazine, City	mag2025cty03nl	City Magazine 2025 Issue 3 (Dutch)	2025	108	21 x 28 x 3
 1269	Magazine, DREAMZzz	mag2025drm02nl	DREAMZzz Magazine 2025 Issue 2 (Dutch)	2025	102	21 x 28 x 2
+1167	Magazine, LEGO Club	mag2010juljr	Lego Club Junior Magazine 2010 July - August	2010	?	20.4 x 26.7 x 0.2
 332	Informational Book / DUPLO	98963	Instructions for Assembly of DUPLO Door	1977	?	? x ? x ?
 1024	Magazine, NINJAGO	mag2025njo130de	NINJAGO Magazine 2025 Issue 130 (German)	2025	?	? x ? x ?
 1025	Magazine, Star Wars	mag2025sw122de	Star Wars Magazine 2025 Issue 122 (German)	2025	81	21 x 28 x 0.13
@@ -7433,6 +7435,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1323	Magazine, LEGO Magazine	mag2025lmag03de	LEGO Magazine 2025 Issue 3 July - October (German)	2025	51	20.3 x 26.8 x 0.2
 1220	Magazine, Technic	mag2025tech06de	Technic Magazine 2025 Issue 6 (German)	2025	76	21.2 x 28.1 x 0.2
 1220	Magazine, Technic	mag2025tech07de	Technic Magazine 2025 Issue 7 (German)	2025	76	21.2 x 28.1 x 0.2
+1024	Magazine, NINJAGO	mag2024njo121uk	NINJAGO Magazine 2024 Issue 121 (English - UK)	2024	92.6	21 x 28 x 1.9
 1167	Magazine, LEGO Club	mag2009uk1	LEGO Club Magazine 2009 Issue 1 (English - UK)	2009	?	? x ? x ?
 1167	Magazine, LEGO Club	mag2009uk2	LEGO Club Magazine 2009 Issue 2 (English - UK)	2009	?	? x ? x ?
 1167	Magazine, LEGO Club	mag2009uk3	LEGO Club Magazine 2009 Issue 3 (English - UK)	2009	?	? x ? x ?
@@ -7465,7 +7468,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 552	Coloring Book / NINJAGO	b22njo16cz	NINJAGO - Drzte se a bojujte (Softcover) (Czech Edition)	2022	370	21 x 28 x 1
 505	Story Book / NINJAGO / Possession	b16njo16	NINJAGO - The Quest for the Crystal (Softcover)	2016	68	15.3 x 22.8 x 0.25
 1063	Magazine, Super Heroes / Batman II	mag2025shba40de	Batman Magazine 2025 Issue 40 (German)	2025	81	21 x 28 x 0.13
+766	Activity Book / NEXO KNIGHTS	b17nex09uk	NEXO KNIGHTS - Action Pack! (Box Set) (English - UK Edition)	2017	572	19.8 x 24.4 x 4.5
 1022	Magazine, Friends	mag2025frnd11de	Friends Magazine 2025 Issue 11 (German)	2025	?	? x ? x ?
+1102	Sticker Book / Castle	701276	Castle Hill Stick-on Action Set	1999	128	30.5 x 37.7 x 0.3
 766	Activity Book	b25other05nl	Bureaubuddy's (Box Set) (Dutch Edition)	2025	527	20.3 x 27 x 3.2
 766	Activity Book / Classic	b25cla01nl	Classic - Bouwen in 5 Minuten (Dutch Edition)	2025	683	20.7 x 27.2 x 3
 1021	Magazine, City	mag2025cty80de	City Magazine 2025 Issue 80 (German)	2025	?	? x ? x ?
@@ -7479,11 +7484,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1165	Magazine, Minecraft	mag2023min08pt	Minecraft Magazine 2023 Issue 8 (Portuguese)	2023	85	21 x 28 x 0.3
 1165	Magazine, Minecraft	mag2023min10pt	Minecraft Magazine 2023 Issue 10 (Portuguese)	2023	87	21 x 28 x 0.3
 1165	Magazine, Minecraft	mag2024min15pt	Minecraft Magazine 2024 Issue 15 (Portuguese)	2024	84	21 x 28 x 0.3
+572	LEGOLAND Parks	b02lluksg	LEGOLAND Windsor Souvenir Guidebook 2002	2002	129	16 x 22.5 x 0.05
 1024	Magazine, NINJAGO / Legacy	mag2025njol39de	NINJAGO Legacy Magazine 2025 Issue 39 (German)	2025	?	? x ? x ?
 1063	Magazine, Super Heroes / Spider-Man	mag2025shsp03nl	Spider-Man Magazine 2025 Issue 3 (Dutch)	2025	97	21 x 28 x 2
 1165	Magazine, Minecraft	mag2025min05nl	Minecraft Magazine 2025 Issue 5 (Dutch)	2025	104	21 x 28 x 2
 1025	Magazine, Star Wars	mag2025sw125de	Star Wars Magazine 2025 Issue 125 (German)	2025	81	21 x 28 x 0.13
 332	Informational Book	b25other06	LEGO Minifigure: A Visual History - Updated and Expanded (Hardcover)	2025	2044	25.6 x 30.6 x 4.1
+1030	Trading Card Album / NINJAGO	njoalbum	NINJAGO Spinjitzu Card Collection Holder (Album) - 2 x 2 Pages	2012	112	16.6 x 21 x 2
 1024	Magazine, NINJAGO	mag2025njo132de	NINJAGO Magazine 2025 Issue 132 (German)	2025	?	? x ? x ?
 1084	Magazine, Jurassic World	mag2025jw03hu	Jurassic World Magazine 2025 Issue 3 (Hungarian)	2025	73	21 x 27.3 x 0.13
 1063	Magazine, Super Heroes / Spider-Man	mag2023shsp06de	Spider-Man Magazine 2023 Issue 6 (German)	2023	81	21 x 28 x 0.13
@@ -7496,11 +7503,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1024	Magazine, NINJAGO	mag2025njo05nl	NINJAGO Magazine 2025 Issue 5 (Dutch)	2025	98	21 x 28 x 2
 1022	Magazine, Friends	mag2025frnd04nl	Friends Magazine 2025 Issue 4 (Dutch)	2025	103	21 x 28 x 2
 1220	Magazine, Technic	mag2025tech02nl	Technic Magazine 2025 Issue 2 (Dutch)	2025	141	21 x 28 x 2.5
+332	Informational Book / Star Wars	b16sw24	Star Wars - The Separatists (Hardcover)	2016	?	20 x 24 x 0.5
 1021	Magazine, City	mag2025cty81de	City Magazine 2025 Issue 81 (German)	2025	?	? x ? x ?
 1022	Magazine, Friends	mag2025frnd12de	Friends Magazine 2025 Issue 12 (German)	2025	?	? x ? x ?
 317	Idea Book	b18other05de	Geniale Maschinen (German Edition)	2018	506	25.9 x 25.4 x 2.8
+332	Informational Book / NINJAGO	b20njol17de	NINJAGO - Rette die Welt (Hardcover) (German Edition)	2020	687	20.5 x 26 x 2.9
 1024	Magazine, NINJAGO / Legacy	mag2025njol38uk	NINJAGO Legacy Magazine 2025 Issue 38 (English - UK)	2025	100	23.1 x 29.4 x 0.3
 1025	Magazine, Star Wars	mag2025sw126uk	Star Wars Magazine 2025 Issue 126 (English - UK)	2025	85	21 x 27.8 x 0.5
+766	Activity Book / Jurassic World	b21jw03uk	Jurassic World - Dino Lab Secrets (Softcover) (English - UK Edition)	2023	?	20.5 x 29 x 2
 766	Activity Book / NINJAGO / Dragons Rising Season 3	b25njo05	NINJAGO - Ultimate Ninja! (Softcover)	2025	?	? x ? x ?
 1024	Magazine, NINJAGO	mag2025njo133de	NINJAGO Magazine 2025 Issue 133 (German)	2025	?	? x ? x ?
 1167	Magazine, LEGO Club	mag2011nl5	Lego Club Magazine (Dutch) 2011 Editie 5	2011	?	? x ? x ?
@@ -7520,6 +7530,49 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1323	Magazine, LEGO Magazine	mag2025lmag01nl	LEGO Magazine 2025 Issue 1 January - March (Dutch)	2025	50	20.2 x 26.8 x 0.2
 1323	Magazine, LEGO Magazine	mag2025lmag02nl	LEGO Magazine 2025 Issue 2 April - June (Dutch)	2025	64	20.3 x 26.8 x 0.2
 1323	Magazine, LEGO Magazine	mag2024lmag01nl	LEGO Magazine 2024 Issue 1 November - December (Dutch)	2024	63	20.2 x 26.8 x 0.2
+1063	Magazine, Super Heroes / Avengers	mag2025shav32de	Avengers Magazine 2025 Issue 32 (German)	2025	81	21 x 28 x 0.13
 1025	Magazine, Star Wars	mag2025sw127de	Star Wars Magazine 2025 Issue 127 (German)	2025	81	21 x 28 x 0.13
+332	Informational Book	b25other06uk	LEGO Minifigure: A Visual History - Updated and Expanded (Hardcover) (English - UK Edition)	2025	2055	25.6 x 30.6 x 3.9
+766	Activity Book / Minecraft	b25min05uk	Minecraft - Alex vs. Creeper (Box Set) (English - UK Edition)	2025	549	24.5 x 27.9 x 3.5
+332	Informational Book / Star Wars	b25sw01	Star Wars - Character Encyclopedia: Updated Edition (Hardcover)	2025	940	23.7 x 18.7 x 3.9
+552	Coloring Book	b25other07	Stained Glass Art	2025	453	21.3 x 26 x 2.5
 1024	Magazine, NINJAGO	mag2025njo134de	NINJAGO Magazine 2025 Issue 134 (German)	2025	?	? x ? x ?
-1323	Magazine, LEGO Magazine	mag2025lmag04nl	LEGO Magazine 2025 Issue 4 November - December (Dutch)	2025	?	? x ? x ?
+1323	Magazine, LEGO Magazine	mag2025lmag04nl	LEGO Magazine 2025 Issue 4 November - December (Dutch)	2025	54	20.2 x 26.8 x 0.2
+576	Curriculum Activity Book / FIRST LEGO League	6469134	Set 45825 - Activity Card 1 - Concert Stage / Museum Exhibition	2023	11	28 x 21 x 0.01
+576	Curriculum Activity Book / FIRST LEGO League	6469136	Set 45825 - Activity Card 2 - Theater Forest Scene / Theater Ocean Scene	2023	12	28 x 21 x 0.01
+1022	Magazine, Friends	mag2025frnd13de	Friends Magazine 2025 Issue 13 (German)	2025	?	? x ? x ?
+1021	Magazine, City	mag2024cty07pl	City Magazine 2024 Issue 7 (Polish)	2024	?	? x ? x ?
+766	Activity Book / Star Wars / Star Wars Episode 1	b25sw03de	Star Wars - Rätselspass mit Anakin Skywalker (German Edition)	2025	?	? x ? x ?
+332	Informational Book / NINJAGO	b25njo06	NINJAGO - Adventure Atlas: Journey Through the World of Ninjago (Hardcover)	2025	636	20 x 26 x 2.8
+1021	Magazine, City	mag2025cty83de	City Magazine 2025 Issue 83 (German)	2025	?	? x ? x ?
+1024	Magazine, NINJAGO / Legacy	mag2025njol34uk	NINJAGO Legacy Magazine 2025 Issue 34 (English - UK)	2025	?	? x ? x ?
+1021	Magazine, City	mag2025cty83uk	City Magazine 2025 Issue 83 (English - UK)	2025	?	? x ? x ?
+1021	Magazine, City	mag2025cty84uk	City Magazine 2025 Issue 84 (English - UK)	2025	?	? x ? x ?
+1220	Magazine, Technic	mag2025tech03nl	Technic Magazine 2025 Issue 3 (Dutch)	2025	131	21 x 28 x 2.5
+1024	Magazine, NINJAGO	mag2025njol05nl	NINJAGO Legacy Magazine 2025 Issue 5 (Dutch)	2025	183	23 x 30 x 1.5
+1024	Magazine, NINJAGO	mag2025njo06nl	NINJAGO Magazine 2025 Issue 6 (Dutch)	2025	98	21 x 28 x 2
+1022	Magazine, Friends	mag2025frnd05nl	Friends Magazine 2025 Issue 5 (Dutch)	2025	103	21 x 28 x 2
+1021	Magazine, City	mag2025cty05nl	City Magazine 2025 Issue 5 (Dutch)	2025	98	21 x 28 x 3
+1063	Magazine, Super Heroes / Avengers	mag2025shav02nl	Avengers Magazine 2025 Issue 2 (Dutch)	2025	98	21 x 28 x 2
+1165	Magazine, Minecraft	mag2025min06nl	Minecraft Magazine 2025 Issue 6 (Dutch)	2025	100	21 x 28 x 2
+1024	Magazine, NINJAGO	mag2025njol04nl	NINJAGO Legacy Magazine 2025 Issue 4 (Dutch)	2025	183	23 x 30 x 1.5
+1024	Magazine, NINJAGO	mag2025njo135de	NINJAGO Magazine 2025 Issue 135 (German)	2025	?	? x ? x ?
+317	Idea Book / Harry Potter	b21hp17de	Harry Potter – Abenteuer Selbst Gebaut! – nur Buch (German Edition)	2021	389	21.2 x 25.5 x 0.8
+1024	Magazine, NINJAGO / Legacy	mag2025njol41de	NINJAGO Legacy Magazine 2025 Issue 41 (German)	2025	?	? x ? x ?
+332	Informational Book / Harry Potter	b22hp16cy	Harry Potter - Nadolig Harri Potter (Hardcover) (Welsh - UK Edition)	2022	?	? x ? x ?
+576	Curriculum Activity Book / Educational & Dacta / DUPLO / Dolls	4657547	Set 9215-2 - Activity Card 2 - Camping / Soccer	2012	20.3	28 x 21 x 0.03
+576	Curriculum Activity Book / Educational & Dacta / DUPLO / Dolls	4657546	Set 9215-2 - Activity Card 1 - Picture Book / Bathtime	2012	20.59	28 x 21 x 0.03
+576	Curriculum Activity Book / Educational & Dacta / DUPLO / Dolls	4657548	Set 9215-2 - Activity Card 3 - Play Stage / Party Decorations	2012	20.4	28 x 21 x 0.03
+576	Curriculum Activity Book / Educational & Dacta / DUPLO / Dolls	4657549	Set 9215-2 - Activity Card 4 - Rug / Playroom	2012	20.44	28 x 21 x 0.03
+1022	Magazine, Friends	mag2025frnd14de	Friends Magazine 2025 Issue 14 (German)	2025	?	? x ? x ?
+1025	Magazine, Star Wars	mag2025sw127es	Star Wars Magazine 2025 Issue 127 (Spanish)	2025	85	21 x 28 x 0.13
+1025	Magazine, Star Wars	mag2025sw130es	Star Wars Magazine 2025 Issue 130 (Spanish)	2025	83	21 x 28 x 0.13
+331	Comic Book / Star Wars	com2025sw11es	Star Wars Comic 2025 Issue 11 (Spanish)	2025	74	17 x 26 x 0.13
+1025	Magazine, Star Wars	mag2025sw125es	Star Wars Magazine 2025 Issue 125 (Spanish)	2025	87	21 x 28 x 0.13
+1025	Magazine, Star Wars	mag2025sw124es	Star Wars Magazine 2025 Issue 124 (Spanish)	2025	110	23 x 29.9 x 0.15
+1025	Magazine, Star Wars	mag2021sw71es	Star Wars Magazine 2021 Issue 71 (Spanish)	2021	90	21 x 28 x 0.13
+1025	Magazine, Star Wars	mag2021sw75es	Star Wars Magazine 2021 Issue 75 (Spanish)	2021	88	21 x 28 x 0.13
+1025	Magazine, Star Wars	mag2022sw88es	Star Wars Magazine 2022 Issue 88 (Spanish)	2022	90	21 x 28 x 0.13
+1025	Magazine, Star Wars	mag2024sw110es	Star Wars Magazine 2024 Issue 110 (Spanish)	2024	91	21 x 28 x 0.13
+1025	Magazine, Star Wars	mag2024sw111es	Star Wars Magazine 2024 Issue 111 (Spanish)	2024	90	21 x 28 x 0.13
+1025	Magazine, Star Wars	mag2024sw112es	Star Wars Magazine 2024 Issue 112 (Spanish)	2024	87	21 x 28 x 0.13

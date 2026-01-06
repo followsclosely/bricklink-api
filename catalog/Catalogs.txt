@@ -1911,7 +1911,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 581	2007 / Educational & Dacta	c07cndac1	2007 Chinese Leaflets about the Lego Education Center in China (Only the best for children)	2007	?
 601	2008	c08de2	2008 Large German / Austrian August - December - 1st Version (454.2044-DE/A)	2008	119
 647	2009	c09si1	2009 Large Slovene (455.2584-SL)	2009	95
-647	2009 / Educational & Dacta	c09cndac	2009 Large Chinese Lego Education (Semia)	2009	?
+647	2009 / Educational & Dacta	c09cndac	2009 Large Chinese Education (Semia)	2009	?
 369	1994	c94eu2	1994 Medium European (990383/990483-EU)	1994	15
 367	1992 / Technic	c92nltec1	1992 Medium Technic Dutch Foldout (922043-NL)	1992	20
 361	1986	m86nl2	1986 Mini Dutch (117906-NL)	1986	?
@@ -2515,7 +2515,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 373	1998	c98uk3	1998 Large UK - Znap Cover	1998	126
 372	1997 / Technic	c97uk2	1997 Large UK #2	1997	45
 601	2008	c08no	2008 Large Norwegian June - December (454.2071-NO)	2008	112
-348	1973	c73es	1973 Medium Spanish (97520-OS (Sp))	1973	13
+348	1973	c73os1	1973 Medium Overseas Foldout (97520-OS (Sp))	1973	13
 349	1974	c74es	1974 Medium Spanish (97820-Sp)	1974	16
 352	1977	c77es	1977 Large Spanish 37 (98773-E)	1977	20
 370	1995	m95ru	1995 Mini Russian (924.344-TR)	1995	?
@@ -3339,9 +3339,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 371	1996 / FreeStyle	c96eufre	1996 Medium FreeStyle European (4.103.776/4.103.777-EU)	1996	13.1
 756	2011 / DUPLO	c11dupuk	2011 Small Duplo UK (042993_AEM_UK)	2011	?
 805	2014 / Educational & Dacta	c14dedac	2014 Large German Education (UNTERRICHTSMEDIEN UND LERNKONZEPTE)	2014	?
-786	2013 / Educational & Dacta / MINDSTORMS / EV3	c13dedac	2013 Education EV3 German	2013	?
-805	2014 / Educational & Dacta	c14dedac1	2014 Education BuildToExpress German	2014	?
-805	2014 / Educational & Dacta	c14dedac2	2014 Education StoryStarter German	2014	?
+786	2013 / Educational & Dacta / MINDSTORMS / EV3	c13dedac	2013 German Education EV3	2013	?
+805	2014 / Educational & Dacta	c14dedac1	2014 German Education BuildToExpress	2014	?
+805	2014 / Educational & Dacta	c14dedac2	2014 German Education StoryStarter	2014	?
 767	2012 / Educational & Dacta	c12intdac	2012 Large International Education	2012	?
 375	2000 / Sports / Soccer	c00defb	2000 Large Football / Soccer German (432.4030-D)	2000	?
 805	2014	c14sah2	2014 Shop at Home - Spring (WOR 6627)	2014	98
@@ -3694,7 +3694,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 901	2017	c17se1	2017 Large Swedish January - June (619.1798-SV)	2017	142
 869	2016	c16se2	2016 Large Swedish June - December (617.1126-SV)	2016	175
 826	2015	c15se3	2015 Large Swedish January - June (611.9714-SV)	2015	175
-805	2014	c14fr1	2014 Large French January - June (607.8702-FR/6078699 FR for BLX)	2014	?
+805	2014	c14fr1	2014 Large French January - June (607.8702-FR/6078699 FR for BLX)	2014	116.1
 901	2017 / DUPLO	c17dup	2017 Small Duplo (6163333)	2017	4.3
 869	2016 / Educational & Dacta	c16usdacpre	2016 Small US Education Preschool (6149658)	2016	3.4
 354	1979 / Scala	c79iscala	1979 Medium Scala Italian (104307/104407-I)	1979	4
@@ -4119,7 +4119,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1028	2019	c19sah6	2019 Shop at Home - Late Holiday (WOR 1278)	2019	?
 365	1990 / Space	m90jasp	1990 Mini Space Japanese (113208-JA)	1990	5
 901	2017	c17nl1	2017 Large Dutch January - June (619.1802-NL)	2017	?
-1066	2020	c20sah1de	2020 Shop at Home - January German (WOR 1279)	2020	90
+1066	2020	c20sah1de	2020 Shop at Home - January German (WOR 1279)	2020	100
 1066	2020 / Educational & Dacta	c20rudac	2020 Large Russian Education (6322994)	2020	?
 360	1985	c85se	1985 Large Swedish (94350-S)	1985	69
 377	2001 / Star Wars	m01sw2	2001 Mini Star Wars (4130267)	2001	4.4
@@ -4492,7 +4492,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1213	2022	c22be1	2022 Large Belgian January - June (NL/BE f/Brand Retail - 6395160, NL/BE - 6395182)	2022	?
 1213	2022	c22au1	2022 Large Australian / New Zealand January - May (AUS 6395216 - NZ 6395217)	2022	168
 1213	2022	c22be2	2022 Large Belgian January - June (FR/BE - 6395189)	2022	?
-1213	2022	c22sah3de	2022 Shop at Home - Summer German (WOR 1772)	2022	112.5
+1213	2022	c22sah3de	2022 Shop at Home - 1932 - 2022 Sammlerkollektion German (WOR 1772)	2022	112.5
 1213	2022	c22de2	2022 Large German / Austrian July - December (DE/A f/Brand Retail - 6415088, DE/A - 6415129, 6415131, 6415133)	2022	190
 355	1980	c80se	1980 Medium Swedish (99870-SV)	1980	40.6
 1213	2022	c22sk2	2022 Large Slovak June - December (6415168 - SK)	2022	188
@@ -4817,8 +4817,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 347	1972	c72ja2	1972 Large Japanese (97320-JA)	1972	25
 350	1975	c75ja	1975 Large Japanese (98200-Ja)	1975	26
 348	1973	c73ja2	1973 Medium Japanese 世界中の子供たちが 遊んでいる…レコ (97640-Ja.)	1973	3
-347	1972	m92ja	1992 Mini Japanese (104608-JA)	1992	4
-372	1997	c97ja	1997 Large Japanese (4.108.521/4.108.522-J)	1997	24
+367	1992	m92ja	1992 Mini Japanese (104608-JA)	1992	4
+372	1997	c97ja	1997 Medium Japanese (4.108.521/4.108.522-J)	1997	24
 369	1994	c94ja2	1994 Medium Japanese (994108/994208-JA)	1994	30
 366	1991	c91fi	1991 Large Finnish (921640-SF)	1991	72
 363	1988	c88sah3	1988 Shop at Home - Holiday	1988	?
@@ -5031,6 +5031,20 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25ja1	2025 Large Japanese January - June	2025	128
 1319	2025	c25dk3	2025 Large Danish January - June	2025	213
 1319	2025	c25de4	2025 Large German / Austrian September - December (DE/A f/B.R.-batch 2 - 6570269, DE-A - Batch 2 - 6570283, 6570285, 6570287)	2025	204
+601	2008	c08dedc1	2008 Dealer Large German (452.9106-DE)	2008	546
+647	2009	c09dedc1	2009 Dealer Large German (454.7903-DE)	2009	502
+743	2010	c10dedc	2010 Dealer Large German (459.5751-DE)	2010	460
 354	1979 / Technic	c79set	1979 Medium Technic Swedish (103312-S.)	1979	13
+353	1978	c78usdc	1978 Dealer Large US	1978	?
+491	2003	c96hudc	2003 Dealer Large Hungarian (4209914-HUN)	2003	?
+368	1993	c93dedc	1993 Dealer Catalog German	1993	?
+369	1994	c94dedc	1994 Dealer Catalog German	1994	?
 1319	2025 / Holiday & Event / Christmas	c25sah4	2025 Shop at Home - Holiday (WOR 2106)	2025	62
 354	1979	c79ja	1979 Large Japanese (102508/102608-Ja.)	1979	25
+372	1997	c97ja2	1997 Large Japanese (925.232)	1997	90
+373	1998	c98ja2	1998 Medium Japanese (4112648/4112649-J)	1998	19
+371	1996	c96ja2	1996 Large Japanese	1996	79
+377	2001 / Life on Mars	c01ja4	2001 Medium Life on Mars Japanese	2001	?
+371	1996 / Pirates / Pirates I	m96pirja	1996 Mini Pirates Japanese (4.103.835-J)	1996	5
+371	1996 / Castle	m96casja	1996 Mini Castle Japanese (4.103.834-J)	1996	5
+371	1996 / Western	m96westjp	1996 Mini Western Japanese (4.105.478-J)	1996	5

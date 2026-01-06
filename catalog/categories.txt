@@ -156,12 +156,14 @@ Category ID	Category Name
 680	Basic Model
 611	Basic Set
 474	Basketball
+1366	Batman & Robin
 895	Batman Classic TV Series
 1346	Batman Forever
 570	Batman I
 769	Batman II
 865	Batman III
 1297	Batman The Animated Series
+1365	Batman v Superman
 725	Battle Vehicles
 1345	BDP Invitational
 1340	BDP Series 1
@@ -412,6 +414,7 @@ Category ID	Category Name
 302	Exploriens
 328	Extreme Team
 1331	F1 Race Cars
+1368	F1 The Movie
 153	Fabuland
 566	Factory
 1101	Fairground Collection
@@ -548,6 +551,7 @@ Category ID	Category Name
 254	Learning Book
 1013	Legacy
 1036	Legend of Isla Nublar
+1364	Legendary Batmobile Collection
 267	Legends
 787	LEGENDS OF CHIMA
 922	Legends of Tomorrow
@@ -1007,6 +1011,7 @@ Category ID	Category Name
 824	Thanksgiving
 1205	The A-Team
 876	The Angry Birds Movie
+1367	The Aristocats
 1073	The Avengers
 1164	The Batman
 825	The Battle of the Five Armies
