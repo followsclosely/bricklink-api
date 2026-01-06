@@ -11,7 +11,10 @@ import java.util.List;
 public class BlinkApplicationListener implements ApplicationListener<ApplicationEnvironmentPreparedEvent> {
 
     private static final List<String> REQUIRED_KEYS = List.of(
-            "bricklink.consumerKey", "bricklink.consumerSecret", "bricklink.tokenValue", "bricklink.tokenSecret"
+            "bricklink.consumerKey",
+            "bricklink.consumerSecret",
+            "bricklink.tokenValue",
+            "bricklink.tokenSecret"
     );
 
     /**
