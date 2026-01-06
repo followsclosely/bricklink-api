@@ -35,13 +35,20 @@ public class BlinkApplicationListener implements ApplicationListener<Application
     @Override
     public void onApplicationEvent(ApplicationEnvironmentPreparedEvent event) {
 
+        boolean missingResource = false;
         for (String key : REQUIRED_KEYS) {
+
             String keyValue = event.getEnvironment().getProperty(key);
 
             if (!StringUtils.hasLength(keyValue)) {
-                throw new RuntimeException("Missing Resources " + String.join(",", REQUIRED_KEYS) + " are required to initialize the RestClient bean.");
+                missingResource = true;
+                log.error("Missing required property [{}]", key);
             } else {
                 log.info("Found Resource: \"{}\" is set to: {}", key, obfuscateKey(keyValue, 10));
+            }
+
+            if( missingResource ){
+                throw new RuntimeException("You have Missing Resources " + String.join(",", REQUIRED_KEYS) + " are required to initialize the RestClient bean.");
             }
         }
     }
