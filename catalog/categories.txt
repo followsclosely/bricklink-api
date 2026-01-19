@@ -768,6 +768,7 @@ Category ID	Category Name
 998	Playmat
 661	Playsets
 159	Pneumatic
+1369	Pokémon
 323	Police
 1201	Portal 2
 949	Possession

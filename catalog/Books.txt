@@ -2039,7 +2039,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 576	Curriculum Activity Book / Educational & Dacta / Technic	9626NL	Wheels and Axles (9616) Teacher Guide - Wielen en Assen - Dutch version	1993	40	14.8 x 21 x 0.2
 505	Story Book / NINJAGO	9783868854299	NINJAGO - Masters of Spinjitzu - Kai (Hardcover)	2011	?	? x ? x ?
 505	Story Book / NINJAGO	9783868854305	NINJAGO - Masters of Spinjitzu - Jay (Hardcover)	2011	?	? x ? x ?
-505	Story Book / NINJAGO	9783868854312	NINJAGO - Masters of Spinjitzu - Cole (Hardcover)	2011	?	? x ? x ?
+505	Story Book / NINJAGO	9783868854312	NINJAGO - Masters of Spinjitzu - Cole (Hardcover)	2011	188	14.7 x 20.7 x 0.9
 505	Story Book / NINJAGO	9783868854329	NINJAGO - Masters of Spinjitzu - Zane (Hardcover)	2011	?	? x ? x ?
 505	Story Book / NINJAGO	9783845100456	NINJAGO - Masters of Spinjitzu - Unter den Hypnokobras (Hardcover)	2012	?	? x ? x ?
 505	Story Book / NINJAGO	9783845100463	NINJAGO - Masters of Spinjitzu - Angriff der Beißvipern (Hardcover) (German Edition)	2012	?	? x ? x ?
@@ -2887,7 +2887,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 505	Story Book / The LEGO Movie	9780723295945	The LEGO Movie - The Book of the Film	2014	213	13.2 x 19.4 x 1.2
 505	Story Book / NINJAGO / The Final Battle	b13njo06	NINJAGO - Pirates vs. Ninja (Softcover)	2013	68	15.3 x 22.9 x 0.51
 254	Learning Book / Super Heroes	9780545552394	DC Universe Super Heroes - Phonics (Box Set)	2014	181.4	? x ? x ?
-505	Story Book / NINJAGO	9780545607988	NINJAGO - Masters of Spinjitzu - The Green Ninja	2013	63.5	? x ? x ?
+505	Story Book / NINJAGO	9780545607988	NINJAGO - Masters of Spinjitzu - The Green Ninja (Softcover)	2013	63.5	15.5 x 23 x 0.2
 505	Story Book / Super Heroes	9780545480291	DC Super Heroes Comic Reader #2 - Last Laugh!	2013	65	15.24 x 22.86 x 0.35
 505	Story Book / Friends	9780545517546	Friends Comic Reader #1 - A Puppy Tale	2013	63.5	15.24 x 22.86 x 0.5
 766	Activity Book	b13other03	On the Move Collection (Box Set)	2013	?	? x ? x ?
@@ -2941,11 +2941,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 505	Story Book / Hero Factory	9780545476706	Hero Factory - Secret Mission #3: Collision Course	2013	107	13.5 x 19.3 x 1
 254	Learning Book / Town / City	9780545356299	City - Trucks Around the City (Board Book)	2011	?	? x ? x ?
 505	Story Book / LEGENDS OF CHIMA	9780545605878	LEGENDS OF CHIMA - Scorpion Strike! (Sticker Storybook)	2014	?	? x ? x ?
-505	Story Book / NINJAGO / Rebooted	b14njo09	NINJAGO - Attack of the Nindroids (Softcover)	2014	?	? x ? x ?
+505	Story Book / NINJAGO / Rebooted	b14njo09	NINJAGO - Attack of the Nindroids (Softcover)	2014	65.5	15.5 x 23 x 0.2
 505	Story Book / LEGENDS OF CHIMA	9780545627894	LEGENDS OF CHIMA - Wolf-Pack Attack	2014	66	15.3 x 22.8 x 0.2
 505	Story Book / LEGENDS OF CHIMA	9780545627887	LEGENDS OF CHIMA - Danger in the Outlands	2014	88	13.4 x 19.4 x 0.4
 505	Story Book / Friends	9780545516556	Friends - Dolphin Rescue	2014	?	? x ? x ?
-505	Story Book / NINJAGO	9780545825528	NINJAGO - Ninja vs. Ninja	2015	?	? x ? x ?
+505	Story Book / NINJAGO	9780545825528	NINJAGO - Ninja vs. Ninja (Softcover)	2015	67.1	15.5 x 23 x 0.2
 505	Story Book / NINJAGO / Rebooted	b15njo10	NINJAGO - The Titanium Ninja (Softcover)	2015	?	? x ? x ?
 505	Story Book / NINJAGO / Tournament of Elements	b15njo14	NINJAGO - The Rescue Mission (Softcover)	2015	71	15.2 x 22.8 x 0.3
 505	Story Book / NINJAGO / Tournament of Elements	b15njo11	NINJAGO - Breakout! (Softcover)	2015	62	13.4 x 19.3 x 0.5
@@ -2975,7 +2975,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 505	Story Book / The LEGO Movie	b14tlm13	The LEGO Movie - Emmet's Awesome Day (Softcover)	2014	67.5	15.3 x 22.8 x 0.2
 254	Learning Book / DUPLO	b14dup02	Animal Sounds!	2014	?	? x ? x ?
 332	Informational Book / The LEGO Movie	9780545795326	The LEGO Movie - Emmet's Guide to Being Awesome (Hardcover)	2014	451	16 x 23.6 x 1.3
-505	Story Book / Town / City / Police	9780545785259	City - Cops, Crocs, and Crooks!	2015	?	? x ? x ?
+505	Story Book / Town / City / Police	9780545785259	City - Cops, Crocs, and Crooks!	2015	69.5	20.5 x 20.5 x 0.2
 766	Activity Book / NINJAGO	b15njo01	NINJAGO - The Tournament of Elements (Softcover)	2015	?	? x ? x ?
 1026	Magazine, LEGENDS OF CHIMA	mag2015chi08pl	LEGENDS OF CHIMA Magazine 2015 Issue 8 (Polish)	2015	81	21 x 28 x 0.13
 331	Comic Book / LEGENDS OF CHIMA	b14loc03	LEGENDS OF CHIMA - Graphic Novel 1: High Risk! (Hardcover)	2014	?	? x ? x ?
@@ -6579,7 +6579,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 331	Comic Book / NINJAGO / Legacy	com2023njol06cz	NINJAGO Legacy Comic 2023 Issue 6 (Czech)	2023	81	21 x 28 x 0.2
 331	Comic Book / NINJAGO / Legacy	com2023njol04cz	NINJAGO Legacy Comic 2023 Issue 4 (Czech)	2023	81	21 x 28 x 0.2
 1025	Magazine, Star Wars	mag2023sw05hu	Star Wars Magazine 2023 Issue 5 (Hungarian)	2023	78	21 x 28 x 0.2
-1024	Magazine, NINJAGO	mag2023njol05nl	NINJAGO Legacy Magazine 2023 Issue 5 (Dutch)	2023	214	23 x 30 x 3
+1024	Magazine, NINJAGO / Legacy	mag2023njol05nl	NINJAGO Legacy Magazine 2023 Issue 5 (Dutch)	2023	214	23 x 30 x 3
 1084	Magazine, Jurassic World	mag2023jw07uk	Jurassic World Magazine 2023 Issue 7 (English - UK)	2023	85	20.8 x 27.8 x 0.2
 766	Activity Book / Jurassic World / Dominion	b22jw06uk	Jurassic World - Owen vs Delacourt (Box Set) (English - UK Edition)	2022	642	25 x 30.5 x 4.4
 766	Activity Book / Jurassic World / Dominion	b22jw07uk	Jurassic World - Dinosaurs at Large! (Softcover) (English - UK Edition)	2022	83.12	20.5 x 28.8 x 0.2
@@ -7452,7 +7452,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1165	Magazine, Minecraft	mag2025min04nl	Minecraft Magazine 2025 Issue 4 (Dutch)	2025	102	21 x 28 x 1.5
 1084	Magazine, Jurassic World	mag2025jw03nl	Jurassic World Magazine 2025 Issue 3 (Dutch)	2025	117	21 x 28 x 2
 1063	Magazine, Super Heroes / Batman II	mag2025shba01nl	Batman Magazine 2025 Issue 1 (Dutch)	2025	117	21 x 28 x 2
-1024	Magazine, NINJAGO	mag2025njol03nl	NINJAGO Legacy Magazine 2025 Issue 3 (Dutch)	2025	187	23 x 30 x 1.5
+1024	Magazine, NINJAGO / Legacy	mag2025njol03nl	NINJAGO Legacy Magazine 2025 Issue 3 (Dutch)	2025	187	23 x 30 x 1.5
 766	Activity Book / Botanicals	b25bot05nl	Botanicals - Mini-Woestijntuin: Je eigen verzameling vetplantjes (Softcover) (Dutch Edition) - book only entry	2025	28.8	10 x 12 x 0.5
 1269	Magazine, DREAMZzz	mag2025drm10de	DREAMZzz Magazine 2025 Issue 10 (German)	2025	?	? x ? x ?
 331	Comic Book / BIONICLE	4175550	Bionicle Mini Comic Book (4175550)	2002	?	? x ? x ?
@@ -7549,17 +7549,20 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1021	Magazine, City	mag2025cty83uk	City Magazine 2025 Issue 83 (English - UK)	2025	?	? x ? x ?
 1021	Magazine, City	mag2025cty84uk	City Magazine 2025 Issue 84 (English - UK)	2025	?	? x ? x ?
 1220	Magazine, Technic	mag2025tech03nl	Technic Magazine 2025 Issue 3 (Dutch)	2025	131	21 x 28 x 2.5
-1024	Magazine, NINJAGO	mag2025njol05nl	NINJAGO Legacy Magazine 2025 Issue 5 (Dutch)	2025	183	23 x 30 x 1.5
+1024	Magazine, NINJAGO / Legacy	mag2025njol05nl	NINJAGO Legacy Magazine 2025 Issue 5 (Dutch)	2025	183	23 x 30 x 1.5
 1024	Magazine, NINJAGO	mag2025njo06nl	NINJAGO Magazine 2025 Issue 6 (Dutch)	2025	98	21 x 28 x 2
 1022	Magazine, Friends	mag2025frnd05nl	Friends Magazine 2025 Issue 5 (Dutch)	2025	103	21 x 28 x 2
 1021	Magazine, City	mag2025cty05nl	City Magazine 2025 Issue 5 (Dutch)	2025	98	21 x 28 x 3
 1063	Magazine, Super Heroes / Avengers	mag2025shav02nl	Avengers Magazine 2025 Issue 2 (Dutch)	2025	98	21 x 28 x 2
 1165	Magazine, Minecraft	mag2025min06nl	Minecraft Magazine 2025 Issue 6 (Dutch)	2025	100	21 x 28 x 2
-1024	Magazine, NINJAGO	mag2025njol04nl	NINJAGO Legacy Magazine 2025 Issue 4 (Dutch)	2025	183	23 x 30 x 1.5
+1024	Magazine, NINJAGO / Legacy	mag2025njol04nl	NINJAGO Legacy Magazine 2025 Issue 4 (Dutch)	2025	183	23 x 30 x 1.5
 1024	Magazine, NINJAGO	mag2025njo135de	NINJAGO Magazine 2025 Issue 135 (German)	2025	?	? x ? x ?
 317	Idea Book / Harry Potter	b21hp17de	Harry Potter – Abenteuer Selbst Gebaut! – nur Buch (German Edition)	2021	389	21.2 x 25.5 x 0.8
 1024	Magazine, NINJAGO / Legacy	mag2025njol41de	NINJAGO Legacy Magazine 2025 Issue 41 (German)	2025	?	? x ? x ?
 332	Informational Book / Harry Potter	b22hp16cy	Harry Potter - Nadolig Harri Potter (Hardcover) (Welsh - UK Edition)	2022	?	? x ? x ?
+766	Activity Book	b25min04uk	Minecraft - Games Book (Hardcover) (English - UK Edition)	2025	457	18.7 x 23.8 x 2.4
+1021	Magazine, City	mag2025cty84de	City Magazine 2025 Issue 84 (German)	2025	?	? x ? x ?
+1024	Magazine, NINJAGO	mag2025njo136de	NINJAGO Magazine 2025 Issue 136 (German)	2025	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta / DUPLO / Dolls	4657547	Set 9215-2 - Activity Card 2 - Camping / Soccer	2012	20.3	28 x 21 x 0.03
 576	Curriculum Activity Book / Educational & Dacta / DUPLO / Dolls	4657546	Set 9215-2 - Activity Card 1 - Picture Book / Bathtime	2012	20.59	28 x 21 x 0.03
 576	Curriculum Activity Book / Educational & Dacta / DUPLO / Dolls	4657548	Set 9215-2 - Activity Card 3 - Play Stage / Party Decorations	2012	20.4	28 x 21 x 0.03
@@ -7576,3 +7579,4 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1025	Magazine, Star Wars	mag2024sw110es	Star Wars Magazine 2024 Issue 110 (Spanish)	2024	91	21 x 28 x 0.13
 1025	Magazine, Star Wars	mag2024sw111es	Star Wars Magazine 2024 Issue 111 (Spanish)	2024	90	21 x 28 x 0.13
 1025	Magazine, Star Wars	mag2024sw112es	Star Wars Magazine 2024 Issue 112 (Spanish)	2024	87	21 x 28 x 0.13
+1269	Magazine, DREAMZzz	mag2026drm12de	DREAMZzz Magazine 2026 Issue 12 (German)	2026	?	? x ? x ?
