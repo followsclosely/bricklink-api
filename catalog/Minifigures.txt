@@ -1554,7 +1554,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Classic Town / Police	cop030	Police - Zipper with Badge, Black Legs, White Hat, Life Jacket	1991	4.14
 67	Town / Classic Town	pln016	Plain Red Torso with Red Arms, Blue Legs, Brown Male Hair	1980	3.36
 167	DUPLO	4555pb006	Duplo Figure, Female, Blue Legs, White Top with Blue Overalls with Red Hearts	2001	16
-167	DUPLO / Winnie The Pooh	Eeyore	Duplo Figure Winnie the Pooh, Eeyore	1999	32.7
+167	DUPLO / Winnie The Pooh	Eeyore	Duplo Figure Winnie the Pooh, Eeyore (4158814)	1999	32.7
 167	DUPLO / Winnie The Pooh	piglet	Duplo Figure Winnie the Pooh, Piglet on Blue Balloon (4121871)	1999	15.9
 67	Town / Classic Town	pln017	Plain Red Torso with Red Arms, Blue Legs, Black Hat	1978	3.4
 67	Town / Classic Town	pln018	Plain White Torso with White Arms, Black Legs, Blue Hat	1978	3.4
@@ -1744,7 +1744,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Classic Town	pck019	Jacket Green with 2 Large Pockets - Green Legs, Black Male Hair	1997	3.36
 67	Town / Classic Town	pln070	Plain Red Torso with Red Arms, Red Legs, Black Helmet, Trans-Light Blue Visor	1997	3.68
 67	Town / Classic Town	jbl008	Jacket Blue - Black Legs, Black Cap	1997	3.37
-67	Town / Classic Town	pln071	Plain Red Torso with Red Arms, Red Legs, Black Male Hair	1982	3.36
+67	Town / Classic Town	pln071	Plain Red Torso with Red Arms, Red Legs, Black Male Hair	1984	3.36
 67	Town / Classic Town	pln072	Plain White Torso with White Arms, Red Legs, Red Hat	1980	3.4
 67	Town / Classic Town	pln073	Plain Red Torso with Red Arms, Black Legs, Brown Male Hair	1980	3.36
 67	Town / Classic Town	pln074	Plain Blue Torso with Blue Arms, Light Gray Legs, Black Male Hair	1983	3.36
@@ -2118,7 +2118,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Paradisa	par054	Blue Flowers - Yellow Legs, Brown Ponytail Hair	1996	3.57
 9	Castle / Black Falcons	cas253	Black Falcon - Black Legs, Black Neck-Protector, Shield Bottom Pointed	2002	3.79
 9	Castle / Black Falcons	cas254	Black Falcon - Black Legs, Black Chin-Guard, Shield Bottom Pointed, Quiver	2002	3.65
-167	DUPLO / Bob The Builder	4555pb092	Duplo Figure, Female, Wendy in Worker Outfit, Bright Green Top	2001	18
+167	DUPLO / Bob The Builder	4555pb092	Duplo Figure, Female, Wendy in Worker Outfit, Bright Green Top (4155789)	2001	18
 449	Island Xtreme Stunts	ixs008	Xtreme Stunts Brickster with Dark Gray Knit Cap	2003	3.4
 473	Sports / Basketball	nba055	Basketball Street Player, Tan Torso and black Legs #2	2003	3
 67	Town / World City	chef010	Chef - White Torso with 8 Buttons, Light Gray Legs, Long Curly Moustache	2003	3.8
@@ -2363,7 +2363,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 102	Scala	71289a	Scala Doll (Kate with Clothes)	1997	34.27
 102	Scala	72053	Scala Doll (Andrea/Julie with Clothes)	1998	?
 102	Scala	71289b	Scala Doll (Baby Thomas with Large Eyes Pattern with Clothes, Hat)	1997	9.22
-167	DUPLO / Bob The Builder	4555pb134	Duplo Figure, Female, Wendy in Worker Outfit, Medium Blue Top	2002	18
+167	DUPLO / Bob The Builder	4555pb134	Duplo Figure, Female, Wendy in Worker Outfit, Medium Blue Top (4172395)	2002	18
 170	Alpha Team / Mission Deep Freeze	alp032	Diamond	2004	3.4
 516	4 Juniors / Spider-Man	4j012	Peter Parker (Junior-Fig)	2004	5.5
 67	Town / Classic Town / Fire	airdg001	Fire - Air Gauge and Pocket, Light Gray Legs and Black Hips, Underwater Helmet with Hose	1999	3.97
@@ -3085,7 +3085,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 179	Racers / Ferrari	rac028as	F1 Race Camera Operator - Male, White Torso, Blue Legs, Black Cap, Orange Vest with Stickers	2006	3.67
 67	Town / Classic Town	CL001	Color Line - White Torso (Sticker) with White Arms, Blue Legs, Red Cap	1997	3.35
 167	DUPLO	4555pb202	Duplo Figure, Male, Blue Legs, Red Top with Dark Tan Zipper Vest, White Cowboy Hat	2001	17
-167	DUPLO / Bob The Builder	47394pb047	Duplo Figure Lego Ville, Female, Blue Legs, Lime Top with Belt, Screwdriver, and Wrench, Yellow Ponytail Hair (Wendy)	2005	16
+167	DUPLO / Bob The Builder	47394pb047	Duplo Figure Lego Ville, Female, Wendy, Blue Legs, Lime Top with Belt, Screwdriver, and Wrench, Yellow Ponytail Hair (4542236)	2005	16
 67	Town / Classic Town	pln112	Plain Red Torso with Red Arms, Black Legs, Black Pigtails Hair	1978	3.26
 85	Homemaker	pln108s	Plain Blue Torso with Blue Arms, Blue Legs, Black Pigtails Hair, Yellow Vest with Baby Bib Pattern (Stickers)	1979	3.25
 67	Town / Classic Town	pln123	Plain White Torso with White Arms, Black Legs, Red Hat	1981	3.38
@@ -3405,10 +3405,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO	4555pb248	Duplo Figure, Female, Red Legs, Yellow Top with Red Buttons & Wrench in Pocket, Brown Hair, Turned Up Nose	1995	16
 167	DUPLO	4555pb142a	Duplo Figure, Female, Yellow Legs, Red Top with Yellow Polka Dot Scarf, Yellow Arms, Brown Hair, Grin	1986	17.59
 167	DUPLO / DUPLO, Town / Fire	4555pb250	Duplo Figure, Male Fireman, Black Legs, Yellow Top with Flame and Orange Suspenders, White Fire Helmet, no Moustache	2003	16.68
-167	DUPLO / Dolls	31310pb01	Duplo Figure Doll, Anna Large, without Clothes	2001	78
-167	DUPLO / Dolls	31310pb02	Duplo Figure Doll, Lisa Large, without Clothes	2001	80
-167	DUPLO / Dolls	31310pb03	Duplo Figure Doll, Marie Large, without Clothes	2001	80
-167	DUPLO / Dolls	31310pb04	Duplo Figure Doll, Sarah Large, without Clothes	2001	77
+167	DUPLO / Dolls	31310pb01	Duplo Figure Doll, Anna Large, without Clothes (4142597)	2001	78
+167	DUPLO / Dolls	31310pb02	Duplo Figure Doll, Lisa Large, without Clothes (4142560)	2001	80
+167	DUPLO / Dolls	31310pb03	Duplo Figure Doll, Marie Large, without Clothes (4142595)	2001	80
+167	DUPLO / Dolls	31310pb04	Duplo Figure Doll, Sarah Large, without Clothes (4142559)	2001	77
 167	DUPLO / Princess Castle	47394pb085	Duplo Figure Lego Ville, Male, Dark Royal Blue Legs, Bright Light Blue Top with Straps and Key Necklace, Bright Light Blue Hands, Black Hair	2005	13
 167	DUPLO / Basic Set	dupfig039	Duplo 2 x 2 x 2 Figure Brick Early, Male on Green Base, Red Police Hat	1980	11
 67	Town	pln146	Plain Blue Torso with White Arms, Black Legs, Red Cap	2006	3.35
@@ -4550,7 +4550,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0098	Luke Skywalker (Hoth)	2010	3.68
 65	Star Wars / Star Wars The Clone Wars	sw0119	Astromech Droid, R7-D4	2010	4.63
 65	Star Wars / Star Wars The Clone Wars	sw0284	Aayla Secura - Large Eyes	2010	4.44
-65	Star Wars / Star Wars The Clone Wars	sw0285	Cad Bane - Dark Bluish Gray Hands and Legs	2010	4.4
+65	Star Wars / Star Wars The Clone Wars	sw0285	Cad Bane - Blue Head, Dark Bluish Gray Legs	2010	4.4
 65	Star Wars / Star Wars The Clone Wars	sw0216	EV-A4-D without Sticker	?	5.95
 65	Star Wars / Star Wars The Clone Wars	sw0226	Nahdar Vebb	2010	3.86
 65	Star Wars / Star Wars The Clone Wars	sw0254	General Grievous - Bent Legs, Tan Armor	2010	3.35
@@ -6361,7 +6361,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Airport	cty0421	Cargo Worker - Overalls with Tools in Pocket Blue, Red Cap with Hole, Headphones	2013	3.56
 67	Town / City / Airport	cty0422	Cargo Worker - Overalls with Tools in Pocket Blue, Red Cap with Hole, Headphones, Safety Goggles	2013	3.56
 65	Star Wars / Star Wars The Clone Wars	sw0496	Nikto Guard	2013	3.05
-65	Star Wars / Star Wars The Clone Wars	sw0497	Cad Bane - Reddish Brown Hands and Legs	2013	3.95
+65	Star Wars / Star Wars The Clone Wars	sw0497	Cad Bane - Blue Head, Reddish Brown Legs	2013	3.95
 65	Star Wars / Star Wars The Clone Wars	sw0498	Obi-Wan Kenobi (Rako Hardeen Bounty Hunter Disguise)	2013	3.03
 65	Star Wars / Star Wars Legends / Star Wars The Old Republic	sw0499	Sith Warrior	2013	3.84
 65	Star Wars / Star Wars Legends / Star Wars The Old Republic	sw0500	Jedi Knight (Kao Cen Darach)	2013	3.16
@@ -7879,7 +7879,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 7	sw0655	Unkar's Thug	2015	3.8
 65	Star Wars / Star Wars Episode 7	sw0656	First Order Snowtrooper Officer	2015	4.5
 65	Star Wars	sw0657	First Order Snowtrooper with Kama	2015	4.4
-65	Star Wars	sw0661	BB-8 (Small Photoreceptor)	2015	1.94
+65	Star Wars	sw0661	BB-8 (Small Photoreceptor and Small Black Circle)	2015	1.94
 65	Star Wars / Star Wars Episode 7	sw0658	Poe Dameron (Pilot Jumpsuit, Helmet)	2015	3.78
 65	Star Wars / Star Wars Episode 7	sw0659	Resistance Pilot X-wing	2015	3.78
 65	Star Wars / Star Wars Episode 7	sw0660	Resistance Ground Crew (Goss Toowers)	2015	3.76
@@ -9596,7 +9596,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 8	sw0870	First Order Officer (Lieutenant / Captain)	2017	3.5
 65	Star Wars / Star Wars Episode 8	sw0871	First Order Shuttle Pilot	2017	3.7
 65	Star Wars / Star Wars Episode 8	sw0872	First Order Stormtrooper Squad Leader (Rounded Mouth Pattern)	2017	4
-65	Star Wars / Star Wars Other	sw0874	BB-8 with Santa Hat	2017	2.81
+65	Star Wars / Star Wars Other	sw0874	BB-8 with Santa Hat (Small Photoreceptor and Small Black Circle)	2017	2.81
 65	Star Wars / Star Wars Episode 8	sw0873	FX-14 Medical Droid	2017	2.6
 920	The LEGO NINJAGO Movie	njo0364	Lord Garmadon - The LEGO Ninjago Movie, Armor	2017	5.23
 65	Star Wars / Star Wars Episode 7	sw0875	First Order Snowtrooper without Backpack	2017	4
@@ -9666,7 +9666,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / Disney / Disney Junior / Mickey and the Roadster Racers	47394pb232	Duplo Figure Lego Ville, Mickey Mouse, Red Race Driver Jumpsuit, Helmet (6186851 / 6206125)	2017	18.56
 390	Holiday & Event / Christmas	hol099	Medium Blue Jacket with Light Purple Scarf, Light Bluish Gray Short Legs, Freckles	2017	3.24
 976	LEGO Brand	gen090	LEGO Store Employee, Male, Black Shirt	2017	3.6
-976	LEGO Brand	gen091	Plain Red Torso, Red Legs, Red Head (Monochrome) (LEGO VIP Letter I)	2017	3.02
+976	LEGO Brand	gen091	Plain Red Torso, Red Legs, Red Head (Monochrome)	2017	3.02
 390	Holiday & Event / Thanksgiving	hol100	Farmer - Green Overalls over Red Plaid Shirt, Green Legs, Tan Fedora, Moustache	2017	3.64
 390	Holiday & Event / Thanksgiving	hol101	Sweater Cropped with Bow, Heart Necklace, Dark Red Short Legs, Dark Orange Ponytail Long with Side Bangs	2017	3.53
 390	Holiday & Event / Christmas	hol102	Grandma - Medium Lavender Jacket over Lavender Shirt, White Legs, Brown Hair in a Bun	2017	3.4
@@ -11116,7 +11116,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / DUPLO, Town / Police	47394pb262	Duplo Figure Lego Ville, Female Police, Black Legs, Medium Azure Top with Badge and Epaulettes, Black Hair	2019	16.3
 167	DUPLO / DUPLO, Town / Police	47394pb263	Duplo Figure Lego Ville, Male Police, Black Legs, Medium Azure Top with Badge and Epaulettes, Black Hat with Yellow Hair	2019	15
 167	DUPLO / DUPLO, Town / Police	47394pb264	Duplo Figure Lego Ville, Male, Black Legs, Black and White Striped Top, Reddish Brown Hair (Prisoner)	2019	15
-65	Star Wars	sw1034	BB-8 (Large Photoreceptor)	2019	1.9
+65	Star Wars	sw1034	BB-8 (Large Photoreceptor and Large Black Circle)	2019	1.9
 67	Town / City / Police	cty1007	Police - City Pilot, Jacket with Dark Bluish Gray Vest, Dark Blue Legs, White Helmet, Scowl with Neck Bracket (for Jet Pack)	2019	4.3
 390	Holiday & Event / Easter	hol144	Chicken Skater	2019	4.1
 759	NINJAGO / Hunted	njo0516	Lloyd - Hunted, Green Wrap (without Asian Symbol on Wrap)	2019	3.6
@@ -12582,7 +12582,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Batman II	sh0592a	Shazam - White Hood, Shiny Starched Cape	2020	4
 167	DUPLO / DUPLO, Train / Thomas & Friends	tms11	Duplo Harold	2006	110
 65	Star Wars / Star Wars Episode 4/5/6	sw1136	NI-L8 Protocol Droid	2021	3.2
-65	Star Wars / Star Wars The Mandalorian	sw1135	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape	2021	3.78
+65	Star Wars / Star Wars The Mandalorian	sw1135	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape, Plain Head	2021	3.78
 390	Holiday & Event / Christmas	hol211	Ebenezer Scrooge	2020	4.08
 390	Holiday & Event / Christmas	hol213	Bob Cratchit	2020	3.45
 390	Holiday & Event / Christmas	hol212	Tiny Tim	2020	3.23
@@ -13460,7 +13460,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars The Mandalorian	sw1174	IT-O Interrogator Droid	2021	1
 817	LEGO Ideas (CUUSOO)	idea095	Elaine Marie Benes	2021	5.25
 817	LEGO Ideas (CUUSOO)	idea096	Jerry Seinfeld	2021	3.58
-65	Star Wars / Star Wars The Mandalorian	sw1166	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jet Pack	2021	4.12
+65	Star Wars / Star Wars The Mandalorian	sw1166	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jet Pack, Plain Head	2021	4.12
 67	Town / City / Race	cty1308	Stuntman	2021	3.65
 67	Town / City / Fire	cty1309	Fire - Female, Black Jacket and Legs with Reflective Stripes and Red Collar, White Cap with Bright Light Yellow Ponytail Hair, Orange Life Jacket, Dark Bluish Gray Splotches	2021	4.2
 67	Town / City / Police	cty1310	Police - Jail Prisoner 86753 Prison Stripes, Dark Brown Legs, Red Head Wrap, Dark Orange Beard	2021	3.67
@@ -13803,7 +13803,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter	hp332	Professor Sybill Trelawney - Reddish Brown and Sand Green Robes	2022	5.15
 227	Harry Potter	hp333	Harry Potter - Gryffindor Robe Open, Black Medium Legs	2022	4
 227	Harry Potter	hp334	Parvati Patil - Black Gryffindor Robe and Medium Legs	2022	3.85
-227	Harry Potter	90398pb045	Alastor Moody Statuette / Trophy	2022	0.2
+227	Harry Potter	90398pb045	Alastor Moody Statuette / Trophy (6377693)	2022	0.2
 771	Friends	frnd0485	Friends Joshua	2022	2.75
 771	Friends	frnd0486	Friends Trevor	2022	3
 771	Friends	frnd0487	Friends Maya - Micro Doll	2022	1.7
@@ -14227,7 +14227,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter / Prisoner of Azkaban	hp345	Sirius Black - Dark Brown Hair, Light Bluish Gray Tattered Striped Shirt	2022	3.8
 227	Harry Potter / Order of the Phoenix	hp346	Harry Potter - Dark Blue Open Jacket over Gryffindor Cardigan Sweater, Black Legs	2022	3.35
 227	Harry Potter / Order of the Phoenix	hp347	Luna Lovegood - Tan Dress	2022	3.85
-1100	Monkie Kid	mk094	Dragon of the East - Skirt	2022	?
+1100	Monkie Kid	mk094	Dragon of the East - Skirt	2022	5.04
 1100	Monkie Kid	mk095	Mr. Tang - Red Diving Suit	2022	?
 1100	Monkie Kid	mk096	Heaven Fairy	2022	4.3
 227	Harry Potter / Prisoner of Azkaban	hp348	Professor Remus Lupin - Werewolf	2022	4.53
@@ -14488,7 +14488,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 801	Minecraft	min125	Rancher	2022	3.42
 801	Minecraft	min126	Villager (Farmer) - Jungle Biome Outfit, Yellow Hat	2022	4.6
 801	Minecraft	min127	Baby Zombie - Plain Torso (Chicken Jockey)	2022	1.05
-65	Star Wars / Star Wars The Bad Batch	sw1219	Cad Bane - Printed Legs	2022	4.5
+65	Star Wars / Star Wars The Bad Batch	sw1219	Cad Bane - Pearl Dark Gray Head	2022	4.5
 65	Star Wars / Star Wars Episode 2	sw1220	Obi-Wan Kenobi - Reddish Brown Robe, Dark Orange Mid-Length Tousled with Center Part Hair	2022	3.6
 801	Minecraft	min128	Miner - Reddish Brown Vest	2022	3.45
 227	Harry Potter	hp377	Train Conductor - Male, Dark Red Suit and Hat, Medium Tan Head	2022	3.4
@@ -15686,7 +15686,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0658	Friends Liann - White Blouse, Coral Shirt, Bright Light Blue Shorts, Lime Shoes	2023	3.06
 771	Friends	frnd0659	Friends Zac - Blue Shirt with Red Symbols and Yellow Splotches, Red Trousers, Dark Blue Sandals, Orange Life Jacket	2023	3.1
 1268	DREAMZzz	drm001	Izzie (Isabel Christina Garcia) - Bright Light Orange Robe, Medium Lavender Shoulder Pads	2023	4.95
-1268	DREAMZzz	drm002	Grimspawn - Black Helmet Castle Closed	2023	1.79
+1268	DREAMZzz	drm002	Grimspawn - Black Helmet Castle Closed, Trans-Dark Pink Plume	2023	1.79
 1268	DREAMZzz	drm003	Mateo - Dark Azure Robe, Bright Green Utility Belt	2023	4.2
 1268	DREAMZzz	drm004	Jayden	2023	3.63
 65	Star Wars / Star Wars Episode 4/5/6	sw1285	Rebel Fleet Trooper - Male, Vest with Pockets, Black Neck, Reddish Brown Eyebrows	2023	4.1
@@ -16031,7 +16031,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0670	Friends Aliya - Lime Top, Red Trousers, Dark Blue Shoes	2024	3.53
 771	Friends	frnd0671	Friends Petch - White Shirt, Medium Lavender Belt Bag	2024	2.83
 771	Friends	frnd0672	Friends Irene	2024	3.03
-771	Friends	frnd0673	Friends Michelle	2024	3.11
+771	Friends	frnd0673	Friends Michelle - Lavender Jacket, Tan Skirt Long, Dark Bluish Gray Shoes	2024	3.11
 771	Friends	frnd0674	Friends Victoria - Micro Doll, Orange Dress	2024	1.74
 1095	Super Mario	mar0177	Penguin	2023	38.21
 1095	Super Mario	mar0178	Santa Goomba	2023	8.6
@@ -16494,7 +16494,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / DUPLO, Town / Farm	47394pb357	Duplo Figure Lego Ville, Female, Blue Legs with Overalls, Bee and Daisy, Light Bluish Gray Hair (6469007, 6569838)	2024	15.8
 759	NINJAGO / Dragons Rising Season 2	njo0895	Wolf Mask Warrior - Dark Purple and Red Mask	2024	4.2
 771	Friends	frnd0737	Friends Autumn - White and Orange Sleeveless Top with Tent, Sand Green Shorts, Nougat and Reddish Brown Boots, Prosthetic Hand	2024	3.04
-771	Friends	frnd0738	Friends Nova - Dark Purple Hoodie, White Shirt with Tent, Dark Turquoise Shorts, Black and White Boots	2024	3.2
+771	Friends	frnd0738	Friends Nova - Dark Purple Hoodie, White Shirt with Tent, Dark Turquoise Shorts, Black Boots	2024	3.2
 65	Star Wars / Star Wars The Mandalorian	sw1341	Paz Vizsla - Backpack without Clip	2024	6
 227	Harry Potter / Sorcerer's Stone	hp489	Mountain Troll - Dark Tan Vest and Loincloth	2024	29.7
 227	Harry Potter / Sorcerer's Stone	hp488	Albus Dumbledore - Dark Red Robe, White Hair, Printed Arms	2024	4.8
@@ -16691,7 +16691,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1203	Sonic the Hedgehog	son017	Shadow the Hedgehog - Open Mouth	2024	6.7
 1203	Sonic the Hedgehog	son018	Tails (Miles Prower) - Winking	2024	5.88
 1203	Sonic the Hedgehog	son019	Super Sonic	2024	5.83
-768	Super Heroes / The Infinity Saga	sh0966	Hulk - Giant, Sand Blue Pants with Lavender Panels, Raging	2024	30.9
+768	Super Heroes / The Infinity Saga	sh0966	Hulk - Giant, Sand Blue Pants with Lavender Panels, Raging with Open Mouth	2024	30.9
 768	Super Heroes / The Infinity Saga	sh0967	Hulk - Giant, Dark Bluish Gray Pants, Raging	2024	30.9
 768	Super Heroes / The Infinity Saga	sh0968	Loki - Pearl Dark Gray Suit, Flexible Rubber Cape	2024	5.21
 1100	Monkie Kid	mk167	The Nine-Headed Demon	2024	4.35
@@ -17071,7 +17071,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1197	BrickLink Designer Program	bdp147	Pirate - Male, Blue Vest, Dark Bluish Gray Legs, Black Hair with Short Ponytail	2024	3.5
 768	Super Heroes / Captain America Brave New World	sh1001	Red Hulk - Giant, Black Eyes	2024	30.9
 768	Super Heroes / Captain America Brave New World	sh1002	Ruth Bat-Seraph	2024	3.85
-768	Super Heroes / Captain America Brave New World	sh1003	Captain America (Sam Wilson) - Dark Blue Suit, Backpack and Wings without Stickers	2024	9.41
+768	Super Heroes / Captain America Brave New World	sh1003	Captain America (Sam Wilson) - Dark Blue Suit, Red Boots, Backpack and Wings without Stickers	2024	9.41
 768	Super Heroes / Captain America Brave New World	sh1000	Falcon (Joaquín Torres) - Backpack and Wings without Stickers	2024	9.08
 65	Star Wars / Star Wars The Clone Wars	sw1396	Ahsoka Tano (Padawan) - Dark Red Backless Vest with Necklace and Belt, Medium Legs	2025	3.87
 65	Star Wars / Star Wars The Clone Wars	sw1398	Anakin Skywalker - Dark Brown and Black Robe, Black Hands	2025	3.68
@@ -17116,7 +17116,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Captain America Brave New World	sh1000s	Falcon (Joaquín Torres) - Backpack and Wings with Stickers	2024	9.14
 768	Super Heroes / X-Men	sh0990	Professor X (Charles Francis Xavier) - Dark Blue Suit	2024	3.05
 801	Minecraft	min190	Hero - Dark Red Torso, Dark Blue Legs	2024	3.43
-768	Super Heroes / Captain America Brave New World	sh1003s	Captain America (Sam Wilson) - Dark Blue Suit, Backpack and Wings with Stickers	2024	9.46
+768	Super Heroes / Captain America Brave New World	sh1003s	Captain America (Sam Wilson) - Dark Blue Suit, Red Boots, Backpack and Wings with Stickers	2024	9.46
 227	Harry Potter	hp537	Cho Chang - Dark Blue Ravenclaw Quidditch Robe over Sweater, Tan Legs	2024	3.76
 1203	Sonic the Hedgehog	son027	Sonic the Hedgehog - Light Nougat Face and Arms, Open Mouth Smirk to Left	2025	5.83
 1095	Super Mario / Mario Kart	mar0207	Donkey Kong - Interior Type 2	2025	60.7
@@ -17439,7 +17439,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Coast Guard	cty1875	Surfer - Female, Light Bluish Gray and Lime Wetsuit, Light Bluish Gray Legs, Reddish Brown Hair with Ponytail	2025	3.64
 1268	DREAMZzz	drm080	Cyber Brain Spider - 6 Legs, Medium Azure Appendages	2025	17.81
 1268	DREAMZzz	drm081	Cyber Brain Spider - 6 Legs, Magenta Appendages	2025	16.52
-771	Friends	frnd0806	Friends Nova - Medium Lavender Sleeveless Hoodie with Dachshund, Dark Turquoise Shorts, Black and White Boots	2025	3.2
+771	Friends	frnd0806	Friends Nova - Medium Lavender Sleeveless Hoodie with Dachshund, Dark Turquoise Shorts, Black Boots	2025	3.2
 878	Disney / Disney Princess / Cinderella	dp212	Cinderella - Bright Light Blue and Metallic Light Blue Ball Gown, Bright Light Orange Hair	2025	4.11
 759	NINJAGO / Dragons Rising Season 3	njo0963	Tyr - Red Torso and Legs	2025	7.27
 67	Town / City / Off-Road	cty1876	Adventurer - Male, Dark Tan Vest over Orange Shirt, Light Bluish Gray Legs, Black Hair	2025	3.48
@@ -17549,7 +17549,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town	twn520	Gardener - Female, Medium Nougat Overalls over Sand Green Shirt, Reddish Brown Boots, Red Ball Cap with Reddish Brown Ponytail	2024	3.9
 801	Minecraft	min206	Shadow Hoodie	2025	3.43
 801	Minecraft	min207	Breeze	2025	5.47
-65	Star Wars / Star Wars Episode 1	sw1413	Pit Droid (Anakin's) - Dark Bluish Gray Mechanical Arms (b25sw03uk)	2025	3.47
+65	Star Wars / Star Wars Episode 1	sw1413	Pit Droid (Anakin's) - Dark Bluish Gray Mechanical Arms	2025	3.47
 759	NINJAGO / Dragons Rising Season 2	njo0966	Cinder - Ghost Legs	2025	4.67
 759	NINJAGO / Dragons Rising Season 3	njo0967	Kai - Dragons Rising, Tunic with Strap and Charm, Dragon Shoulder Armor	2025	4.95
 759	NINJAGO / Dragons Rising Season 3	njo0972	Arin - Shirt with Magenta Dragon, Hair, Bandana	2025	3.7
@@ -17831,7 +17831,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1268	DREAMZzz	drm093	Astrid - White Outfit, Light Aqua Hair, Gold Crown	2025	4.04
 1268	DREAMZzz	drm094	Cyber Brain Spider - 4 Legs, Magenta Appendages	2025	10.35
 1268	DREAMZzz	drm095	Cyber Brain Spider - 4 Legs, Medium Azure Appendages, Black Claws	2025	10.2
-771	Friends	frnd0843	Friends Aliya - White Crochet Top, Sand Blue Trousers with Black Boots	2025	3.42
+771	Friends	frnd0843	Friends Aliya - White Crochet Top, Sand Blue Trousers, Black Boots	2025	3.42
 771	Friends	frnd0844	Friends Victoria - Micro Doll, Blue Dress	2025	1.75
 771	Friends	frnd0845	Friends Liann - Coral Patchwork Jacket, Tan Trousers with Medium Nougat Boots	2025	3.11
 227	Harry Potter	hp578	Mannequin - Quidditch Dark Green Robe, Slytherin Crest	2025	3.03
@@ -17922,7 +17922,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1312	Wednesday	wed006	Wednesday Addams - Black Hoodie, Skirt, Platform Soles	2025	3.48
 65	Star Wars / Star Wars Episode 4/5/6	sw1435	Wicket (Ewok), Molded Dark Orange Hood with Wrinkles	2025	4.22
 768	Super Heroes / Spider-Man	sh1070	Kraven The Hunter - Reddish Brown Plain Legs	2025	4
-1268	DREAMZzz	drm096	Mateo - Z-Blob Shirt, Blue Puffer Vest, Hair with Lime Streaks (6527186)	?	4.65
+1268	DREAMZzz	drm096	Mateo - Z-Blob Shirt, Blue Puffer Vest, Hair with Lime Streaks (6527186)	2024	4.65
 842	SPEED CHAMPIONS	sc133	Porsche 911 GT3 RS Driver	2025	3.65
 768	Super Heroes / Batman Forever	sh1071	Batman - Pearl Dark Gray Suit	2025	4.77
 768	Super Heroes / The Infinity Saga	sh1072	Quicksilver - Sand Blue Shirt	2025	3.65
@@ -17990,9 +17990,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1305	Wicked	wck017	Madame Morrible - Minifigure	2025	3.98
 1305	Wicked	wck018	Pfannee	2025	3.4
 1305	Wicked	wck019	Elphaba - Minifigure, Black Dress, Hat	2025	5.14
-850	Jurassic World	jw142	ACU Guard / Ranger - Male, Neck Bracket with Helipack (122505)	?	?
+850	Jurassic World	jw142	ACU Guard / Ranger - Male, Neck Bracket with Helipack (122505)	2025	?
 9	Castle / Black Falcons	cas596	Black Falcon - Light Gray Legs with Black Hips, Dark Gray Chin-Guard, Quiver	?	4
 34	Space / Blacktron I	sp148	Blacktron I - Printed Legs, Gold Triangle Logos	2025	4.22
+976	LEGO Brand / LEGO Brand Store	tls127	LEGO Brand Store Employee - Male, Black Shirt with Yellow Stripes, Dark Brown Coiled Hair	?	3.6
+976	LEGO Brand / LEGO Brand Store	tls125	LEGO Brand Store Customer - Female, Medium Lavender Jacket, Dark Azure Legs with Prosthetic Leg, Bright Light Yellow Hair	?	3.85
+976	LEGO Brand / LEGO Brand Store	tls126	LEGO Brand Store Customer - Girl, Bright Light Blue Denim Jacket over Shirt with Record, Blue Short Legs, Dark Orange Hair	?	3.4
 67	Town / City	cty1930	Child - Boy, Polar Bear Costume, Medium Azure Scarf	2025	3.65
 67	Town / City	cty1931	Man - Dark Green Holiday Sweater, Tan Legs, Black Hair	2025	3.54
 67	Town / City	cty1932	Child - Girl, Reindeer Costume, Red Scarf	2025	3.88
@@ -18067,14 +18070,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 878	Disney / Disney Villains	dis188	Cruella de Vil	2025	4.2
 1203	Sonic the Hedgehog	son030	Caterkiller	2025	6.25
 1203	Sonic the Hedgehog	son031	Burrobot	2025	7.19
-817	LEGO Ideas (CUUSOO)	idea249	Willy Wonka	2025	4.75
-817	LEGO Ideas (CUUSOO)	idea250	Oompa Loompa - Male	2025	3.15
-817	LEGO Ideas (CUUSOO)	idea251	Oompa Loompa - Female	2025	3.15
-817	LEGO Ideas (CUUSOO)	idea252	Charlie Bucket	2025	3.47
+817	LEGO Ideas (CUUSOO)	idea249	Willy Wonka	2025	4.84
+817	LEGO Ideas (CUUSOO)	idea250	Oompa Loompa - Male	2025	3.46
+817	LEGO Ideas (CUUSOO)	idea251	Oompa Loompa - Female	2025	3.46
+817	LEGO Ideas (CUUSOO)	idea252	Charlie Bucket	2025	3.53
 817	LEGO Ideas (CUUSOO)	idea253	Grandpa Joe	2025	3.79
-817	LEGO Ideas (CUUSOO)	idea254	Mike Teavee (Teevee)	2025	4.28
-817	LEGO Ideas (CUUSOO)	idea255	Veruca Salt	2025	4.32
-817	LEGO Ideas (CUUSOO)	idea256	Violet Beauregarde	2025	3.3
+817	LEGO Ideas (CUUSOO)	idea254	Mike Teavee (Teevee)	2025	4.31
+817	LEGO Ideas (CUUSOO)	idea255	Veruca Salt	2025	4.24
+817	LEGO Ideas (CUUSOO)	idea256	Violet Beauregarde	2025	3.57
 817	LEGO Ideas (CUUSOO)	idea257	Augustus Gloop	2025	3.4
 842	SPEED CHAMPIONS	sc137	Dodge Challenger SRT Hellcat Driver	2025	3.5
 1305	Wicked	wck022	Elphaba - Mini Doll, Black Coat over Dress	2025	3.84
@@ -18290,29 +18293,44 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 166	Educational & Dacta / Science	pln209	Plain White Torso, Dark Blue Legs, Standard Grin	2025	3.03
 746	Collectible Minifigures / Series 28 Minifigures	col466	Koala Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	3.97
 746	Collectible Minifigures / Series 28 Minifigures	col467	Dalmatian Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	4.67
-1043	Stranger Things	st010	Mr. Whatsit (11370)	2026	3.38
-1043	Stranger Things	st016	Mike Wheeler - Light Aqua Jacket (11370)	2026	3.68
-1043	Stranger Things	st012	Robin Buckley (11370)	2026	3.83
-1043	Stranger Things	st013	Will Byers - Blue Jacket, Reddish Brown Legs (11370)	2026	3.38
-1043	Stranger Things	st015	Max Mayfield (11370)	2026	4.58
-1043	Stranger Things	st011	Eleven - Dark Brown Hair (11370)	2026	3.5
-1043	Stranger Things	st017	Holly Wheeler (11370)	2026	4.11
-1043	Stranger Things	st018	Lucas Sinclair - Dark Azure Shirt (11370)	2026	3.71
-1043	Stranger Things	st019	Dustin Henderson - Bright Light Orange Cap (11370)	2026	3.89
-1043	Stranger Things	st020	Nancy Wheeler (11370)	2026	4.85
-1043	Stranger Things	st021	Steve Harrington (11370)	2026	3.64
-1043	Stranger Things	st022	Jonathan Byers (11370)	2026	3.75
+1043	Stranger Things	st010	Mr. Whatsit	2026	3.38
+1043	Stranger Things	st016	Mike Wheeler - Light Aqua Jacket	2026	3.68
+1043	Stranger Things	st012	Robin Buckley	2026	3.83
+1043	Stranger Things	st013	Will Byers - Blue Jacket, Reddish Brown Legs	2026	3.38
+1043	Stranger Things	st014	Vecna	2026	3.19
+1043	Stranger Things	st015	Max Mayfield	2026	4.58
+1043	Stranger Things	st011	Eleven - Dark Brown Hair	2026	3.5
+1043	Stranger Things	st017	Holly Wheeler	2026	4.11
+1043	Stranger Things	st018	Lucas Sinclair - Dark Azure Shirt	2026	3.71
+1043	Stranger Things	st019	Dustin Henderson - Bright Light Orange Cap	2026	3.89
+1043	Stranger Things	st020	Nancy Wheeler	2026	4.85
+1043	Stranger Things	st021	Steve Harrington	2026	3.64
+1043	Stranger Things	st022	Jonathan Byers	2026	3.75
 746	Collectible Minifigures / Series 28 Minifigures	col468	Crocodile Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	5.18
 746	Collectible Minifigures / Series 28 Minifigures	col469	Dolphin Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	5.22
 746	Collectible Minifigures / Series 28 Minifigures	col470	Bunny Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	4.36
 746	Collectible Minifigures / Series 28 Minifigures	col471	Lion Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	5.9
 746	Collectible Minifigures / Series 28 Minifigures	col472	Parrot Costume Fan, Series 28 (Minifigure Only without Stand and Accessories)	2026	4.82
-227	Harry Potter / Deathly Hallows	hp597	Harry Potter - Dark Brown Open Jacket, Sand Blue Legs (76467)	2026	3.4
-227	Harry Potter / Deathly Hallows	hp598	Xenophilius Lovegood (76467)	2026	4.12
-227	Harry Potter / Deathly Hallows	hp599	Death Eater - Black Hood, Black Arms (76467)	2026	3.88
-801	Minecraft	min242	Micromob Steve - Short, Dark Brown Hair, Dark Azure Legs (21589)	2026	0.5
-801	Minecraft	min243	Micromob Husk (21589)	2026	0.5
-801	Minecraft	min244	Micromob Pillager (21589)	2026	0.5
+65	Star Wars	sw1485	BB-8 (Large Photoreceptor and Small Black Circle)	2026	1.9
+768	Super Heroes / Spider-Man	sh1095	Ghost Rider, Johnathon 'Johnny' Blaze - White Head, Flaming Chain	2026	3.8
+227	Harry Potter / Deathly Hallows	hp597	Harry Potter - Dark Brown Open Jacket, Sand Blue Legs	2026	3.4
+227	Harry Potter / Deathly Hallows	hp598	Xenophilius Lovegood	2026	4.12
+227	Harry Potter / Deathly Hallows	hp599	Death Eater - Black Hood, Black Arms	2026	3.88
+759	NINJAGO / Legacy	njo0996	Wu Sensei - Golden Weapons Legacy Update	2026	3.66
+759	NINJAGO / Legacy	njo0997	Kai ZX - Legacy Update	2026	4.31
+759	NINJAGO / Legacy	njo0998	Jay ZX - Legacy Update	2026	4.32
+759	NINJAGO / Legacy	njo1003	Zane ZX - Legacy Update	2026	4.34
+759	NINJAGO / Legacy	njo1004	Cole ZX - Legacy Update	2026	4.29
+759	NINJAGO / Legacy	njo1005	Lloyd ZX - Legacy Update	2026	4.31
+759	NINJAGO / Legacy	njo1006	Master of Lightning	2026	3.89
+759	NINJAGO / Legacy	njo1002	Samurai X (Nya) - Legacy Update	2026	4.76
+768	Super Heroes	sh1096	Captain America (Sam Wilson) - Dark Blue Suit, Dark Blue Plain Legs, Backpack and Wings	2025	8.15
+390	Holiday & Event / Chinese New Year	hol407	Year of the Horse Costume Guy	2026	4.59
+390	Holiday & Event / Chinese New Year	hol408	Child - Girl, Yellowish Green Tang Jacket, Dark Green Short Legs, Black Hair with Buns	2026	3.51
+801	Minecraft	min242	Micromob Steve - Short, Dark Brown Hair, Dark Azure Legs	2026	0.5
+801	Minecraft	min243	Micromob Husk	2026	0.5
+801	Minecraft	min244	Micromob Pillager	2026	0.5
+768	Super Heroes / The Infinity Saga	sh1097	Iron Man - Mark 3 Armor, Printed Arms	2026	4.05
 67	Town	twn533	Shopping Street Shop Manager - Male, Sand Blue Shirt, Dark Bluish Gray Legs, Reddish Brown Hair	2026	3.52
 67	Town	twn532	Shopping Street Mum - Bright Light Blue Denim Jacket, Black Legs, Dark Brown Hair	2026	3.64
 67	Town	twn534	Shopping Street Child - Boy, Dark Purple Marching Band Jacket, White Short Legs, Reddish Brown Hair	2026	3.42
@@ -18320,16 +18338,40 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town	twn535	Shopping Street Plumber - Male, Bright Light Blue Shirt, Dark Blue Overalls and Legs, Red Construction Helmet	2026	3.54
 67	Town	twn537	Shopping Street Carpenter - Female, White Shirt, Reddish Brown Apron, Sand Blue Legs, Dark Orange Hair	2026	3.85
 67	Town	twn538	Shopping Street Furniture Mover - Male, Tan Sweater, Bright Light Blue Legs, Dark Blue Cap	2026	3.38
+768	Super Heroes / Spider-Man	sh1098	Rhino - Shoulder Armor with Light Bluish Gray Horn	2026	3.94
+759	NINJAGO / Legacy	njo1007	Nya - The Golden Weapons, Legacy Update	2026	3.49
+768	Super Heroes / Spider-Man	sh1099	Spider-Man (Miles Morales) - Dark Bluish Gray Webbing on Head, Black Hands	2026	3
+759	NINJAGO / Legacy	njo1008	Kai - Blacksmith, Dark Orange Apron	2026	4.02
+768	Super Heroes / Spider-Man	sh1100	J. Jonah Jameson - Dark Blue Suit, Light Bluish Gray Hair	2026	3.42
+768	Super Heroes / Spider-Man	sh1101	Mysterio - White Skull Head, Satin Trans-Light Blue Helmet, Rubber Cape	2026	5.09
+759	NINJAGO / Legacy	njo1009	Ray - Legacy	2026	3.57
+759	NINJAGO / Legacy	njo1010	Maya - Legacy	2026	4.07
+759	NINJAGO / Legacy	njo1011	Master of Earth	2026	3.7
+768	Super Heroes / Spider-Man	sh1102	Venomized Captain America	2026	3.51
 759	NINJAGO / Legacy	njo1012	Mystake - Light Bluish Gray Sweater, Conical Hat	2026	3.47
+759	NINJAGO / Legacy	njo1013	Statue - Pearl Gold Conical Hat	2026	3.48
 759	NINJAGO / Legacy	njo1014	Chuck the Carpenter	2026	3.58
-759	NINJAGO / Legacy	njo1020	Administrative Agent	2026	4.41
+759	NINJAGO / Legacy	njo1015	Kai ZX - Legacy Update, Hair	2026	4.51
+759	NINJAGO / Legacy	njo1016	Lord Garmadon - Legacy, Pearl Dark Gray Helmet, No Leg Print	2026	3.87
+759	NINJAGO / Legacy	njo1017	Jay ZX - Legacy Update, Aviator Cap, Neck Bracket	2026	4.08
+759	NINJAGO / Legacy	njo1018	Young Acronix	2026	3.71
+759	NINJAGO / Legacy	njo1019	Ninjago Mailman	2026	4.14
+759	NINJAGO / Legacy	njo1020	Administration Agent	2026	4.41
 759	NINJAGO / Legacy	njo1021	Faith - Legacy	2026	3.53
+759	NINJAGO / Legacy	njo1022	Young Krux	2026	3.5
 759	NINJAGO / Legacy	njo1023	Harumi - Legacy	2026	3.73
+759	NINJAGO / Dragons Rising Season 4	njo1024	Loyalist Leader (Dr. LaRow)	2026	3.85
+759	NINJAGO / Legacy	njo1025	Loyalist	2026	3.78
 759	NINJAGO / Legacy	njo1026	Dr. Sanders Saunders (Krux Disguise)	2026	3.44
+759	NINJAGO / Legacy	njo1027	Cole ZX - Legacy Update, Hair	2026	4.16
 759	NINJAGO / Legacy	njo1028	Dr. Julien	2026	3.57
+759	NINJAGO / Legacy	njo0999	Young Wu - Black Master Tunic	2026	3.33
 759	NINJAGO / Legacy	njo1000	First Spinjitzu Master	2026	3.44
-801	Minecraft	min246	Wastelands Wanderer (21587)	2026	4.25
-801	Minecraft	min245	Zombie - Medium Lavender Legs (21587)	2026	3.42
+759	NINJAGO / Legacy	njo1001	Young Garmadon - Black Master Tunic	2026	3.64
+771	Friends	frnd0860	Friends Autumn - Blue Tied Flannel Vest, Dark Blue Trousers Bell-Bottoms, Dark Tan Shoes	2026	2.97
+67	Town / City / Arctic	cty1938	Arctic Explorer - Female, Orange Jacket and Legs, Dark Blue Dirt Bike Helmet, White Goggles	2025	3.9
+801	Minecraft	min246	Wastelands Wanderer	2026	4.25
+801	Minecraft	min245	Zombie - Medium Lavender Legs	2026	3.42
 227	Harry Potter / Prisoner of Azkaban	hp600	Penelope Clearwater	2026	3.83
 227	Harry Potter / Prisoner of Azkaban	hp601	The Grey Lady - Parted Bangs Swept Back	2026	4.6
 227	Harry Potter / Prisoner of Azkaban	hp602	Dementor - Black with Black Cape, Head with Eye Holes	2026	4.54
@@ -18337,9 +18379,116 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter / Prisoner of Azkaban	hp604	Ron Weasley - Gryffindor Robe Clasped, Black Medium Legs, Open Mouth Smile	2026	3.36
 227	Harry Potter / Prisoner of Azkaban	hp605	Harry Potter - Gryffindor Robe Open, Black Medium Legs, Hair Thick and Messy	2026	3.62
 227	Harry Potter / Prisoner of Azkaban	hp606	Hermione Granger - Bright Pink Hoodie with Time Turner Necklace	2026	4.33
+65	Star Wars / Star Wars The Mandalorian	sw1488	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape, Printed Head	2026	3.8
+65	Star Wars / Star Wars The Clone Wars	sw1487	Mandalorian Super Commando - Printed Legs, Female	2026	4.1
+65	Star Wars / Star Wars The Clone Wars	sw1486	Mandalorian Super Commando - Printed Legs, Male	2026	4.1
+759	NINJAGO / Dragons Rising Season 4	njo1029	Lloyd - Dragon Form	2026	7.12
+759	NINJAGO / Dragons Rising Season 4	njo1030	Earth Monster - Horns	2026	4.59
+759	NINJAGO / Dragons Rising Season 4	njo1031	Arin - Shirt with Dark Blue and Reddish Orange Dragons, Hood with Horns	2026	4.71
 759	NINJAGO / Dragons Rising Season 4	njo1032	Acid Monster	2026	7.98
+759	NINJAGO / Dragons Rising Season 4	njo1033	Zane - White Mask, Wide Pearl Gold Shoulder Armor	2026	4.02
+759	NINJAGO / Dragons Rising Season 4	njo1034	Sora - Cat Headphones, Mask, Scabbard Armor with 1 Shoulder Pad	2026	4.42
+759	NINJAGO / Dragons Rising Season 4	njo1035	Cole - Dragon Form	2026	7.13
+166	Educational & Dacta / Science	pln210	Plain White Torso, Dark Turquoise Legs, Standard Grin	2025	3.03
 67	Town / City / Food & Drink	cty1939	Fries Food Truck Vendor - Female, Black Vest, Sand Blue Legs, Red Cap	2026	3.39
 67	Town / City / Food & Drink	cty1940	Construction Worker - Female, Reddish Orange Safety Jacket with Reflective Stripes, Dark Bluish Gray Legs with Knee Pads, Black Hair Braided with Knot Bun	2026	3.76
 227	Harry Potter / Sorcerer's Stone	hp607	Harry Potter - Hogwarts Robe, Black Tie, Surprised	2026	3.36
 227	Harry Potter / Sorcerer's Stone	hp608	Draco Malfoy - Hogwarts Robe, Black Tie, Grin	2026	3.03
 227	Harry Potter / Sorcerer's Stone	hp609	Professor Minerva McGonagall - Dark Green Robe, Plain Skirt, Hat with Hair	2026	4.65
+771	Friends	frnd0861	Friends Paisley - White Unicorn T-shirt, Bright Light Blue Trousers Bell-Bottoms, Orange Shoes	2026	3.26
+771	Friends	frnd0862	Friends Aliya - Coral Sweater Vest, Blue Skirt, Metallic Light Blue Shoes	2026	3.4
+771	Friends	frnd0863	Friends Iza	2026	2.95
+842	SPEED CHAMPIONS	sc138	Marty McFly - Red Puffer Vest over Sand Blue Jacket, Blue Arms	2026	4.05
+842	SPEED CHAMPIONS	sc139	Doc Brown - Long Hair, Tool Belt	2026	3.79
+771	Friends	frnd0864	Friends Liann - Lime, Coral and Medium Azure Tank Top, Orange Skirt, Medium Lavender Shoes	2026	3.09
+227	Harry Potter / Sorcerer's Stone	hp610	Harry Potter - Red Torn Sweater, Dark Tan Short Legs	2026	3.38
+227	Harry Potter / Sorcerer's Stone	hp611	Hermione Granger - Dark Green Sweater, Printed Arms, Black Skirt, and Short Legs with White Stripes	2026	4.25
+227	Harry Potter / Sorcerer's Stone	hp612	Ron Weasley - Plaid Shirt, Printed Arms, Sand Blue Short Legs	2026	3.19
+759	NINJAGO / Dragons Rising Season 4	njo1036	Nya - Dragons Rising, Tunic with Dragon Head, Hair, Wide Pearl Gold Shoulder Armor	2026	4.6
+759	NINJAGO / Dragons Rising Season 4	njo1037	Mutation Monster	2026	5.12
+759	NINJAGO / Dragons Rising Season 4	njo1038	Cole - Dragons Rising, Tunic with Dragon Head, Hair, Wide Pearl Gold Shoulder Armor	2026	4.33
+759	NINJAGO / Dragons Rising Season 4	njo1039	Zane - Dragon Form	2026	7.15
+759	NINJAGO / Dragons Rising Season 4	njo1040	Kai - Dragons Rising, Tunic with Dragon Head, Helmet	2026	4.08
+759	NINJAGO / Dragons Rising Season 4	njo1041	Lloyd - Dragons Rising, Tunic with Dragon Head, Hair, Wide Pearl Gold Shoulder Armor	2026	4.63
+759	NINJAGO / Dragons Rising Season 4	njo1042	Earth Monster	2026	4.38
+768	Super Heroes / The Infinity Saga	sh1103	Iron Man - Mark 43 Armor, Light Nougat Head, Printed Arms	2026	4.06
+768	Super Heroes / The Infinity Saga	sh1104	Hulk - Giant, Sand Blue Pants with Lavender Panels, Raging with Clenched Teeth	2026	30.9
+65	Star Wars / Star Wars The Mandalorian	sw1489	Cobb Vanth	2026	4.2
+65	Star Wars / Star Wars The Book of Boba Fett	sw1490	Cad Bane - Black Head	2026	4.5
+878	Disney / Disney Princess / The Little Mermaid	dp237	Ariel, Mermaid (Medium Tan) - Micro Doll, Open Eyes	2026	2.5
+771	Friends	frnd0865	Friends Leo - Bright Light Orange Sleeveless Shirt, Dark Blue Cropped Trousers, Blue Shoes	2026	3.01
+771	Friends	frnd0866	Friends Liann - Lime, Coral and Medium Azure Tank Top, Orange Skirt, Medium Lavender Shoes, Bright Light Orange Helmet	2026	3.43
+771	Friends	frnd0867	Friends Paisley - Bright Pink Tank Top, Bright Light Blue Trousers Bell-Bottoms, Orange Shoes	2026	3.26
+1268	DREAMZzz	drm098	Mateo - Dark Azure Jacket, Red Bandana	2026	?
+67	Town / City / Rides / Police	cty1941	Driver Junior - Dark Blue Body, White Helmet (Police Officer)	2026	0.78
+67	Town / City / Rides / Fire	cty1942	Driver Junior - Black Body, Neon Yellow Helmet (Firefighter)	2026	0.78
+67	Town / City / Rides / Construction	cty1943	Driver Junior - Reddish Orange Body, Red Helmet (Construction Worker)	2026	0.78
+67	Town / City / Rides / Race	cty1944	Driver Junior - Black Body, Lime Helmet (Game Car Racer)	2026	0.78
+67	Town / City / Traffic	cty1945	EV Supercar Driver - Male, Dark Orange Jacket, Dark Bluish Gray Legs, Black Coiled Hair	2026	3.41
+67	Town / City / Race	cty1946	Hot Rod Driver - Male, Black Leather Jacket, Sand Blue Legs, Reddish Brown Hair	2026	3.54
+771	Friends	frnd0868	Friends Nova - Light Aqua and Lime Sweater, Dark Turquoise Shorts, Black Boots	2026	3.2
+771	Friends	frnd0869	Friends Sonia - Bright Light Yellow 'PLAYLAND' Apron, Dark Pink T-Shirt, Medium Azure Shoes	2026	3.62
+67	Town / City / Fire	cty1947	Fire - Female, Dark Tan Jacket and Legs with Reflective Stripes, Neon Yellow Fire Helmet, Trans-Clear Visor, Nougat Lips Smirk	2026	4.29
+67	Town / City / Fire	cty1948	Fire - Male, Black Open Jacket and Legs with Reflective Stripes and Red Collar, White Fire Helmet, Trans-Clear Visor, Reddish Brown Moustache	2026	4.29
+67	Town / City / Fire	cty1949	Fire - Female, Dark Tan Jacket and Legs with Reflective Stripes, Neon Yellow Fire Helmet, Trans-Clear Visor, Open Mouth Smile	2026	4.43
+67	Town / City / Fire	cty1950	Fire - Male, Dark Tan Jacket and Legs with Reflective Stripes, Neon Yellow Fire Helmet, Trans-Clear Visor, Scuff Mark	2026	4.29
+801	Minecraft	min247	Hero - Dark Green Torso, Flat Silver Legs and Helmet	2025	4.16
+771	Friends	frnd0870	Friends Aliya - Bright Pink, Red and White Sleeveless Shirt, Magenta Trousers, Dark Blue Boots, Magenta Horse Riding Helmet	2026	3.02
+771	Friends	frnd0871	Friends Cindy	2026	3.12
+771	Friends	frnd0872	Friends Liann - Dark Azure and Bright Light Blue Vest  over White Top, Sand Green Trousers, Dark Brown Boots, Bright Light Orange Horse Riding Helmet	2026	3
+801	Minecraft	min248	Hero - Sand Blue Torso, Bright Green Legs and Helmet	2025	4.19
+801	Minecraft	min249	Hero - Dark Green Torso, Dark Tan Legs, Bright Light Orange Goggles	2025	4.16
+1203	Sonic the Hedgehog	son032	Silver the Hedgehog	2026	?
+67	Town	twn539	Vintage Car Show Driver - Tricorne Propeller Hat	2026	3.88
+67	Town	twn540	Vintage Car Show Passenger - Cheeseburger Hat	2026	5.76
+768	Super Heroes / Spidey and his Amazing Friends	sh1105	Spider-Man (Peter 'Spidey' Parker) - Medium Legs, Black Spider Logo, Dark Orange Belt	2026	2.9
+768	Super Heroes / Spidey and his Amazing Friends	sh1106	Rhino - Shoulder Armor with White Horn, Dark Bluish Gray Legs	2026	3.95
+771	Friends	frnd0873	Friends Aliya - Coral, Medium Azure and Bright Light Yellow Top, White Skirt, Tan Sandals, Trans-Purple Sunglasses	2026	3.43
+771	Friends	frnd0874	Friends Zahra - Magenta Dress with Gold and Dark Blue Trim	2026	3.76
+771	Friends	frnd0875	Friends Autumn - Medium Lavender Jumpsuit Shorts, Dark Blue Sandals	2026	2.86
+771	Friends	frnd0876	Friends Zac - Dark Tuquoise Shirt with Motorcycle, Yellow Cropped Trousers, Dark Green Sandals	2026	2.9
+771	Friends	frnd0877	Friends Olly - Bright Light Blue Open Shirt, Dark Orange Shorts, Metallic Light Blue Shoes	2026	2.56
+1203	Sonic the Hedgehog	son033	Sonic the Hedgehog - Light Nougat Face and Arms, Open Mouth Smile to Left	2026	5.83
+67	Town / City / Traffic	cty1952	Delivery Worker - Female, Dark Blue Bodywarmer over Sand Green Sweater, Bright Light Blue Legs, Reddish Brown Hair, Hearing Aid	2026	3.64
+67	Town / City / Traffic	cty1951	Delivery Worker - Male, Dark Blue Bodywarmer over Sand Green Sweater, Dark Tan Legs, Black Hair	2026	3.48
+759	NINJAGO / Dragons Rising Season 4	njo1043	Nya - Dragon Form	2026	7.23
+759	NINJAGO / Dragons Rising Season 4	njo1044	Mutation Monster - Appendages	2026	7.72
+771	Friends	frnd0878	Friends Nova - Dark Turquoise Sleeveless Hoodie and Shorts Folded Hem, Black Boots	2026	3.16
+771	Friends	frnd0879	Friends Leo - Dark Turquoise and Yellow Jacket, Dark Blue Cropped Trousers, Blue Shoes	2026	3.02
+1268	DREAMZzz	drm099	Logan - Trans-Light Blue Shoulder Armor, Bright Light Orange Legs	2026	4.52
+1268	DREAMZzz	drm100	Zoey - Dark Purple Quiver, Medium Lavender Sleeves Pattern	2026	4.13
+1268	DREAMZzz	drm101	Arika	2026	10.42
+1268	DREAMZzz	drm102	Grimspawn - Black Helmet Castle Closed, Black Plume	2026	1.76
+67	Town / City / Coast Guard	cty1955	Man - Tan Knit Cable Sweater, Orange Life Jacket, Sand Blue Legs, Dark Bluish Gray Beanie	2026	3.87
+67	Town / City / Coast Guard	cty1956	Coast Guard City - Male, Reddish Orange Jacket with Pockets and Reflective Stripes, Dark Blue Legs with Pockets and Reflective Stripes, White Sports Helmet	2026	3.37
+67	Town / City / Coast Guard	cty1957	Coast Guard City - Female, Reddish Orange Jacket with Dark Blue Safety Vest and Reflective Stripes, Dark Blue Legs with Pockets and Reflective Stripes, White Helmet, Trans-Clear Visor, Safety Glasses	2026	3.65
+67	Town / City / Coast Guard	cty1958	Coast Guard City - Female, Reddish Orange Jacket with Pockets and Reflective Stripes, Dark Blue Legs with Pockets and Reflective Stripes, Dark Brown Bob Cut Hair	2026	3.5
+768	Super Heroes / Spider-Man	sh1107	Spider-Man 2099	2026	3
+67	Town / City / Traffic	cty1953	Taxi Driver - Male, Dark Brown Jacket over Red Hawaiian Shirt, Tan Legs, Reddish Brown Flat Cap	2026	3.55
+67	Town / City / Traffic	cty1954	Tourist - Female, White Sleeveless Top with Lime Palm Leaves, Bright Light Blue Legs, Black Hair	2026	3.6
+842	SPEED CHAMPIONS	sc140	Sonny Hayes	2026	3.52
+842	SPEED CHAMPIONS	sc141	Joshua Pearce	2026	3.51
+67	Town / City / Coast Guard	cty1959	Coast Guard City - Male, Reddish Orange Jacket with Pockets and Reflective Stripes, Dark Blue Legs with Pockets and Reflective Stripes, Dark Blue Cap, Glasses and Moustache	2026	3.39
+801	Minecraft	min250	Cool Hero	2026	3.42
+801	Minecraft	min251	Chicken Fan	2026	3.42
+801	Minecraft	min252	Mothman	2026	4.61
+801	Minecraft	min253	Skeleton, Minecraft - Medium Lavender Armor and Helmet	2026	4.14
+801	Minecraft	min254	Creaking	2026	10.1
+771	Friends	frnd0880	Friends Nova - Dark Turquoise Sleeveless Hoodie, Dark Purple Shorts, Dark Turquoise Shoes	2026	3.22
+771	Friends	frnd0881	Friends Michelle - Reddish Orange Shirt, Sand Green Trousers Bell-Bottoms, Medium Nougat Shoes	2026	2.83
+771	Friends	frnd0882	Friends Paisley - Bright Light Yellow and Medium Lavender Tank Top, Bright Light Blue Trousers Bell-Bottoms, Orange Shoes	2026	3.27
+1268	DREAMZzz	drm103	Mateo - Trans-Bright Green Shoulder Armor	2026	4.44
+1268	DREAMZzz	drm104	Izzie - Satin Trans-Clear Armor	2026	5.03
+1268	DREAMZzz	drm105	Nightmare Emperor	2026	6.04
+1268	DREAMZzz	drm106	Grimspawn - Hood	2026	1.84
+1268	DREAMZzz	drm107	Grimspawn - Black Helmet Castle Closed, Trans-Dark Pink Plume, Forehead Tattoo	2026	1.76
+801	Minecraft	min255	Hero - Medium Azure Legs, Helmet and Armor	2025	5
+801	Minecraft	min256	Stray - Medium Lavender Armor	2026	3.4
+801	Minecraft	min257	Jungle Ranger - Medium Lavender Helmet	2026	4.19
+768	Super Heroes / Spidey and his Amazing Friends	sh1108	Green Goblin - Pirate	2026	3.64
+768	Super Heroes / Spidey and his Amazing Friends	sh1109	Ghost-Spider (Gwen Stacy) - Dark Purple Medium Legs, Magenta Pirate Hat, Medium Azure Spider Logo, Dark Orange Belt	2026	3.64
+768	Super Heroes / Spidey and his Amazing Friends	sh1110	Spider-Man (Miles 'Spin' Morales) - Black Medium Legs, Red Spider Log, Pirate Hat	2026	3.64
+768	Super Heroes / Spidey and his Amazing Friends	sh1111	Spider-Man (Peter 'Spidey' Parker) - Medium Legs, Black Spider Logo, Dark Orange Belt, Pirate Hat	2026	3.64
+771	Friends	frnd0883	Friends Leo - Bright Light Orange Sleeveless Shirt, Orange Life Jacket, Dark Blue Cropped Trousers, Blue Shoes	2026	3.18
+771	Friends	frnd0884	Friends Alba - Micro Doll, Magenta Dress, Orange Life Jacket	2026	1.95
+67	Town / City / Coast Guard	cty1960	Coast Guard City - Male, Reddish Orange Jacket with Pockets and Reflective Stripes, Dark Blue Legs with Pockets and Reflective Stripes, White Flight Helmet	?	?
