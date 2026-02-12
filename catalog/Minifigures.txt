@@ -15797,7 +15797,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter / Deathly Hallows	hp451	Ricbert - Black Tuxedo, White Hair	2023	3.3
 227	Harry Potter / Deathly Hallows	hp448	Goblin - Black Pinstripe Vest, Dark Bluish Gray Hair	2023	3.3
 227	Harry Potter / Deathly Hallows	hp452	Goblin - Black Pinstripe Vest, Dark Orange Hair	2023	3.3
-227	Harry Potter / Deathly Hallows	hp453	Death Eater - Black Hood	2023	3.8
+227	Harry Potter / Deathly Hallows	hp453	Death Eater - Black Hood, Dark Bluish Gray Arms, Double Cheek Lines / Squinting Eyes	2023	3.8
 227	Harry Potter / Deathly Hallows	hp450	Gringotts Guard - Light Nougat Head	2023	3.56
 227	Harry Potter / Deathly Hallows	hp454	Gringotts Guard - Medium Brown Head	2023	3.56
 227	Harry Potter	hp457	Goblin - Black Tuxedo, Dark Bluish Gray Hair, Glasses	2023	3.3
@@ -16109,7 +16109,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0678	Friends Paisley - Bright Light Yellow and Medium Lavender Tank Top, Light Aqua Trousers Bell-Bottoms, Dark Blue Shoes	2024	3.28
 771	Friends	frnd0679	Friends Olivia (Adult) - Bright Light Blue Dress, Black Sandals	2024	2.74
 771	Friends	frnd0680	Friends Imani - Micro Doll	2024	1.87
-771	Friends	frnd0681	Friends Mia (Adult) - Metallic Blue Halter Top, Orange Pants, Dark Turquoise Shoes	2024	3.06
+771	Friends	frnd0681	Friends Mia (Adult) - Metallic Light Blue Halter Top, Orange Pants, Dark Turquoise Shoes	2024	3.06
 771	Friends	frnd0682	Friends Ji-Won	2024	2.99
 771	Friends	frnd0683	Friends Emma (Adult) - Pleated Coral Skirt, Dark Blue, Medium Lavender, Yellow, Green, and White Top	2024	3.17
 771	Friends	frnd0684	Friends Stephanie (Adult) - Medium Lavender Suit with Gold Shirt, Black Shoes with White Soles	2024	2.8
@@ -16222,7 +16222,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Hospital	cty1725	Hiker - Male, Dark Azure and Dark Blue Shirt with Mountains, Dark Tan Legs, Dark Bluish Gray Beanie, Red Backpack Thin	2024	3.9
 67	Town / City / Space Exploration	cty1726	Astronaut - Female, White Spacesuit with Bright Green Arms, Bright Green Helmet, Trans-Clear Visor, Bright Green Harness with Solar Panel and Black Clip	2024	5.2
 67	Town / City / Space Exploration	cty1729	Astronaut - Male, White Spacesuit with Dark Azure Arms, Dark Azure Helmet, Trans-Clear Visor, Dark Azure Jet Pack, Stubble	2024	4.44
-759	NINJAGO / Dragons Rising Season 2	njo0879	Euphrasia	2024	3.77
+759	NINJAGO / Dragons Rising Season 2	njo0879	Euphrasia - Medium Blue Robes	2024	3.77
 67	Town / City / Police	cty1728	Police - City Officer Male, Black Safety Vest with Silver Star Badge Logo, Dark Blue Legs, White Helmet, Trans-Clear Visor, Beard	2024	3.64
 67	Town / City / Space Exploration	cty1727	Alien - Minifigure Head, Tentacles	2024	0.85
 67	Town / City / Police	cty1730	Police - City Officer Male, Neon Yellow Safety Vest, Dark Blue Legs, White Helmet, Trans-Clear Visor	2024	3.62
@@ -17449,7 +17449,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Recreation	cty1880	Dad - Dark Turquoise Jacket over Dark Purple Shirt, Tan Legs, Dark Orange Hair, Baby Carrier	2025	3.68
 759	NINJAGO / Dragons Rising Season 3	njo0964	Drix - Black Shoulder Armor	2025	4.13
 771	Friends	frnd0821	Friends Nova - Dark Purple Hoodie, White Shirt with Tent, Yellowish Green Shorts, Bright Light Yellow Sandals	2024	3.17
-759	NINJAGO / Dragons Rising Season 3	njo0993	Zane - Dragons Rising, Tunic with Shoulder Armor, Hair, Angry (Book b25njo05)	?	3.34
+759	NINJAGO / Dragons Rising Season 3	njo0993	Zane - Dragons Rising, Tunic with Shoulder Armor, Hair, Angry	2025	3.34
 67	Town / City / Race	cty1881	Formula 1 Driver, VCARB - Male, White Racing Suit, Blue Helmet, Trans-Clear Visor, Stubble	2025	3.66
 67	Town / City / Race	cty1882	Formula 1 Driver, Sauber - Female, Black and Bright Green Racing Suit, Bright Green Helmet, Trans-Clear Visor, Beauty Mark	2025	3.64
 1197	BrickLink Designer Program	bdp150	Harbormaster's Office Attendant - Orange Safety Jacket, Sand Blue Legs with Pockets, Dark Brown Ponytail	2025	3.64
@@ -17990,7 +17990,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1305	Wicked	wck017	Madame Morrible - Minifigure	2025	3.98
 1305	Wicked	wck018	Pfannee	2025	3.4
 1305	Wicked	wck019	Elphaba - Minifigure, Black Dress, Hat	2025	5.14
-850	Jurassic World	jw142	ACU Guard / Ranger - Male, Neck Bracket with Helipack (122505)	2025	?
+850	Jurassic World	jw142	ACU Guard / Ranger - Male, Neck Bracket with Helipack	2025	?
 9	Castle / Black Falcons	cas596	Black Falcon - Light Gray Legs with Black Hips, Dark Gray Chin-Guard, Quiver	?	4
 34	Space / Blacktron I	sp148	Blacktron I - Printed Legs, Gold Triangle Logos	2025	4.22
 976	LEGO Brand / LEGO Brand Store	tls127	LEGO Brand Store Employee - Male, Black Shirt with Yellow Stripes, Dark Brown Coiled Hair	?	3.6
@@ -18411,6 +18411,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Dragons Rising Season 4	njo1040	Kai - Dragons Rising, Tunic with Dragon Head, Helmet	2026	4.08
 759	NINJAGO / Dragons Rising Season 4	njo1041	Lloyd - Dragons Rising, Tunic with Dragon Head, Hair, Wide Pearl Gold Shoulder Armor	2026	4.63
 759	NINJAGO / Dragons Rising Season 4	njo1042	Earth Monster	2026	4.38
+227	Harry Potter / Deathly Hallows	hp614	Death Eater - Black Hood, Dark Bluish Gray Arms, Large Open Mouth / Squinting Eyes	2026	3.88
+227	Harry Potter / Deathly Hallows	hp613	Rubeus Hagrid - Medium Nougat Topcoat with Buttons, Goggles	2026	7.49
 768	Super Heroes / The Infinity Saga	sh1103	Iron Man - Mark 43 Armor, Light Nougat Head, Printed Arms	2026	4.06
 768	Super Heroes / The Infinity Saga	sh1104	Hulk - Giant, Sand Blue Pants with Lavender Panels, Raging with Clenched Teeth	2026	30.9
 65	Star Wars / Star Wars The Mandalorian	sw1489	Cobb Vanth	2026	4.2
@@ -18491,4 +18493,28 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Spidey and his Amazing Friends	sh1111	Spider-Man (Peter 'Spidey' Parker) - Medium Legs, Black Spider Logo, Dark Orange Belt, Pirate Hat	2026	3.64
 771	Friends	frnd0883	Friends Leo - Bright Light Orange Sleeveless Shirt, Orange Life Jacket, Dark Blue Cropped Trousers, Blue Shoes	2026	3.18
 771	Friends	frnd0884	Friends Alba - Micro Doll, Magenta Dress, Orange Life Jacket	2026	1.95
-67	Town / City / Coast Guard	cty1960	Coast Guard City - Male, Reddish Orange Jacket with Pockets and Reflective Stripes, Dark Blue Legs with Pockets and Reflective Stripes, White Flight Helmet	?	?
+1268	DREAMZzz	drm108	Cooper - Robot with Red Cap and Neck Bracket	2026	4.55
+1268	DREAMZzz	drm109	Arika - Magenta Legs	2026	3.87
+759	NINJAGO / Dragons Rising Season 4	njo1045	Euphrasia - Dark Azure Robes	2026	4.12
+759	NINJAGO / Dragons Rising Season 4	njo1046	Kai - Dragons Rising, Tunic with Dragon Head, Hair, Wide Pearl Gold Shoulder Armor	2026	4.69
+759	NINJAGO / Dragons Rising Season 4	njo1047	Jay - Dragon Form	2026	7.13
+759	NINJAGO / Dragons Rising Season 4	njo1048	Kai - Dragon Form	2026	7.16
+759	NINJAGO / Dragons Rising Season 4	njo1049	Jay - Dragons Rising, Tunic with Dragon Head, Hair	2026	3.84
+759	NINJAGO / Dragons Rising Season 4	njo1050	Nya - Dragons Rising, Tunic with Dragon Head, Hair	2026	4.04
+67	Town / City / Coast Guard	cty1960	Coast Guard City - Male, Reddish Orange Jacket with Pockets and Reflective Stripes, Dark Blue Legs with Pockets and Reflective Stripes, White Flight Helmet	2026	?
+842	SPEED CHAMPIONS	sc142	Ferrari SF90 XX Stradale Driver	2026	3.63
+390	Holiday & Event / Chinese New Year	hol409	The God of Fortune	2026	4.38
+390	Holiday & Event / Chinese New Year	hol410	Grandmother - Tan Knit Cable Sweater, Reddish Brown Legs, Light Bluish Gray Short Wavy Hair	2026	3.89
+390	Holiday & Event / Chinese New Year	hol411	Grandfather - Light Bluish Gray Jacket with Pinstripes and Legs, White Hair	2026	3.53
+390	Holiday & Event / Chinese New Year	hol412	Child - Girl, Red Jacket over White Shirt, Dark Blue Legs, Black Hair	2026	3.95
+390	Holiday & Event / Chinese New Year	hol413	Child - Boy, Sand Green Sweater over Reddish Orange Tang Jacket, Medium Azure Short Legs, Black Spiked Hair	2026	3.22
+390	Holiday & Event / Chinese New Year	hol414	Man - Sand Green Sweater over Reddish Orange Tang Jacket, Blue Legs, Black Smooth Hair	2026	3.5
+842	SPEED CHAMPIONS	sc143	Bugatti Vision Gran Turismo Driver	2026	3.67
+67	Town / City / Coast Guard	cty1961	Surfer - Female, Light Bluish Gray and Lime Wetsuit, Light Bluish Gray Legs, Dark Orange Hair, Orange Life Jacket	2026	?
+67	Town / City / Coast Guard	cty1962	Coast Guard City - Female, Reddish Orange Jacket with Pockets and Reflective Stripes, Dark Blue Legs with Reflective Stripes, Orange Life Jacket White Sports Helmet	2026	?
+67	Town / City / Coast Guard	cty1963	Coast Guard City - Male, Reddish Orange Jacket with Pockets and Reflective Stripes, Dark Blue Legs with Reflective Stripes, Black Neck Bracket, White Sports Helmet	2026	?
+1268	DREAMZzz	drm110	Mr. Oz - Pearl Gold Suit and Armor, Dark Blue Arms	?	4.63
+1268	DREAMZzz	drm111	Izzie - Satin Trans-Clear Armor with Satin Trans-Light Blue Gem	?	5.21
+1268	DREAMZzz	drm112	Cooper - Robot with Red Hood and Trans-Orange Armor	2026	4.1
+1268	DREAMZzz	drm113	Grimspawn - Ears	2026	1.12
+1268	DREAMZzz	drm114	Logan - Trans-Light Blue Shoulder Armor, Bright Light Orange Legs and Dark Blue Round Tile	2026	4.65

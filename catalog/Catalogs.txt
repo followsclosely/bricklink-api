@@ -4975,7 +4975,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 371	1996	c96sk	1996 Large Slovak (924.714-SQ)	1996	94
 359	1984	c84frdc	1984 Dealer Large French	1984	?
 1319	2025	c25tr2	2025 Large Turkish June - December (TR - 6570320, TR for CAT - 6570330)	2025	211
-1319	2025	c25tr1	2025 Large Turkish January - June (UK f/Brand Retail - 6543368, UK f/Travel Retail - 6543382)	2025	213
+1319	2025	c25ukf1	2025 Large UK January - June (UK f/Brand Retail - 6543368, UK f/Travel Retail - 6543382)	2025	213
 1319	2025	c25sah1uk	2025 Shop at Home - January UK (WOR 1956)	2025	56
 1319	2025	c25sah2uk	2025 Shop at Home - Summer UK (WOR 2104)	2025	54
 1319	2025	c25sah1ca	2025 Shop at Home - January Canadian (WOR 1956)	2025	56
@@ -4990,7 +4990,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25mx1	2025 Large Mexican January - June	2025	200
 1319	2025	c25mx2	2025 Large Mexican August - December (MX - 6570332)	2025	221
 1319	2025	c25us1	2025 Large US January - June	2025	213
-1319	2025	c25lam1	2025 Large Latin American January - June	2025	190
+1319	2025	c25sa1	2025 Large South American January - June	2025	190
 1319	2025	c25ch2	2025 Large Swiss March - June (DE/A Batch 2 - 6543370, DE/A f/B.R. Batch 2 - 6543356, 6543372, 6543374)	2025	210
 1319	2025	c25ch3	2025 Large Swiss January - June	2025	210
 1319	2025	c25ch4	2025 Large Swiss June - December (CH/DE/F - 6570288, CH/DE/F f/Brand Retail - 6570270)	2025	221
@@ -5026,11 +5026,15 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25hk2	2025 Large Hong Kong June - December (HK - 6570336)	2025	216
 1319	2025	c25hk1	2025 Large Hong Kong January - June (HK - 6543423)	2025	203
 1319	2025	c25id1	2025 Large Indonesian January - June	2025	212
-1319	2025	c25in2	2025 Large Indian July - December (India - 6570331)	2025	164
+1319	2025	c25ind2	2025 Large India July - December (India - 6570331)	2025	164
 1319	2025	c25ja2	2025 Large Japanese January - December	2025	128
 1319	2025	c25ja1	2025 Large Japanese January - June	2025	128
 1319	2025	c25dk3	2025 Large Danish January - June	2025	213
 1319	2025	c25de4	2025 Large German / Austrian September - December (DE/A f/B.R.-batch 2 - 6570269, DE-A - Batch 2 - 6570283, 6570285, 6570287)	2025	204
+1319	2025	c25tw1	2025 Large Taiwanese January - June (TW - 6543424)	2025	203
+1319	2025	c25heb1	2025 Large Israel January - June (IS - 6543406)	2025	193
+1319	2025	c25sr1	2025 Large Serbian January - June (SR - 6543405)	2025	175
+544	2005	c05dewat1	2005 Small German Watches	2005	8
 601	2008	c08dedc1	2008 Dealer Large German (452.9106-DE)	2008	546
 647	2009	c09dedc1	2009 Dealer Large German (454.7903-DE)	2009	502
 743	2010	c10dedc	2010 Dealer Large German (459.5751-DE)	2010	460
@@ -5048,3 +5052,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 371	1996 / Pirates / Pirates I	m96pirja	1996 Mini Pirates Japanese (4.103.835-J)	1996	5
 371	1996 / Castle	m96casja	1996 Mini Castle Japanese (4.103.834-J)	1996	5
 371	1996 / Western	m96westjp	1996 Mini Western Japanese (4.105.478-J)	1996	5
+581	2007	c07rudc1	2007 Dealer Russian - Novelties January - May 2007 (4507027-RU)	2007	140
+601	2008	c08rudc1	2008 Dealer Russian - Novelties June - December 2008	2008	?
+1319	2025	c25za1	2025 Large Middle East and African January - June (MENA - 6543411, RSA - 6543412)	2025	183
+351	1976	c76ch3	1976 Large Swiss (98.400-Schw)	1976	?
+371	1996	c96chBlue	1996 Large Swiss (924.714-CH.D) - Blue Cover	1996	?
+348	1973 / Homemaker	c73pt3	1973 Medium Portuguese Foldout - A nova mobília de boneca Lego (97660-Po.)	1973	?
+491	2003	c03ba2	2003 Large Baltic August - December (422.6123-EE/LV/LT)	2003	?
+1319	2025	c25ad1	2025 Large Adriatic January - June (Adriatic - 6543404, Adriatic for CAT - 6543416)	2025	?
+1319	2025	c25ind1	2025 Large India January - June (India - 6543418)	2025	?
+1319	2025	c25tr1	2025 Large Turkish January - June (TR - 6543407, TR for CAT - 6543417)	2025	?
