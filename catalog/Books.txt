@@ -254,7 +254,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 576	Curriculum Activity Book / Educational & Dacta / Technic	198327	LEGO TC logo Quick Reference Guide	1987	20	? x ? x ?
 332	Informational Book / Technic	112180	Technic Pneumatic Pamphlet European (112180-DK/S/SF)	1985	5.7	14.8 x 21 x 0
 317	Idea Book / Town / Town Jr. / Construction	B3058	Master Builders Busy City Idea Book (Masterbuilders)	2000	222	21.5 x 28 x 0.5
-317	Idea Book / Town / Space Port	B3059	Master Builders Mars Mission Idea Book (Masterbuilders)	2000	?	21.5 x 28 x 0.5
+317	Idea Book / Town / Space Port	B3059	Master Builders Mars Mission Idea Book (Masterbuilders)	2000	222	21.5 x 28 x 0.5
 552	Coloring Book	921842	Coloring Fun Book with Street Sweeper on Cover (8 pages)	1991	68	29.7 x 21 x 0.15
 552	Coloring Book	924744	Coloring Fun Book with Fire, Indian and Belville Minifigures on Cover (8 pages)	1997	72	29.7 x 21 x 0.15
 331	Comic Book / BIONICLE	biocom20	Bionicle #20 September 2004 Danger Is The Dark Hunters	2004	40	17 x 26 x 0.1
@@ -1663,7 +1663,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 576	Curriculum Activity Book / Educational & Dacta	9618b3	Set 9618 Activity Booklet 3 - Activity Worksheet	2003	14	21 x 29.7 x 0.03
 576	Curriculum Activity Book / Educational & Dacta	9618b1	Set 9618 Activity Booklet 1 - Box Inlay Card	2002	32	33.7 x 26 x 0.03
 576	Curriculum Activity Book / Educational & Dacta	9618b2	Set 9618 Activity Booklet 2 - Inventory Card	2002	30	33.7 x 26 x 0.03
-317	Idea Book	220-dk	Vi leger med Lego (1971-1972)	1971	184	21 x 29.7 x 0.3
+317	Idea Book	220-dk	Vi leger med Lego (1971-72)	1971	184	21 x 29.7 x 0.3
 505	Story Book / Star Wars	b11sw03	Star Wars - Darth Maul's Mission (Softcover)	2011	72	22 x 21 x 0.03
 505	Story Book / Star Wars	b11sw04	Star Wars - Anakin: Space Pilot (Hardcover)	2011	?	? x ? x ?
 766	Activity Book / Town / City / Harbor	AB092011NL	City - De Haven (Dutch Edition)	2011	127	20.6 x 29.2 x 1.8
@@ -3363,11 +3363,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1167	Magazine, LEGO Club	mag2016fr4	LEGO Club Magazine 2016 September - October (French)	2016	105	20.3 x 26.7 x 0.5
 766	Activity Book / Star Wars	b16sw10uk	Star Wars - Spot the Galactic Heroes (English - UK Edition)	2016	?	25 x 32 x 2
 332	Informational Book / Star Wars	9780545948944	Star Wars - R2-D2 and C-3PO's Guide To The Galaxy	2016	?	19.3 x 23.5 x 2
-766	Activity Book / Star Wars	b16sw08uk	Star Wars - Strong with the Force (English - UK Edition)	2016	?	21.6 x 28 x 2
+766	Activity Book / Star Wars	b16sw08uk	Star Wars - Strong with the Force (English - UK Edition)	2016	175	21.6 x 28 x 2
 1023	Magazine, NEXO KNIGHTS	mag2016nex09pl	NEXO KNIGHTS Magazine 2016 Issue 9 (Polish)	2016	81	21 x 28 x 0.13
 766	Activity Book / NINJAGO / Possession	b16njo03pl	NINJAGO - Podstęp dżina (Softcover) (Polish Edition)	2016	?	20.5 x 29 x 2
 1022	Magazine, Friends	mag2016frnd10pl	Friends Magazine 2016 Issue 10 (Polish)	2016	81	21 x 28 x 0.13
-332	Informational Book / NEXO KNIGHTS	9780241232347	NEXO KNIGHTS - The Book of Knights	2016	982	25.6 x 30.6 x 3.3
+332	Informational Book / NEXO KNIGHTS	b16nex11	NEXO KNIGHTS - The Book of Knights	2016	982	25.6 x 30.6 x 3.3
 766	Activity Book / Super Heroes	b16sh01	DC Comics Super Heroes - The Otherworldly League! (Softcover)	2016	159	26.9 x 8.4 x 1.3
 576	Curriculum Activity Book / Educational & Dacta	26864	Chromosomes Teacher's Guide	2003	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta	26865	Photosynthesis Teacher's Guide	2003	?	? x ? x ?
@@ -4232,7 +4232,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1030	Trading Card Album / Star Wars	sw01dealbum	Star Wars Trading Card Game (German) Series 1 - Sammelordner	2018	?	24 x 31 x 0.25
 1085	Magazine, Elves	mag2017elf01de	Elves Magazine 2017 Issue 1 (German)	2017	86	21 x 28 x 0.3
 1023	Magazine, NEXO KNIGHTS	mag2018nex07pl	NEXO KNIGHTS Magazine 2018 Issue 7 (Polish)	2018	81	21 x 28 x 0.13
-332	Informational Book / NEXO KNIGHTS	9789030502234	NEXO KNIGHTS - Het Grote Ridderboek	2016	1001	14 x 20 x 3
+332	Informational Book / NEXO KNIGHTS	b16nex11nl	NEXO KNIGHTS - Het Grote Ridderboek (Dutch Edition)	2016	1001	14 x 20 x 3
 331	Comic Book / Pirates / Pirates I	102717US	Pirate Comic - The Golden Medallion (102717-USA)	1989	69	17 x 25 x 0.2
 1030	Trading Card Album / (Other)	ctwIIalbum	Create the World Incredible Inventions Trading Card Official Collector's Album	2018	299	20 x 26.6 x 0.4
 1021	Magazine, City	mag2018cty05pl	City Magazine 2018 Issue 5 (Polish)	2018	81	21 x 28 x 0.13
@@ -6843,7 +6843,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 505	Story Book / Dungeons & Dragons	b24dnd01	Dungeons & Dragons - Red Dragon's Tale: A LEGO Adventure (Softcover)	2024	152	? x ? x ?
 505	Story Book / Disney / Disney Princess	b21dp01	Disney Princess - Enchanted Treasury (Box Set)	2021	?	21.6 x 26.7 x 3.2
 332	Informational Book / Star Wars	b15sw19	Star Wars - In 100 Scenes (with Minifigure) (Hardcover)	2015	798	18.8 x 23.7 x 2.8
-332	Informational Book / Star Wars	b20sw11	Star Wars - Character Encyclopedia: New Edition (Hardcover)	2020	?	? x ? x ?
+332	Informational Book / Star Wars	b20sw11	Star Wars - Character Encyclopedia: New Edition (Hardcover)	2020	883	18.8 x 23.1 x 3.3
 332	Informational Book / Star Wars	b24sw01	Star Wars - Visual Dictionary: Updated Edition (Hardcover)	2024	1329	25.7 x 30.6 x 3.3
 317	Idea Book	b18other05fr	Ingénieur (French Edition)	2018	?	? x ? x ?
 1025	Magazine, Star Wars	mag2024sw17fr	Star Wars Magazine 2024 Issue 17 (French)	2024	85	20.8 x 27.8 x 0.2
@@ -6945,7 +6945,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1021	Magazine, City	mag2024cty66de	City Magazine 2024 Issue 66 (German)	2024	?	? x ? x ?
 766	Activity Book / Town / City	b21cty03pl	City - Ruszaj do akcji! (Softcover) (Polish Edition)	2021	254	20.5 x 28.5 x 1
 766	Activity Book / Town / City / Fire	b21cty01pl	City - Powstrzymać ogień! (Softcover) (Polish Edition)	2021	157	20.5 x 29 x 2
-166	Educational & Dacta / Promotional	b22di	Danmarks Indsamling Brochure	2022	?	? x ? x ?
+332	Informational Book / Promotional	b22di	Danmarks Indsamling Brochure	2022	?	? x ? x ?
 317	Idea Book	b23other12	Minifigure Photography	2023	?	? x ? x ?
 317	Idea Book	b23other11	Pocket Builder: Nature (Softcover)	2023	?	? x ? x ?
 766	Activity Book / Collectible Minifigures	b18col01	Minifigures - Mix & Match (Hardcover)	2018	551	22.7 x 27.9 x 1.4
@@ -7543,6 +7543,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 576	Curriculum Activity Book / FIRST LEGO League	6469136	Set 45825 - Activity Card 2 - Theater Forest Scene / Theater Ocean Scene	2023	12	28 x 21 x 0.01
 1022	Magazine, Friends	mag2025frnd13de	Friends Magazine 2025 Issue 13 (German)	2025	?	? x ? x ?
 1021	Magazine, City	mag2024cty07pl	City Magazine 2024 Issue 7 (Polish)	2024	?	? x ? x ?
+317	Idea Book	220-se	Vi leker med Lego (1971-72)	1971	184	21 x 29.7 x 0.3
 766	Activity Book / Star Wars / Star Wars Episode 1	b25sw03de	Star Wars - Rätselspass mit Anakin Skywalker (German Edition)	2025	?	? x ? x ?
 332	Informational Book / NINJAGO	b25njo06	NINJAGO - Adventure Atlas: Journey Through the World of Ninjago (Hardcover)	2025	636	20 x 26 x 2.8
 1021	Magazine, City	mag2025cty83de	City Magazine 2025 Issue 83 (German)	2025	?	? x ? x ?
@@ -7561,6 +7562,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 317	Idea Book / Harry Potter	b21hp17de	Harry Potter – Abenteuer Selbst Gebaut! – nur Buch (German Edition)	2021	389	21.2 x 25.5 x 0.8
 1024	Magazine, NINJAGO / Legacy	mag2025njol41de	NINJAGO Legacy Magazine 2025 Issue 41 (German)	2025	?	? x ? x ?
 332	Informational Book / Harry Potter	b22hp16cy	Harry Potter - Nadolig Harri Potter (Hardcover) (Welsh - UK Edition)	2022	?	? x ? x ?
+1063	Magazine, Super Heroes / Avengers	mag2025shav33de	Avengers Magazine 2025 Issue 33 (German)	2025	81	21 x 28 x 0.13
 766	Activity Book	b25min04uk	Minecraft - Games Book (Hardcover) (English - UK Edition)	2025	457	18.7 x 23.8 x 2.4
 1021	Magazine, City	mag2025cty84de	City Magazine 2025 Issue 84 (German)	2025	?	? x ? x ?
 1024	Magazine, NINJAGO	mag2025njo136de	NINJAGO Magazine 2025 Issue 136 (German)	2025	?	? x ? x ?
@@ -7581,3 +7583,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1025	Magazine, Star Wars	mag2024sw111es	Star Wars Magazine 2024 Issue 111 (Spanish)	2024	90	21 x 28 x 0.13
 1025	Magazine, Star Wars	mag2024sw112es	Star Wars Magazine 2024 Issue 112 (Spanish)	2024	87	21 x 28 x 0.13
 1269	Magazine, DREAMZzz	mag2026drm12de	DREAMZzz Magazine 2026 Issue 12 (German)	2026	?	? x ? x ?
+332	Informational Book / NINJAGO	b24njo11uk	NINJAGO - Secret World of the Ninja: New Edition (Hardcover) (English - UK Edition)	2024	654	20 x 25.9 x 2.8
+332	Informational Book / NEXO KNIGHTS	b17nex10hu	NEXO KNIGHTS - Lovagok könyve (Hungarian Edition)	2017	972	25.8 x 30.2 x 3
+332	Informational Book	b19other06hu	A LEGO könyv: Jubileumi kiadás (Hungarian Edition)	2019	1505	23.9 x 28 x 3.7
+1024	Magazine, NINJAGO	mag2026njo137de	NINJAGO Magazine 2026 Issue 137 (German)	2026	?	? x ? x ?
+576	Curriculum Activity Book / Educational & Dacta / Science	6593806	Flyer Education Science - Instructions Box and App Link Examples Sets 45620, 45621 and 45622	?	1.8	? x ? x ?
+1021	Magazine, City	mag2026cty85de	City Magazine 2026 Issue 85 (German)	2026	?	? x ? x ?
+576	Curriculum Activity Book / Educational & Dacta / Science	6593805	Flyer Education Science - Instructions Box and App Link Examples Sets 45620, 45621 and 45622	2025	1.8	? x ? x ?

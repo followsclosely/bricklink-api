@@ -290,6 +290,7 @@ Category ID	Category Name
 171	Creator
 1068	Creator Expert
 726	Creature
+1371	Crocs
 279	Crusaders
 1228	Crystalized
 576	Curriculum Activity Book
@@ -386,6 +387,7 @@ Category ID	Category Name
 1209	E.T.
 392	Easter
 1359	Editions
+1370	Education
 166	Educational & Dacta
 408	eLAB
 119	Electric
@@ -700,6 +702,7 @@ Category ID	Category Name
 1100	Monkie Kid
 237	Monorail
 781	Monster Fighters
+1373	Monsters, Inc.
 986	Monthly Model
 433	Mosaic
 504	Motor, Non-Electric
@@ -768,6 +771,7 @@ Category ID	Category Name
 998	Playmat
 661	Playsets
 159	Pneumatic
+1369	Pokémon
 323	Police
 1201	Portal 2
 949	Possession
@@ -948,6 +952,7 @@ Category ID	Category Name
 1234	Star Wars The Force Unleashed
 908	Star Wars The Freemaker Adventures
 1061	Star Wars The Mandalorian
+1372	Star Wars The Mandalorian and Grogu
 814	Star Wars The Old Republic
 813	Star Wars Yoda Chronicles
 1262	Star Wars Young Jedi Adventures

@@ -777,7 +777,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 334	Key Chain / Fabuland	KCF20	Cat 3 Key Chain - Twisted Metal Chain, no LEGO Logo on Back	1985	10	? x ? x ?
 334	Key Chain / Space / Futuron	KC059	Futuron Red Key Chain	1987	7	? x ? x ?
 160	Sticker Sheet	TLCUK01	Sticker Sheet, The Lego Club UK Sheet 01	1991	5	? x ? x ?
-445	Patch & Pin	pin001	Pin, The LEGO Club UK Badge, Gold Text, White Background	1991	2	? x ? x ?
+445	Patch & Pin	pin001	Pin, The LEGO Club UK Badge, Gold Text, White Background	1991	2	4.5 x 4 x 0.8
 445	Patch & Pin / LEGOLAND Parks	pin080	Pin, LEGOLAND California Grand Opening 1999	1999	?	? x ? x ?
 445	Patch & Pin	pin002	Pin, The LEGO Club UK Badge, Yellow/Red/Blue Text	1991	2	? x ? x ?
 521	Photo Frame & Holder / Adventurers	4212666	Photo Frame Adventurers Tan	2003	?	? x ? x ?
@@ -8507,7 +8507,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 14	Magnet	4509724	Magnet Set, Bricks 2 x 4 (14), Classic Large 4 (Tan and Dark Red) blister pack	2007	102	4.8 x 42.5 x 1.4
 683	Glued Model / LEGOLAND Parks	4276936	Duck (Glued)	2005	?	? x ? x ?
 241	Pen / The LEGO Movie	LGO6707	The LEGO Movie Lucy Wyldstyle Retractable Pen	2014	?	? x ? x ?
-1111	Clothing Accessories / Star Wars	headlamp6	Head Lamp, Minifigure LED Headlamp Torch - Darth Vader	2014	96	? x ? x ?
+1111	Clothing Accessories / Star Wars	headlamp6	Head Lamp, Minifigure LED Headlamp Torch - Darth Vader	2014	76	9.1 x 15 x 3.4
 1111	Clothing Accessories / Star Wars	headlamp7	Head Lamp, Minifigure LED Headlamp Torch - Stormtrooper	2014	99	? x ? x ?
 336	Clock / Super Heroes / Batman II	9005718	Digital Clock, Batman Figure Alarm Clock	2013	542	16 x 23.5 x 13
 503	Poster	p14id01	Ideas Poster - 2014 Turtle Competition	2014	40	45 x 60 x 0
@@ -11536,7 +11536,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 447	School Supplies / NINJAGO / Skybound	466563	Binder, NINJAGO Lightning Battle, 4-Ring Binder	2018	320	26 x 32 x 5
 447	School Supplies / Friends	LG100321710	Pencil Case, Friends Funpark	2017	47	? x ? x ?
 175	Food & Drink / The LEGO NINJAGO Movie	571716	Table Cover, The LEGO NINJAGO Movie, Plastic	2018	?	0.64 x 15.75 x 40.56
-679	Toy, Fast Food / The LEGO NINJAGO Movie	McDNjoMov02	The LEGO NINJAGO Movie Dragon Periscope McDonald's #2	2017	?	? x ? x ?
+679	Toy, Fast Food / The LEGO NINJAGO Movie	McDNjoMov02	The LEGO NINJAGO Movie Dragon Periscope McDonald's #2	2017	78	? x ? x ?
 679	Toy, Fast Food / Super Heroes / The LEGO Batman Movie	MCDBatMov01	The LEGO Batman Movie Batman Viewer McDonald's #2	2017	?	? x ? x ?
 334	Key Chain / (Other)	ks05	Key Neck Strap with '#LEGOPLAYDAY' Pattern (Play Day 2018)	2018	39	? x ? x ?
 517	Watch / Star Wars	2907STWDM	Watch Set, SW Darth Maul	2007	?	8 x 16.5 x 2
@@ -12381,7 +12381,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 399	Storage	759528c06	Storage Case with Rounded Corners and Orange Lid, Blue Latches	2019	434	28.2 x 26.5 x 6.3
 445	Patch & Pin	5005907	Patch, Sew-On Cloth Round, Apollo Lunar Lander	2019	6.38	11 x 11 x 0.1
 513	Media Audio & Video / NEXO KNIGHTS	1000614529	Video DVD - Nexo Knights Intégrale DVD de la saison 1 + Clay l'ultime chevalier	2016	?	8.3 x 14.2 x 2.4
-1113	Office Supplies / Clikits	clikits260	Envelope, Clikits Square	?	2.82	11 x 17.8 x 0.03
+1113	Office Supplies / Clikits	51504	Envelope, Clikits Lavender Square	?	2.82	11 x 17.8 x 0.03
 175	Food & Drink	853709	Cup / Mug LEGO House Upscaled	2017	122.65	? x ? x ?
 380	Card, Trading Card / Super Heroes / Batman II	shba01deLE02	Batman Trading Card Game (German) Series 1 - # LE2 Robin Limited Edition	2019	2	6.2 x 8.8 x 0.02
 498	Backpacks & Lunchboxes	100341918	Gym Bag, Minifigure Heads	2019	100	42 x 34 x 1
@@ -13848,7 +13848,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1104	Paper, Flyer	flyersommerde	Flyer 2020 German Ein Sommer voller Abenteuer	2020	?	? x ? x ?
 1003	Paper, Forms & Surveys	surveystorede	Wie war Dein Besuch im LEGO Store heute?	2020	?	? x ? x ?
 1104	Paper, Flyer / Hidden Side	flyerhsde	Flyer 2019 German Hidden Side	2019	?	? x ? x ?
-997	Card / The LEGO NINJAGO Movie	gchm02	Gift Card H&M The LEGO NINJAGO Movie	?	?	? x ? x ?
+997	Card / The LEGO NINJAGO Movie	gchm02	Gift Card H&M The LEGO NINJAGO Movie	2017	2	8.6 x 5.4 x 0.1
 997	Card / NINJAGO / Hunted	gchm01	Gift Card H&M NINJAGO	?	?	? x ? x ?
 848	Retail Display Case / Super Mario	SMdisplay01	Display Assembled Set, Super Mario Set 71360 in Plastic Case	?	?	? x ? x ?
 848	Retail Display Case / Dots	DotsAM3	Display Assembled Set, Dots Set 41913 and 41915 in Plastic Case	?	?	? x ? x ?
@@ -15126,7 +15126,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1147	Coin / NINJAGO / Legacy	coinlloyd	Coin, Gold NINJAGO Legacy 10th Anniversary Lloyd	2021	?	? x ? x ?
 1147	Coin / NINJAGO / Legacy	coinjay	Coin, Gold NINJAGO Legacy 10th Anniversary Jay	2021	?	? x ? x ?
 1147	Coin / NINJAGO / Legacy	coinmasterwu	Coin, Gold NINJAGO Legacy 10th Anniversary Master Wu	2021	?	? x ? x ?
-1008	Decoration / Winnie The Pooh	5006816	Limited Edition Print Winnie the Pooh VIP - Another good deed done, buddy boys.	2021	18	21 x 30 x 0
+1008	Decoration / Disney / Winnie The Pooh	5006816	Limited Edition Print Winnie the Pooh VIP - Another good deed done, buddy boys.	2021	18	21 x 30 x 0
 333	Card, Game Card / Educational & Dacta	45023Cards	Education Set 45023 Game Card Pack	2017	35.59	6.4 x 9 x 0.7
 1113	Office Supplies	cal2016	Calendar, 2016	2016	190	30 x 29.8 x 0.3
 1113	Office Supplies	cal2017	Calendar, 2017	2017	105	30 x 24 x 0.3
@@ -15151,9 +15151,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1017	Sticker, Collectible Sticker / BIONICLE / Barraki	merbarr005	Sticker, BIONICLE Barraki L5 'THE "EEL"'	2007	?	? x ? x ?
 1017	Sticker, Collectible Sticker / BIONICLE / Barraki	merbarr006	Sticker, BIONICLE Barraki L6 'THE "SHARK"'	2007	?	? x ? x ?
 1356	Paper, Information	4527556	Paper Information Note, Environmental Warning Leaflet	?	5.01	13.8 x 20.3 x 0.01
-1008	Decoration / Winnie The Pooh	5006818	Limited Edition Print Winnie the Pooh VIP - Hello there.	2021	?	? x ? x ?
-1008	Decoration / Winnie The Pooh	5006814	Limited Edition Print Winnie the Pooh VIP - Once Upon a Time About last Friday.	2021	?	? x ? x ?
-1008	Decoration / Winnie The Pooh	5006815	Limited Edition Print Winnie the Pooh VIP - Some paths are destined to cross.	2021	?	? x ? x ?
+1008	Decoration / Disney / Winnie The Pooh	5006818	Limited Edition Print Winnie the Pooh VIP - Hello there.	2021	?	? x ? x ?
+1008	Decoration / Disney / Winnie The Pooh	5006814	Limited Edition Print Winnie the Pooh VIP - Once Upon a Time About last Friday.	2021	?	? x ? x ?
+1008	Decoration / Disney / Winnie The Pooh	5006815	Limited Edition Print Winnie the Pooh VIP - Some paths are destined to cross.	2021	?	? x ? x ?
 380	Card, Trading Card / Jurassic World	jw1deLE12	Jurassic World Trading Card Game (German) Series 1 - # LE12 Owen Grady & Blue Limited Edition	2021	2	6.2 x 8.8 x 0.03
 513	Media Audio & Video / NEXO KNIGHTS	3000069642	Video DVD - Nexo Knights Season One	2016	?	? x ? x ?
 513	Media Audio & Video / Friends	3000069082	Video DVD - Friends, Always Together	2016	?	? x ? x ?
@@ -15194,7 +15194,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / NINJAGO	njo05deLE18	NINJAGO Trading Card Game (German) Series 5 - # LE18 Action Cole Limited Edition	2020	1.9	6.2 x 8.8 x 0.02
 380	Card, Trading Card / NINJAGO	njo06deLE02	NINJAGO Trading Card Game (German) Series 6 - # LE2 Shintaro Lloyd Limited Edition	2021	1.9	6.2 x 8.8 x 0
 380	Card, Trading Card / NINJAGO	njo06deLE13	NINJAGO Trading Card Game (German) Series 6 - # LE13 Goldener Jay Limited Edition	2021	2	6.2 x 8.8 x 0.02
-1008	Decoration / Winnie The Pooh	5006817	Limited Edition Print Winnie the Pooh VIP - Today is a good day for being Pooh.	2021	?	? x ? x ?
+1008	Decoration / Disney / Winnie The Pooh	5006817	Limited Edition Print Winnie the Pooh VIP - Today is a good day for being Pooh.	2021	?	? x ? x ?
 1147	Coin	5006470	Coin, LEGO VIP Logo	2021	84	7 x 8.6 x 0.8
 848	Retail Display Case	TLMBox01	Display Assembled Set, The LEGO Movie Sets 70805 and 70808 in Plastic Case with Light	2014	7490	59.69 x 38.1 x 38.1
 380	Card, Trading Card / NINJAGO	njo06deLE11	NINJAGO Trading Card Game (German) Series 6 - # LE11 Shintaro Zane Limited Edition	2021	1.9	6.2 x 8.8 x 0
@@ -15222,7 +15222,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 334	Key Chain / Disney / Mickey and Friends	854111	Donald Duck Key Chain	2021	?	? x ? x ?
 334	Key Chain / Disney / Mickey and Friends	854112	Daisy Duck Key Chain	2021	?	? x ? x ?
 334	Key Chain / Collectible Minifigures / Series 20 Minifigures	854081	Llama Girl Key Chain	2021	?	? x ? x ?
-334	Key Chain / Collectible Minifigures / Series 20 Minifigures	854080	Peapod Girl Key Chain	2021	?	? x ? x ?
+334	Key Chain / Collectible Minifigures / Series 20 Minifigures	854080	Peapod Girl Key Chain	2021	47	4.5 x 9 x 3
 445	Patch & Pin / Collectible Minifigures / Series  1 Minifigures	pin246	Pin, Deep Sea Diver, Series 1	?	3.3	1.9 x 3.4 x 1
 1111	Clothing Accessories / LEGOLAND Parks	GMD29564	Exclusive Face Cover, LEGOLAND Stars Face Mask, Adult Size	2020	21	22 x 18 x 1
 1111	Clothing Accessories / LEGOLAND Parks	GMD29562	Exclusive Face Cover, LEGOLAND Skyline Face Mask, Adult Size	2020	21	22 x 18 x 1
@@ -15348,7 +15348,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 517	Watch	bb1195c01	Watch Part, Case Analog - Brick 1 x 1, Silver Hands with Glow in the Dark Areas	?	?	? x ? x ?
 517	Watch	bb1196c01	Watch Part, Case Analog - Brick 2 x 2, Neon Green Hour and Minute Hands, Silver Second Hand with Circle	?	?	? x ? x ?
 517	Watch / Space / UFO	bb1197c01	Watch Part, Case Analog, Space - Brick 2 x 2, Silver Hour Hand, Neon Green Minute Hand, Neon Red Second Hand with Circle	?	?	? x ? x ?
-517	Watch	bb1198c01	Watch Part, Case Analog - Brick 1 x 1 and Star Field, Neon Green Hour and Minute Hands, Silver Second Hand with Circle, Dark Blue Face	?	?	? x ? x ?
+517	Watch	bb1198c01	Watch Part, Case Analog - Brick 1 x 1 and Star Field, Neon Green Hour and Minute Hands, Silver Second Hand with Circle, Dark Blue Face with Glow in the Dark Areas	?	?	? x ? x ?
 517	Watch	bb1199c01	Watch Part, Case Analog - Brick 2 x 2, Silver Liftarm Hour Hand, Silver Minute Hand, Red Second Hand	?	?	? x ? x ?
 517	Watch	bb1200c01	Watch Part, Case Analog - Brick 1 x 1, Black Hour and Minute Hands with Glow in the Dark Areas, Neon Red Second Hand	?	11.8	3.4 x 4.2 x 1.1
 517	Watch	bb1201c01	Watch Part, Case Digital - Pearl Light Gray Buttons, Black Face, White Brick 1 x 1 and '50M', Colored Dots	?	?	? x ? x ?
@@ -15924,9 +15924,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 512	Toy, Plush / Star Wars	333330	Chewbacca Minifigure Plush	2019	211.3	33 x 11 x 20
 512	Toy, Plush / Holiday & Event / Christmas	4978	Santa Minifigure Plush Cushion	2019	200	24 x 41 x 7
 539	Retail Display / Collectible Minifigures / Series 11 Minifigures	dispshelf07	Display Shelf Stand for Sets, Cardboard, Collectible Minifigures Series 11	2013	2082	152 x 29 x 21
-334	Key Chain / Winnie The Pooh	854191	Winnie the Pooh Key Chain	2022	?	? x ? x ?
-334	Key Chain / Winnie The Pooh	854193	Tigger Key Chain	2022	?	? x ? x ?
-334	Key Chain / Winnie The Pooh	854203	Eeyore Key Chain	2022	?	? x ? x ?
+334	Key Chain / Disney / Winnie The Pooh	854191	Winnie the Pooh Key Chain	2022	?	? x ? x ?
+334	Key Chain / Disney / Winnie The Pooh	854193	Tigger Key Chain	2022	?	? x ? x ?
+334	Key Chain / Disney / Winnie The Pooh	854203	Eeyore Key Chain	2022	?	? x ? x ?
 334	Key Chain / Disney / Mickey and Friends	854196	Goofy Key Chain	2022	14	? x ? x ?
 334	Key Chain	854159	2 x 4 Brick - Sand Green Key Chain	2022	12	? x ? x ?
 1147	Coin	coin57	Coin, Plastic - Familiedag 2019	2019	1	2.3 x 2.3 x 0.2
@@ -22220,11 +22220,18 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 175	Food & Drink / Collectible Minifigures	5008861	Drink Bottle Mexico, Red Top, Collectible Minifigures Pattern	2025	116	7 x 21.5 x 7
 1104	Paper, Flyer / Pirates / Pirates I	flyerpirates	Flyer 1989 Pirates - Get Some Experts in The Gold Business Working For You	1989	?	8 x 11 x 0
 380	Card, Trading Card / NINJAGO	njo10deLE09	NINJAGO Trading Card Game (German) Series 10 - # LE9 Morro Limited Edition	2025	2	6.2 x 8.8 x 0.02
+334	Key Chain / LEGOLAND Parks	KC168	LEGOLAND Japan Promotional Brick Container with 'FACTORY' Pattern Key Chain	2024	14	? x ? x ?
+334	Key Chain / LEGOLAND Parks	KC164	LEGOLAND Japan Popcorn Dragon Bucket Key Chain	2025	20	? x ? x ?
+334	Key Chain / LEGOLAND Parks	KC165	LEGOLAND Japan Popcorn Train Bucket Key Chain	2025	18	? x ? x ?
+334	Key Chain / LEGOLAND Parks	KC166	LEGOLAND Japan Popcorn Submarine Bucket Key Chain	2025	13	? x ? x ?
+334	Key Chain / LEGOLAND Parks	KC167	LEGOLAND Japan Slush Bottle Observation Tower Key Chain	2025	13	? x ? x ?
 990	Human Tool / Botanicals	421991	Hand Fan - Botanicals Bright Pink (Chinese)	2025	19	26 x 14.5 x 0.3
 990	Human Tool / Botanicals	421992	Hand Fan - Botanicals Dark Pink (Chinese)	2025	19	26 x 14.5 x 0.3
 998	Playmat / FIRST LEGO League	45826MAP	Playmat, FIRST LEGO League (FLL) - Set 45826 Submerged	2024	880	234 x 122 x 0.1
 380	Card, Trading Card / Star Wars	sw05enLE19	Star Wars Trading Card Collection (English) Series 5 (Anniversary Edition) - # LE19 Bo-Katan Kryze Limited Edition	2024	2.2	6.2 x 8.8 x 0.02
 503	Poster / Botanicals	5007797	Botanical Collection, Blueprint LEGO VIP Art Print	2023	?	30 x 40 x 0
+503	Poster / Town / City	p13cty01	City Poster 2013 1 of 2 / The Lone Ranger (Double-Sided)	2013	?	52 x 40 x 0.1
+503	Poster / Town / City	p13cty02	City Poster 2013 2 of 2 / LEGO Club (Double-Sided)	2013	?	52 x 40 x 0.1
 34	Space	251108376	Spaceman Crossbody Bag	?	163	? x ? x ?
 503	Poster / Adventurers / Desert	p98advpl	Adventurers Egypt Poster 1998 Polish (926.781-PL)	1998	?	? x ? x ?
 539	Retail Display / Space / Life on Mars	displaysign126	Display Sign Hanging, Life on Mars	2001	?	? x ? x ?
@@ -22247,7 +22254,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1017	Sticker, Collectible Sticker / NINJAGO / Dragons Rising Season 3	bonjo03stk143	Sticker, NINJAGO Dragons Rising, Blue Ocean - # 143 of 212	2025	?	? x ? x ?
 1017	Sticker, Collectible Sticker / NINJAGO / Dragons Rising Season 3	bonjo03stk174	Sticker, NINJAGO Dragons Rising, Blue Ocean - # 174 of 212	2025	?	? x ? x ?
 1017	Sticker, Collectible Sticker / NINJAGO / Dragons Rising Season 3	bonjo03stk198	Sticker, NINJAGO Dragons Rising, Blue Ocean - # 198 of 212	2025	?	? x ? x ?
-380	Card, Trading Card / NINJAGO	njo10deLE15	NINJAGO Trading Card Game (German) Series 10 - # LE51 Mächtiger Zane Limited Edition	2025	2	6.2 x 8.8 x 0.02
+380	Card, Trading Card / NINJAGO	njo10deLE15	NINJAGO Trading Card Game (German) Series 10 - # LE15 Mächtiger Zane Limited Edition	2025	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Minecraft	min01de001	Minecraft Trading Card Collection (German) Series 1 - # 1 Steve	2024	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Minecraft	min01de002	Minecraft Trading Card Collection (German) Series 1 - # 2 Neon Steve	2024	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Minecraft	min01de003	Minecraft Trading Card Collection (German) Series 1 - # 3 Comic Steve	2024	2	6.2 x 8.8 x 0.02
@@ -22605,7 +22612,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / NINJAGO	njo10enLE03	NINJAGO Trading Card Game (English) Series 10 - # LE3 Leader Ras Limited Edition	?	2	6.2 x 8.8 x 0.02
 1111	Clothing Accessories	tie14	Tie, Minifigures and Webbing Pattern	?	?	? x ? x ?
 1146	Clothing, Children's / Pirates / Pirates I / LEGOLAND Parks	TS101	T-Shirt, Pirates, LEGOLAND Captain Red Beard (Captain Roger)	?	?	? x ? x ?
-539	Retail Display / Technic / Model / Traffic	92232233NL	Display Sign Hanging, Technic 8880 Super Car, Three-Part, Double-Sided	1994	?	35 x 55 x 0.1
+539	Retail Display / Technic / Model / Traffic	9223233NL	Display Sign Hanging, Technic 8880 Super Car, Three-Part, Double-Sided	1994	?	35 x 55 x 0.1
 1111	Clothing Accessories / Friends	5007805	Wristband, Knit with Braided Band, Friends (Set of 2)	2023	23	10.1 x 10.1 x 1
 539	Retail Display / Space / Exploriens	displaysign129	Display Sign Hanging, Exploriens	1996	?	? x ? x ?
 447	School Supplies	53709	Ruler, Buildable Ruler - Multicolor Plates with Blue Baseplates with Construction Worker Minifigure	2025	91	9.7 x 20 x 1.9
@@ -22655,6 +22662,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 997	Card	ACP-6618H1DE	ReCreate Karten - Monster (German Edition)	2025	135.17	8.9 x 17.3 x 2.3
 997	Card	ACP-6619H1DE	ReCreate Karten - Hobby & Freizeit (German Edition)	2025	134.8	8.9 x 17.3 x 2.3
 1104	Paper, Flyer / Technic / Model / Race	6605560	Flyer 2026 Technic Set 42222 Insert - Asphalt Legends Game Code for Bugatti Chiron Pur Sport	2026	7.1	21 x 29.8 x 0.01
+997	Card	ACP-6612H1DEc	ReCreate Karten - Natur (German) (Pack of 30 Cards + 1 Bonus Card and Instructions)	2025	82.72	8 x 8 x 1.5
+997	Card	ACP-6615H1DEc	ReCreate Karten - Winterspaß (German) (Pack of 30 Cards + 1 Bonus Card and Instructions)	2025	80.75	8 x 8 x 1.5
+997	Card	ACP-6616H1DEc	ReCreate Karten - Fantasie (German) (Pack of 30 Cards + 1 Bonus Card and Instructions)	2025	80.68	8 x 8 x 1.5
+997	Card	ACP-6617H1DEc	ReCreate Karten - Miniwelten (German) (Pack of 30 Cards + 1 Bonus Card and Instructions)	2025	80.84	8 x 8 x 1.5
+997	Card	ACP-6618H1DEc	ReCreate Karten - Monster (German) (Pack of 30 Cards + 1 Bonus Card and Instructions)	2025	80.77	8 x 8 x 1.5
+997	Card	ACP-6619H1DEc	ReCreate Karten - Hobby & Freizeit (German) (Pack of 30 Cards + 1 Bonus Card and Instructions)	2025	81.26	8 x 8 x 1.5
 334	Key Chain / Collectible Minifigures / Series 23 Minifigures	LGL-KE224H	LED Key Light Green Dragon Costume Key Chain (LEDLite)	2024	49	9 x 7 x 4.5
 175	Food & Drink / Botanicals	5009908	Cup / Mug Ceramic Wildflowers	2025	341	13.2 x 11.5 x 12.3
 399	Storage	5010107	Shelf	2025	715	38.8 x 15.4 x 2.9
@@ -22662,3 +22675,5 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 997	Card / Educational & Dacta / Science	6559827	Connection Card for Education Science Sets with 4-Digit Number - Orange	?	5.14	5.4 x 8.6 x 0.07
 997	Card / Educational & Dacta / Science	6559909	Connection Card for Education Science Sets with 4-Digit Number - Dark Purple	?	5.14	5.4 x 8.6 x 0.07
 997	Card / Educational & Dacta / Science	6559618	Connection Card for Education Science Sets with 4-Digit Number - Dark Pink	?	5.05	5.4 x 8.6 x 0.07
+380	Card, Trading Card / NINJAGO	njo10deLE08	NINJAGO Trading Card Game (German) Series 10 - # LE8 Nokt Limited Edition	2026	?	? x ? x ?
+399	Storage / Educational & Dacta / Science	45622box	Complete Box for Set 45622 - Box only entry	?	876	42.5 x 30.5 x 8.5

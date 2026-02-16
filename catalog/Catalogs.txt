@@ -3718,7 +3718,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 901	2017 / LEGO Brand Store	c17st1de	2017 Store January - June German (619.1786-DE/A Brand Retail)	2017	215
 901	2017 / Educational & Dacta	c17audac	2017 Large Australian Education (6184041)	2017	?
 901	2017	c17be1	2017 Large Belgian January - June (619.1804-NL/B 619.1789-NL-B)	2017	?
-901	2017	c17sah3	2017 Shop at Home - Summer (WOR 1091)	2017	?
+901	2017	c17sah3	2017 Shop at Home - Summer (WOR 1091)	2017	76
 366	1991 / Educational & Dacta	c91usdac2	1991 Large US Dacta (Gear Up For Learning)	1991	?
 901	2017	c17de2	2017 Large German July - December (620.7842-DE/A 620.7843-DE/A TRU 620.7844-DE/A FH 620.7866-DE/A 620.7871 DE/A for BLX)	2017	179
 901	2017	c17pl2	2017 Large Polish July - December (620.7883-PL)	2017	?
@@ -4975,7 +4975,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 371	1996	c96sk	1996 Large Slovak (924.714-SQ)	1996	94
 359	1984	c84frdc	1984 Dealer Large French	1984	?
 1319	2025	c25tr2	2025 Large Turkish June - December (TR - 6570320, TR for CAT - 6570330)	2025	211
-1319	2025	c25ukf1	2025 Large UK January - June (UK f/Brand Retail - 6543368, UK f/Travel Retail - 6543382)	2025	213
 1319	2025	c25sah1uk	2025 Shop at Home - January UK (WOR 1956)	2025	56
 1319	2025	c25sah2uk	2025 Shop at Home - Summer UK (WOR 2104)	2025	54
 1319	2025	c25sah1ca	2025 Shop at Home - January Canadian (WOR 1956)	2025	56
@@ -4990,7 +4989,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25mx1	2025 Large Mexican January - June	2025	200
 1319	2025	c25mx2	2025 Large Mexican August - December (MX - 6570332)	2025	221
 1319	2025	c25us1	2025 Large US January - June	2025	213
-1319	2025	c25sa1	2025 Large South American January - June	2025	190
+1319	2025	c25sa1	2025 Large South American January - June	2025	?
 1319	2025	c25ch2	2025 Large Swiss March - June (DE/A Batch 2 - 6543370, DE/A f/B.R. Batch 2 - 6543356, 6543372, 6543374)	2025	210
 1319	2025	c25ch3	2025 Large Swiss January - June	2025	210
 1319	2025	c25ch4	2025 Large Swiss June - December (CH/DE/F - 6570288, CH/DE/F f/Brand Retail - 6570270)	2025	221
@@ -5006,12 +5005,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25lt2	2025 Large Lithuanian June - December (LT - 6570326)	2025	211
 1319	2025	c25lv2	2025 Large Latvian June - December (LV - 6570327)	2025	211
 1319	2025	c25no1	2025 Large Norwegian January - June (NO - 6543386)	2025	213
-1319	2025	c25no2	2025 Large Norwegian August - December (NO - 6570299)	2025	226
 1319	2025	c25pl1	2025 Large Polish January - June (PL - 6543395, PL f/Brand Retail - 6543364)	2025	203
 1319	2025	c25pl2	2025 Large Polish June - December (PL - 6570308, PL f/Brand Retail - 6570277)	2025	211
-1319	2025	c25pt1	2025 Large Portuguese January - June (UK f/Brand Retail - 6543368, UK f/Travel Retail - 6543382)	2025	213
 1319	2025	c25es2	2025 Large Spanish / Portuguese July - December (ES/PT - 6570307, ESPT f/Brand Retail - 6570279)	2025	103
-1319	2025	c25es1	2025 Large Spanish January - June	2025	204
 1319	2025	c25ro1	2025 Large Romanian January - June (RO - 6543401)	2025	175
 1319	2025	c25ro2	2025 Large Romanian June - December (RO - 6570314)	2025	180
 1319	2025	c25se2	2025 Large Swedish August - December (SE - 6570300, SE f/Brand Retail - 6570276)	2025	226
@@ -5029,16 +5025,32 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25ind2	2025 Large India July - December (India - 6570331)	2025	164
 1319	2025	c25ja2	2025 Large Japanese January - December	2025	128
 1319	2025	c25ja1	2025 Large Japanese January - June	2025	128
-1319	2025	c25dk3	2025 Large Danish January - June	2025	213
 1319	2025	c25de4	2025 Large German / Austrian September - December (DE/A f/B.R.-batch 2 - 6570269, DE-A - Batch 2 - 6570283, 6570285, 6570287)	2025	204
+869	2016 / LEGO Brand Store	c16stuk	2016 Store May UK	2016	?
+805	2014 / LEGO Brand Store	c14st1uk	2014 Store January UK	2014	?
+805	2014 / LEGO Brand Store	c14st9uk	2014 Store September UK	2014	?
+786	2013 / LEGO Brand Store / Holiday & Event / Christmas	c13stuk	2013 Store Christmas UK	2013	?
+1319	2025	c25ch5	2025 Large Swiss September - December (CH/DE/F - Batch 2- 6570289, CH/DE/F f/BR - batch 2 - 6570271)	2025	221
+1319	2025	c25es	2025 Large Spanish / Portuguese January - June (ES/PT - 6543394, ESPT f/Brand Retail - 6543366)	2025	?
+1287	2024	c24ch2	2024 Large Swiss September - December (CH-DE/FR f/BR - batch 2 - 6519312, CH/DE/F - Batch 2 - 6519329)	2024	210
+1287	2024	c24ch1	2024 Large Swiss June - December (CH/DE/F - 6519328, CH-DE/FR f/Brand Retail - 6519311)	2024	199
+1319	2025	c25de5	2025 Large German / Austrian September - December (DE/A f/B.R.-batch 2 - 6570269, DE-A - Batch 2 - 6570283, 6570285, 6570287)	2025	204
+1319	2025	c25sa2	2025 Large South American August - December	2025	211
+1319	2025	c25my1	2025 Large Malay January - June (SGP - 6543421, MYS - 6543422)	2025	136
+1319	2025	c25sg1	2025 Large Singapore January - June (SGP - 6543421, MYS - 6543422)	2025	136
+1319	2025	c25sg2	2025 Large Singapore June - December (SGP - 6570334, MYS - 6570335)	2025	159
+1319	2025	c25my2	2025 Large Malay June - December (SGP - 6570334, MYS - 6570335)	2025	159
 1319	2025	c25tw1	2025 Large Taiwanese January - June (TW - 6543424)	2025	203
+1319	2025	c25tw2	2025 Large Taiwanese June - December (TW - 6570337)	2025	216
 1319	2025	c25heb1	2025 Large Israel January - June (IS - 6543406)	2025	193
+1319	2025	c25heb2	2025 Large Israel June - December (IS - 6570319)	2025	180
 1319	2025	c25sr1	2025 Large Serbian January - June (SR - 6543405)	2025	175
 544	2005	c05dewat1	2005 Small German Watches	2005	8
 601	2008	c08dedc1	2008 Dealer Large German (452.9106-DE)	2008	546
 647	2009	c09dedc1	2009 Dealer Large German (454.7903-DE)	2009	502
 743	2010	c10dedc	2010 Dealer Large German (459.5751-DE)	2010	460
 354	1979 / Technic	c79set	1979 Medium Technic Swedish (103312-S.)	1979	13
+1287	2024	c24no2	2024 Large Norwegian August - December (NO - 6519339)	2024	199
 353	1978	c78usdc	1978 Dealer Large US	1978	?
 491	2003	c96hudc	2003 Dealer Large Hungarian (4209914-HUN)	2003	?
 368	1993	c93dedc	1993 Dealer Catalog German	1993	?
@@ -5054,6 +5066,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 371	1996 / Western	m96westjp	1996 Mini Western Japanese (4.105.478-J)	1996	5
 581	2007	c07rudc1	2007 Dealer Russian - Novelties January - May 2007 (4507027-RU)	2007	140
 601	2008	c08rudc1	2008 Dealer Russian - Novelties June - December 2008	2008	?
+1360	2026	c26de1	2026 Large German January - June (DE/A f/B.R. - 6605817, DE-AT - 6605831, 6605833, 6605835)	2026	175
 1319	2025	c25za1	2025 Large Middle East and African January - June (MENA - 6543411, RSA - 6543412)	2025	183
 351	1976	c76ch3	1976 Large Swiss (98.400-Schw)	1976	?
 371	1996	c96chBlue	1996 Large Swiss (924.714-CH.D) - Blue Cover	1996	?
@@ -5062,3 +5075,4 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25ad1	2025 Large Adriatic January - June (Adriatic - 6543404, Adriatic for CAT - 6543416)	2025	?
 1319	2025	c25ind1	2025 Large India January - June (India - 6543418)	2025	?
 1319	2025	c25tr1	2025 Large Turkish January - June (TR - 6543407, TR for CAT - 6543417)	2025	?
+1213	2022	c22ua1	2022 Large Ukrainian January - May (UA - 6395196)	2022	169
