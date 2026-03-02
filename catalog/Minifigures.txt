@@ -5899,7 +5899,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 179	Racers / Ferrari	rac052	F1 Ferrari Pit Crew Tire Carrier	2012	3
 759	NINJAGO / The Final Battle	njo0070	Lloyd - The Final Battle (Green Ninja ZX)	2012	4.23
 787	LEGENDS OF CHIMA	loc001	Razar - Flat Silver Armor	2013	6.1
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor033	Elrond - Short Cape	2012	3.2
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor033	Elrond - Very Short Cape	2012	3.2
 790	Teenage Mutant Ninja Turtles	tnt001	Shadow Leonardo	2012	4.5
 67	Town / City / Coast Guard	cty0073a	Coast Guard City - Helicopter Rescue Swimmer	2008	3.64
 179	Racers / Ferrari	rac030as	F1 Ferrari Engineer - with Torso Stickers, White Hands	2007	3.35
@@ -8875,7 +8875,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0822	Boba Fett - Clone Head	2017	4.2
 65	Star Wars / Star Wars Episode 4/5/6	sw0823	Han Solo - White Shirt with Wrinkles on Front, Dark Brown Legs, Wavy Hair	2017	4
 65	Star Wars / Star Wars Episode 4/5/6	sw0821	Weequay Skiff Guard (Rintel Aren)	2017	3
-65	Star Wars / Star Wars Episode 4/5/6	sw0819	Rebel Pilot A-wing (Jake Farrell)	2017	3.88
+65	Star Wars / Star Wars Episode 4/5/6	sw0819	Rebel Pilot A-wing - Green Jumpsuit with Dark Tan Vest (Jake Farrell)	2017	3.88
 65	Star Wars / Star Wars Episode 4/5/6	sw0820	Rebel Ground Crew	2017	3.35
 65	Star Wars / Star Wars Episode 4/5/6	sw0818	Lando Calrissian - General Insignia (Light Bluish Gray Legs)	2017	3.71
 868	NEXO KNIGHTS	nex063	Pilot Bot	2016	3.5
@@ -10005,7 +10005,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Solo	sw0914	Imperial Patrol Trooper - Male, Light Nougat Head, Scowl	2018	4.2
 65	Star Wars / Star Wars Episode 4/5/6	sw0906	Yoda - Olive Green, Belt	2018	3
 65	Star Wars / Star Wars Episode 4/5/6	sw0907	Luke Skywalker (Dagobah, Tan Tank Top, Backpack)	2018	5
-65	Star Wars / Star Wars Episode 4/5/6	sw0908	Astromech Droid, R2-D2, Dirt Stains on Front	2018	5
+65	Star Wars / Star Wars Episode 4/5/6	sw0908	Astromech Droid, R2-D2 - Dirt Stains on Front	2018	5
 868	NEXO KNIGHTS	nex134	Clay Moorington - Dark Blue Helmet, Trans-Neon Orange Visor	2018	3.8
 920	The LEGO NINJAGO Movie	njo0411	Ray, Conical Hat	2018	3.77
 920	The LEGO NINJAGO Movie	njo0412	Misako (Koko) (Lady Iron Dragon) - The LEGO Ninjago Movie	2018	4.76
@@ -12183,7 +12183,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter	hp234	Hermione Granger - Striped Sweater, Black Legs	2020	3.5
 36	Technic	tech023	Technic Figure Red Legs, Red Top with Black 'FIRE', Black Arms (Fireman) - Without Sticker (4119035)	1999	12.45
 167	DUPLO	47205pb075	Duplo Figure Lego Ville, Child Girl, Red Legs, Bright Pink Top with Flower on Pocket, White Arms, Black Hair with Pigtails, Oval Eyes	2020	12
-167	DUPLO	47394pb294	Duplo Figure Lego Ville, Male, Medium Blue Legs, Lime Striped Apron, Red Bow Tie, Dark Brown Hair, Red Cap (6295457)	2020	?
+167	DUPLO	47394pb294	Duplo Figure Lego Ville, Male, Medium Blue Legs, Lime Striped Apron, Red Bow Tie, Dark Brown Hair, Red Cap (6295457)	2020	14.63
 167	DUPLO	47394pb295	Duplo Figure Lego Ville, Male, Black Legs, Medium Blue Shirt with Pocket, Reddish Brown Head, Glasses, Black Hair Swept Forward, Oval Eyes (6295460)	2020	?
 167	DUPLO	47394pb296	Duplo Figure Lego Ville, Female Police, Dark Blue Legs, Medium Azure Top with Badge and Epaulettes, Black Hair	2020	17
 227	Harry Potter	hp236	Centaur	?	12.5
@@ -14074,7 +14074,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Legacy	njo0750	Nindroid - Neck Bracket with Grille Tile and Ingot	2022	4.2
 67	Town / Classic Town	par046a	Jogging Suit, Light Gray Legs, Light Gray Cowboy Hat, Backpack, Open Mouth	1993	4.25
 65	Star Wars / Star Wars Episode 4/5/6	sw1199	Luke Skywalker (Dagobah, Tan Tank Top)	2022	3.6
-65	Star Wars / Star Wars Episode 4/5/6	sw1200	Astromech Droid, R2-D2, Dirt Stains on Front and Back	2022	4.5
+65	Star Wars / Star Wars Episode 4/5/6	sw1200	Astromech Droid, R2-D2 - Dirt Stains on Front and Back, with Dirt Stains on Top Panels	2022	4.5
 65	Star Wars / Star Wars Episode 4/5/6	sw1201	C-3PO - Printed Legs, Toes and Arms, Bright Light Yellow Eyes	2022	3.05
 65	Star Wars	sw1202	Astromech Droid, R2-D2 - Flat Silver Head, Dark Pink Dots, Large Receptor, Back Printing	2022	4.5
 65	Star Wars / Star Wars Episode 4/5/6	sw1203	Luke Skywalker - Stormtrooper Outfit, Printed Legs, Dark Tan Hair, Smile / Stern	2022	3.6
@@ -15392,7 +15392,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw1282	Princess Leia - Celebration Outfit, Skirt	2023	4.3
 65	Star Wars / Star Wars Episode 4/5/6	sw1281	Rebel Pilot Garven Dreis (Red Leader)	2023	3.6
 65	Star Wars / Star Wars Episode 4/5/6	sw1279	Rebel Pilot Y-wing (Jon 'Dutch' Vander, Gold Leader) - Printed Legs	2023	3.6
-65	Star Wars / Star Wars Episode 4/5/6	sw1286	Rebel Crew - Female	2023	4.1
+65	Star Wars / Star Wars Episode 4/5/6	sw1286	Rebel Crew - Female, Nougat Head	2023	4.1
 65	Star Wars / Star Wars Other	sw1298	Ewok - Holiday Outfit	2023	4.5
 65	Star Wars / Star Wars Other	sw1297	Emperor Palpatine - Holiday Sweater	2023	3.8
 65	Star Wars / Star Wars Other	sw1294	Pit Droid - Holiday Outfit	2023	3.63
@@ -15467,8 +15467,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 473	Sports / Soccer	soc163	Soccer Spectator - Blue Soccer Uniform, Red Scarf, Black Hair, Glasses	2023	3.79
 473	Sports / Soccer	soc164	Soccer Spectator - Layered Dark Tan and Dark Blue Jackets, Bright Light Blue Legs, Bright Light Yellow Spiked Hair Swept Up	2023	3.5
 473	Sports / Soccer	soc165	Soccer Spectator - Red Soccer Jersey, White Legs, Black Spiked Hair	2023	3.6
-473	Sports / Soccer	soc166	Soccer Spectator - Orange Goalie Uniform, Orange Hair	2023	3.67
-473	Sports / Soccer	soc167	Soccer Spectator - Dark Azure Jacket, Bright Pink Shirt, White Legs, Reddish Brown Hair	2023	3.55
+473	Sports / Soccer	soc166	Soccer Spectator - Female, Orange Goalie Uniform, Orange Hair	2023	3.67
+473	Sports / Soccer	soc167	Soccer Spectator - Female, Dark Azure Jacket, Bright Pink Shirt, White Legs, Reddish Brown Hair	2023	3.55
 473	Sports / Soccer	soc168	Soccer Coach - Black Suit, Glasses, Bright Light Yellow Hair	2023	3.82
 67	Town	twn465	PAC-MAN Arcade Game Player	2023	3.9
 878	Disney / Disney 100	dis127	Maleficent - Minifigure, Black and Medium Lavender Collar	2023	4.2
@@ -17773,7 +17773,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars The Clone Wars	sw1432	Ki-Adi-Mundi - Printed Legs, Straight Belt	2025	3.54
 65	Star Wars / Star Wars The Clone Wars	sw1431	Clone Commander Bacara	2025	4.23
 65	Star Wars / Star Wars The Clone Wars	sw1430	Galactic Marine Clone Trooper	2025	4.55
-65	Star Wars / Star Wars Episode 4/5/6	sw1420	Imperial AT-ST Driver - Printed Arms (75417)	2025	3.7
+65	Star Wars / Star Wars Episode 4/5/6	sw1420	Imperial AT-ST Driver - Helmet with Molded Goggles, Light Bluish Gray Jumpsuit with Silver Dot, Printed Arms, Printed Legs	2025	3.7
 65	Star Wars / Star Wars Episode 3	sw1422	Clone Trooper, 327th Star Corps (Phase 2) - Nougat Head	2025	4.12
 65	Star Wars / Star Wars Episode 3	sw1423	Clone Trooper, 327th Star Corps (Phase 2) - Nougat Head, Rangefinder	2025	4.18
 65	Star Wars / Star Wars Episode 3	sw1421	Dwarf Spider Droid - Light Bluish Gray Dome, Lightsaber Hilt	2025	21.95
@@ -17816,7 +17816,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 878	Disney / Toy Story	dis183	Buzz Lightyear - Minifigure Head, One Piece Wings with Jet Pack	2025	5.48
 67	Town / City / Police	cty1914	Police Mechanic - Male, Bright Light Blue Shirt with Suspenders, Black Splotches and White Star Badge Logo, Dark Blue Legs and Cap, Dark Orange Beard	2025	3.4
 67	Town / City / Police	cty1913	Police Mechanic - Female, Bright Light Blue Shirt with Suspenders, Black Splotches and White Star Badge Logo, Dark Blue Legs, Dark Brown Coiled Hair	2025	3.55
-67	Town / City / Police	cty1912	Police - City Officer Female, Neon Yellow Safety Vest, Dark Blue Legs, Dark Orange Mid Length Hair	2025	3.68
+67	Town / City / Police	cty1912	Police - City Officer Female, Neon Yellow Safety Vest, Dark Blue Legs, Dark Orange Mid Length Hair, Open Mouth Grin	2025	3.68
 227	Harry Potter / Chamber of Secrets	hp569	Neville Longbottom - Coveralls, Headphones, Tan Short Legs, Tooth Gap / Lopsided Smile	2025	3.2
 227	Harry Potter / Chamber of Secrets	hp570	Professor Pomona Sprout - Dirty Cloak, Dark Green Holly Brooch, Dark Tan Legs	2025	4.29
 227	Harry Potter / Chamber of Secrets	hp571	Hermione Granger - Coveralls	2025	3.75
@@ -17920,7 +17920,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / The Infinity Saga	sh1069	Thor - Flexible Rubber Cape, Black Legs, Dark Tan Tousled Hair	2025	4.62
 1347	One Piece	op010	Nami - Yellowish Green Top, Straw Hat on Back	2025	5.18
 1312	Wednesday	wed006	Wednesday Addams - Black Hoodie, Skirt, Platform Soles	2025	3.48
-65	Star Wars / Star Wars Episode 4/5/6	sw1435	Wicket (Ewok), Molded Dark Orange Hood with Wrinkles	2025	4.22
+65	Star Wars / Star Wars Episode 4/5/6	sw1435	Wicket (Ewok), Molded Dark Orange Hood with Wrinkles	2025	4.5
 768	Super Heroes / Spider-Man	sh1070	Kraven The Hunter - Reddish Brown Plain Legs	2025	4
 1268	DREAMZzz	drm096	Mateo - Z-Blob Shirt, Blue Puffer Vest, Hair with Lime Streaks (6527186)	2024	4.65
 842	SPEED CHAMPIONS	sc133	Porsche 911 GT3 RS Driver	2025	3.65
@@ -18127,7 +18127,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Rogue One	sw1482	Director Orson Callan Krennic - Belt with Pouch	2025	3.67
 65	Star Wars / Star Wars Other	sw1479	Hot Tub Stormtrooper	2025	4.35
 65	Star Wars / Star Wars Rogue One	sw1481	Galen Erso	2025	3.38
-65	Star Wars / Star Wars Episode 4/5/6	sw1478	Imperial Royal Guard - Dark Red Arms and Hands, Torso Creases on Front and Back	2025	4.1
+65	Star Wars / Star Wars Episode 4/5/6	sw1478	Imperial Royal Guard - Dark Red Arms and Hands, Torso Creases on Front and Back, Spongy Cape	2025	4.1
 65	Star Wars / Star Wars Episode 4/5/6	sw1480	Imperial Shuttle Pilot - Medium Nougat Head, Imperial Officer Cap	2025	3.37
 768	Super Heroes / Avengers	sh1093	Captain America - Dark Blue Suit with Dark Blue Belt, Red Hands, Helmet	2025	3.5
 768	Super Heroes / Avengers	sh1094	Thanos - Minifigure, Dark Blue and Gold Outfit, Dark Blue Arms, Medium Lavender Hands, Helmet	2025	3.72
@@ -18145,7 +18145,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 390	Holiday & Event / Christmas	hol385a	Elf - Green Jacket with Christmas Trees, Bright Green Neck Bracket with Robot Arms and Utensils	2025	8.05
 390	Holiday & Event / Christmas	hol387	Elf - Green Coat with Red Collar, Bright Green Helmet Castle	2025	3.22
 1095	Super Mario / Mario Kart	mar0226	King Boo - Dark Pink Tongue, White Scanner Tile Modified, Tall Base	2025	49
-761	Pirates of the Caribbean	poc030	Black Pearl Figurehead - Black (Monochrome)	2011	?
+761	Pirates of the Caribbean	poc030	Black Pearl Figurehead - Black (Monochrome)	2011	6
 1095	Super Mario / Mario Kart	mar0227	Piranha Plant - Stem and Large Leaves	2025	26.04
 1312	Wednesday	wed008	Enid Sinclair - Black and Dark Purple Nevermore Academy Uniform	2025	3.22
 1095	Super Mario	mar0228	Captain Toad	2025	17.15
@@ -18541,17 +18541,77 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Police	cty1968	Police - City Officer Male, Black Safety Vest with Silver Star Badge Logo, Dark Blue Legs, Dark Brown Wavy Hair	2026	3.47
 67	Town / City / Police	cty1969	Police - City Bandit Crook Female, Black Tuxedo with Red Tie, Black Legs, Black Helmet	2026	3.6
 67	Town / City / Police	cty1970	Police - City Jail Prisoner Male, Orange Prison Jumpsuit, Medium Nougat Wavy Hair, Sideburns, Orange Glasses	2026	3.64
-768	Super Heroes / Batman II	sh1115	Batman Batsuit - Black with Yellow Belt with Medium Nougat Details, Cowl with White Eyes, Flexible Rubber Cape, Trans-Light Blue Head	?	4.8
-768	Super Heroes / Batman II	sh1114	Bruce Wayne - Black Suit with Dark Blue Tie	?	3.5
+768	Super Heroes / Batman II	sh1115	Batman Batsuit - Black with Yellow Belt with Medium Nougat Details, Cowl with White Eyes, Flexible Rubber Cape, Trans-Light Blue Head	2026	4.8
+768	Super Heroes / Batman II	sh1114	Bruce Wayne - Black Suit with Dark Blue Tie	2026	3.5
 1268	DREAMZzz	drm116	Grimspawn - Top Hat	2026	1.56
 1268	DREAMZzz	drm115	Arika - Centipede Form	2026	14.82
 67	Town / City / Construction	cty1971	Construction Engineer / Architect - Male, Black Vest with Blue Striped Tie, Black Legs, White Construction Helmet with Dark Brown Hair, Lopsided Grin	2026	3.66
 67	Town / City / Construction	cty1972	Construction Worker - Female, Reddish Orange Safety Jacket with Reflective Stripes, Dark Bluish Gray Legs, Red Construction Helmet with Dark Brown Ponytail Hair, Open Mouth Smile with Top Teeth	2026	3.61
 1268	DREAMZzz	drm117	Dreamling Pilot	2026	1.67
 1268	DREAMZzz	drm118	Dreamling Captain	2026	1.9
+67	Town / Race	twn542	Michael Schumacher 	?	3.37
+768	Super Heroes	soc175	Soccer Spectator - Female, Blue Hoodie with Black FIFA World Cup™ 2026 Logo, White Cap	?	4.02
 67	Town / City	cty1973	Service Truck Driver - Male, Neon Yellow Safety Vest with Reflective Stripes, Dark Green Legs with Reflective Stripes, Dark Brown Hair	2026	3.37
 67	Town / City	cty1974	Coast Guard City - Male, Reddish Orange Jacket with Pockets and Reflective Stripes, Dark Blue Legs with Pockets and Reflective Stripes, Orange Life Jacket, Dark Brown Hair	2026	3.89
 67	Town / City	cty1975	Paramedic - Female, Dark Turquoise and Neon Yellow Safety Vest, Legs with Silver Reflective Stripes, Dark Tan Hair	2026	3.64
 771	Friends	frnd0890	Friends Matilde - Bright Pink Sleeveless Jacket, White Trousers, Black Boots	2026	3
 771	Friends	frnd0889	Friends Autumn - Blue Tied Flannel Vest, Sand Green Trousers, Dark Brown Boots, Bright Light Blue Horse Riding Helmet	2026	2.95
-768	Super Heroes / Spider-Man	sh1116	Anti-Venom - Small	?	1
+768	Super Heroes / Spider-Man	sh1116	Anti-Venom - Small	2026	1
+67	Town / City	cty1985	Airplane Pilot - Male, Reddish Brown Aviator Jacket, Dark Tan Legs with Pockets, Aviator Cap, Dark Bluish Gray Goggles (b25cty01uk -nl)	?	3.6
+67	Town / City / Airport	cty1976	Airport Worker - Male, Neon Yellow Safety Vest with Reflective Stripes, Dark Blue Legs, Red Construction Helmet with Black Ear Protectors / Headphones, Stubble	2026	3.51
+67	Town / City / Airport	cty1977	Passenger Plane Pilot - Male, Dark Blue Suit with Tie and Hat	2026	3.42
+67	Town / City / Airport	cty1978	Plane Passenger - Male, Dark Orange Jacket, Tan Legs, Bright Green Sunflower Lanyard, Dark Tan Hair	2026	3.48
+67	Town / City / Airport	cty1979	Airport Security Guard - Female, Black Safety Vest with Silver Star Bad Logo, Dark Blue Legs, Bright Light Yellow Hair Ponytail	2026	3.64
+67	Town / City / Airport	cty1980	Plane Passenger - Female, White Sleeveless Top with Lime Palm Leaves, Dark Blue Legs, Black Hair Ponytail	2026	3.8
+67	Town / City / Airport	cty1981	Barista - Male, Reddish Brown Apron with Cup and Name Tag, Reddish Brown Legs, Light Bluish Gray Hair Coiled	2026	3.5
+67	Town / City / Airport	cty1982	Air Traffic Controller - Male, Black Vest with Blue Striped Tie, Black Legs, Dark Tan Hair Combed	2026	3.37
+67	Town / City / Airport	cty1983	Plane Passenger - Female, Dark Turquoise Jacket with Dark Green Panel, Dark Bluish Gray Legs, Dark Blue Beanie	2026	3.75
+67	Town / City / Airport	cty1984	Flight Attendant - Female, Dark Blue Vest, Dark Blue Legs, Dark Brown Hair Bun	2026	3.64
+771	Friends	frnd0891	Friends Aliya - Bright Pink, Red and White Sleeveless Shirt, White Skirt, Tan Sandals	2026	3.38
+878	Disney / Winnie The Pooh	dis190	Winnie the Pooh - White Bib	?	4
+67	Town / City / Race	cty1992	Go-Kart Driver - Male, Lime Racing Suit, Light Bluish Gray Legs, White Helmet	?	3.67
+1197	BrickLink Designer Program	bdp274	Art Factory Photographer - Male, Dark Blue Bodywarmer Over Sand Green Sweater, Dark Blue Legs, Black Hair Parted on Right, Headphones Around Neck	?	3.76
+1197	BrickLink Designer Program	bdp273	Art Factory Waiter - Male, Black Tuxedo, Black Legs, Black Short Hair with Left Part	?	3.48
+1197	BrickLink Designer Program	bdp270	Art Factory Ballerina Teacher - Female, White Halter Top and Black Choker Necklace, Dark Turquoise Legs, Dark Brown Hair with Large High Bun	?	3.66
+1197	BrickLink Designer Program	bdp272	Art Factory Painter - Female, Medium Nougat Overalls over Sand Green Shirt, Medium Nougat Legs with Reddish Brown Boots, Dark Orange Tousled Hair	?	3.73
+1197	BrickLink Designer Program	bdp268	Art Factory Pianist - Male, Dark Bluish Gray Plaid Jacket with Red Bow Tie, Dark Brown Legs, Light Bluish Gray Bushy Hair Swept Back	?	4.04
+1197	BrickLink Designer Program	bdp267	Art Factory Critic - Female, Tan Jacket Over Black Sweater, Dark Green Legs, Dark Tan Thick And Messy Hair	?	3.74
+1197	BrickLink Designer Program	bdp266	Art Factory Security - Female, Black Safety Vest with Silver Star Badge Logo, Black Legs, Black Ponytail and Swept Sideways Fringe	?	3.65
+1197	BrickLink Designer Program	bdp265	Art Factory Bassist - Female, Dark Brown Jacket over Red Hawaiian Shirt, Dark Red Legs with Coral and Gold Vertical Stripes, Dark Brown Hair	?	4.43
+1197	BrickLink Designer Program	bdp271	Art Factory Ballerina Student - Girl, White Dress with Ruffled Collar, White Medium Legs, Dark Brown Hair with Two Buns on Top, White Skirt	?	3.94
+1197	BrickLink Designer Program	bdp269	Art Factory Maintenance Worker - Male, Black Jacket with Reflective Stripes, Dark Bluish Gray Legs with Knee Pads, Light Bluish Gray Combed Hair	?	3.34
+1374	Project Hail Mary	phm001	Ryland Grace	?	4.58
+390	Holiday & Event / Chinese New Year	hol415	Man - Red Tang Jacket with Gold Chinese Scrollwork, Red Legs, Black Smooth Hair	2026	?
+390	Holiday & Event / Chinese New Year	hol416	Woman - Red Tang Jacket with Gold Chinese Scrollwork, White Legs, Dark Brown Hair	2026	?
+390	Holiday & Event / Chinese New Year	hol417	Man - Red Tang Jacket with Gold Chinese Scrollwork, White Legs, Dark Tan Hair	2026	?
+390	Holiday & Event / Chinese New Year	hol418	Woman - Red Tang Jacket with Gold Chinese Scrollwork, Red Legs, Brown Short Hair	2026	?
+65	Star Wars / Star Wars Episode 4/5/6	sw1491	Luke Skywalker™ - SMART Play™	2026	3.74
+65	Star Wars / Star Wars Episode 4/5/6	sw1492	Jawa™ - Straps with Orange Stains and Holster	2026	3.44
+65	Star Wars / Star Wars Episode 4/5/6	sw1493	Gonk Droid™ (GNK Power Droid) - Dark Blue Body	2026	4.75
+65	Star Wars / Star Wars Episode 4/5/6	sw1495	Luke Skywalker™ (Dagobah) - SMART Play™	2026	3.74
+65	Star Wars / Star Wars Episode 4/5/6	sw1494	Yoda™ - SMART Play™	2026	3.4
+65	Star Wars / Star Wars Episode 4/5/6	sw1496	Astromech Droid, R2-D2™ - Dirt Stains on Front and Back, without Dirt Stains on Top Panels	2026	4.5
+65	Star Wars / Star Wars Episode 4/5/6	sw1497	Wicket™ (Ewok) - SMART Play™	2026	4.65
+65	Star Wars / Star Wars Episode 4/5/6	sw1498	AT-ST Driver™ - Helmet with Molded Goggles, Light Bluish Gray Jumpsuit with Silver Dot, Printed Legs	2026	3.7
+65	Star Wars / Star Wars Episode 4/5/6	sw1499	Chewbacca™ - SMART Play™	2026	5.1
+65	Star Wars / Star Wars Episode 4/5/6	sw1500	Han Solo™ - SMART Play™	2026	3.83
+65	Star Wars / Star Wars Episode 4/5/6	sw1501	C-3PO™ - SMART Play™	2026	3.21
+65	Star Wars / Star Wars Episode 4/5/6	sw1502	Darth Vader™ - SMART Play™	2026	4.18
+65	Star Wars / Star Wars Episode 4/5/6	sw1503	Rebel Crew - Female, Sienna Head	?	4.2
+65	Star Wars / Star Wars Episode 4/5/6	sw1504	Princess Leia™ - SMART Play™	?	3.95
+65	Star Wars / Star Wars Episode 4/5/6	sw1505	Luke Skywalker™ (Pilot Suit) - SMART Play™	?	3.8
+65	Star Wars / Star Wars Episode 4/5/6	sw1507	Luke Skywalker™ (Jedi) - SMART Play™	2026	3.8
+65	Star Wars / Star Wars Episode 4/5/6	sw1508	Emperor Palpatine™ - SMART Play™	2026	4.2
+65	Star Wars / Star Wars Episode 4/5/6	sw1509	Imperial Royal Guard - Dark Red Arms and Hands, Torso Creases on Front and Back, Very Short Spongy Cape	2026	4.05
+65	Star Wars / Star Wars Episode 4/5/6	sw1510	Rebel Pilot A-wing - Green Jumpsuit with Dark Bluish Gray Vest	2026	3.93
+65	Star Wars / Star Wars Episode 4/5/6	sw1506	R2-D2™ - SMART Play™ Tag on Back	?	4.7
+65	Star Wars / Star Wars Episode 4/5/6	sw1511	Sandtrooper™ - Plastic Pauldron, Dirt Stains	2026	4.5
+65	Star Wars / Star Wars Episode 4/5/6	sw1512	Obi-Wan Kenobi™ - SMART Play™	2026	3.54
+65	Star Wars / Star Wars Episode 4/5/6	sw1513	Greedo™ - SMART Play™	2026	3.41
+67	Town / City / Police	cty1986	Police - City Bandit Crook Male, White Vest, Medium Nougat Wavy Hair, Sideburns, Orange Glasses	?	3.64
+67	Town / City / Police	cty1987	Police - City Bandit Crook Female, Black Tuxedo with Red Tie, Black Legs, Black Long Hair	?	3.76
+67	Town / City / Police	cty1988	Police - City Detective Female, Reddish Brown Jacket, Black Legs, Bright Light Yellow Hair	?	3.9
+67	Town / City / Police	cty1989	Police - City Officer Male, Black Safety Vest with Silver Star Badge Logo, Dark Blue Legs, Black Coiled Hair	?	3.41
+67	Town / City / Police	cty1990	Police - City Officer Female, Neon Yellow Safety Vest, Dark Blue Legs, Dark Orange Mid Length Hair, Closed Mouth Smile	?	3.68
+67	Town / City / Police	cty1991	Police - City Jail Prisoner Male, Orange Prison Jumpsuit, Dark Brown Hair and Sideburns	?	3.6
+65	Star Wars / Star Wars Episode 4/5/6	sw1514	Imperial Scout Trooper - Male, Dual Molded Helmet, Belt with Small Dots, Light Nougat Head, Dark Brown Eyebrows, Frown	2026	4.3

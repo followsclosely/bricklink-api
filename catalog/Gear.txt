@@ -8827,7 +8827,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 175	Food & Drink	OrlandoMug	Cup / Mug Orlando, Florida Minifigures	?	344	? x ? x ?
 175	Food & Drink	25yearsmug	Cup / Mug 25 Years of Building Imaginations	1998	352	? x ? x ?
 334	Key Chain	keyclip	Key Clip with Velcro Strap with Lego Logo	?	9	3 x 20.5 x 0
-517	Watch	wemp1	Watch Set, Employee Women's Watch #1	?	15	? x ? x ?
+517	Watch	wemp1	Watch Set, Employee Women's Watch #1	?	25	3.5 x 11.9 x 0.9
 517	Watch	wemp2	Watch Set, Employee Women's Watch #2	1988	14	? x ? x ?
 513	Media Audio & Video / Super Heroes / Justice League	5000194443	Video DVD - Gerechtigkeitsliga vs Bizarro Liga without Minifigure (German Version)	2015	68	13.8 x 19.4 x 1.5
 539	Retail Display / Collectible Minifigures / The Simpsons Series 2	displaysign071	Display Sign Hanging, Collectible Minifigures The Simpsons Series 2 Bag	2015	446	49 x 69 x 7
@@ -15341,7 +15341,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 517	Watch	bb1189c01	Watch Part, Band - Female Classic, Long with Blue Buckle	?	?	? x ? x ?
 517	Watch	bb1189c02	Watch Part, Band - Female Classic, Long with Violet Buckle	?	?	? x ? x ?
 517	Watch	bb1191	Watch Part, Band Attachment - Free Loop	?	0.44	? x ? x ?
-517	Watch	bb1192	Watch Part, Case Attachment - Band Locking Ring	?	?	? x ? x ?
+517	Watch	bb1192	Watch Part, Case Attachment - Band Locking Ring	?	1.02	? x ? x ?
 399	Storage / Educational & Dacta	900581	Dacta Storage Bin Medium, Shallow (Fits with 54190)	2014	330	42 x 30.5 x 9.2
 517	Watch	bb1193c01	Watch Part, Case Analog - Brick 1 x 1, Blue Hour and Minute Hands, Red Second Hand	?	?	? x ? x ?
 517	Watch	bb1194c01	Watch Part, Case Analog - Brick 1 x 1, Light Turquoise Hour and Minute Hands, Dark Pink Second Hand with Star	?	?	? x ? x ?
@@ -15362,7 +15362,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 517	Watch	bb1209	Watch Part, Case Attachment - Bezel Ring with Horizontal Clips and Recessed Numbers	?	?	? x ? x ?
 517	Watch	bb1210c01	Watch Part, Band - Velcro with Light Turquoise Stitching	?	?	? x ? x ?
 517	Watch	bb1211c01	Watch Part, Band - Velcro with Red Stitching	?	?	? x ? x ?
-517	Watch	bb1212c01	Watch Part, Band - Velcro with Blue Stitching	?	?	? x ? x ?
+517	Watch	bb1212c01	Watch Part, Band - Velcro with Blue Stitching	?	5.85	? x ? x ?
 517	Watch	bb1213c01	Watch Part, Band - Velcro with Neon Green Stitching	?	?	? x ? x ?
 517	Watch	bb1214c01	Watch Part, Band - Velcro Narrow with Black LEGO Logo	?	?	? x ? x ?
 517	Watch	bb1215c01	Watch Part, Band - Velcro Wide with Black Strap and Coin Pocket	?	?	? x ? x ?
@@ -22225,6 +22225,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 334	Key Chain / LEGOLAND Parks	KC165	LEGOLAND Japan Popcorn Train Bucket Key Chain	2025	18	? x ? x ?
 334	Key Chain / LEGOLAND Parks	KC166	LEGOLAND Japan Popcorn Submarine Bucket Key Chain	2025	13	? x ? x ?
 334	Key Chain / LEGOLAND Parks	KC167	LEGOLAND Japan Slush Bottle Observation Tower Key Chain	2025	13	? x ? x ?
+1104	Paper, Flyer / Friends	6315316	Flyer 2020 Set 41405 Insert - Inspirational Material	2020	?	? x ? x ?
 990	Human Tool / Botanicals	421991	Hand Fan - Botanicals Bright Pink (Chinese)	2025	19	26 x 14.5 x 0.3
 990	Human Tool / Botanicals	421992	Hand Fan - Botanicals Dark Pink (Chinese)	2025	19	26 x 14.5 x 0.3
 998	Playmat / FIRST LEGO League	45826MAP	Playmat, FIRST LEGO League (FLL) - Set 45826 Submerged	2024	880	234 x 122 x 0.1
@@ -22672,8 +22673,16 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 175	Food & Drink / Botanicals	5009908	Cup / Mug Ceramic Wildflowers	2025	341	13.2 x 11.5 x 12.3
 399	Storage	5010107	Shelf	2025	715	38.8 x 15.4 x 2.9
 399	Storage / Educational & Dacta / Science	904193c01pb03	Education Science Storage Bin with 'Science' and '11+' Pattern (Stickers) - Set 45622	?	573	42.5 x 30.5 x 8.5
+443	Puzzle / NINJAGO	9781797233413	Ninjago Minifigures Puzzle	2026	640	27.7 x 22.7 x 5.2
+443	Puzzle / Easter	9781797240299	Easter Egg Hunt Puzzle	2026	559	18.2 x 22.7 x 6.3
+472	Card, Postcard / Collectible Minifigures	9781797240466	Minifigures - 100 Collectible Postcards	2026	606	10.5 x 15.2 x 6.1
 997	Card / Educational & Dacta / Science	6559827	Connection Card for Education Science Sets with 4-Digit Number - Orange	?	5.14	5.4 x 8.6 x 0.07
 997	Card / Educational & Dacta / Science	6559909	Connection Card for Education Science Sets with 4-Digit Number - Dark Purple	?	5.14	5.4 x 8.6 x 0.07
 997	Card / Educational & Dacta / Science	6559618	Connection Card for Education Science Sets with 4-Digit Number - Dark Pink	?	5.05	5.4 x 8.6 x 0.07
+543	Clothing, Adult / Crocs	5010203	Shoe - Crocs Brick Clog	2026	?	? x ? x ?
 380	Card, Trading Card / NINJAGO	njo10deLE08	NINJAGO Trading Card Game (German) Series 10 - # LE8 Nokt Limited Edition	2026	?	? x ? x ?
 399	Storage / Educational & Dacta / Science	45622box	Complete Box for Set 45622 - Box only entry	?	876	42.5 x 30.5 x 8.5
+380	Card, Trading Card / NINJAGO	njo10deLE11	NINJAGO Trading Card Game (German) Series 10 - # LE11 Wilder Zane Limited Edition	2026	2	6.2 x 8.8 x 0.02
+399	Storage / Educational & Dacta / Science	45621box	Complete Box for Set 45621 - Box only entry	?	865	42.5 x 30.5 x 8.5
+1104	Paper, Flyer / BrickLink Designer Program / BDP Series 6	6616209	Flyer 2026 Set 910054 Insert - Building App Link and Instructions (North American Version)	2026	8.42	14 x 21.4 x 0.05
+1104	Paper, Flyer / Technic / Model / Race	6605562	Flyer 2026 Technic Set 42226 Insert - Asphalt Legends Game Code for BMW M4 GT3 EVO	2026	7.1	21 x 29.8 x 0.01

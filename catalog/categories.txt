@@ -786,6 +786,7 @@ Category ID	Category Name
 734	Prince of Persia
 614	Princess Castle
 697	Prisoner of Azkaban
+1374	Project Hail Mary
 992	Projectile Launcher
 983	Promotional
 30	Propeller
