@@ -13020,7 +13020,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 179	Racers / Drome Racers	rac089	Hot Arrow	2002	2.32
 817	LEGO Ideas (CUUSOO) / Disney / Winnie The Pooh	idea086	Winnie the Pooh	2021	4
 817	LEGO Ideas (CUUSOO) / Disney / Winnie The Pooh	idea087	Tigger	2021	4.5
-817	LEGO Ideas (CUUSOO) / Disney / Winnie The Pooh	idea088	Piglet	2021	3.5
+817	LEGO Ideas (CUUSOO) / Disney / Winnie The Pooh	idea088	Piglet - Red Scarf	2021	3.5
 817	LEGO Ideas (CUUSOO) / Disney / Winnie The Pooh	idea089	Rabbit	2021	4
 817	LEGO Ideas (CUUSOO) / Disney / Winnie The Pooh	idea090	Eeyore with Bow	2021	8.5
 65	Star Wars / Star Wars Other	sw1147	Yoda - Olive Green, Backpack	2021	4
@@ -18529,6 +18529,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Traffic	cty1966	Snowplow Driver - Male, Neon Yellow Safety Vest with Reflective Stripes, Dark Green Legs with Reflective Stripes, Gray Beanie	2026	?
 166	Educational & Dacta	sp149	Astronaut - Female, Dark Brown Hair, White Spacesuit with Dark Turquoise Panel and Sleeves	2026	3.67
 166	Educational & Dacta	sp150	Astronaut - Dark Turquoise Helmet and Legs, Coral Arms, Dark Blue Backpack	2026	5.9
+768	Super Heroes / Batman & Robin	sh1119	Batman - Black Suit with Silver Bats and Trim	2026	4
 166	Educational & Dacta	sp151	Astronaut - Female, Dark Brown Long Hair, Dark Turquoise Track Suit	2026	3.88
 166	Educational & Dacta	sp152	Astronaut - White Spacesuit with Dark Turquoise Panel and Sleeves, Dark Turquoise Helmet	2026	4.26
 166	Educational & Dacta	sp153	Astronaut - Spacesuit with Dark Blue Legs, Coral Arms, Medium Nougat Hair	2026	3.84
@@ -18549,8 +18550,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Construction	cty1972	Construction Worker - Female, Reddish Orange Safety Jacket with Reflective Stripes, Dark Bluish Gray Legs, Red Construction Helmet with Dark Brown Ponytail Hair, Open Mouth Smile with Top Teeth	2026	3.61
 1268	DREAMZzz	drm117	Dreamling Pilot	2026	1.67
 1268	DREAMZzz	drm118	Dreamling Captain	2026	1.9
-67	Town / Race	twn542	Michael Schumacher 	?	3.37
-768	Super Heroes	soc175	Soccer Spectator - Female, Blue Hoodie with Black FIFA World Cup™ 2026 Logo, White Cap	?	4.02
+67	Town / Race	twn542	Michael Schumacher 	2026	3.37
+1359	Editions	edi001	Soccer Spectator - Female, Blue Hoodie with Black FIFA World Cup 2026 Logo, White Cap	?	4.02
 67	Town / City	cty1973	Service Truck Driver - Male, Neon Yellow Safety Vest with Reflective Stripes, Dark Green Legs with Reflective Stripes, Dark Brown Hair	2026	3.37
 67	Town / City	cty1974	Coast Guard City - Male, Reddish Orange Jacket with Pockets and Reflective Stripes, Dark Blue Legs with Pockets and Reflective Stripes, Orange Life Jacket, Dark Brown Hair	2026	3.89
 67	Town / City	cty1975	Paramedic - Female, Dark Turquoise and Neon Yellow Safety Vest, Legs with Silver Reflective Stripes, Dark Tan Hair	2026	3.64
@@ -18568,18 +18569,18 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Airport	cty1983	Plane Passenger - Female, Dark Turquoise Jacket with Dark Green Panel, Dark Bluish Gray Legs, Dark Blue Beanie	2026	3.75
 67	Town / City / Airport	cty1984	Flight Attendant - Female, Dark Blue Vest, Dark Blue Legs, Dark Brown Hair Bun	2026	3.64
 771	Friends	frnd0891	Friends Aliya - Bright Pink, Red and White Sleeveless Shirt, White Skirt, Tan Sandals	2026	3.38
-878	Disney / Winnie The Pooh	dis190	Winnie the Pooh - White Bib	?	4
-67	Town / City / Race	cty1992	Go-Kart Driver - Male, Lime Racing Suit, Light Bluish Gray Legs, White Helmet	?	3.67
-1197	BrickLink Designer Program	bdp274	Art Factory Photographer - Male, Dark Blue Bodywarmer Over Sand Green Sweater, Dark Blue Legs, Black Hair Parted on Right, Headphones Around Neck	?	3.76
-1197	BrickLink Designer Program	bdp273	Art Factory Waiter - Male, Black Tuxedo, Black Legs, Black Short Hair with Left Part	?	3.48
-1197	BrickLink Designer Program	bdp270	Art Factory Ballerina Teacher - Female, White Halter Top and Black Choker Necklace, Dark Turquoise Legs, Dark Brown Hair with Large High Bun	?	3.66
-1197	BrickLink Designer Program	bdp272	Art Factory Painter - Female, Medium Nougat Overalls over Sand Green Shirt, Medium Nougat Legs with Reddish Brown Boots, Dark Orange Tousled Hair	?	3.73
-1197	BrickLink Designer Program	bdp268	Art Factory Pianist - Male, Dark Bluish Gray Plaid Jacket with Red Bow Tie, Dark Brown Legs, Light Bluish Gray Bushy Hair Swept Back	?	4.04
-1197	BrickLink Designer Program	bdp267	Art Factory Critic - Female, Tan Jacket Over Black Sweater, Dark Green Legs, Dark Tan Thick And Messy Hair	?	3.74
-1197	BrickLink Designer Program	bdp266	Art Factory Security - Female, Black Safety Vest with Silver Star Badge Logo, Black Legs, Black Ponytail and Swept Sideways Fringe	?	3.65
-1197	BrickLink Designer Program	bdp265	Art Factory Bassist - Female, Dark Brown Jacket over Red Hawaiian Shirt, Dark Red Legs with Coral and Gold Vertical Stripes, Dark Brown Hair	?	4.43
-1197	BrickLink Designer Program	bdp271	Art Factory Ballerina Student - Girl, White Dress with Ruffled Collar, White Medium Legs, Dark Brown Hair with Two Buns on Top, White Skirt	?	3.94
-1197	BrickLink Designer Program	bdp269	Art Factory Maintenance Worker - Male, Black Jacket with Reflective Stripes, Dark Bluish Gray Legs with Knee Pads, Light Bluish Gray Combed Hair	?	3.34
+878	Disney / Winnie The Pooh	dis190	Winnie the Pooh - White Bib	2026	4
+67	Town / City / Race	cty1992	Go-Kart Driver - Male, Lime Racing Suit, Light Bluish Gray Legs, White Helmet	2026	3.67
+1197	BrickLink Designer Program	bdp274	Art Factory Photographer - Male, Dark Blue Bodywarmer Over Sand Green Sweater, Dark Blue Legs, Black Hair Parted on Right, Headphones Around Neck	2026	3.76
+1197	BrickLink Designer Program	bdp273	Art Factory Waiter - Male, Black Tuxedo, Black Legs, Black Short Hair with Left Part	2026	3.48
+1197	BrickLink Designer Program	bdp270	Art Factory Ballerina Teacher - Female, White Halter Top and Black Choker Necklace, Dark Turquoise Legs, Dark Brown Hair with Large High Bun	2026	3.66
+1197	BrickLink Designer Program	bdp272	Art Factory Painter - Female, Medium Nougat Overalls over Sand Green Shirt, Medium Nougat Legs with Reddish Brown Boots, Dark Orange Tousled Hair	2026	3.73
+1197	BrickLink Designer Program	bdp268	Art Factory Pianist - Male, Dark Bluish Gray Plaid Jacket with Red Bow Tie, Dark Brown Legs, Light Bluish Gray Bushy Hair Swept Back	2026	4.04
+1197	BrickLink Designer Program	bdp267	Art Factory Critic - Female, Tan Jacket Over Black Sweater, Dark Green Legs, Dark Tan Thick And Messy Hair	2026	3.74
+1197	BrickLink Designer Program	bdp266	Art Factory Security - Female, Black Safety Vest with Silver Star Badge Logo, Black Legs, Black Ponytail and Swept Sideways Fringe	2026	3.65
+1197	BrickLink Designer Program	bdp265	Art Factory Bassist - Female, Dark Brown Jacket over Red Hawaiian Shirt, Dark Red Legs with Coral and Gold Vertical Stripes, Dark Brown Hair	2026	4.43
+1197	BrickLink Designer Program	bdp271	Art Factory Ballerina Student - Girl, White Dress with Ruffled Collar, White Medium Legs, Dark Brown Hair with Two Buns on Top, White Skirt	2026	3.94
+1197	BrickLink Designer Program	bdp269	Art Factory Maintenance Worker - Male, Black Jacket with Reflective Stripes, Dark Bluish Gray Legs with Knee Pads, Light Bluish Gray Combed Hair	2026	3.34
 1374	Project Hail Mary	phm001	Ryland Grace	?	4.58
 390	Holiday & Event / Chinese New Year	hol415	Man - Red Tang Jacket with Gold Chinese Scrollwork, Red Legs, Black Smooth Hair	2026	?
 390	Holiday & Event / Chinese New Year	hol416	Woman - Red Tang Jacket with Gold Chinese Scrollwork, White Legs, Dark Brown Hair	2026	?
@@ -18597,21 +18598,27 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw1500	Han Solo™ - SMART Play™	2026	3.83
 65	Star Wars / Star Wars Episode 4/5/6	sw1501	C-3PO™ - SMART Play™	2026	3.21
 65	Star Wars / Star Wars Episode 4/5/6	sw1502	Darth Vader™ - SMART Play™	2026	4.18
-65	Star Wars / Star Wars Episode 4/5/6	sw1503	Rebel Crew - Female, Sienna Head	?	4.2
-65	Star Wars / Star Wars Episode 4/5/6	sw1504	Princess Leia™ - SMART Play™	?	3.95
-65	Star Wars / Star Wars Episode 4/5/6	sw1505	Luke Skywalker™ (Pilot Suit) - SMART Play™	?	3.8
+65	Star Wars / Star Wars Episode 4/5/6	sw1503	Rebel Crew - Female, Sienna Head	2026	4.2
+65	Star Wars / Star Wars Episode 4/5/6	sw1504	Princess Leia™ - SMART Play™	2026	3.95
+65	Star Wars / Star Wars Episode 4/5/6	sw1505	Luke Skywalker™ (Pilot Suit) - SMART Play™	2026	3.8
 65	Star Wars / Star Wars Episode 4/5/6	sw1507	Luke Skywalker™ (Jedi) - SMART Play™	2026	3.8
 65	Star Wars / Star Wars Episode 4/5/6	sw1508	Emperor Palpatine™ - SMART Play™	2026	4.2
 65	Star Wars / Star Wars Episode 4/5/6	sw1509	Imperial Royal Guard - Dark Red Arms and Hands, Torso Creases on Front and Back, Very Short Spongy Cape	2026	4.05
 65	Star Wars / Star Wars Episode 4/5/6	sw1510	Rebel Pilot A-wing - Green Jumpsuit with Dark Bluish Gray Vest	2026	3.93
-65	Star Wars / Star Wars Episode 4/5/6	sw1506	R2-D2™ - SMART Play™ Tag on Back	?	4.7
+65	Star Wars / Star Wars Episode 4/5/6	sw1506	R2-D2™ - SMART Play™ Tag on Back	2026	4.7
 65	Star Wars / Star Wars Episode 4/5/6	sw1511	Sandtrooper™ - Plastic Pauldron, Dirt Stains	2026	4.5
 65	Star Wars / Star Wars Episode 4/5/6	sw1512	Obi-Wan Kenobi™ - SMART Play™	2026	3.54
 65	Star Wars / Star Wars Episode 4/5/6	sw1513	Greedo™ - SMART Play™	2026	3.41
-67	Town / City / Police	cty1986	Police - City Bandit Crook Male, White Vest, Medium Nougat Wavy Hair, Sideburns, Orange Glasses	?	3.64
+67	Town / City / Police	cty1986	Police - City Bandit Crook Male, White Vest, Medium Nougat Wavy Hair, Sideburns, Orange Glasses	2026	3.64
 67	Town / City / Police	cty1987	Police - City Bandit Crook Female, Black Tuxedo with Red Tie, Black Legs, Black Long Hair	?	3.76
 67	Town / City / Police	cty1988	Police - City Detective Female, Reddish Brown Jacket, Black Legs, Bright Light Yellow Hair	?	3.9
 67	Town / City / Police	cty1989	Police - City Officer Male, Black Safety Vest with Silver Star Badge Logo, Dark Blue Legs, Black Coiled Hair	?	3.41
 67	Town / City / Police	cty1990	Police - City Officer Female, Neon Yellow Safety Vest, Dark Blue Legs, Dark Orange Mid Length Hair, Closed Mouth Smile	?	3.68
 67	Town / City / Police	cty1991	Police - City Jail Prisoner Male, Orange Prison Jumpsuit, Dark Brown Hair and Sideburns	?	3.6
 65	Star Wars / Star Wars Episode 4/5/6	sw1514	Imperial Scout Trooper - Male, Dual Molded Helmet, Belt with Small Dots, Light Nougat Head, Dark Brown Eyebrows, Frown	2026	4.3
+1306	The Legend of Zelda	loz005	Princess Zelda - Lavender Dress	2026	4.7
+1306	The Legend of Zelda	loz006	Ganondorf	2026	5.1
+842	SPEED CHAMPIONS	sc145	F1 ACADEMY LEGO Driver	2026	3.94
+166	Educational & Dacta	edu024	Arctic Photographer - Dark Blue Jacket and Legs, Coral Sleeves, Dark Brown Hair	?	3.57
+166	Educational & Dacta	edu025	Arctic Explorer - Female, Coral and Dark Blue Outfit, Orange Lifevest, Dark Orange Hair, Dark Blue Hat	?	4.09
+771	Friends	frnd0892	Friends Valeria - White Shirt with Hearts and Bones, Magenta Trousers, Dark Blue Boots, Dark Orange Hair	?	2.76
