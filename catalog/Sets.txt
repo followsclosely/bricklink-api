@@ -3390,7 +3390,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO / Basic Set	3049-1	XL Idea Bucket	2000	?	? x ? x ?
 167	DUPLO / DUPLO, Town / Fire	3083-1	Flying Action	2001	?	? x ? x ?
 167	DUPLO / DUPLO, Town / Race	3085-1	Race Action	2001	1301	48 x 38.5 x 9.2
-167	DUPLO / DUPLO, Town / Circus	3087-1	The Circus Princess	2001	?	? x ? x ?
+167	DUPLO / DUPLO, Town / Circus	3087-1	The Circus Princess	2001	141	19 x 14 x 7
 167	DUPLO / DUPLO, Town / Recreation	3088-1	Growing Garden	2001	?	? x ? x ?
 167	DUPLO / DUPLO, Town / Recreation	3089-1	Adventure Trip	2001	?	? x ? x ?
 167	DUPLO / DUPLO, Town / Recreation	3090-1	Forest Picnic	2001	714	38 x 28.2 x 9
@@ -5017,7 +5017,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 437	Explore / Explore Together / DUPLO / DUPLO, Town / Fire	3657-1	Fire Fighters	2003	?	? x ? x ?
 437	Explore / Explore Together / DUPLO / DUPLO, Town / Police	3656-1	Police Action	2003	?	? x ? x ?
 437	Explore / Explore Together / DUPLO / DUPLO, Town / Fire	3655-1	Fire Action	2003	?	? x ? x ?
-273	BIONICLE	1441-1	Fikou (Tree-Spider) polybag	2003	17.8	? x ? x ?
+273	BIONICLE / Promotional	1441-1	Fikou (Tree-Spider) polybag	2003	17.8	? x ? x ?
 437	Explore / Bob The Builder / DUPLO	65177-1	DUPLO Bundle Pack, Bob the Builder (Copack of Sets 3272, 3273, 3278, 3279, 3281, 3282, and 3283)	2002	3500	78 x 58 x 10
 976	LEGO Brand / LEGOLAND Parks	LLBUS-1	Bus (LEGOLAND Deutschland)	2002	90	? x ? x ?
 67	Town / Classic Town / Fire	640-2	Fire Truck and Trailer	1978	?	? x ? x ?
@@ -5064,7 +5064,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 63	Service Packs / Castle	15-1	Castle Mini Figures	1984	?	? x ? x ?
 273	BIONICLE / Rahkshi	K8587-1	Rahkshi Set (Panrahk and Kurahk)	2003	401	? x ? x ?
 478	Bulk Bricks	3508-1	1 x 4 x 5 Black Window Frame with Blue Pane	2001	50	? x ? x ?
-478	Bulk Bricks	3448-1	1 x 4 x 5 Black Window Frames with Clear Panes	2000	?	? x ? x ?
+478	Bulk Bricks	3448-1	1 x 4 x 5 Black Window Frames with Clear Panes	2000	48	13.3 x 14 x 1.2
 478	Bulk Bricks	3449-1	1 x 4 x 6 Black Door Frame with Transparent Blue Panes	2000	32.54	17.3 x 16.7 x 1
 277	LEGOLAND / Castle	00-1	Weetabix Castle	1970	?	? x ? x ?
 395	Samsonite / Model Maker / Construction	248-2	Factory with Conveyor Belt	1971	?	? x ? x ?
@@ -6749,18 +6749,18 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Police / Games	851848-1	Tic Tac Toe	2006	335	27.5 x 13.5 x 3
 67	Town / City / Games	851847-1	Ludo	2006	1535	32.2 x 32.2 x 4.7
 423	Classic / Town Plan	200A-1	Town Plan Wooden Board	1957	?	? x ? x ?
-273	BIONICLE	6934-1	Good Guy {Scandinavian Disney Promotional} polybag	2006	34	13 x 12 x 2
+273	BIONICLE / Promotional	6934-1	Good Guy {Scandinavian Disney Promotional} polybag	2006	34	13 x 12 x 2
 171	Creator / Supplemental	6112-1	World of Bricks	2006	1518	28.1 x 28.9 x 16.5
 422	Universal Building Set / Classic Basic	4249-1	Basic Suitcase	2000	?	? x ? x ?
 395	Samsonite / Town Plan	246-1	Town Plan Board	1961	603	? x ? x ?
 179	Racers / Radio Control	8369-2	Dirt Crusher RC (Blue)	2005	?	? x ? x ?
 422	Universal Building Set / Basic Set	1965-1	Basic Building Set	1985	70	11.5 x 7 x 5.5
 9	Castle / Knights Kingdom II	65580-1	Knights' Kingdom Value Pack 8772 and 8774 with Foam Helmet	2004	575	? x ? x ?
-273	BIONICLE	6935-1	Bad Guy {Scandinavian Disney Promotional} polybag	2006	34	? x ? x ?
+273	BIONICLE / Promotional	6935-1	Bad Guy {Scandinavian Disney Promotional} polybag	2006	34	? x ? x ?
 273	BIONICLE / Titans	K8764-1	Warriors of Voya Nui Collection	2006	1432	? x ? x ?
 423	Classic / Town Plan / Police	271-2	Traffic Police Set	1958	?	? x ? x ?
 486	Designer Sets / Airport	4882-2	Speed Wings - ANA version	2004	?	? x ? x ?
-277	LEGOLAND / Police	628-2	Police Helicopter	1977	?	? x ? x ?
+277	LEGOLAND / Police	628-2	Police Helicopter	1977	?	11.5 x 7 x 3.7
 36	Technic / Model / Fire	8289-1	Fire Truck	2006	1823	47.4 x 38 x 6.7
 59	MINDSTORMS / NXT	8529-1	Connector Cables for Mindstorms NXT	2006	79	? x ? x ?
 59	MINDSTORMS / NXT	8528-1	Converter Cables for Mindstorms NXT	2006	37	14.6 x 10.7 x 1.1
@@ -6774,7 +6774,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 54	Aquazone / Aquaraiders II	7770-1	Deep Sea Treasure Hunter	2007	96	14.3 x 14.3 x 4.7
 568	Exo-Force	7713-1	Bridge Walker vs. White Lightning	2006	1290	47.5 x 38 x 6.7
 516	4 Juniors / Pirates	7075-2	Captain Redbeard's Pirate Ship - Limited Edition with Motor	2004	?	? x ? x ?
-273	BIONICLE	7216-1	Gold Good Guy (Duracell 8 pack AA) {Turaga Lhikan}	2006	?	? x ? x ?
+273	BIONICLE / Promotional	7216-1	Gold Good Guy (Duracell 8 pack AA) {Turaga Lhikan}	2006	?	? x ? x ?
 394	Minitalia	3-6	Medium House Set	1970	320	31.5 x 22.5 x 4.7
 390	Holiday & Event / Christmas	4169306A-1	Christmas Tree Ornament	2005	?	? x ? x ?
 390	Holiday & Event / Christmas	4169306B-1	Snowman Ornament	2005	?	? x ? x ?
@@ -6814,14 +6814,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 63	Service Packs / Train	1239-2	Remote Control for Electric Points	1985	100	? x ? x ?
 166	Educational & Dacta / Service Packs	1327-1	Red/Black Plates	1985	?	? x ? x ?
 167	DUPLO / Basic Set	5480-1	Town Building	2006	1070	28.5 x 29 x 11
-273	BIONICLE	7217-1	Bad Guy (Duracell 12 pack AA Battery Promotion) {Braca}	2006	?	? x ? x ?
+273	BIONICLE / Promotional	7217-1	Bad Guy (Duracell 12 pack AA Battery Promotion) {Braca}	2006	?	? x ? x ?
 167	DUPLO / Western / Indians	2838-1	Big Chief's Family	1998	826	24 x 9.5 x 28.5
 273	BIONICLE / Toa Hordika	66138-1	Toa Hordika Collection	2005	?	? x ? x ?
 166	Educational & Dacta / Universal Building Set	951178-1	Basic Bricks	1987	?	? x ? x ?
 36	Technic / Competition	8483-1	CyberMaster with Storage Case	1998	?	38 x 37 x 11.5
 171	Creator / Basic Set	5491-1	XXL 2000 Barrel	2006	?	? x ? x ?
 545	FIRST LEGO League	9763-1	FIRST LEGO League (FLL) Challenge 2006 - Nano Quest	2006	2221	39 x 30 x 15
-273	BIONICLE	7216-2	Gold Good Guy - Looking Left (Duracell 12 pack AA) {Turaga Lhikan}	2006	?	? x ? x ?
+273	BIONICLE / Promotional	7216-2	Gold Good Guy - Looking Left (Duracell 12 pack AA) {Turaga Lhikan}	2006	?	? x ? x ?
 179	Racers / Tiny Turbos	4949-1	Blue Buggy polybag	2006	20	14 x 14 x 1
 59	MINDSTORMS / NXT	MS1034-1	Compass Sensor for Mindstorms NXT	2006	26	7.8 x 5 x 3.2
 67	Town / Town Jr. / Fire	VP-7	Fire Value Pack (6554, 6407, 6564)	1997	?	385 x 385 x 6
@@ -6861,7 +6861,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO / Basic Set	1657-1	Bird	1990	79	14.5 x 9.5 x 6
 171	Creator / Model / Traffic	4939-1	Cool Cars	2007	310	28.5 x 19 x 5
 273	BIONICLE	65808-1	Toa Hordika Value Pack	2005	1110	? x ? x ?
-273	BIONICLE	7216-3	Gold Good Guy (Duracell 12 pack AA) {Turaga Lhikan}	2006	354	17.3 x 11.9 x 4.5
+273	BIONICLE / Promotional	7216-3	Gold Good Guy (Duracell 12 pack AA) {Turaga Lhikan}	2006	354	17.3 x 11.9 x 4.5
 490	Clikits	7215-1	Frame & Hairband polybag	2006	35	7 x 4 x 7
 390	Holiday & Event / Christmas	10106-1	Snowflake polybag	2006	76	? x ? x ?
 422	Universal Building Set / Airport	4038-1	Fun Flyer polybag	2003	44	14.5 x 16.8 x 1
@@ -6889,10 +6889,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 179	Racers / Tiny Turbos	K8130-1	Tiny Turbo III Collection	2007	370	? x ? x ?
 395	Samsonite / Basic Set	502-1	Deluxe Set with Storage Case	1968	?	? x ? x ?
 395	Samsonite / Supplemental	166-2	Vehicles Accessory Pack / Vehicle Extra Parts Kit	1971	?	? x ? x ?
-273	BIONICLE	7716-1	QUICK Good Guy White polybag	2006	39	? x ? x ?
+273	BIONICLE / Promotional	7716-1	QUICK Good Guy White polybag	2006	39	? x ? x ?
 171	Creator / Basic Model	K4915-1	Mini Pods Collection	2006	460	? x ? x ?
 423	Classic / Supplemental	1223-2	2 x 2 & 2 x 4 Curved Bricks	1955	?	8.7 x 6.4 x 2.5
-273	BIONICLE	8026-1	Kraatu	2004	30	? x ? x ?
 437	Explore / Explore Imagination / DUPLO / Basic Set	4087-1	Bucket XL Bunte Welte (Colorful World)	2002	?	? x ? x ?
 395	Samsonite / Basic Set	704-2	Master Discovery Set	1966	?	? x ? x ?
 67	Town / City / Traffic	7991-1	Recycle Truck	2007	342	28.5 x 19 x 5.6
@@ -7329,9 +7328,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 395	Samsonite / Basic Set	806-2	Cowboy & Pony	1964	?	? x ? x ?
 395	Samsonite / Basic Set	835-1	Advanced Builders Set	1966	?	40 x 20 x 5
 395	Samsonite / Town Plan	842-2	Town Plan	1969	?	? x ? x ?
-273	BIONICLE	7717-1	QUICK Bad Guy Green polybag	2006	36	14.7 x 19 x 2
-273	BIONICLE	7718-1	QUICK Bad Guy Yellow polybag	2006	39	? x ? x ?
-273	BIONICLE	7719-1	QUICK Good Guy Red polybag	2006	37	14.7 x 19 x 2
+273	BIONICLE / Promotional	7717-1	QUICK Bad Guy Green polybag	2006	36	14.7 x 19 x 2
+273	BIONICLE / Promotional	7718-1	QUICK Bad Guy Yellow polybag	2006	39	? x ? x ?
+273	BIONICLE / Promotional	7719-1	QUICK Good Guy Red polybag	2006	37	14.7 x 19 x 2
 423	Classic / Basic Set	600.1-1	Basic Set	1963	?	? x ? x ?
 395	Samsonite / Model Maker / Traffic	1-10	Mini-Wheel Model Maker No. 1	1971	?	? x ? x ?
 395	Samsonite / Basic Set	1-3	Velveeta Promotional Set No 1	1967	204.12	10 x 14.5 x 5.5
@@ -7658,7 +7657,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE	6946-1	Squid Launcher Function polybag	2007	35	? x ? x ?
 171	Creator / Basic Model / Creature	7871-1	Whale polybag	2007	26	13.7 x 13.5 x 1.5
 9	Castle / Fantasy Era / Games	852132-1	Tic Tac Toe	2007	318	27.5 x 13.5 x 3.3
-273	BIONICLE	7217-2	Bad Guy (Duracell 8 pack AA Battery Promotion) {Braca}	2006	?	? x ? x ?
+273	BIONICLE / Promotional	7217-2	Bad Guy (Duracell 8 pack AA Battery Promotion) {Braca}	2006	?	? x ? x ?
 983	Promotional	shell98small-1	Shell 1998 Promotional Sets (Complete Set)	1998	?	? x ? x ?
 166	Educational & Dacta / DUPLO / Basic Set	9987-1	DUPLO Basic Bucket	1991	?	? x ? x ?
 167	DUPLO / Mosaic	4514950-1	Puzzle - It's Zoo Time	2007	246	? x ? x ?
@@ -8131,7 +8130,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 166	Educational & Dacta / Service Packs / Special Element Sets	9914-1	Set Specific Elements for Amusement Park Set	?	?	? x ? x ?
 166	Educational & Dacta / Service Packs	970001-1	Small White Bands (Pack of 25)	?	?	? x ? x ?
 166	Educational & Dacta / Service Packs	970002-1	Large White Bands (Pack of 25)	?	?	? x ? x ?
-273	BIONICLE	6937-1	Give Away	2006	?	? x ? x ?
+273	BIONICLE / Promotional	6937-1	Give Away	2006	?	? x ? x ?
 422	Universal Building Set / Basic Model	lmg003-2	Japan Ostrich Yellow Label Version	2006	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	7724-2	Advent Calendar 2008, City (Day  1) - Minifigure and Drumstick	2008	4.3	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	7724-3	Advent Calendar 2008, City (Day  2) - Barbecue	2008	8.8	? x ? x ?
@@ -11664,7 +11663,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 746	Collectible Minifigures / Series 12 Minifigures	6059291-1	Minifigure, Series 12 (Box of 60)	2014	912	? x ? x ?
 976	LEGO Brand / LEGO Facilities	4000016-1	Billund Airport	2014	316	26 x 14 x 4.7
 768	Super Heroes / Super Heroes Other	5002125-1	Electro polybag	2014	6	14 x 14 x 0.7
-273	BIONICLE	comcon042-1	Tahu Mask - New York Comic-Con 2014 Exclusive blister pack	2014	21	10.2 x 14.5 x 2.5
+273	BIONICLE / Promotional	comcon042-1	Tahu Mask - New York Comic-Con 2014 Exclusive blister pack	2014	21	10.2 x 14.5 x 2.5
 787	LEGENDS OF CHIMA	66491-1	LEGENDS OF CHIMA Bundle Pack, Super Pack 5 in 1 (Sets 70126, 70128, 70129, 70130, and 70131)	2014	1703	58 x 37.4 x 8.4
 976	LEGO Brand / LEGO Brand Store / Grand Opening	Flatiron-1	LEGO Store Grand Opening Exclusive Set, Flatiron District, New York, NY blister pack	2014	?	? x ? x ?
 801	Minecraft	21113-1	The Cave	2014	418	26 x 19.5 x 7
@@ -11802,7 +11801,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO / DUPLO, Town / Farm	10615-1	My First Tractor	2015	321	26 x 14 x 9
 167	DUPLO / Disney / Disney Princess	10596-1	Disney Princess Collection	2015	910	38 x 26 x 9
 167	DUPLO	10586-1	Ice Cream Truck	2015	322	20.5 x 19 x 9
-273	BIONICLE	70790-1	Lord of Skull Spiders	2015	205	17.8 x 22 x 4.5
+273	BIONICLE / Skull Army	70790-1	Lord of Skull Spiders	2015	205	17.8 x 22 x 4.5
 273	BIONICLE / Masters	70788-1	Kopaka Master of Ice	2015	268	19 x 25 x 4.5
 273	BIONICLE / Masters	70787-1	Tahu Master of Fire	2015	258	19 x 25 x 4.5
 273	BIONICLE / Masters	70786-1	Gali Master of Water	2015	211	17 x 22 x 4.5
@@ -12189,7 +12188,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Monthly Model	40128-1	Monthly Mini Model Build Set - 2015 03 March, Robot polybag	2015	31	? x ? x ?
 746	Collectible Minifigures / The Simpsons / The Simpsons Series 2	71009-1	Minifigure, The Simpsons, Series 2 (Complete Random Set of 1 Minifigure)	2015	12	8.8 x 11.8 x 1.5
 976	LEGO Brand / LEGO Brand Store / Model	40145-1	LEGO Store	2015	502	26.2 x 14.1 x 9.1
-273	BIONICLE	comcon043-1	Tahu Mask - New York Comic Con 2014 VIP Event Exclusive blister pack	2014	21	10.2 x 14.5 x 2.5
+273	BIONICLE / Promotional	comcon043-1	Tahu Mask - New York Comic Con 2014 VIP Event Exclusive blister pack	2014	21	10.2 x 14.5 x 2.5
 771	Friends	561504-1	Mini Party foil pack	2015	11.9	12 x 15 x 1
 166	Educational & Dacta / Service Packs	5003228-2	StoryStarter Details Replacement Pack (33 element version)	2013	?	? x ? x ?
 166	Educational & Dacta / Service Packs	5003227-2	StoryStarter Props Replacement Pack (29 element version)	2013	?	? x ? x ?
@@ -12356,10 +12355,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Model / Construction	42042-1	Crawler Crane	2015	2238	58 x 37.5 x 8.5
 36	Technic / Model / Airport	42040-1	Fire Plane	2015	1119	38 x 26.5 x 6.5
 273	BIONICLE	70795-1	Mask Maker vs. Skull Grinder	2015	418	22 x 26 x 6
-273	BIONICLE	70791-1	Skull Warrior	2015	180	17 x 22 x 4.5
-273	BIONICLE	70794-1	Skull Scorpio	2015	190	17 x 22 x 4.5
-273	BIONICLE	70792-1	Skull Slicer	2015	181	17.5 x 22.5 x 4.5
-273	BIONICLE	70793-1	Skull Basher	2015	195	17 x 22 x 4.5
+273	BIONICLE / Skull Army	70791-1	Skull Warrior	2015	180	17 x 22 x 4.5
+273	BIONICLE / Skull Army	70794-1	Skull Scorpio	2015	190	17 x 22 x 4.5
+273	BIONICLE / Skull Army	70792-1	Skull Slicer	2015	181	17.5 x 22.5 x 4.5
+273	BIONICLE / Skull Army	70793-1	Skull Basher	2015	195	17 x 22 x 4.5
 817	LEGO Ideas (CUUSOO)	21302-1	The Big Bang Theory	2015	760	35 x 19 x 5.5
 422	Universal Building Set / Basic	2156-2	Car polybag	1999	?	? x ? x ?
 422	Universal Building Set / Basic	2155-2	Aircraft polybag	1999	?	? x ? x ?
@@ -12372,7 +12371,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 768	Super Heroes / Avengers Age of Ultron	comcon048-1	Throne of Ultron - San Diego Comic-Con 2015 Exclusive	2015	309	13.5 x 10.5 x 10
 395	Samsonite / Model Maker / Building	271-3	Mini House and Vehicles	1970	?	? x ? x ?
 976	LEGO Brand / LEGO Brand Store / Grand Opening	Essen-1	LEGO Store Grand Opening Exclusive Set, Essen, Germany blister pack	2012	?	? x ? x ?
-273	BIONICLE	comcon049-1	Skull Scorpio Mask - San Diego Comic-Con 2015 Exclusive blister pack	2015	21	10.2 x 14.5 x 2.5
+273	BIONICLE / Promotional	comcon049-1	Skull Scorpio Mask - San Diego Comic-Con 2015 Exclusive blister pack	2015	21	10.2 x 14.5 x 2.5
 65	Star Wars / Mini / Star Wars Episode 4/5/6	Swmagpromo-1	X-wing - Mini foil pack	2015	10	10 x 14 x 1
 976	LEGO Brand / LEGO Brand Store / Pick-a-Model	3850001-1	LEGO Brand Store Pick-a-Model - Crocodile blister pack	2015	?	23 x 16.5 x 3
 976	LEGO Brand / LEGO Brand Store / Pick-a-Model	3850004-1	LEGO Brand Store Pick-a-Model - Biplane blister pack	2015	?	23 x 16.5 x 3
@@ -12727,20 +12726,20 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 171	Creator / Model / Building	31050-1	Corner Deli	2016	755	38 x 26 x 5.5
 171	Creator / Model / Building	31048-1	Lakeside Lodge	2016	610	35 x 18.8 x 5.5
 171	Creator / Model / Airport	31047-1	Propeller Plane	2016	421	26 x 19 x 5.8
-273	BIONICLE	71302-1	Akida Creature of Water	2016	152	14 x 19.3 x 5.3
+273	BIONICLE / Elemental Creatures	71302-1	Akida Creature of Water	2016	152	14 x 19.3 x 5.3
 167	DUPLO	10805-1	Around the World	2016	2743	? x ? x ?
 629	Architecture	21031-1	Burj Khalifa	2016	499	18.8 x 26.9 x 6
 868	NEXO KNIGHTS	70311-1	Chaos Catapult	2016	124	14 x 12 x 4.3
 67	Town / City / Police	60131-1	Crooks Island	2016	516	28 x 25.8 x 5.7
-273	BIONICLE	71307-1	Gali Uniter of Water	2016	203	18 x 22 x 5.7
+273	BIONICLE / Toa Uniters	71307-1	Gali Uniter of Water	2016	203	18 x 22 x 5.7
 167	DUPLO / DUPLO, Town / Farm	10806-1	Horses	2016	312	? x ? x ?
 167	DUPLO / DUPLO, Town / Recreation	10807-1	Horse Trailer	2016	562	? x ? x ?
-273	BIONICLE	71303-1	Ikir Creature of Fire	2016	142	14 x 19.3 x 5.3
+273	BIONICLE / Elemental Creatures	71303-1	Ikir Creature of Fire	2016	142	14 x 19.3 x 5.3
 868	NEXO KNIGHTS	70316-1	Jestro's Evil Mobile	2016	934	48 x 28 x 6
-273	BIONICLE	71301-1	Ketar Creature of Stone	2016	144	14 x 19.3 x 5.3
+273	BIONICLE / Elemental Creatures	71301-1	Ketar Creature of Stone	2016	144	14 x 19.3 x 5.3
 868	NEXO KNIGHTS	70310-1	Knighton Battle Blaster	2016	111.6	14 x 12.1 x 4.5
 273	BIONICLE	71311-1	Kopaka and Melum - Unity Set	2016	341	23.6 x 25 x 5.6
-273	BIONICLE	71305-1	Lewa Uniter of Jungle	2016	199	18 x 22 x 5.7
+273	BIONICLE / Toa Uniters	71305-1	Lewa Uniter of Jungle	2016	199	18 x 22 x 5.7
 167	DUPLO / Disney / Disney Junior / Mickey Mouse Clubhouse	10829-1	Mickey's Workshop	2016	417	26 x 19 x 9
 167	DUPLO / Disney / Disney Junior / Miles From Tomorrowland	10824-1	Miles' Space Adventures	2016	345	26 x 22 x 5.9
 167	DUPLO / Disney / Disney Junior / Miles From Tomorrowland	10826-1	Miles' Stellosphere Hanger	2016	820	38 x 26 x 9
@@ -12749,17 +12748,17 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO	10831-1	My First Caterpillar	2016	329	26 x 14 x 9
 167	DUPLO / DUPLO, Town / Recreation	10819-1	My First Garden	2016	601	? x ? x ?
 167	DUPLO	10815-1	My First Rocket	2016	355	20.4 x 19 x 9
-273	BIONICLE	71309-1	Onua Uniter of Earth	2016	284	19 x 25 x 5.5
+273	BIONICLE / Toa Uniters	71309-1	Onua Uniter of Earth	2016	284	19 x 25 x 5.5
 878	Disney / Disney Princess / Whisker Haven Tales	41142-1	Palace Pets Royal Castle	2016	328.1	19.5 x 19 x 6.5
-273	BIONICLE	71306-1	Pohatu Uniter of Stone	2016	204	18 x 22 x 5.7
+273	BIONICLE / Toa Uniters	71306-1	Pohatu Uniter of Stone	2016	204	18 x 22 x 5.7
 67	Town / City / Police	60130-1	Prison Island	2016	1899	48 x 37.5 x 9
-273	BIONICLE	71308-1	Tahu Uniter of Fire	2016	264	19 x 25 x 5.5
-273	BIONICLE	71304-1	Terak Creature of Earth	2016	143	14 x 19.3 x 5.3
+273	BIONICLE / Toa Uniters	71308-1	Tahu Uniter of Fire	2016	264	19 x 25 x 5.5
+273	BIONICLE / Elemental Creatures	71304-1	Terak Creature of Earth	2016	143	14 x 19.3 x 5.3
 868	NEXO KNIGHTS	70317-1	The Fortrex	2016	1791	47.5 x 37 x 9
 868	NEXO KNIGHTS	70327-1	The King's Mech	2016	475	26 x 22 x 5.8
 868	NEXO KNIGHTS	70332-1	Ultimate Aaron	2016	97	14 x 24 x 5
-273	BIONICLE	71310-1	Umarak the Hunter	2016	278	19 x 25 x 5.5
-273	BIONICLE	71300-1	Uxar Creature of Jungle	2016	144	14.5 x 19.2 x 5.2
+273	BIONICLE / Shadow Horde	71310-1	Umarak the Hunter	2016	278	19 x 25 x 5.5
+273	BIONICLE / Elemental Creatures	71300-1	Uxar Creature of Jungle	2016	144	14.5 x 19.2 x 5.2
 771	Friends	41120-1	Adventure Camp Archery	2016	136	15.5 x 14 x 4.5
 878	Disney / Disney Princess / Whisker Haven Tales	41069-1	Treasure's Day at the Pool	2016	83	12 x 9 x 4.5
 771	Friends	41121-1	Adventure Camp Rafting	2016	499	28.2 x 26.2 x 5.8
@@ -12913,7 +12912,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO	40167-1	My First Duplo Starter Set polybag	2016	70	19 x 19 x 4
 868	NEXO KNIGHTS	5004389-1	Battle Station	2016	74	13 x 7 x 4.5
 171	Creator / Basic Set	4250-1	Medium Creator Box	2001	?	29 x 9.5 x 24
-273	BIONICLE	biomask-1	Exclusive Gali Mask - 2015 LEGO Inside Tour Bionicle Event	2015	?	? x ? x ?
+273	BIONICLE / Promotional	biomask-1	Exclusive Gali Mask - 2015 LEGO Inside Tour Bionicle Event	2015	?	? x ? x ?
 759	NINJAGO / Skybound	891610-1	Clouse foil pack	2016	6.32	9.7 x 14 x 1.5
 166	Educational & Dacta / MINDSTORMS / EV3	5003480-1	EV3 Homeschool Combo Pack	2016	?	? x ? x ?
 166	Educational & Dacta / MINDSTORMS / EV3	5003479-1	EV3 Homeschool with Design Engineering Projects Pack	2016	?	? x ? x ?
@@ -13148,7 +13147,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Volcano Explorers	60124-1	Volcano Exploration Base	2016	1844	47.8 x 37.3 x 8.8
 809	Juniors / Super Heroes / Batman II	10724-1	Batman & Superman vs. Lex Luthor	2016	368	26.1 x 19 x 5.8
 759	NINJAGO / Day of the Departed	70595-1	Ultra Stealth Raider	2016	1762	48 x 37.5 x 9
-273	BIONICLE	71313-1	Lava Beast	2016	246	18 x 22 x 5.5
+273	BIONICLE / Shadow Horde	71313-1	Lava Beast	2016	246	18 x 22 x 5.5
 759	NINJAGO / Day of the Departed	70596-1	Samurai X Cave Chaos	2016	2435	58 x 37.5 x 10
 759	NINJAGO / Skybound	70594-1	The Lighthouse Siege	2016	1297	35 x 37.5 x 9
 759	NINJAGO / Skybound	70593-1	The Green NRG Dragon	2016	804	48 x 28 x 6
@@ -13165,10 +13164,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 868	NEXO KNIGHTS	70337-1	Ultimate Lance	2016	99	14 x 23.7 x 5
 868	NEXO KNIGHTS	70338-1	Ultimate General Magmar	2016	99	14 x 23.5 x 5.2
 868	NEXO KNIGHTS	70339-1	Ultimate Flama	2016	97	14 x 23.5 x 5.2
-273	BIONICLE	71314-1	Storm Beast	2016	242	18 x 22 x 5.5
+273	BIONICLE / Shadow Horde	71314-1	Storm Beast	2016	242	18 x 22 x 5.5
 273	BIONICLE	71312-1	Ekimu the Mask Maker	2016	254	18 x 22 x 5.5
-273	BIONICLE	71315-1	Quake Beast	2016	252.5	18 x 22 x 5.5
-273	BIONICLE	71316-1	Umarak the Destroyer	2016	412	23.5 x 35 x 5.5
+273	BIONICLE / Shadow Horde	71315-1	Quake Beast	2016	252.5	18 x 22 x 5.5
+273	BIONICLE / Shadow Horde	71316-1	Umarak the Destroyer	2016	412	23.5 x 35 x 5.5
 860	Dimensions / Promotional / Super Heroes	71342-1	Green Arrow polybag	2016	10	13.7 x 13.7 x 1
 65	Star Wars / Star Wars Rebels	75158-1	Rebel Combat Frigate	2016	1465	48 x 37.5 x 8
 768	Super Heroes / Captain America Civil War	76067-1	Tanker Truck Takedown	2016	503	35 x 19.5 x 6
@@ -18511,7 +18510,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Chinese New Year	5007587-1	LEGO Brand Store Exclusive Build - LNY23 4in1 and Lion Dance	2023	98	17.6 x 29.5 x 1
 850	Jurassic World	122326-1	Raptor with Trap paper bag #1	2023	14	12 x 13.7 x 1
 768	Super Heroes / Spider-Man	682303-1	Miles Morales paper bag #1	2023	9	12 x 15 x 1
-273	BIONICLE	40581-1	BIONICLE Tahu and Takua	2023	225	14 x 19 x 6
+273	BIONICLE / Promotional	40581-1	BIONICLE Tahu and Takua	2023	225	14 x 19 x 6
 1108	Explorer	11975-1	Tractor polybag	2023	19	14 x 14 x 1.7
 65	Star Wars / Star Wars The Clone Wars	912302-1	Bo-Katan Kryze paper bag	2023	9.5	12 x 15 x 1.5
 759	NINJAGO / Crystalized	892302-1	Golden Dragon Jay paper bag	2023	17.2	12 x 15 x 1.5
@@ -20672,7 +20671,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1122	Botanicals	10373-1	Mini Bonsai Trees	2025	535	28 x 26 x 6
 171	Creator / Model / Creature	31171-1	Majestic Rhino	2025	1144	26 x 38 x 7
 983	Promotional	40784-1	African Savanna Diorama	2025	279.4	26 x 18.8 x 4.5
-390	Holiday & Event	40811-1	Altar of the Dead	2025	260	19 x 14 x 6
+390	Holiday & Event	40811-1	Altar of the Dead	2025	273	19 x 14 x 6
 390	Holiday & Event / Halloween	40822-1	Jack-O'-Lantern Pickup Truck	2025	190.6	15.5 x 14 x 6
 390	Holiday & Event / Halloween	40825-1	Halloween Wreath	2025	623	28.5 x 25.5 x 5.5
 171	Creator / Model	40805-1	Arcade Machine	2025	729	22 x 26 x 9.6
@@ -21032,7 +21031,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 759	NINJAGO / Dragons Rising Season 3	112507-1	Rogue vs. Zarkt metal box	2025	65	12.5 x 9 x 2
 390	Holiday & Event / Christmas	5009614-1	Skaters in the Park {Barnes & Noble Promotional}	2025	246	14.7 x 14.7 x 4.4
 759	NINJAGO / Legacy / The Golden Weapons	71858-1	Four Weapons Blacksmith	2026	1706	45.6 x 28 x 8.6
-759	NINJAGO / Dragons Rising Season 4	71853-1	Jay's Dragon Mech Fight	2026	?	? x ? x ?
+759	NINJAGO / Dragons Rising Season 4	71853-1	Jay's Dragon Mech Fight	2026	267	26 x 19 x 4.4
 67	Town / City / Police	60508-1	Police Train Heist	2026	2718	55.3 x 37.5 x 10
 759	NINJAGO / Legacy / Secrets of the Forbidden Spinjitzu	71860-1	Lloyd's Titan Mech	2026	1607	35 x 37.5 x 9
 878	Disney / Up	43290-1	Kevin & Dug	2026	664	26.1 x 28.4 x 5.8
@@ -21112,23 +21111,23 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 746	Collectible Minifigures / Series 28 Minifigures	col28-11	Lion Costume Fan, Series 28 (Complete Set with Stand and Accessories)	2026	18.32	9.35 x 10.65 x 2.5
 746	Collectible Minifigures / Series 28 Minifigures	col28-12	Parrot Costume Fan, Series 28 (Complete Set with Stand and Accessories)	2026	20.12	9.35 x 10.65 x 2.5
 878	Disney / Disney Princess / The Little Mermaid	30720-1	Ariel & Flounder's Birthday Music Fun paper bag	2026	31	17 x 18 x 2
-878	Disney / Disney Princess / Frozen	43281-1	Elsa's Ice Castle & Snow Ride Adventure	2026	646	28 x 26 x 5.9
+878	Disney / Disney Princess / Frozen	43281-1	Elsa's Ice Castle & Snow Ride Adventure	2026	632	28 x 26 x 5.9
 878	Disney / Disney Princess / Frozen	43284-1	Mini Anna & Elsa	2026	110.8	13.9 x 12 x 4.5
 878	Disney / Disney Princess / The Little Mermaid	43285-1	Ariel's Magical Mini Palace	2026	319.9	20.1 x 18.9 x 6
 878	Disney / The Aristocats	43286-1	The Aristocats Adorable Marie	2026	480	26 x 19 x 7
 878	Disney / Disney Princess / Frozen	43287-1	Olaf and Bruni's Picnic Fun	2026	676	26 x 22 x 9.3
-878	Disney / The Nightmare Before Christmas	43288-1	Sally's Flowerpot	2026	?	? x ? x ?
-878	Disney / Disney Princess	43291-1	Mini Belle & Tiana with Castle	2026	688	28 x 26 x 7.2
+878	Disney / The Nightmare Before Christmas	43288-1	Sally's Flowerpot	2026	490	26 x 28 x 5.8
+878	Disney / Disney Princess	43291-1	Mini Belle & Tiana with Castle	2026	688	28.1 x 26.1 x 7.6
 878	Disney / Disney Princess	43303-1	Mini Jasmine & Rapunzel	2026	105.6	14 x 12 x 4.5
-167	DUPLO / Super Heroes / Spidey and his Amazing Friends	10463-1	Dinosaur Spidey-Rex vs. Green Goblin	2026	?	? x ? x ?
-167	DUPLO / Disney / Disney Junior / Mickey Mouse Clubhouse	10465-1	Mickey Mouse Clubhouse with Minnie & Pluto	2026	?	? x ? x ?
+167	DUPLO / Super Heroes / Spidey and his Amazing Friends	10463-1	Dinosaur Spidey-Rex vs. Green Goblin	2026	450	26 x 19 x 11.5
+167	DUPLO / Disney / Disney Junior / Mickey Mouse Clubhouse	10465-1	Mickey Mouse Clubhouse with Minnie & Pluto	2026	1355	44.9 x 27.8 x 11.7
 167	DUPLO / DUPLO, Town	10470-1	3 in 1 Modern Family House with Figures	2026	?	? x ? x ?
 167	DUPLO / DUPLO, Town / Police	10471-1	Blue Police Motorcycle	2026	179	19.1 x 14.1 x 6.1
-167	DUPLO / DUPLO, Town / Fire	10473-1	Fire Truck with Hose and Firefighter	2026	?	? x ? x ?
+167	DUPLO / DUPLO, Town / Fire	10473-1	Fire Truck with Hose and Firefighter	2026	608	28.3 x 26 x 9.5
 167	DUPLO	10474-1	My First Creative Vehicles	2026	642	28.3 x 26 x 9.5
-167	DUPLO / DUPLO, Town / Construction	10475-1	3 in 1 Construction Vehicles	2026	657.7	? x ? x ?
+167	DUPLO / DUPLO, Town / Construction	10475-1	3 in 1 Construction Vehicles	2026	657.7	28.3 x 26.1 x 9.5
 167	DUPLO / DUPLO, Town / Construction	10476-1	3 in 1 Construction Site and Vehicles	2026	?	? x ? x ?
-167	DUPLO / Basic Set	10477-1	3 in 1 My First Creative Cute Pets	2026	?	? x ? x ?
+167	DUPLO / Basic Set	10477-1	3 in 1 My First Creative Cute Pets	2026	387	26 x 19 x 9
 167	DUPLO / Basic Set	30712-1	Celebration Cake paper bag	2026	75	20 x 20 x 4.5
 771	Friends	30721-1	Flower Stand with Roses paper bag	2026	40	? x ? x ?
 771	Friends	30722-1	Garden Bunny House paper bag	2026	43	? x ? x ?
@@ -21156,7 +21155,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1203	Sonic the Hedgehog	77117-1	Sonic: Speedster Lightning	2026	182	19 x 14 x 6
 1203	Sonic the Hedgehog	77118-1	Silver's Car vs. Knuckles' Monster Truck	2026	475	25.9 x 18.8 x 7
 768	Super Heroes / Spidey and his Amazing Friends	11206-1	Spidey on his Motorcycle vs. Rhino	2026	163	19 x 14 x 4.5
-768	Super Heroes / Spidey and his Amazing Friends	11207-1	Spidey: Underwater Vehicles	2026	?	? x ? x ?
+768	Super Heroes / Spidey and his Amazing Friends	11207-1	Spidey: Underwater Vehicles	2026	366	26 x 19 x 6
 768	Super Heroes / Spidey and his Amazing Friends	11208-1	Team Spidey Pirate Ship	2026	643	26 x 22 x 4.5
 768	Super Heroes / Spider-Man	76337-1	Miles Morales Mech vs. Spider-Man 2099	2026	151	14 x 16 x 4.5
 768	Super Heroes / Spider-Man	76338-1	Mech Battle: Spider-Man vs. Doc Ock	2026	312	26 x 19 x 4.5
@@ -21233,9 +21232,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 801	Minecraft	30732-1	Alex's Campfire Conflict paper bag	2026	26	16.9 x 17.8 x 2.6
 1203	Sonic the Hedgehog	30733-1	Badnik: Skorp paper bag	2026	38	16.8 x 18 x 2.8
 1369	Pokémon	40892-1	Kanto Region Badge Collection	2026	446.3	25.8 x 18.8 x 5.8
-1369	Pokémon	40911-1	Mini Pokémon Center	2026	246	19 x 14 x 6
+1369	Pokémon	40911-1	Mini Pokémon Center {Pokemon}	2026	246	19 x 14 x 6
 1369	Pokémon	72151-1	Eevee	2026	702	28 x 25.8 x 7.3
-1369	Pokémon	72152-1	Pikachu and Poké Ball	2026	2844	37.5 x 47.5 x 10.8
+1369	Pokémon	72152-1	Pikachu and Poké Ball {Poke}	2026	2844	37.5 x 47.5 x 10.8
 1369	Pokémon	72153-1	Venusaur, Charizard and Blastoise	2026	9525	37.5 x 52 x 34.5
 65	Star Wars / Star Wars Ahsoka	L0002232-1	Night Trooper paper bag	2026	8.2	12 x 15 x 1.7
 768	Super Heroes / Spider-Man	L0002282-1	Venom with Mech paper bag	2026	22	12 x 15 x 1.5
@@ -21247,7 +21246,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1370	Education	45203-1	Arctic Animals Science Kit	2026	1720	53.5 x 27.8 x 8.7
 976	LEGO Brand / LEGO Brand Store / Build-A-Minifigure	bam2026-1	Build-a-Minifigure (BAM) 2026 Parts	2026	?	? x ? x ?
 759	NINJAGO / Dragons Rising Season 3	L0002199-1	Kur paper bag	2026	9	12 x 15 x 1.2
-1122	Botanicals	11503-1	Flower Wall	2026	882	25.9 x 37.9 x 6.9
+1122	Botanicals	11503-1	Flower Wall	2026	889	26.2 x 38.3 x 6.9
 842	SPEED CHAMPIONS	77259-1	Audi Revolut F1 Team R26	2026	264	25.9 x 13.8 x 4.6
 65	Star Wars / Star Wars Other	66808-1	Star Wars Bundle Pack, 2 in 1 with Bonus Set (Sets 30708, 75431, and 75435) - Epic Battle Set	2025	?	? x ? x ?
 65	Star Wars / Star Wars Episode 4/5/6	75420-1	SMART Play™: Luke's Landspeeder™	2026	361	25.8 x 18.8 x 4.5
@@ -21256,7 +21255,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars Episode 4/5/6	75425-1	SMART Play™: Mos Eisley Cantina™	2026	957.4	38 x 26 x 7
 65	Star Wars / Star Wars Episode 4/5/6	75426-1	SMART Play™: Millennium Falcon™	2026	1360	45.2 x 27.8 x 7
 1359	Editions	43019-1	Soccer Ball	2026	1681	37.7 x 35.1 x 9.2
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	11373-1	Sauron's Helmet	2026	753	? x ? x ?
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	11373-1	Sauron's Helmet	2026	753	18.9 x 35.1 x 9.1
 390	Holiday & Event / Valentine's Day	40886-1	Penguins in Love	2026	278	14 x 19 x 7
 983	Promotional	40906-1	Restaurants of the World: Japan	2026	348	20.3 x 18.8 x 6
 171	Creator / Creator Expert / Project Hail Mary	11389-1	Project Hail Mary	2026	1035	26.1 x 38.1 x 7
@@ -21270,16 +21269,16 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 759	NINJAGO / Dragons Rising Season 4	L0002200-1	Dragon Jay paper bag	2026	11	12 x 15 x 2
 878	Disney / Winnie The Pooh	43300-1	Winnie the Pooh	2026	1936	35.2 x 37.4 x 11.4
 1272	Art	31220-1	Claude Monet - Bridge over a Pond of Water Lilies	2026	3662	37.4 x 55.3 x 10.7
-903	BrickHeadz / Disney / Monsters, Inc.	40861-1	Sulley, Mike and Boo Figures	2026	?	? x ? x ?
+903	BrickHeadz / Disney / Monsters, Inc.	40861-1	Sulley, Mike and Boo Figures	2026	256	19 x 14 x 7
 903	BrickHeadz / Fortnite	40881-1	Supply Llama & Fishstick	2026	275.5	19.1 x 14 x 7
 171	Creator / Model / Creature	40885-1	Duck Family	2026	291	20.2 x 19 x 6
 1122	Botanicals	11510-1	Magnolia Branches	2026	?	? x ? x ?
 1122	Botanicals	11502-1	Sunflower Bouquet	2026	656	26 x 38 x 7
 878	Disney / Winnie The Pooh	43305-1	Piglet's Birthday Fun	2026	564	22.1 x 26 x 6.2
-167	DUPLO / Peppa Pig	10468-1	Tractor and Market	2026	?	? x ? x ?
+167	DUPLO / Peppa Pig	10468-1	Tractor and Market	2026	356	26.1 x 19 x 8.9
 167	DUPLO / Peppa Pig	10466-1	Train Ride with Grandpa Pig	2026	?	? x ? x ?
-167	DUPLO / Peppa Pig	10467-1	Family House	2026	?	? x ? x ?
-817	LEGO Ideas (CUUSOO)	21366-1	Floating Sea Otters	2026	1504.4	? x ? x ?
+167	DUPLO / Peppa Pig	10467-1	Family House	2026	1344	35.1 x 37.5 x 11.3
+817	LEGO Ideas (CUUSOO)	21366-1	Floating Sea Otters	2026	1504.4	38.5 x 26.2 x 11.7
 171	Creator / Creator Expert / Race	11375-1	Ferrari F2004 & Michael Schumacher	2026	1102	37.5 x 26 x 7
 34	Space / Classic Space	40921-1	Up-Scaled Blue Astronaut Minifigure	2026	1134	25.9 x 37.8 x 9
 171	Creator / Model / Traffic	40953-1	London Bus	2026	362	26 x 13.9 x 7
@@ -21290,8 +21289,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGOLAND Parks	40952-1	LEGOLAND Castle	2026	?	? x ? x ?
 36	Technic / Model / Airport	30736-1	White Seaplane paper bag	2026	65.1	? x ? x ?
 842	SPEED CHAMPIONS	30734-1	Mini F1 ACADEMY Car paper bag	2026	42.45	? x ? x ?
-1285	Animal Crossing	30731-1	Tom Nook and Flying Present paper bag	2026	?	? x ? x ?
+1285	Animal Crossing	30731-1	Tom Nook and Flying Present paper bag	2026	32	16.9 x 18 x 2.7
 1371	Crocs	40972-1	Crocs paper bag	2026	?	? x ? x ?
 771	Friends	L0002264-1	Cute Bunny with Bakery paper bag	2026	?	? x ? x ?
 65	Star Wars / Star Wars Episode 3	L0002233-1	Phase 2 Clone Pilot paper bag	2026	8	12 x 14.5 x 1.5
-903	BrickHeadz / Fortnite	40910-1	Beef Boss & Skye	2026	?	? x ? x ?
+903	BrickHeadz / Fortnite	40910-1	Beef Boss & Skye	2026	264	19 x 14 x 7
+1122	Botanicals	40916-1	Floral Picture Frame	2026	310	20.2 x 18.7 x 5.9
+976	LEGO Brand / LEGO Brand Store / Building Event / Star Wars	6626053-1	LEGO Brand Store Exclusive Build - Star Wars Lightsaber	2026	55	21.5 x 21.5 x 1.5
+801	Minecraft	L0002248-1	Hero with Blaze paper bag	2026	15	12 x 15 x 1.5

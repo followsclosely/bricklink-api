@@ -398,6 +398,7 @@ Category ID	Category Name
 122	Electric, Train
 735	Electric, Wire & Connector
 646	Electronics
+1376	Elemental Creatures
 843	Elves
 1168	Encanto
 994	Energy Effect
@@ -869,7 +870,9 @@ Category ID	Category Name
 1357	Series 28 Minifigures
 803	SERIOUS PLAY
 63	Service Packs
+1378	Shadow Horde
 1152	Shang-Chi
+1375	Skull Army
 950	Skybound
 1186	Sleeping Beauty
 999	Slide
@@ -1077,6 +1080,7 @@ Category ID	Category Name
 672	Toa Mahri
 673	Toa Metru
 674	Toa Nuva
+1377	Toa Uniters
 675	Tohunga
 1320	Tom and Jerry
 296	Toolo
