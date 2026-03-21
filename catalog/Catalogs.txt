@@ -577,7 +577,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 354	1979 / Scala	c79auscala	1979 Medium Scala Australian (104322/104422-AUS)	1979	?
 355	1980 / Scala	c80auscala	1980 Scala Australian (99.820-AUS)	1980	?
 355	1980 / Technic	c80eut	1980 Medium Technic European (106579/106679-EU III (UK/AUS/I))	1980	13
-355	1980	c80us2	1980 Medium US Assortment Guide (106917/107017-US)	1980	7
+355	1980	c80us2	1980 Medium US Assortment Guide Foldout (106917/107017-US)	1980	7
 355	1980 / Technic / Expert Builder	c80usex	1980 Medium Technic Expert Builder (106517/106617-US)	1980	8.2
 362	1987 / Educational & Dacta	c87dac	1987/1988 Medium DACTA (151383/151483)	1987	14
 372	1997 / FreeStyle	c97euF	1997 Medium FreeStyle European (4108476/4108477-EU)	1997	?
@@ -5076,3 +5076,4 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25ind1	2025 Large India January - June (India - 6543418)	2025	?
 1319	2025	c25tr1	2025 Large Turkish January - June (TR - 6543407, TR for CAT - 6543417)	2025	?
 1213	2022	c22ua1	2022 Large Ukrainian January - May (UA - 6395196)	2022	169
+1360	2026	c26de2	2026 Large German March - June (DE/A f/B.R.-batch 2 - 6605892 DE-AT - Batch 2 - 6605832 DE-AT FH Insert - Batch 2 - 6605836)	2026	186

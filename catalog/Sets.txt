@@ -1449,7 +1449,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / Divers	6560-1	Diving Expedition Explorer	1997	1707	47.5 x 38 x 9
 67	Town / Classic Town / Race	6561-1	Hot Rod Club	1994	440	28.7 x 19 x 5.8
 67	Town / Classic Town / Gas Station	6562-1	Gas Stop Shop	1995	382	28.5 x 19 x 4.5
-67	Town / Classic Town / Recreation	6563-1	Gator Landing	1996	?	33.5 x 24 x 4.7
+67	Town / Classic Town / Recreation	6563-1	Gator Landing	1996	472	33.5 x 24 x 4.7
 67	Town / Town Jr. / Traffic	6564-1	Recycle Truck	1997	96	14.3 x 9.5 x 5.8
 67	Town / Town Jr. / Construction	6565-1	Construction Crew	1997	188	24 x 14.2 x 4.6
 67	Town / Town Jr. / Traffic	6566-1	Bank	1997	360	23.8 x 18.9 x 5.9
@@ -4680,7 +4680,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / Race	kabrace-1	Race 4-Pack	2000	?	? x ? x ?
 62	Rock Raiders	kabrock-1	Rock Raiders 4-Pack	2000	201	? x ? x ?
 174	Studios	kabstud-1	Studios 4-Pack	2001	?	? x ? x ?
-478	Bulk Bricks	3445-1	2 x 4 Ridge Roof Tiles Steep Sloped Red	2000	?	? x ? x ?
+478	Bulk Bricks	3445-1	2 x 4 Ridge Roof Tiles Steep Sloped Red	2000	38	13.3 x 13.3 x 0.9
 478	Bulk Bricks	3456-1	2 x 2 Green Bricks	2000	?	? x ? x ?
 478	Bulk Bricks	3461-1	2 x 4 Green Bricks	2000	115	14 x 16 x 2.6
 478	Bulk Bricks	3466-1	2 x 8 Green Bricks	2000	119.5	? x ? x ?
@@ -6760,7 +6760,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE / Titans	K8764-1	Warriors of Voya Nui Collection	2006	1432	? x ? x ?
 423	Classic / Town Plan / Police	271-2	Traffic Police Set	1958	?	? x ? x ?
 486	Designer Sets / Airport	4882-2	Speed Wings - ANA version	2004	?	? x ? x ?
-277	LEGOLAND / Police	628-2	Police Helicopter	1977	?	11.5 x 7 x 3.7
+277	LEGOLAND / Police	628-2	Police Helicopter	1977	59	11.5 x 7 x 3.7
 36	Technic / Model / Fire	8289-1	Fire Truck	2006	1823	47.4 x 38 x 6.7
 59	MINDSTORMS / NXT	8529-1	Connector Cables for Mindstorms NXT	2006	79	? x ? x ?
 59	MINDSTORMS / NXT	8528-1	Converter Cables for Mindstorms NXT	2006	37	14.6 x 10.7 x 1.1
@@ -14196,7 +14196,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Advent Sub-Set / City	60155-3	Advent Calendar 2017, City (Day  2) - Snowboarder	2017	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	60155-4	Advent Calendar 2017, City (Day  3) - Fireplace	2017	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	60155-5	Advent Calendar 2017, City (Day  4) - Chair and Lamp	2017	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / City	60155-6	Advent Calendar 2017, City (Day  5) - Gingerbread House	2017	?	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / City	60155-6	Advent Calendar 2017, City (Day  5) - Gingerbread House	2017	2.95	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	60155-7	Advent Calendar 2017, City (Day  6) - Red Toy Airplane	2017	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	60155-8	Advent Calendar 2017, City (Day  7) - Sled	2017	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	60155-9	Advent Calendar 2017, City (Day  8) - Grandma	2017	5	2 x 5 x 2
@@ -14212,7 +14212,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Advent Sub-Set / City	60155-19	Advent Calendar 2017, City (Day 18) - Coast Guard Worker	2017	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	60155-20	Advent Calendar 2017, City (Day 19) - Christmas Tree	2017	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	60155-21	Advent Calendar 2017, City (Day 20) - Jungle Explorer	2017	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / City	60155-22	Advent Calendar 2017, City (Day 21) - Ice Sculpture	2017	?	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / City	60155-22	Advent Calendar 2017, City (Day 21) - Ice Sculpture	2017	6.17	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	60155-23	Advent Calendar 2017, City (Day 22) - Snowmobile	2017	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	60155-24	Advent Calendar 2017, City (Day 23) - Sled	2017	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	60155-25	Advent Calendar 2017, City (Day 24) - Santa	2017	?	4 x 4 x 1
@@ -20918,6 +20918,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Advent Sub-Set / Friends	42668-25	Advent Calendar 2025, Friends (Day 24) - Reindeer Plush Toy on Sled	2025	5.14	9 x 7.65 x 1
 171	Creator / Creator Expert / Winter Village Collection / Holiday & Event / Christmas / Train	10361-1	Holiday Express Train	2025	1360	45.4 x 28.2 x 8.7
 390	Holiday & Event / Christmas	41843-1	Family Christmas Tree	2025	3744	36.9 x 47.9 x 21.4
+976	LEGO Brand / Promotional	6206253-1	LEGO World Denmark Promotional 2020 - Puzzle and Minifigures	2020	?	? x ? x ?
 67	Town / City / Farm	952509-1	Farmer with Tractor paper bag	2025	?	? x ? x ?
 768	Super Heroes / Spider-Man	682505-1	Green Goblin paper bag #2	2025	13	12 x 15 x 2
 976	LEGO Brand / Promotional	6386184-1	LEGO Masters Gift, White and Light Bluish Gray	2021	180	14.5 x 14.5 x 4.5
@@ -21089,7 +21090,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 746	Collectible Minifigures / Series 28 Minifigures	col28-1	Peacock Costume Fan, Series 28 (Complete Set with Stand and Accessories)	2026	19.01	9.35 x 10.65 x 2.5
 746	Collectible Minifigures / Series 28 Minifigures	col28-5	Frog Costume Fan, Series 28 (Complete Set with Stand and Accessories)	2026	17.05	9.35 x 10.65 x 2.5
 171	Creator / Model / Creature	30714-1	Orange Cat paper bag	2026	48	17 x 18 x 3
-171	Creator / Basic Model / Holiday & Event / Birthday	30715-1	Cute Animal Birthday Party paper bag	2026	46	? x ? x ?
+171	Creator / Basic Model / Holiday & Event / Birthday	30715-1	Cute Animal Birthday Party paper bag	2026	46	17 x 18 x 2
 171	Creator / Model / Creature	31385-1	Beautiful Dolphins	2026	718	28 x 26 x 6
 171	Creator / Model / Creature	31384-1	Colorful Hummingbird	2026	410	26.1 x 19.1 x 6
 171	Creator / Model / Creature	31382-1	Playful Puppy	2026	482	26 x 19 x 6
@@ -21121,15 +21122,15 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 878	Disney / Disney Princess	43303-1	Mini Jasmine & Rapunzel	2026	105.6	14 x 12 x 4.5
 167	DUPLO / Super Heroes / Spidey and his Amazing Friends	10463-1	Dinosaur Spidey-Rex vs. Green Goblin	2026	450	26 x 19 x 11.5
 167	DUPLO / Disney / Disney Junior / Mickey Mouse Clubhouse	10465-1	Mickey Mouse Clubhouse with Minnie & Pluto	2026	1355	44.9 x 27.8 x 11.7
-167	DUPLO / DUPLO, Town	10470-1	3 in 1 Modern Family House with Figures	2026	?	? x ? x ?
+167	DUPLO / DUPLO, Town	10470-1	3 in 1 Modern Family House with Figures	2026	2792	55.4 x 37.6 x 12.8
 167	DUPLO / DUPLO, Town / Police	10471-1	Blue Police Motorcycle	2026	179	19.1 x 14.1 x 6.1
 167	DUPLO / DUPLO, Town / Fire	10473-1	Fire Truck with Hose and Firefighter	2026	608	28.3 x 26 x 9.5
 167	DUPLO	10474-1	My First Creative Vehicles	2026	642	28.3 x 26 x 9.5
 167	DUPLO / DUPLO, Town / Construction	10475-1	3 in 1 Construction Vehicles	2026	657.7	28.3 x 26.1 x 9.5
-167	DUPLO / DUPLO, Town / Construction	10476-1	3 in 1 Construction Site and Vehicles	2026	?	? x ? x ?
+167	DUPLO / DUPLO, Town / Construction	10476-1	3 in 1 Construction Site and Vehicles	2026	2701	55.4 x 37.6 x 12.8
 167	DUPLO / Basic Set	10477-1	3 in 1 My First Creative Cute Pets	2026	387	26 x 19 x 9
 167	DUPLO / Basic Set	30712-1	Celebration Cake paper bag	2026	75	20 x 20 x 4.5
-771	Friends	30721-1	Flower Stand with Roses paper bag	2026	40	? x ? x ?
+771	Friends	30721-1	Flower Stand with Roses paper bag	2026	40.25	16.8 x 17.8 x 2.5
 771	Friends	30722-1	Garden Bunny House paper bag	2026	43	? x ? x ?
 771	Friends	42675-1	Unicorn Cake Delivery Car	2026	145.8	15.5 x 13.9 x 4.4
 771	Friends	42677-1	Dog Treats Bakery	2026	472	25.9 x 22 x 6
@@ -21183,7 +21184,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Model / Riding Cycle	42225-1	Yellow Motorcycle	2026	175	15.5 x 13.9 x 6
 36	Technic / Model / Race	42226-1	BMW M4 GT3 EVO	2026	1115	38 x 26.2 x 6.9
 36	Technic / Model / Off-Road	42227-1	Jeep Wrangler Rubicon	2026	1018	38 x 26.2 x 6.9
-65	Star Wars / Mini / Star Wars Episode 4/5/6	30727-1	TIE Advanced - Mini paper bag	2026	57	? x ? x ?
+65	Star Wars / Mini / Star Wars Episode 4/5/6	30727-1	TIE Advanced - Mini paper bag	2026	57	16.8 x 17.8 x 2.5
 65	Star Wars / Star Wars The Mandalorian	75436-1	The Mandalorian & Grogu's Speeder Bike	2026	79	14 x 12 x 4.5
 65	Star Wars / Star Wars The Mandalorian	75437-1	Cobb Vanth's Speeder	2026	241	20.4 x 19 x 6
 65	Star Wars / Starship Collection / Star Wars Episode 4/5/6	75440-1	AT-AT	2026	578	28.1 x 26.2 x 5.9
@@ -21258,6 +21259,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	11373-1	Sauron's Helmet	2026	753	18.9 x 35.1 x 9.1
 390	Holiday & Event / Valentine's Day	40886-1	Penguins in Love	2026	278	14 x 19 x 7
 983	Promotional	40906-1	Restaurants of the World: Japan	2026	348	20.3 x 18.8 x 6
+976	LEGO Brand / LEGO Brand Store / Building Event	6575529-1	LEGO Brand Store Exclusive Build - Hoop	2025	?	? x ? x ?
 171	Creator / Creator Expert / Project Hail Mary	11389-1	Project Hail Mary	2026	1035	26.1 x 38.1 x 7
 67	Town / City / Police	L0002220-1	Police Officer with Snowmobile paper bag	2026	?	? x ? x ?
 768	Super Heroes / Batman II	L0002270-1	Mr. Freeze with Snowman paper bag	2026	13.3	12 x 15 x 1.5
@@ -21272,8 +21274,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 903	BrickHeadz / Disney / Monsters, Inc.	40861-1	Sulley, Mike and Boo Figures	2026	256	19 x 14 x 7
 903	BrickHeadz / Fortnite	40881-1	Supply Llama & Fishstick	2026	275.5	19.1 x 14 x 7
 171	Creator / Model / Creature	40885-1	Duck Family	2026	291	20.2 x 19 x 6
-1122	Botanicals	11510-1	Magnolia Branches	2026	?	? x ? x ?
-1122	Botanicals	11502-1	Sunflower Bouquet	2026	656	26 x 38 x 7
+1122	Botanicals	11510-1	Magnolia Branches	2026	458	28 x 26 x 6
+1122	Botanicals	11502-1	Sunflower Bouquet	2026	656	26.1 x 38.4 x 7
 878	Disney / Winnie The Pooh	43305-1	Piglet's Birthday Fun	2026	564	22.1 x 26 x 6.2
 167	DUPLO / Peppa Pig	10468-1	Tractor and Market	2026	356	26.1 x 19 x 8.9
 167	DUPLO / Peppa Pig	10466-1	Train Ride with Grandpa Pig	2026	?	? x ? x ?
@@ -21283,17 +21285,20 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 34	Space / Classic Space	40921-1	Up-Scaled Blue Astronaut Minifigure	2026	1134	25.9 x 37.8 x 9
 171	Creator / Model / Traffic	40953-1	London Bus	2026	362	26 x 13.9 x 7
 36	Technic / Model / Race	42228-1	McLaren MCL39 F1 Car	2026	?	? x ? x ?
-169	Sculptures	40955-1	Maersk Dual-Fuel Container Vessel	2026	2885	? x ? x ?
+169	Sculptures	40955-1	Maersk Dual-Fuel Container Vessel	2026	2885	55.5 x 37.5 x 10
 850	Jurassic World	122509-1	Ranger with Laboratory paper bag	2026	20	12 x 17 x 1.5
 976	LEGO Brand / LEGO House	40507-1	I ❤️ Billund	2026	?	? x ? x ?
 976	LEGO Brand / LEGOLAND Parks	40952-1	LEGOLAND Castle	2026	?	? x ? x ?
 36	Technic / Model / Airport	30736-1	White Seaplane paper bag	2026	65.1	? x ? x ?
 842	SPEED CHAMPIONS	30734-1	Mini F1 ACADEMY Car paper bag	2026	42.45	? x ? x ?
-1285	Animal Crossing	30731-1	Tom Nook and Flying Present paper bag	2026	32	16.9 x 18 x 2.7
+1285	Animal Crossing	30731-1	Tom Nook and Flying Present paper bag	2026	35	16.9 x 18 x 2.7
 1371	Crocs	40972-1	Crocs paper bag	2026	?	? x ? x ?
 771	Friends	L0002264-1	Cute Bunny with Bakery paper bag	2026	?	? x ? x ?
 65	Star Wars / Star Wars Episode 3	L0002233-1	Phase 2 Clone Pilot paper bag	2026	8	12 x 14.5 x 1.5
 903	BrickHeadz / Fortnite	40910-1	Beef Boss & Skye	2026	264	19 x 14 x 7
 1122	Botanicals	40916-1	Floral Picture Frame	2026	310	20.2 x 18.7 x 5.9
 976	LEGO Brand / LEGO Brand Store / Building Event / Star Wars	6626053-1	LEGO Brand Store Exclusive Build - Star Wars Lightsaber	2026	55	21.5 x 21.5 x 1.5
+65	Star Wars / Promotional / Star Wars Episode 4/5/6	SWGCNO-1	Star Wars Galactic Challenge Contest Promotional Set (Norwegian Version)	1999	11	14 x 18.5 x 1.5
 801	Minecraft	L0002248-1	Hero with Blaze paper bag	2026	15	12 x 15 x 1.5
+67	Town / City / Construction	L0002221-1	Construction Worker with Bulldozer paper bag	2026	?	? x ? x ?
+390	Holiday & Event / Easter	40890-1	Easter Decorations	2026	280	20.2 x 18.7 x 5.9
