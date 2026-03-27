@@ -99,7 +99,12 @@ public abstract class AbstractCatalogLoader<R> {
             return null;
         }
         String value = record.get(index);
-        return (value == null || "?".equals(value) || value.isBlank()) ? null : Integer.parseInt(value);
+        try {
+            return (value == null || "?".equals(value) || value.isBlank()) ? null : Integer.parseInt(value);
+        } catch (Exception e){
+            log.error("Error parsing year: {}", value, e);
+            return null;
+        }
     }
 
     public Long parseLong(CSVRecord record, int index) {
