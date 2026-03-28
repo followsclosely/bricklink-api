@@ -3,6 +3,7 @@ package io.github.followsclosely.bricklink.catalog;
 import io.github.followsclosely.bricklink.catalog.dto.BlinkBookDetails;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.csv.CSVRecord;
+import org.apache.commons.text.StringEscapeUtils;
 
 /**
  * Loads and maps data from the BrickLink Books catalog file (Books.txt).
@@ -43,7 +44,7 @@ public class BlinkBookCatalogLoader extends AbstractCatalogLoader<BlinkBookDetai
                 .categoryId(parseLong(record, 0))
                 .categoryName(record.get(1))
                 .number(record.get(2))
-                .name(record.get(3))
+                .name(StringEscapeUtils.unescapeHtml4(record.get(3)))
                 .yearReleased(parseInt(record, 4))
                 .weightGrams(parseDouble(record, 5))
                 .dimensions(record.get(6))

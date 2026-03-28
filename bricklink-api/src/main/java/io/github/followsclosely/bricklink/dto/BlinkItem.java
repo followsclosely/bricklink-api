@@ -4,6 +4,7 @@ import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.*;
+import org.apache.commons.text.StringEscapeUtils;
 
 import java.util.*;
 
@@ -17,6 +18,10 @@ public class BlinkItem {
     private Type type;
     @JsonProperty("name")
     private String name;
+
+    public void setName(String name) {
+        this.name = name != null ? StringEscapeUtils.unescapeHtml4(name) : null;
+    }
     @JsonProperty("category_id")
     private Integer categoryId;
     @JsonProperty("image_url")

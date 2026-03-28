@@ -1,6 +1,4 @@
 Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
-
-
 317	Idea Book	IsB3	Ideas Book No.3 (3053)	1965	78	17.5 x 17.5 x 0.5
 317	Idea Book	200	Idea Book 200	1985	155	? x ? x ?
 317	Idea Book	221	Idea Book 1 (97710)	1973	205	21 x 29.7 x 0.3
