@@ -544,7 +544,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 371	1996 / Service Packs	s96au	1996 Medium Service Packs Australian (924.716-AUS)	1996	?
 372	1997	c97au	1997 Large Australian (925.375-AUS)	1997	104
 373	1998	c98au	1998 Large Australian (926.100-AUS)	1998	95
-341	1966	c66uk	1966 UK (3151-En)	1966	15
+341	1966	c66uk	1966 UK (3151-Eng.)	1966	15
 374	1999 / DUPLO	c99dup	1999 Medium Duplo (4112693/4112694-IN)	1999	?
 373	1998 / Primo	c98mpin	1998 Medium Primo International (4112658/4112661-IN)	1998	?
 372	1997	c97ko	1997 Medium Korean (4.108.500/4.108.501-KO)	1997	?
@@ -1379,7 +1379,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 544	2005 / Holiday & Event / Christmas	c05dewc2	2005 Insert - World Club Magazine German - Christmas - Weihnachten	2005	35
 362	1987	c87nl	1987 Large Dutch (920311-NL)	1987	?
 358	1983	c83nl	1983 Large Dutch (93500-NL)	1983	?
-378	2002 / Racers	c02de4	2002 Medium German Racers, Comic format (419.3889-DE)	2002	20
 355	1980	c80nlm2	1980 Medium Dutch (99870-NL)	1980	35
 342	1967	c67nl3	1967 Dutch Bouwen en spelen (3218-Ho)	1967	5
 371	1996 / Technic	c96det	1996 Medium Technic German Foldout (925.061-D)	1996	20
@@ -2173,7 +2172,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 355	1980 / Train	c80detr	1980 Large Train German Das neue LEGO Eisenbahn-Programm (99780-D)	1980	?
 555	1961	c61it	1961 Italian	1961	2.9
 344	1969	c69it	1969 Large Italian (3351-It)	1969	12.7
-346	1971	c71it2	1971 Large Italian (97220-It)	1971	11.9
+346	1971	c71it2	1971 Large Italian Foldout (97220-It)	1971	11.9
 347	1972	c72it	1972 Medium Italian - Automezzi Giganti LEGO (97390-It)	1972	6.7
 349	1974	c74at2	1974 Large Austrian (97820-Øs)	1974	32.1
 352	1977	c77at3	1977 Large Austrian Für LEGO Profi's 57 (98761-A)	1977	28.7
@@ -2339,7 +2338,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 565	2006	c06sah1de	2006 Shop at Home - January German (WOR U-3178)	2006	121
 565	2006	c06sah2de	2006 Shop at Home - Spring German (WOR U-3410)	2006	94
 565	2006	c06sah3fr	2006 Shop at Home - Summer French (WOR U-3673)	2006	106
-565	2006 / Holiday & Event / Christmas	c06sah5de	2006 Shop at Home - Christmas German (WOR U-4030)	2006	183
+565	2006 / Holiday & Event / Christmas	c06sah5de	2006 Shop at Home - Christmas German (WOR U-4030)	2006	179
 544	2005 / Holiday & Event / Christmas	c05sah8de	2005 Shop at Home - Christmas 2 German - Weihnachten (WOR U-3176)	2005	112
 544	2005	c05sah2de	2005 Shop at Home - Spring - German (WOR U-2339)	2005	105
 515	2004 / Holiday & Event / Christmas	c04sah6de	2004 Shop at Home - Christmas German - Weihnachten (WOR U-2016)	2004	112
@@ -2715,7 +2714,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 354	1979	c79ch2	1979 Large Swiss (102511 CH)	1979	36
 348	1973	c73ch	1973 Large Swiss (97520-Schw)	1973	25
 346	1971	c71ch	1971 Large Swiss (3351-Schw)	1971	11.6
-565	2006 / Holiday & Event / Christmas	c06sah6de	2006 Shop at Home - Late Christmas German (WOR U-4202)	2006	87
+565	2006 / Holiday & Event / Christmas	c06sah6de	2006 Shop at Home - Christmas German (WOR U-4202)	2006	88
 565	2006	c06sah3de	2006 Shop at Home - Summer German (WOR U-3672)	2006	104
 374	1999	c99dewc5	1999 Insert - World Club Magazine German - March/April (928.138-D)	1999	23.5
 544	2005	c05de3	2005  Large German January - August Version 1 (427.7297-DE)	2005	112
@@ -2775,11 +2774,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 601	2008 / Educational & Dacta	c08dedac	2008 Large German Education	2008	?
 491	2003	c03de5	2003 Dealer German Neuheiten (4200379-D)	2003	?
 358	1983	c83de3	1983 Extra Large German (93501-D)	1983	?
-363	1988 / Town / Classic Town	c88uk5	1988 Poster Town Epic UK	1988	?
 756	2011	c11uni1	2011 Insert - LEGO Universe - English (special offer)	2011	?
 374	1999 / Technic	4126718	1999 Insert - LEGO Direct - US/Canadian Technic (4126718)	1999	8.7
 349	1974 / DUPLO	c74frdup	1974 Medium Duplo French (97870-Fr)	1974	6.7
-348	1973	c73fr2	1973 Medium French (97559 Fr)	1973	9.7
+348	1973	c73fr2	1973 Medium French Foldout (97559 Fr)	1973	9.7
 347	1972	c72fr2	1972 Medium French - Les gros camions LEGO (97390-Fr)	1972	6.7
 341	1966	c66fr2	1966 French (3150 fr)	1966	6.5
 551	1964	c64it	1964 Italian (3031-it)	1964	6.1
@@ -3138,7 +3136,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 786	2013	c13ukdcn2	2013 Dealer Large UK Novelties January-May (60295476-AEM)	2013	285
 786	2013	c13de1	2013 Large German January - June (604.3333-DE/A)	2013	117
 358	1983 / Technic	c83nlt	1983 Medium Technic Dutch (93760-NL)	1983	22
-356	1981	c81eu4	1981 Medium European (109906/110006 EU IV (NL))	1981	18
 767	2012 / DUPLO	c12dup3	2012 Small Duplo (1999-1795)	2012	23
 351	1976	c76se2	1976 Large Swedish - LEGO guide för hela familjen (98.400-Sv)	1976	25
 581	2007	c07dedc	2007 Dealer German - Novelties January - May 2007	2007	126
@@ -3453,7 +3450,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 370	1995	c95hu3	1995 Large Hungarian (923.963-HUN)	1995	114
 373	1998	c98lt	1998 Large Lithuanian (926.100-LT (Lithuania))	1998	102
 348	1973	c73it2	1973 Medium Italian Foldout (97559-It)	1973	?
-348	1973	c73it3	1973 Small Italian Foldout (97511-It)	1973	3
+348	1973	m73it	1973 Mini Italian (97511-It.)	1973	3
 826	2015	c15ukdc1	2015 Dealer Large UK Product (6085623-UK)	2015	780
 357	1982 / Train	c82dktr	1982 Medium Train Danish (93280-DK)	1982	?
 375	2000	c00sing	2000 Large Singapore (432.3141-SING)	2000	117
@@ -3498,7 +3495,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 826	2015	c15cz1	2015 Large Czech January - June (611.9736-CZ)	2015	164
 767	2012	c12ch3	2012 Large Swiss July - December (602.2659-CHDE/CHFR)	2012	147
 826	2015	c15ch2	2015 Large Swiss June - December (613.3991-CHDE/CHFR)	2015	174
-373	1998	c98at2	1998 Medium Austrian (926.112-A)	1998	47
+373	1998	c98at2	1998 Medium Austrian (926.112-A)	1998	150
 826	2015	c15au2	2015 Large Australian July - December	2015	181
 826	2015	c15de2	2015 Large German July - December (613.3988-DE/A 613.3989-DE/A 613.3990-DE/A 613.4010-DE/A 613.4015-DE/A for BLX)	2015	174.3
 826	2015	c15pl2	2015 Large Polish July - December (613.4026-PL)	2015	160
@@ -3962,7 +3959,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1028	2019	c19sah1de	2019 Shop at Home - January German (WO 1192)	2019	108
 373	1998 / Primo	m98prim	1998 Mini Primo International (4112612-IN)	1998	?
 365	1990 / Educational & Dacta / Technic	c90nldac	1990 Large NL Dacta Techniek Sets voor uw school Voortgezet Onderwijs (950.710-NL)	1990	50
-348	1973	c73ch2	1973 Medium Swiss - Bau was dir Spass macht. LEGO kennt keine Grenzen! (97640-Sch)	1973	7
+348	1973	c73ch2	1973 Medium Swiss - Spezialfahrzeuge / Véhicules spéciaux (97640-Sch)	1973	7
 352	1977	c77be4	1977 Medium Belgian Foldout 67 (98762-B)	1977	?
 360	1985	m85ja	1985 Mini Japanese (111308-JA)	1985	?
 901	2017 / Boost	m17boostde	2017 Mini LEGO Boost German	2017	?
@@ -4151,7 +4148,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 361	1986	m86ja	1986 Mini Japanese (117608-JA)	1986	4.9
 375	2000 / Race	m00jarace	2000 Mini Race Japanese (4325706)	2000	5
 373	1998	c98sr	1998 Large Serbian (926.100-SER)	1998	100
-375	2000 / Town / City	m00jacty	2000 Mini City Japanese (4325707)	2000	4
+375	2000 / Town / City	m00jacty	2000 Mini City Japanese (4325707)	2000	4.5
 342	1967	c67yu	1967 Large Yugoslavian (3245-Ju)	1967	13
 767	2012 / Educational & Dacta	c12ukdac	2012 Large UK Education Primary Catalogue (047929)	2012	?
 1066	2020 / Holiday & Event / Easter	c20sah2de	2020 Shop at Home - Easter German (WOR 1467)	2020	101
@@ -4476,7 +4473,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 366	1991	c91at1	1991 Large Austrian (921640-A)	1991	?
 365	1990	c90at	1990 Medium Austrian (921390-A)	1990	150
 365	1990	c90at1	1990 Large Austrian (921388-A)	1990	150
-373	1998	c98at1	1998 Medium Austrian (926.112-A)	1998	150
 372	1997	c97atufo	1997 Medium UFO Austrian (925.583-A)	1997	70
 1119	2021	c21hu2	2021 Large Hungarian June - December (6370758 - HU 6370736 - HU for DE/A)	2021	162
 366	1991	c91dedc	1991 Dealer German (921767-D)	1991	?
@@ -4678,7 +4674,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 357	1982	c82ja	1982 Medium Japanese (116708/116808 (Ja.))	1982	33
 1249	2023	c23hu2	2023 Large Hungarian July - December (6460618 - HU, 6460599 - HU for DE/A)	2023	155
 341	1966 / Train	c66chtr	1966 Medium Train Swiss (3136 schw)	1966	2
-348	1973	c73fr3	1973 Small French Foldout (97511-Fr)	1973	3
+348	1973	m73fr	1973 Mini French (97511-Fr)	1973	3
 357	1982 / Technic	c82cht	1982 Medium Technic Swiss (93310-CH)	1982	?
 342	1967	c67de5	1967 Large German Soviel Neues gibt's von Lego	1967	?
 1249	2023	c23de5	2023 Large German / Austrian September - December (DE/A f/B.R.-batch 2 - 6460579, DE-A - Batch 2 - 6460590, 6460592, 6460594)	2023	166
@@ -4841,6 +4837,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 360	1985	c85eupg5	1985 Kinderen! Uw aandacht waard? Een boekje van LEGO voor volwassenen (Parents Guide) (109506/109606-EU IV (NL))	1985	28
 1287	2024	c24dk2	2024 Large Danish August - December (DA f/Brand Retail - 6519313, DA - 6519337)	2024	?
 366	1991 / Space	m91jasp	1991 Mini Space Japanese (833708-JA)	1991	5
+786	2013	c13nacd	2013 Dealer North America New Products CD (January - March)	2013	?
 1287	2024	c24fr2	2024 Large French July - December (FR-6519346, FR f/Brand Retail - 6519318)	2024	?
 364	1989 / Service Packs	s89at	1989 Medium Service Packs Austrian (921211)	1989	7.5
 377	2001 / BIONICLE	m01bio10	2001 Mini Bionicle - Onua (4176072)	2001	?
@@ -4871,7 +4868,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 359	1984 / Technic	c84cht	1984 Medium Technic Swiss (105311/105411 - (CH))	1984	20
 357	1982 / Fabuland	m82chf	1982 Mini Fabuland Swiss (118311-CH)	1982	2
 348	1973 / Homemaker	c73ch3	1973 Medium Swiss - LEGO's neue Puppenmöbel / Les nouveaux meubles de poupées (97660-Sch.)	1973	4
-348	1973	c73ch4	1973 Medium Swiss - Spezialfahrzeuge / Véhicules spéciaux (97640-Sch.)	1973	4
 347	1972	c72ch3	1972 Medium Swiss Spezialfahrzeuge / Véhicules spéciaux (97420-Schw.)	1972	4
 356	1981	c81ch	1981 Medium Swiss (93.100-CH)	1981	44
 601	2008	c08ch1	2008 Large Swiss French August - December (454.2046-CHFR)	2008	108
@@ -4957,7 +4953,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 348	1973	m73ja	1973 Mini Japanese (97511-Ja.)	1973	3
 349	1974	c74ja2	1974 Medium Japanese (97875-Jap.)	1974	3
 1319	2025	c25nl2	2025 Large Dutch June - December (NL f/Brand Retail- 6570275, NL for EUC- 6570291, NL - 6570301)	2025	207
-348	1973	c73ja3	1973 Medium Japanese (97640-Ja.)	1973	6
 350	1975	c75dedc	1975 Dealer German (98197-Ty)	1975	81
 1319	2025	c25sah2	2025 Shop at Home - Summer (WOR 2104)	2025	70
 1249	2023	c23au2	2023 Large Australian / New Zealand July - December (AUS - 6460643, NZ - 6460644)	2023	112
@@ -5034,7 +5029,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25es	2025 Large Spanish / Portuguese January - June (ES/PT - 6543394, ESPT f/Brand Retail - 6543366)	2025	?
 1287	2024	c24ch2	2024 Large Swiss September - December (CH-DE/FR f/BR - batch 2 - 6519312, CH/DE/F - Batch 2 - 6519329)	2024	210
 1287	2024	c24ch1	2024 Large Swiss June - December (CH/DE/F - 6519328, CH-DE/FR f/Brand Retail - 6519311)	2024	199
-1319	2025	c25de5	2025 Large German / Austrian September - December (DE/A f/B.R.-batch 2 - 6570269, DE-A - Batch 2 - 6570283, 6570285, 6570287)	2025	204
 1319	2025	c25sa2	2025 Large South American August - December	2025	211
 1319	2025	c25my1	2025 Large Malay January - June (SGP - 6543421, MYS - 6543422)	2025	136
 1319	2025	c25sg1	2025 Large Singapore January - June (SGP - 6543421, MYS - 6543422)	2025	136
@@ -5077,3 +5071,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25tr1	2025 Large Turkish January - June (TR - 6543407, TR for CAT - 6543417)	2025	?
 1213	2022	c22ua1	2022 Large Ukrainian January - May (UA - 6395196)	2022	169
 1360	2026	c26de2	2026 Large German March - June (DE/A f/B.R.-batch 2 - 6605892 DE-AT - Batch 2 - 6605832 DE-AT FH Insert - Batch 2 - 6605836)	2026	186
+1360	2026	c26de3	2026 Large German March - June (DE/A f/B.R.-batch 2 - P11 - 6605818, DE - Batch 2 - P11 - 6605891, DE SMYTH Insert - Batch 2 - P11 - 6605834) SMART Play	2026	182
+1360	2026	c26sah2	2026 Shop at Home - Spring (WOR 2153)	2026	37
+372	1997	c97jpdc	1997 Dealer Large Japanese	1997	?
+374	1999	c99hudc	1999 Dealer Hungarian	1999	?
+373	1998	c98hudc	1998 Dealer Large Hungarian	1998	?
+373	1998	c98frdc	1998 Dealer French	1998	?

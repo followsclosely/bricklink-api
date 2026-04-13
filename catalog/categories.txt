@@ -277,6 +277,7 @@ Category ID	Category Name
 552	Coloring Book
 331	Comic Book
 382	Competition
+1379	Computer Science & AI
 21	Cone
 974	Cone, Decorated
 596	Construction
@@ -868,6 +869,7 @@ Category ID	Category Name
 1299	Series 26 Minifigures
 1318	Series 27 Minifigures
 1357	Series 28 Minifigures
+1380	Series 29 Minifigures
 803	SERIOUS PLAY
 63	Service Packs
 1378	Shadow Horde
@@ -1047,6 +1049,7 @@ Category ID	Category Name
 1181	The Little Mermaid
 795	The Lone Ranger
 782	The Lord of the Rings
+1381	The Lost World: Jurassic Park
 1275	The Marvels
 1226	The Muppets
 1176	The Nightmare Before Christmas

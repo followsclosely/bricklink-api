@@ -25,7 +25,7 @@ class BlinkItemRestClientTest {
 
     @Test
     void testGetItem() throws Exception {
-        BlinkResponse<BlinkItem> response = client.getItem(BlinkItem.Type.SET, "72050");
+        BlinkResponse<BlinkItem> response = client.getItem(BlinkItem.Type.SET, "72050-1");
         assertNotNull(response);
         assertNotNull(response.getData());
         log.info("Retrieved item: {}", response.getData().getName());

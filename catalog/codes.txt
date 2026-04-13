@@ -3218,11 +3218,17 @@ Item No	Color	Code
 970c00pb1901	Blue	6578520
 970c00pb1902	Red	6578479
 970c00pb1903	Tan	6584366
+970c00pb1904	Pearl Dark Gray	6586478
+970c00pb1905	Dark Bluish Gray	6586444
 970c00pb1906	Black	6586452
 970c00pb1907	Red	6606144
 970c00pb1908	White	6537203
 970c00pb1909	Reddish Brown	6579451
 970c00pb1910	Black	6610334
+970c00pb1911	Sand Blue	6624706
+970c00pb1912	Blue	6624709
+970c00pb1913	Dark Bluish Gray	6597182
+970c00pb1914	Sand Blue	6578544
 970c01	Black	4582628
 970c01	Black	74326
 970c01	Blue	4206304
@@ -4183,6 +4189,7 @@ Item No	Color	Code
 970d60pb01	Flat Silver	6561885
 970d61pb01	Pearl Dark Gray	6551348
 970d62pb01	Dark Blue	6595806
+970d63	Dark Azure	6596926
 970dm01	Dark Bluish Gray	6382695
 970dm02pb01	Orange	6528055
 970e01	Dark Bluish Gray	6083001
@@ -11056,6 +11063,27 @@ Item No	Color	Code
 973pb6557c01	Yellow	6593721
 973pb6558c01	Black	6646742
 973pb6559c01	Dark Bluish Gray	6601894
+973pb6560c01	Black	6591507
+973pb6561c01	Dark Pink	6596923
+973pb6562c01	Reddish Orange	6596891
+973pb6563c01	Dark Green	6596544
+973pb6564c01	Dark Bluish Gray	6603203
+973pb6565c01	Pearl Dark Gray	6603150
+973pb6566c01	Pearl Gold	6602323
+973pb6567c01	Black	6598045
+973pb6568c01	Dark Red	6594755
+973pb6570c01	Bright Light Orange	6591659
+973pb6571c01	White	6600127
+973pb6572c01	Yellowish Green	6600168
+973pb6573c01	Bright Light Yellow	6600182
+973pb6574c01	Red	6603764
+973pb6575c01	Bright Light Orange	6603796
+973pb6576c01	Dark Turquoise	6603732
+973pb6577c01	Olive Green	6603786
+973pb6578c01	Dark Blue	6598860
+973pb6579c01	Dark Blue	6598824
+973pb6580c01	White	6603807
+973pb6581c01	White	6602005
 973ps0c01	Green	4286750
 973ps0c01	Green	4558000
 973ps1c01	Orange	4193535
@@ -11536,6 +11564,7 @@ Item No	Color	Code
 1745	Bright Light Yellow	6503683
 1745	Bright Pink	6494545
 1745	Bright Pink	6510067
+1745	Dark Bluish Gray	6601830
 1745	Dark Turquoise	6476747
 1745	Dark Turquoise	6510066
 1745	Green	6424859
@@ -11959,6 +11988,8 @@ Item No	Color	Code
 2046	Pink	204609
 2046	Rose Pink	204617
 2064stk01	(Not Applicable)	4508431
+2117c01	Blue	4144340
+2117c03	White	74304
 2121	Red	4101457
 2123	Black	6405548
 2125c00pb001	Light Aqua	6416494
@@ -11976,6 +12007,20 @@ Item No	Color	Code
 2125c00pb012	Dark Azure	6546554
 2125c00pb013	Black	6551186
 2125c00pb014	Dark Blue	6581591
+2125c00pb015	Black	6575327
+2126c01	Blue	4250257
+2126c01	Blue	75881
+2126c01	Green	4143636
+2126c01	Green	75469
+2126c01	Red	4171902
+2126c01	Red	4285416
+2126c01	Red	4567525
+2126c01	Red	4568659
+2126c01	Red	4578635
+2126c01	White	4174122
+2126c01	White	4567524
+2126c01	White	4578638
+2126c01	White	74824
 2126stk01	(Not Applicable)	4112957
 2129stk01	(Not Applicable)	4106745
 2130	Lime	4255084
@@ -12859,6 +12904,7 @@ Item No	Color	Code
 2357	Blue	4533323
 2357	Blue	4558606
 2357	Bright Green	4195188
+2357	Bright Light Orange	6020096
 2357	Bright Light Orange	6034175
 2357	Brown	235725
 2357	Brown	4112543
@@ -12947,13 +12993,6 @@ Item No	Color	Code
 2359px1	Tan	4161083
 2359px3	Green	4160982
 2359px3	Green	82018
-2362	Black	236226
-2362	Black	4113027
-2362	Light Bluish Gray	4211577
-2362	Trans-Brown	4163114
-2362	Trans-Clear	4100381
-2362	White	236201
-2362	White	4113022
 2362a	Black	4113027
 2362a	Light Gray	4113023
 2362a	Trans-Brown	4163114
@@ -12975,6 +13014,13 @@ Item No	Color	Code
 2362b	White	236201
 2362b	White	4113022
 2362b	Yellow	4258349
+2362u	Black	236226
+2362u	Black	4113027
+2362u	Light Bluish Gray	4211577
+2362u	Trans-Brown	4163114
+2362u	Trans-Clear	4100381
+2362u	White	236201
+2362u	White	4113022
 2364c01	Blue	6032386
 2364c01	Green	4251332
 2364c01	Orange	4539803
@@ -13669,6 +13715,7 @@ Item No	Color	Code
 2431	Bright Green	6195267
 2431	Bright Light Blue	6372255
 2431	Bright Light Blue	6468267
+2431	Bright Light Orange	6020076
 2431	Bright Light Orange	6072668
 2431	Bright Light Yellow	4240672
 2431	Bright Light Yellow	6289722
@@ -13836,6 +13883,7 @@ Item No	Color	Code
 2431pb0461	White	6176750
 2431pb0462	Dark Red	6176367
 2431pb0462	Dark Red	6337238
+2431pb0462	Dark Red	6588077
 2431pb0469	Tan	6188707
 2431pb0470	Blue	6189049
 2431pb0477	Reddish Brown	6188145
@@ -13964,6 +14012,8 @@ Item No	Color	Code
 2431pb0932	Yellow	6580002
 2431pb0933	Yellow	6580003
 2431pb0940	Black	6585440
+2431pb0941L	Dark Turquoise	6589006
+2431pb0941R	Dark Turquoise	6588972
 2431px1	Black	82514
 2431px10	Black	4109748
 2431px12	White	4188021
@@ -14450,6 +14500,7 @@ Item No	Color	Code
 2446pb62	White	6530123
 2446pb64	Black	6577425
 2446pb65	Red	6576377
+2446pb66	Black	6593209
 2446px1	White	82509
 2446px2	White	81881
 2446px3	Red	81882
@@ -15652,6 +15703,7 @@ Item No	Color	Code
 2528pb08	Black	6102651
 2528pb09	Dark Blue	6099550
 2528pb10	Black	6122966
+2528pb10	Black	6182480
 2528pb11	Black	6152684
 2528pb12	Black	6192573
 2528pb13	Black	6250682
@@ -15691,7 +15743,6 @@ Item No	Color	Code
 2531	Trans-Neon Green	253149
 2531	Trans-Red	4161817
 2532stk01	(Not Applicable)	4116670
-2536	Brown	4160959
 2536a	Brown	253625
 2536a	Brown	253675
 2536a	Brown	4160959
@@ -15699,6 +15750,7 @@ Item No	Color	Code
 2536d	Light Bluish Gray	4211523
 2536d	Light Gray	613502
 2536d	Reddish Brown	4264025
+2536u	Brown	4160959
 2537a	Black	253726
 2537b	Black	4100456
 2537b	Black	4160762
@@ -17691,6 +17743,7 @@ Item No	Color	Code
 2937	Light Bluish Gray	6448373
 2937	Orange	6452496
 2937	White	6413272
+2937	White	6609541
 2937	Yellow	6452499
 2942stk01	(Not Applicable)	4111982
 2947stk01	(Not Applicable)	4141921
@@ -19623,6 +19676,8 @@ Item No	Color	Code
 3011pb065	Bright Light Yellow	6482768
 3011pb066	White	6522032
 3011pb067	Yellow	6213246
+3011pb068	Yellow	6580927
+3011pb069	Medium Azure	6580926
 3013	Red	6464816
 3020	Aqua	4217044
 3020	Black	302026
@@ -20964,6 +21019,7 @@ Item No	Color	Code
 3035	Trans-Red	303541
 3035	Trans-Yellow	303544
 3035	White	303501
+3035	White	6609533
 3035	Yellow	303524
 3036	Black	303626
 3036	Black	303676
@@ -21229,6 +21285,7 @@ Item No	Color	Code
 3039p58	White	4106591
 3039pb001	Yellow	4113929
 3039pb008	Black	82502
+3039pb010	Red	82504
 3039pb012	Blue	4114138
 3039pb012	Yellow	4107902
 3039pb017	Black	4110095
@@ -23022,6 +23079,7 @@ Item No	Color	Code
 3068px31	White	82318
 3068px33	White	4186600
 3068px34	White	4187330
+3068px4	White	4227915
 3068px4	White	82333
 3068px5	Black	4143172
 3068px6	White	4143169
@@ -23808,6 +23866,7 @@ Item No	Color	Code
 3070pb004	Tan	4185083
 3070pb006	Light Gray	4195405
 3070pb007	Tan	4225289
+3070pb008	Sand Blue	4220742
 3070pb009	Black	6016004
 3070pb009	Black	6044150
 3070pb009	Lime	6029745
@@ -24205,6 +24264,7 @@ Item No	Color	Code
 3070pb396	Trans-Clear	6598721
 3070pb397	Trans-Clear	6598722
 3070pb398	Pearl Gold	6576385
+3070pb399	Trans-Clear	6584123
 3070px1	Black	4142976
 3070px2	Green	4140300
 3070px8	White	4129910
@@ -24233,6 +24293,7 @@ Item No	Color	Code
 3118	Black	6470141
 3118	Lavender	6494422
 3118	Lime	6421351
+3118	Medium Azure	6593574
 3118	Orange	6470142
 3118ppr01	(Not Applicable)	4120947
 3118stk01	(Not Applicable)	4120459
@@ -24408,6 +24469,7 @@ Item No	Color	Code
 3176	White	317651
 3176	White	4241007
 3176	White	6089696
+3176	White	6609537
 3176	Yellow	317624
 3176	Yellow	4141738
 3176	Yellow	4188313
@@ -25035,6 +25097,7 @@ Item No	Color	Code
 3320pb01	Pearl Dark Gray	6614120
 3320pb02	Pearl Dark Gray	6555773
 3320pb03	Black	6586450
+3320pb04	Pearl Gold	6602293
 3321	Black	6421735
 3321	Bright Light Yellow	6523402
 3324	Black	332426
@@ -27044,6 +27107,7 @@ Item No	Color	Code
 3626pb0501	Trans-Red	4614508
 3626pb0502	Yellow	4609968
 3626pb0502	Yellow	6043785
+3626pb0502	Yellow	6176690
 3626pb0503	Yellow	4609965
 3626pb0504	White	4609971
 3626pb0504	White	6046302
@@ -27472,10 +27536,12 @@ Item No	Color	Code
 3626pb0849a	Yellow	6018502
 3626pb0849a	Yellow	6100249
 3626pb0850	Yellow	6015867
+3626pb0850	Yellow	6176769
 3626pb0851	Blue	6005997
 3626pb0851	Blue	6032147
 3626pb0852	Yellow	6021675
 3626pb0853	Yellow	6015868
+3626pb0853	Yellow	6176815
 3626pb0854	Yellow	6015862
 3626pb0855	Yellow	6015858
 3626pb0856	Yellow	6021851
@@ -27889,6 +27955,7 @@ Item No	Color	Code
 3626pb1247	Light Nougat	6178684
 3626pb1248	Yellow	6096305
 3626pb1249	Yellow	6096245
+3626pb1249	Yellow	6176788
 3626pb1250	Yellow	6096195
 3626pb1251	Yellow	6096204
 3626pb1252	Reddish Brown	6100583
@@ -29250,6 +29317,7 @@ Item No	Color	Code
 3626pb2631	Medium Lavender	6300350
 3626pb2632	Black	6303355
 3626pb2633	Yellow	6313216
+3626pb2633	Yellow	6591031
 3626pb2634	Yellow	6306822
 3626pb2635	Yellow	6306824
 3626pb2636	Light Aqua	6302330
@@ -29265,6 +29333,7 @@ Item No	Color	Code
 3626pb2646	Yellow	6296303
 3626pb2647	Yellow	6317079
 3626pb2648	Yellow	6312485
+3626pb2648	Yellow	6662046
 3626pb2649	Yellow	6312495
 3626pb2650	Orange	6308046
 3626pb2651	Nougat	6308125
@@ -29504,6 +29573,7 @@ Item No	Color	Code
 3626pb2912	Nougat	6336803
 3626pb2913	Yellow	6361751
 3626pb2914	Yellow	6352820
+3626pb2914	Yellow	6657287
 3626pb2915	Olive Green	6336822
 3626pb2916	Medium Nougat	6336827
 3626pb2918	Light Nougat	6369862
@@ -30689,6 +30759,12 @@ Item No	Color	Code
 3626pb4113	Light Nougat	6579446
 3626pb4114	Olive Green	6579449
 3626pb4115	Light Nougat	6584430
+3626pb4116	Light Nougat	6584353
+3626pb4117	Pearl Gold	6586440
+3626pb4118	Black	6584358
+3626pb4119	Light Aqua	6578545
+3626pb4120	White	6603693
+3626pb4121	Yellow	6578542
 3626ps2	Light Nougat	4291337
 3626ps2	Yellow	4124379
 3626ps2	Yellow	4164194
@@ -31855,6 +31931,7 @@ Item No	Color	Code
 3701	Tan	4234365
 3701	Trans-Yellow	4160578
 3701	White	370101
+3701	White	6601913
 3701	Yellow	370124
 3702	Black	370226
 3702	Blue	370223
@@ -34429,6 +34506,7 @@ Item No	Color	Code
 3961pb19	White	6560536
 3961pb20	White	6602007
 3961pb21	White	6602008
+3961pb22	Red	6591568
 3961px1	Light Gray	4189377
 3962a	Black	396226
 3962b	Black	396226
@@ -34532,6 +34610,7 @@ Item No	Color	Code
 4032	Bright Green	6138624
 4032	Bright Light Blue	6383134
 4032	Bright Light Orange	6385485
+4032	Bright Light Yellow	6600301
 4032	Bright Pink	6498749
 4032	Brown	403225
 4032	Dark Azure	6226919
@@ -34572,6 +34651,7 @@ Item No	Color	Code
 4032	Trans-Clear	403240
 4032	Trans-Clear	4243281
 4032	White	403201
+4032	White	6601914
 4032	Yellow	403224
 4032.10stk01	(Not Applicable)	4255620
 4032.11stk01	(Not Applicable)	4494061
@@ -34782,6 +34862,7 @@ Item No	Color	Code
 4066pb017	Blue	4173807
 4066pb018	Yellow	4169079
 4066pb024	Yellow	4100862
+4066pb028	Yellow	82438
 4066pb029	Red	4100867
 4066pb029	Red	4143627
 4066pb030	Yellow	4114432
@@ -35088,6 +35169,12 @@ Item No	Color	Code
 4066pb890	Trans-Light Blue	6535620
 4066pb891	Reddish Orange	6535623
 4066pb892	Dark Azure	6536358
+4066pb896	White	6588455
+4066pb897	White	6588454
+4066pb898	White	6588465
+4066pb900	White	6588457
+4066pb901	Tan	6588459
+4066pb902	Bright Light Yellow	6588456
 4070	Black	407026
 4070	Blue	407023
 4070	Bright Green	6314376
@@ -35970,6 +36057,8 @@ Item No	Color	Code
 4162pb333	Black	6584310
 4162pb334	White	6576392
 4162pb335	Black	6568604
+4162pb337	White	6585151
+4162pb338	White	6585152
 4165ppr01	(Not Applicable)	4141510
 4165stk01	(Not Applicable)	4141511
 4166	Dark Gray	416627
@@ -36966,6 +37055,7 @@ Item No	Color	Code
 4282	White	4112540
 4282	White	4119227
 4282	White	428201
+4282	White	6609534
 4282	Yellow	428224
 4282	Yellow	6207377
 4284	Dark Tan	4620814
@@ -36979,6 +37069,7 @@ Item No	Color	Code
 4285b	Black	4189129
 4285b	Black	428526
 4285b	Black	4509865
+4285b	Black	6603362
 4285b	Blue	4141765
 4285b	Blue	4223868
 4285b	Blue	428573
@@ -38511,6 +38602,7 @@ Item No	Color	Code
 4543	Yellow	454324
 4543	Yellow	6258169
 4544	Red	454421
+4544	Yellow	454424
 4544pb04	Red	4264919
 4544pb05	Red	4526498
 4544pb05	Red	4612106
@@ -38531,6 +38623,7 @@ Item No	Color	Code
 4558stk02	(Not Applicable)	164557
 4558stk02us	(Not Applicable)	162323
 4559c01	Blue	4263156
+4559c01	Blue	73357
 4559c01	Bright Green	4541297
 4559c01	Bright Light Orange	4541298
 4559c02	Black	4285014
@@ -38693,6 +38786,7 @@ Item No	Color	Code
 4589	Light Bluish Gray	4518652
 4589	Light Bluish Gray	4529241
 4589	Light Gray	458902
+4589	Lime	4212451
 4589	Metallic Silver	4290380
 4589	Metallic Silver	4529351
 4589	Orange	4159976
@@ -39286,6 +39380,7 @@ Item No	Color	Code
 4672	Tan	4255196
 4672	Tan	4279300
 4672	Tan	6021689
+4672	Tan	6109110
 4672	Tan	6184966
 4672	Tan	6288592
 4672	White	4563573
@@ -39297,8 +39392,6 @@ Item No	Color	Code
 4672	Yellow	6278979
 4672	Yellow	6465940
 4672	Yellowish Green	6469546
-4677c01	Blue	4144340
-4677c03	White	74304
 4689cdb01	(Not Applicable)	4222940
 4689cdb02	(Not Applicable)	4222941
 4693stk01	(Not Applicable)	4233398
@@ -40139,6 +40232,7 @@ Item No	Color	Code
 4860c02	Orange	4276965
 4860c03	Blue	4541142
 4860c03	Bright Light Orange	4224095
+4860c03	Yellow	4169104
 4860c05	Blue	4540649
 4860c05	Trans-Dark Blue	4292839
 4861	Black	4114523
@@ -40301,6 +40395,7 @@ Item No	Color	Code
 4865b	Dark Bluish Gray	4271950
 4865b	Dark Bluish Gray	6146225
 4865b	Dark Green	4528713
+4865b	Dark Orange	6589313
 4865b	Dark Red	6274681
 4865b	Dark Tan	6005897
 4865b	Dark Tan	6146234
@@ -40478,6 +40573,7 @@ Item No	Color	Code
 4882	Yellow	488224
 4885	Dark Blue	4264805
 4885	Medium Dark Pink	488516
+4886	Bright Green	6602608
 4886	Bright Light Blue	6447794
 4886	Bright Light Yellow	6333127
 4886	Bright Light Yellow	6476080
@@ -41046,6 +41142,7 @@ Item No	Color	Code
 5175	Lime	6470230
 5175	White	6461067
 5181	Medium Lavender	6505252
+5181	Yellow	6600062
 5187	Black	6461195
 5188	Dark Bluish Gray	6461196
 5188	Dark Turquoise	6482017
@@ -41103,6 +41200,7 @@ Item No	Color	Code
 5268pb01	Sand Blue	6467207
 5271	Pearl Dark Gray	6466836
 5272pb01	Trans-Dark Pink	6466858
+5274	Bright Green	6596711
 5274	Light Bluish Gray	6508818
 5274	Red	6507856
 5274	Reddish Orange	6508817
@@ -41127,6 +41225,7 @@ Item No	Color	Code
 5294	Black	6464609
 5304c01	White	6454554
 5304c01	White	6588014
+5304c01	White	6666303
 5306bc015	Black	75565
 5306bc020	Black	4100355
 5306bc020	Yellow	4112987
@@ -41180,6 +41279,7 @@ Item No	Color	Code
 5386	Dark Red	6524444
 5386	Tan	6468834
 5401pb01	Trans-Clear	6480502
+5401pb01	Trans-Clear	6661102
 5404	Black	6483559
 5404	Black	6513918
 5404	Blue	6485125
@@ -41324,6 +41424,7 @@ Item No	Color	Code
 5483d	Pearl Dark Gray	6471829
 5484c01	White	6454564
 5484c01	White	6586718
+5484c01	White	6666299
 5489	Black	6510152
 5489	Bright Green	6549669
 5489	Bright Light Orange	6510157
@@ -41389,6 +41490,7 @@ Item No	Color	Code
 5520	Medium Nougat	6474122
 5520	Medium Nougat	6513939
 5520	Red	6545843
+5520	Trans-Clear	6600299
 5520	White	6494548
 5520	White	6541091
 5520	Yellow	6584404
@@ -41428,6 +41530,7 @@ Item No	Color	Code
 5540	Light Bluish Gray	6475652
 5540	Red	6512261
 5540	White	6548680
+5540	White	6609543
 5542stk01	(Not Applicable)	4111899
 5549pb01	Red	6478720
 5553pb01	Reddish Brown	6480961
@@ -41481,6 +41584,7 @@ Item No	Color	Code
 5647	Magenta	6588812
 5647	Orange	6521375
 5647	Pearl Dark Gray	6555860
+5647	Pearl Gold	6595789
 5647	Sand Green	6531746
 5648	Trans-Clear	6481549
 5648	Trans-Clear	6554635
@@ -41735,6 +41839,7 @@ Item No	Color	Code
 5848	Red	6585072
 5848	Reddish Brown	6587621
 5848	Tan	6587444
+5848	Trans-Clear	6609778
 5848	White	6575549
 5848stk01	(Not Applicable)	4111850
 5849	Black	6590270
@@ -44822,6 +44927,7 @@ Item No	Color	Code
 6239pb122	Neon Yellow	6579978
 6239pb123	Black	6592506
 6239pb125	Black	6593161
+6239pb126	Dark Turquoise	6579955
 6239px1	White	4153972
 6239px4	Yellow	4169487
 6239px5	Orange	4171377
@@ -45593,6 +45699,7 @@ Item No	Color	Code
 6442pb02	Yellow	81862
 6442stk01	(Not Applicable)	4106603
 6445stk01	(Not Applicable)	4113890
+6446	Blue	6600055
 6446	Brown	644625
 6446	Dark Orange	4158473
 6446	Light Brown	4217968
@@ -45813,6 +45920,7 @@ Item No	Color	Code
 6490	Light Bluish Gray	4256121
 6490	Light Lime	4259736
 6490	Lime	6433386
+6490	Lime	6600061
 6490	Orange	4223921
 6490	Red	4114085
 6490	Red	4622354
@@ -47004,10 +47112,12 @@ Item No	Color	Code
 6822	Bright Light Orange	6508992
 6822	Bright Pink	6610092
 6822	Light Nougat	6573534
+6822	White	6611996
 6822pb01	Bright Light Orange	6548305
 6823	Bright Light Orange	6508993
 6823	Bright Pink	6610094
 6823	Light Nougat	6573535
+6823	White	6612312
 6823pb01	Bright Light Orange	6548306
 6824	Flat Silver	6548198
 6824a	Flat Silver	6548198
@@ -47339,6 +47449,7 @@ Item No	Color	Code
 6957pb03	White	6602010
 6957pb04	White	6602009
 6957pb05	White	6587066
+6957pb06	Bright Green	6591564
 6958	Trans-Bright Green	6510438
 6958	Trans-Dark Blue	6530956
 6958	Trans-Light Blue	6568026
@@ -47621,6 +47732,8 @@ Item No	Color	Code
 7212pb004	Black	6578911
 7212pb005	White	6581594
 7212pb006	Dark Tan	6594717
+7212pb007	White	6585153
+7212pb008	White	6591562
 7213stk01	(Not Applicable)	4578506
 7217	Dark Blue	6528124
 7217	Dark Red	6576807
@@ -47763,6 +47876,12 @@ Item No	Color	Code
 7329	Tan	6536088
 7329	White	6559579
 7331ppr01	(Not Applicable)	4234689
+7332	Trans-Clear	6598042
+7333	Dark Purple	6598043
+7333	Light Bluish Gray	6609687
+7334	White	6598044
+7335	Black	6598041
+7336	Light Bluish Gray	6598034
 7343	Blue	6549303
 7343	Blue	6595304
 7343	Trans-Clear	6537230
@@ -47817,6 +47936,7 @@ Item No	Color	Code
 7467stk01	(Not Applicable)	4205500
 7468stk01	(Not Applicable)	4205508
 7468stk02	(Not Applicable)	4205510
+7469	White	6548852
 7469stk01	(Not Applicable)	4206809
 7470stk01	(Not Applicable)	4207365
 7471pls01	Trans-Dark Blue	4207646
@@ -47827,6 +47947,7 @@ Item No	Color	Code
 7493pb01	Black	6544148
 7498stk01	(Not Applicable)	4604187
 7501pb01	White	6549375
+7504	Black	6551470
 7504pb01	Black	6565209
 7506pb01	Medium Brown	6551829
 7508	Tan	6551994
@@ -47887,6 +48008,8 @@ Item No	Color	Code
 7602pb03	Black	6575153
 7602pb04	Pearl Gold	6594996
 7602pb05	Pearl Gold	6594998
+7608	Red	6563754
+7609	Tan	6563755
 7610	Light Nougat	6594897
 7610	Sand Green	6562752
 7613	Black	6597398
@@ -48038,6 +48161,7 @@ Item No	Color	Code
 7754	Pearl Gold	6567596
 7754stk01	(Not Applicable)	4558001
 7756pb01	Dark Red	6600030
+7756pb02	Black	6568338
 7757	Trans-Clear	6508985
 7757	Trans-Clear	6570743
 7757pb001	Trans-Clear	6570744
@@ -48050,6 +48174,7 @@ Item No	Color	Code
 7759	White	6568517
 7760stk01	(Not Applicable)	191936
 7762pb01	Bright Light Blue	6571680
+7769	Coral	6598033
 7773pb01	Blue	6572248
 7774stk01	(Not Applicable)	4501861
 7775stk01	(Not Applicable)	4501861
@@ -48078,6 +48203,7 @@ Item No	Color	Code
 7808	Black	6575838
 7812pb001	Trans-Clear	6599437
 7813	Black	6573122
+7818	Trans-Clear	6573182
 7821	Black	6605627
 7821	Light Bluish Gray	6573467
 7821pb01	Yellow	6585412
@@ -48144,6 +48270,7 @@ Item No	Color	Code
 7890stk01	(Not Applicable)	4287825
 7891stk01	(Not Applicable)	4290774
 7892stk01	(Not Applicable)	4290773
+7893	Trans-Black	6576971
 7893stk01	(Not Applicable)	4288130
 7894pb01	Blue Violet	6590436
 7894stk01	(Not Applicable)	4290769
@@ -48196,6 +48323,7 @@ Item No	Color	Code
 7948stk01	(Not Applicable)	4586368
 7954pb01	Bright Green	6586614
 7957stk01	(Not Applicable)	4622081
+7958	White	6581627
 7961	Light Bluish Gray	6590267
 7961	Tan	6592327
 7961	White	6592326
@@ -48233,6 +48361,7 @@ Item No	Color	Code
 8016stk01	(Not Applicable)	4542684
 8017stk01	(Not Applicable)	4543749
 8018stk01	(Not Applicable)	4542710
+8035	Pearl Dark Gray	6591913
 8036stk01	(Not Applicable)	4550366
 8037stk01	(Not Applicable)	4551354
 8039stk01	(Not Applicable)	4550364
@@ -48267,6 +48396,7 @@ Item No	Color	Code
 8093stk01	(Not Applicable)	4583260
 8095stk01	(Not Applicable)	4583262
 8096stk01	(Not Applicable)	4583263
+8097	Red	6595787
 8097stk01	(Not Applicable)	4587080
 8098stk01	(Not Applicable)	4583265
 8100stk01	(Not Applicable)	4499561
@@ -48307,6 +48437,7 @@ Item No	Color	Code
 8132stk01	(Not Applicable)	4496147
 8133stk01	(Not Applicable)	4496148
 8134stk01	(Not Applicable)	4496151
+8135	Satin Trans-Clear	6597500
 8135stk01	(Not Applicable)	4496152
 8136stk01	(Not Applicable)	4496153
 8137stk01	(Not Applicable)	4496154
@@ -49043,6 +49174,7 @@ Item No	Color	Code
 10202pb069	Reddish Brown	6511449
 10202pb069	Reddish Brown	6540968
 10202pb073	Black	6562990
+10202pb077	Reddish Brown	6609285
 10212stk01	(Not Applicable)	4568123
 10213stk01	(Not Applicable)	4587125
 10215stk01	(Not Applicable)	4587279
@@ -50133,6 +50265,7 @@ Item No	Color	Code
 11344	Medium Azure	6536716
 11344	Medium Nougat	6391783
 11344	Red	6020150
+11344	Red	6600044
 11344	Reddish Brown	6251702
 11344	Yellow	6020954
 11344pb002	Yellow	6056643
@@ -53781,6 +53914,7 @@ Item No	Color	Code
 17013pb04	Dark Bluish Gray	6259789
 17014pb01	Flat Silver	6071642
 17016pb01	Black	6083473
+17018	Black	6597678
 17018pb01	Bright Light Orange	6065827
 17018pb01	Bright Light Orange	6376551
 17018pb01	Yellow	6447508
@@ -53948,6 +54082,7 @@ Item No	Color	Code
 18115pb02	Dark Orange	6149919
 18115pb03	Dark Orange	6386670
 18115pb04	Medium Azure	6546724
+18115pb05	Dark Orange	6587447
 18153pb01	Dark Red	6088977
 18154pb01	Dark Red	6088988
 18159pb01	Dark Red	6088993
@@ -54033,6 +54168,7 @@ Item No	Color	Code
 18523c01	Light Bluish Gray	6137083
 18523c02	Red	6187366
 18523c03	White	6375443
+18523c04	White	6582226
 18527	Bright Light Orange	6108992
 18585	Black	6110042
 18585	Black	6210749
@@ -54173,6 +54309,7 @@ Item No	Color	Code
 18646	Reddish Brown	6430291
 18646	Tan	6099893
 18646	White	6192352
+18646	White	6609538
 18646	Yellow	6257060
 18646	Yellowish Green	6267416
 18649	Black	6099483
@@ -55211,6 +55348,7 @@ Item No	Color	Code
 19727pb019	Dark Blue	6134894
 19727pb019	Dark Blue	6162266
 19727pb019	Dark Blue	6481490
+19727pb020	Black	6584124
 19729	Black	6101985
 19729	Dark Brown	6101984
 19729	Dark Brown	6138164
@@ -55355,6 +55493,8 @@ Item No	Color	Code
 19729pb108	White	6584110
 19729pb109	Black	6584108
 19729pb110	Black	6584116
+19729pb111	Red	6584126
+19729pb112	Red	6584121
 19730	Bright Green	6336574
 19730	Dark Orange	6134363
 19730	Dark Orange	6192829
@@ -55965,6 +56105,7 @@ Item No	Color	Code
 21359stk01	(Not Applicable)	6549091
 21360stk01	(Not Applicable)	6546044
 21363stk01	(Not Applicable)	6551530
+21367stk01	(Not Applicable)	6593121
 21417pb01	Dark Tan	6153415
 21445	Black	6122656
 21445	Light Bluish Gray	6125569
@@ -56475,6 +56616,8 @@ Item No	Color	Code
 22385pb381	Pearl Gold	6545014
 22385pb388	Trans-Orange	6584348
 22385pb392	White	6584102
+22385pb393	Red	6584356
+22385pb394	Dark Green	6584355
 22387	Black	6129374
 22387	Black	6296955
 22387	Dark Blue	6129375
@@ -56536,6 +56679,7 @@ Item No	Color	Code
 22391	Pearl Dark Gray	6167897
 22391	Pearl Gold	6357781
 22391	Sand Green	6256459
+22391	Sand Green	6586062
 22391	White	6312379
 22392	Blue	6129175
 22392	Bright Light Orange	6129169
@@ -56714,6 +56858,7 @@ Item No	Color	Code
 22885	Reddish Brown	6500421
 22885	Tan	6214334
 22885	White	6218823
+22885	White	6603759
 22885	Yellow	6313592
 22886	Black	6228588
 22886	Bright Light Orange	6376313
@@ -57211,6 +57356,7 @@ Item No	Color	Code
 24085	Bright Green	6342672
 24085	Light Bluish Gray	6152482
 24085	Sand Green	6576904
+24085	Sand Green	6592903
 24085	Tan	6153596
 24085	Tan	6342671
 24086	Medium Nougat	6182225
@@ -57645,6 +57791,7 @@ Item No	Color	Code
 24246	Trans-Red	6507960
 24246	White	6131655
 24246	White	6250591
+24246	White	6609539
 24246	Yellow	6300104
 24246	Yellowish Green	6554608
 24246pb001	Flat Silver	6172736
@@ -57729,6 +57876,7 @@ Item No	Color	Code
 24299	Medium Azure	6296842
 24299	Medium Lavender	6542995
 24299	Medium Nougat	6433733
+24299	Olive Green	6590915
 24299	Orange	6173933
 24299	Pearl Dark Gray	6606719
 24299	Pearl Gold	6498728
@@ -57886,6 +58034,7 @@ Item No	Color	Code
 24452pb12	Bright Light Blue	6573982
 24452pb13	White	6548516
 24452pb14	Lavender	6572753
+24452pb15	Dark Azure	6584318
 24482	Black	6135009
 24482	Black	6269965
 24482	Bright Light Blue	6396057
@@ -58550,6 +58699,7 @@ Item No	Color	Code
 25971pb01	Black	6225531
 25971pb01	Dark Azure	6419171
 25971pb02	Bright Light Yellow	6256888
+25971pb02	Bright Light Yellow	6600177
 25971pb03	Bright Light Orange	6338845
 25971pb04	Red	6321421
 25972	Black	6179788
@@ -59036,8 +59186,10 @@ Item No	Color	Code
 26603pb586	Blue	6579962
 26603pb587	Blue	6579963
 26603pb588	White	6584776
+26603pb598	Lavender	6597026
 26603pb601	White	6593160
 26603pb603	Yellow	6585413
+26603pb604	Black	6593213
 26604	Black	6187572
 26604	Bright Green	6368621
 26604	Bright Light Orange	6292415
@@ -59236,6 +59388,7 @@ Item No	Color	Code
 27261	Dark Red	6212205
 27261	Dark Red	6329652
 27261	Dark Tan	6401026
+27261	Light Bluish Gray	6590917
 27261	Magenta	6439446
 27261	Medium Blue	6394528
 27261	Medium Nougat	6372265
@@ -59379,6 +59532,7 @@ Item No	Color	Code
 27382pb009	White	6482765
 27382pb010	White	6541567
 27382pb011	White	6541568
+27382pb012	White	6588458
 27383	Lime	6172277
 27383	White	6210049
 27383pb02	White	6225457
@@ -60357,6 +60511,7 @@ Item No	Color	Code
 30029	White	4195437
 30029	White	4277675
 30029	Yellow	4112043
+30030pb01	Green	82466
 30031	Black	3003126
 30031	Dark Bluish Gray	4210644
 30031	Dark Bluish Gray	4261908
@@ -61479,6 +61634,7 @@ Item No	Color	Code
 30165	Tan	4113230
 30165	Tan	6174929
 30165	White	4624989
+30165	White	6609535
 30165	Yellow	4181838
 30165	Yellow	4187061
 30165pb02	Tan	6227401
@@ -62515,6 +62671,7 @@ Item No	Color	Code
 30350bpb099	Pearl Gold	6288355
 30350bpb099	Pearl Gold	6360151
 30350bpb103	Flat Silver	6288536
+30350bpb103	Flat Silver	6407956
 30350bpb105	Dark Blue	6309239
 30350bpb105	Dark Blue	6331694
 30350bpb107	Dark Blue	6317074
@@ -65338,6 +65495,7 @@ Item No	Color	Code
 31212pb02	Yellow	4118989
 31212pb03	Green	4118993
 31212pb03	Red	4118991
+31213	Black	6564577
 31213	Blue	4121945
 31213	Bright Green	6431084
 31213	Bright Light Orange	4276096
@@ -70213,6 +70371,7 @@ Item No	Color	Code
 35216ac00pb035	Orange	6628658
 35216ac00pb036	Bright Light Yellow	6585094
 35216ac00pb037	Blue Violet	6593148
+35216ac00pb038	Lavender	6585477
 35216bc00pb001	Sand Blue	6399595
 35216bc00pb001	Sand Blue	6414000
 35216bc00pb002	Dark Turquoise	6404270
@@ -70591,6 +70750,7 @@ Item No	Color	Code
 35759c01pb01	Blue	6224209
 35762pb01	Dark Purple	6432339
 35762pb01	Magenta	6223572
+35762pb01	Orange	6600130
 35775	Blue	6211789
 35775	Green	6211792
 35775	Orange	6214642
@@ -70873,6 +71033,7 @@ Item No	Color	Code
 36036pb102	Light Bluish Gray	6578983
 36036pb103	Red	6574687
 36036pb104	Lavender	6579448
+36036pb105	Yellowish Green	6600172
 36037	Black	6460731
 36037	Dark Brown	6223875
 36037	Dark Brown	6420630
@@ -72692,7 +72853,7 @@ Item No	Color	Code
 40694stk01	(Not Applicable)	6507210
 40695stk01	(Not Applicable)	6503112
 40696stk01	(Not Applicable)	6490340
-40697a	Trans-Red	4156480
+40697pb01	Trans-Red	4156480
 40701stk01	(Not Applicable)	6502948
 40703c01pb01	Trans-Red	4156512
 40703c02	Trans-Red	4153166
@@ -72741,6 +72902,7 @@ Item No	Color	Code
 40902	Light Bluish Gray	6093870
 40902	Light Bluish Gray	6263494
 40902	White	6249388
+40906stk01	(Not Applicable)	6595921
 40913stk01	(Not Applicable)	6595594
 40918c01	Black	6526465
 40918c01	Light Bluish Gray	6240630
@@ -72796,6 +72958,8 @@ Item No	Color	Code
 40938	Reddish Brown	6424457
 40942	Dark Gray	4153847
 40953stk01	(Not Applicable)	6595936
+40954stk01	(Not Applicable)	6595942
+40955stk01	(Not Applicable)	6627206
 40996	Blue	4226316
 40996	Lime	4277162
 40996	Orange	4297283
@@ -72908,6 +73072,7 @@ Item No	Color	Code
 41148stk01	(Not Applicable)	6177495
 41150stk01a	(Not Applicable)	6178020
 41152stk01	(Not Applicable)	6214594
+41153pb01	Dark Blue	6595617
 41153pb01	Dark Red	6265071
 41153pb01	Pearl Dark Gray	6265077
 41153pb01	White	6265076
@@ -72974,6 +73139,7 @@ Item No	Color	Code
 41180stk01	(Not Applicable)	6154874
 41180stk02	(Not Applicable)	6154877
 41184stk01	(Not Applicable)	6181562
+41185stk01	(Not Applicable)	6181563
 41187stk01a	(Not Applicable)	6195293
 41192stk01	(Not Applicable)	6213628
 41193stk01	(Not Applicable)	6213632
@@ -73071,6 +73237,7 @@ Item No	Color	Code
 41288	Red	4157427
 41288	Yellow	4157429
 41288stk01	(Not Applicable)	6227098
+41302stk01	(Not Applicable)	6174249
 41305stk01	(Not Applicable)	6170254
 41307stk01	(Not Applicable)	6170883
 41310stk01a	(Not Applicable)	6178294
@@ -74199,6 +74366,7 @@ Item No	Color	Code
 41769	Orange	4169350
 41769	Orange	6224252
 41769	Orange	6433119
+41769	Pearl Dark Gray	6606716
 41769	Pearl Gold	6493272
 41769	Red	4160866
 41769	Reddish Brown	4205469
@@ -74257,6 +74425,7 @@ Item No	Color	Code
 41770	Orange	4169351
 41770	Orange	6224249
 41770	Orange	6433114
+41770	Pearl Dark Gray	6606720
 41770	Pearl Gold	6493273
 41770	Red	4161329
 41770	Reddish Brown	4205470
@@ -75113,6 +75282,7 @@ Item No	Color	Code
 42055stk01a	(Not Applicable)	6155286
 42055stk01b	(Not Applicable)	6181834
 42056stk01	(Not Applicable)	6154914
+42057stk01	(Not Applicable)	6171760
 42058	Bright Green	4162967
 42058	Dark Gray	4169950
 42058	White	4169949
@@ -75467,6 +75637,8 @@ Item No	Color	Code
 42277c01	Red	4162990
 42301	White	4163212
 42304	Medium Blue	4163215
+42305	(Not Applicable)	4180337
+42307	Yellow	4163217
 42309	White	4166879
 42310	(Not Applicable)	4163218
 42311	Black	4163219
@@ -75502,6 +75674,7 @@ Item No	Color	Code
 42405	Black	4165974
 42405	Pearl Light Gray	4264439
 42406	Trans-Brown	4168639
+42435	(Not Applicable)	4173820
 42435a	(Not Applicable)	4173952
 42435b	(Not Applicable)	4173953
 42436	(Not Applicable)	4173818
@@ -75864,6 +76037,8 @@ Item No	Color	Code
 43010stk04	(Not Applicable)	6572742
 43019stk01	(Not Applicable)	6594721
 43021stk01	(Not Applicable)	6552308
+43025stk01	(Not Applicable)	6600469
+43025stk02	(Not Applicable)	6619648
 43045	Black	6256116
 43045	Light Bluish Gray	6256117
 43045	Magenta	6263358
@@ -77107,6 +77282,7 @@ Item No	Color	Code
 44301a	Light Bluish Gray	4211803
 44301a	Light Gray	4183037
 44301a	Lime	4213303
+44301a	Medium Blue	4213302
 44301a	Orange	4183047
 44301a	Red	4183039
 44301a	Reddish Brown	4211289
@@ -77139,6 +77315,7 @@ Item No	Color	Code
 44302	Blue	4183052
 44302	Blue	4518447
 44302	Blue	4655150
+44302	Bright Green	6603357
 44302	Brown	4183054
 44302	Dark Blue	4255450
 44302	Dark Bluish Gray	4210884
@@ -77152,6 +77329,7 @@ Item No	Color	Code
 44302	Light Bluish Gray	4211804
 44302	Light Bluish Gray	6267048
 44302	Light Gray	4183049
+44302	Lime	4213299
 44302	Medium Nougat	6451485
 44302	Orange	4183063
 44302	Orange	6481563
@@ -78646,6 +78824,7 @@ Item No	Color	Code
 45677pb173	Bright Light Orange	6579693
 45677pb174	White	6584816
 45677pb175	Black	6593162
+45677pb176	Red	6584360
 45677px2	Black	4248604
 45678stk01	(Not Applicable)	6268046
 45705	Black	4194212
@@ -80314,6 +80493,7 @@ Item No	Color	Code
 47972	Dark Bluish Gray	4222118
 47973	Black	4218942
 47973	Dark Bluish Gray	4222244
+47973	Dark Bluish Gray	6021026
 47973	Dark Bluish Gray	6078262
 47973	Light Bluish Gray	4220848
 47973	Red	4222119
@@ -83708,9 +83888,9 @@ Item No	Color	Code
 54120	Black	4291178
 54120	Black	6005202
 54125pb01	Black	4283037
-54125pb01	Dark Orange	4283074
 54125pb02	Black	4283036
 54125pb02	Light Purple	4283075
+54125pb03	Dark Orange	4283074
 54128	Black	4279189
 54129	Black	4279190
 54131pb01	Black	4283029
@@ -84039,6 +84219,7 @@ Item No	Color	Code
 54647pb03	Bright Light Yellow	6327670
 54647pb03	Bright Light Yellow	6359849
 54675c01	Medium Azure	6265698
+54675c01	Medium Azure	6384811
 54675c02	Dark Bluish Gray	6317490
 54675c02	Dark Bluish Gray	6384835
 54696c01	Light Bluish Gray	6299646
@@ -84617,8 +84798,8 @@ Item No	Color	Code
 57561	Dark Green	4513249
 57561	White	4499714
 57562	Pearl Light Gray	4506045
-57562	Trans-Green	4498066
 57562pb01	Glow In Dark Opaque	4503165
+57562pb02	Trans-Green	4498066
 57563	Dark Blue	4519242
 57563	Flat Silver	4612766
 57563	Lime	4539420
@@ -84838,6 +85019,7 @@ Item No	Color	Code
 57895pb139	Trans-Clear	6519433
 57895pb139	Trans-Clear	6585200
 57895pb140	Medium Azure	6521986
+57895pb162	Trans-Clear	6584316
 57899	Black	4498712
 57900	Black	4533090
 57900	Dark Bluish Gray	4498711
@@ -85013,6 +85195,7 @@ Item No	Color	Code
 58234c04pb01	Lime	6020625
 58234c05pb01	White	4516636
 58234c06pb01	White	4498884
+58234c06pb01	White	6019828
 58247	Black	4498713
 58247	Flat Silver	6122722
 58247	Pearl Dark Gray	6122730
@@ -85523,6 +85706,7 @@ Item No	Color	Code
 60123stk01	(Not Applicable)	6133182
 60124stk01a	(Not Applicable)	6133175
 60124stk01b	(Not Applicable)	6133183
+60125stk01	(Not Applicable)	6133176
 60128	Dark Bluish Gray	4508300
 60130stk01	(Not Applicable)	6133174
 60137stk01	(Not Applicable)	6172335
@@ -86519,6 +86703,7 @@ Item No	Color	Code
 60601	Dark Blue	6134371
 60601	Dark Brown	6492338
 60601	Dark Green	6266745
+60601	Light Bluish Gray	6584327
 60601	Lime	6550798
 60601	Satin Trans-Brown	6295088
 60601	Satin Trans-Brown	6514139
@@ -87195,6 +87380,7 @@ Item No	Color	Code
 61287	Trans-Clear	6250350
 61287	Trans-Clear	6375430
 61287	Trans-Clear	6414564
+61287	Trans-Clear	6660804
 61287	Trans-Orange	6476722
 61287pb001	Dark Tan	4633903
 61287pb002	Dark Tan	4633906
@@ -87392,6 +87578,7 @@ Item No	Color	Code
 61678	Blue	4540048
 61678	Blue	6045938
 61678	Blue	6580398
+61678	Bright Green	6603348
 61678	Bright Light Blue	4649754
 61678	Bright Light Blue	6058766
 61678	Bright Light Orange	6020093
@@ -87684,6 +87871,7 @@ Item No	Color	Code
 62360pb001	Trans-Clear	6023505
 62360pb003	Trans-Clear	6254010
 62360pb004	Sand Green	6284380
+62360pb009	Trans-Black	6586479
 62361	Black	4547625
 62361	Black	6334449
 62361	Black	6476010
@@ -88154,6 +88342,7 @@ Item No	Color	Code
 63864pb310	Yellow	6530599
 63864pb313	Dark Bluish Gray	6540615
 63864pb323	Red	6584101
+63864pb328	Black	6593214
 63868	Black	4535739
 63868	Black	6336989
 63868	Blue	4568990
@@ -90396,6 +90585,7 @@ Item No	Color	Code
 67095pb134R	Medium Azure	6587932
 67095pb135	Black	6605237
 67095pb136	White	6581637
+67095pb140	White	6591563
 67100pb01	Flat Silver	6295392
 67138	Red	6295955
 67138	White	6313994
@@ -90643,6 +90833,7 @@ Item No	Color	Code
 67811	Dark Green	6329283
 67811	White	6437702
 67811	Yellow	6389951
+67872	Medium Azure	6313821
 67872	White	6313820
 67887pb01	Bright Pink	6305193
 67887pb01	Bright Pink	6398205
@@ -90734,6 +90925,7 @@ Item No	Color	Code
 68212	Bright Light Yellow	6516341
 68212	Dark Turquoise	6434882
 68212	Olive Green	6541489
+68212	Yellowish Green	6601724
 68228pb01	Medium Nougat	6302203
 68297	Black	6435265
 68297	Dark Bluish Gray	6311001
@@ -91341,6 +91533,7 @@ Item No	Color	Code
 70313stk01a	(Not Applicable)	6132762
 70313stk01b	(Not Applicable)	6132763
 70315stk01	(Not Applicable)	6129352
+70317stk01	(Not Applicable)	6132402
 70319stk01a	(Not Applicable)	6132440
 70319stk01b	(Not Applicable)	6132441
 70321stk01	(Not Applicable)	6139808
@@ -91354,6 +91547,7 @@ Item No	Color	Code
 70326stk01b	(Not Applicable)	6153499
 70327stk01a	(Not Applicable)	6147074
 70327stk01b	(Not Applicable)	6147075
+70348stk01	(Not Applicable)	6174911
 70352stk01	(Not Applicable)	6177243
 70354stk01	(Not Applicable)	6192570
 70355stk01	(Not Applicable)	6192495
@@ -91397,6 +91591,7 @@ Item No	Color	Code
 70588stk01b	(Not Applicable)	6147634
 70589stk01a	(Not Applicable)	6147645
 70589stk01b	(Not Applicable)	6147667
+70591stk01a	(Not Applicable)	6147715
 70592	Black	6320222
 70592stk01a	(Not Applicable)	6147738
 70592stk01b	(Not Applicable)	6147739
@@ -91404,11 +91599,20 @@ Item No	Color	Code
 70593stk01b	(Not Applicable)	6147764
 70594stk01a	(Not Applicable)	6147784
 70594stk01b	(Not Applicable)	6147785
+70595stk01a	(Not Applicable)	6147786
 70595stk01b	(Not Applicable)	6147787
 70599stk01a	(Not Applicable)	6132985
 70599stk01b	(Not Applicable)	6132986
 70600pb01	Red	6322941
+70600stk01a	(Not Applicable)	6132996
+70600stk01b	(Not Applicable)	6133000
+70601stk01a	(Not Applicable)	6133005
+70601stk01b	(Not Applicable)	6133006
 70602stk01	(Not Applicable)	6133007
+70603stk01a	(Not Applicable)	6133013
+70603stk01b	(Not Applicable)	6133014
+70604stk01a	(Not Applicable)	6133016
+70604stk01b	(Not Applicable)	6133017
 70605stk01a	(Not Applicable)	6133020
 70605stk01b	(Not Applicable)	6133022
 70607stk01	(Not Applicable)	6186785
@@ -91419,6 +91623,7 @@ Item No	Color	Code
 70614stk01	(Not Applicable)	6186794
 70616stk01	(Not Applicable)	6186797
 70617stk01	(Not Applicable)	6207141
+70618stk01	(Not Applicable)	6186799
 70620stk01	(Not Applicable)	6186800
 70620stk02	(Not Applicable)	6202601
 70622stk01	(Not Applicable)	6170596
@@ -91454,6 +91659,7 @@ Item No	Color	Code
 70673stk01	(Not Applicable)	6268352
 70674pls01	(Not Applicable)	6268528
 70674stk01	(Not Applicable)	6268356
+70675	Blue	6600053
 70675	Tan	6323949
 70675stk01	(Not Applicable)	6268357
 70676	Blue	6433388
@@ -91545,6 +91751,8 @@ Item No	Color	Code
 70728stk01	(Not Applicable)	6074629
 70732stk01a	(Not Applicable)	6112829
 70732stk01b	(Not Applicable)	6112830
+70737stk01	(Not Applicable)	6112820
+70737stk02	(Not Applicable)	6120126
 70738pls01	(Not Applicable)	6118915
 70738stk01	(Not Applicable)	6112821
 70748stk01a	(Not Applicable)	6100355
@@ -92016,6 +92224,7 @@ Item No	Color	Code
 71858stk01	(Not Applicable)	6579044
 71859pls01	(Not Applicable)	6595581
 71859stk01	(Not Applicable)	6578612
+71860stk01	(Not Applicable)	6625222
 71861stk01	(Not Applicable)	6578614
 71861stk02	(Not Applicable)	6578615
 71861stk03	(Not Applicable)	6578616
@@ -92641,6 +92850,7 @@ Item No	Color	Code
 75138stk01a	(Not Applicable)	6142378
 75138stk01b	(Not Applicable)	6142381
 75139stk01a	(Not Applicable)	6143327
+75139stk01b	(Not Applicable)	6143328
 75144stk01	(Not Applicable)	6169990
 75147stk01a	(Not Applicable)	6152447
 75147stk01b	(Not Applicable)	6152448
@@ -92922,6 +93132,7 @@ Item No	Color	Code
 75871	Black	6434658
 75872	Sand Green	6359858
 75872stk01	(Not Applicable)	6142275
+75873stk01a	(Not Applicable)	6142271
 75874stk01a	(Not Applicable)	6142617
 75874stk01b	(Not Applicable)	6142618
 75875stk01	(Not Applicable)	6141875
@@ -93275,6 +93486,7 @@ Item No	Color	Code
 76328stk01	(Not Applicable)	6508666
 76328stk02	(Not Applicable)	6510944
 76329stk01	(Not Applicable)	6545022
+76331stk01	(Not Applicable)	6586493
 76332stk01	(Not Applicable)	6586448
 76333stk01	(Not Applicable)	6602621
 76341stk01	(Not Applicable)	6584312
@@ -93427,6 +93639,7 @@ Item No	Color	Code
 76796	Trans-Clear	6334522
 76796	Trans-Clear	6601426
 76796pb01	Trans-Clear	6347788
+76796pb02	Trans-Clear	6585145
 76797	Black	6385597
 76797	Blue	6441096
 76797	Bright Green	6404637
@@ -93453,6 +93666,7 @@ Item No	Color	Code
 76797	Reddish Brown	6551601
 76797	Tan	6404615
 76797	White	6334524
+76797	White	6609540
 76797	Yellow	6397957
 76797pb01	Red	6467607
 76797pb02L	Yellowish Green	6469681
@@ -94390,6 +94604,7 @@ Item No	Color	Code
 79895	Dark Turquoise	6503564
 79895	Dark Turquoise	6514438
 79895	Pearl Gold	6385972
+79895	Pearl Gold	6597099
 79895pb01	Trans-Light Blue	6385970
 79895pb01	Trans-Orange	6385968
 79895pb02	Trans-Orange	6484298
@@ -95615,6 +95830,7 @@ Item No	Color	Code
 85984	Bright Green	6138510
 85984	Bright Light Blue	6133293
 85984	Bright Light Blue	6550232
+85984	Bright Light Orange	6020097
 85984	Bright Light Orange	6024286
 85984	Bright Light Yellow	6296510
 85984	Bright Light Yellow	6554801
@@ -97709,6 +97925,7 @@ Item No	Color	Code
 88496	Dark Bluish Gray	4568692
 88516	Black	4567999
 88516	Black	6261718
+88516	Black	6609953
 88517	Black	6176748
 88517	Black	6314354
 88517	Dark Bluish Gray	4568006
@@ -97807,6 +98024,7 @@ Item No	Color	Code
 88930	Bright Light Orange	6156683
 88930	Bright Light Orange	6522567
 88930	Bright Light Yellow	6147716
+88930	Dark Azure	6021644
 88930	Dark Azure	6036880
 88930	Dark Blue	6097430
 88930	Dark Bluish Gray	6121296
@@ -97890,6 +98108,7 @@ Item No	Color	Code
 88930pb201	Orange	6568648
 88930pb209L	Medium Nougat	6587848
 88930pb209R	Medium Nougat	6587847
+88930pb210	Black	6605196
 88931c01	Dark Bluish Gray	4563557
 88931c02	Dark Bluish Gray	6077990
 88954	Dark Red	4570054
@@ -97935,6 +98154,7 @@ Item No	Color	Code
 89398	Bright Green	6120601
 89398	Bright Green	6394198
 89398	Medium Blue	4620515
+89398	Medium Lavender	6598172
 89398	Red	6137424
 89398	Reddish Orange	6463055
 89398	White	6262255
@@ -99648,6 +99868,7 @@ Item No	Color	Code
 92438	Yellow	6377014
 92438	Yellowish Green	6523876
 92453	Bright Light Yellow	6345100
+92453	Bright Light Yellow	6602607
 92453	Dark Azure	6146769
 92453	Lavender	6345101
 92453	Light Aqua	6341618
@@ -101183,6 +101404,7 @@ Item No	Color	Code
 93606pb227	Dark Purple	6579698
 93606pb228	Red	6587471
 93606pb230	Red	6585325
+93606pb231	Light Bluish Gray	6593211
 93607	Bright Green	4618285
 93607	Lime	6029594
 93607	Medium Azure	6029595
@@ -101834,6 +102056,7 @@ Item No	Color	Code
 98100	Red	6523394
 98100	Tan	6215023
 98100	White	4649167
+98100	White	6609536
 98100pb01	White	4653823
 98100pb01	White	6020821
 98100pb02	Black	4653824
@@ -102604,6 +102827,10 @@ Item No	Color	Code
 98138pb464	Trans-Clear	6575296
 98138pb465	Pearl Gold	6574685
 98138pb466	Olive Green	6595698
+98138pb467	Black	6595930
+98138pb468	Black	6595931
+98138pb469	Black	6601607
+98138pb470	Black	6595928
 98139	Flat Silver	4646867
 98139	Flat Silver	6270136
 98139	Pearl Dark Gray	4646870
@@ -102944,6 +103171,9 @@ Item No	Color	Code
 98223pb051	Bright Light Yellow	6541569
 98223pb052	White	6535619
 98223pb053	White	6536357
+98223pb054	Red	6580923
+98223pb055	Lime	6580924
+98223pb056	Reddish Brown	6587446
 98224	Black	6171860
 98224	Black	6300388
 98224	Blue	4651504
@@ -102976,6 +103206,8 @@ Item No	Color	Code
 98224pb013	Yellow	6420888
 98224pb014	Lime	6420869
 98224pb015	Medium Lavender	6521909
+98224pb016	White	6580925
+98224pb017	White	6580928
 98225	Bright Light Yellow	6302600
 98225	Bright Pink	4644209
 98225	Dark Orange	6033052
@@ -103055,6 +103287,7 @@ Item No	Color	Code
 98249pb01	Yellow	6001737
 98249pb01	Yellow	6021149
 98252	Black	6431380
+98252	Black	6600052
 98252	Bright Green	6486218
 98252	Bright Light Orange	6478917
 98252	Bright Light Yellow	6296059
@@ -104549,6 +104782,7 @@ Item No	Color	Code
 109803c00pb05	Reddish Orange	6535166
 109803c00pb06	Dark Tan	6535265
 109803c00pb07	Dark Purple	6577046
+109803c00pb08	Dark Turquoise	6605041
 109805pb01	Orange	6536608
 109806pb01	Orange	6536606
 109806pb02	Medium Blue	6536607
@@ -104663,6 +104897,8 @@ Item No	Color	Code
 112160pb01	Medium Nougat	6543252
 112160pb02	Sand Blue	6543257
 112160pb03	White	6543253
+112174	White	6598035
+112175	Black	6598038
 112318	Dark Bluish Gray	6536965
 112346pb01	Bright Light Orange	6541410
 112372	Light Nougat	6537795
@@ -104682,6 +104918,7 @@ Item No	Color	Code
 112428pb01	Coral	6538279
 112428pb01	Dark Green	6555225
 112438	(Not Applicable)	6538526
+112440	Bright Light Blue	6587604
 112440	Bright Light Yellow	6538534
 112531pb01	Bright Light Orange	6539950
 112534pb01	Dark Turquoise	6542602
@@ -104738,6 +104975,7 @@ Item No	Color	Code
 114433pb01	Black	6584265
 114445pb01	Trans-Bright Green	6639039
 114471pb01	Bright Light Orange	6572238
+114476c01	Medium Azure	6563752
 114542pb01	Bright Pink	6581578
 114542pb02	Light Aqua	6581568
 114570pb01	Light Bluish Gray	6584099
@@ -104759,6 +104997,8 @@ Item No	Color	Code
 114837	Medium Nougat	6575335
 114842	Light Nougat	6575379
 114876	Tan	6575806
+114888	Dark Blue	6576354
+114912	Dark Blue	6576400
 114948pb01	Light Bluish Gray	6598612
 114948pb02	Black	6577808
 115061	Blue	6578666
@@ -104778,6 +105018,7 @@ Item No	Color	Code
 115499pb04	Red	6591009
 115499pb05	White	6582147
 115499pb06	Blue	6594795
+115530	(Not Applicable)	6582830
 115551pb01	Trans-Clear	6584086
 115880	Black	6586353
 115909	Light Nougat	6586977
@@ -104785,14 +105026,22 @@ Item No	Color	Code
 116016	Yellow	6589126
 116026	(Not Applicable)	6589673
 116106	Dark Pink	6590283
+116116	(Not Applicable)	6590488
 116134	Dark Red	6590799
+116247	Light Aqua	6592960
 116330	Trans-Clear	6593452
 116340	Orange	6593678
 116356	Orange	6593718
+117204	Black	6601630
+117247pb01	White	6593089
+117803pb01	White	6609583
+117803pb02	White	6609589
 132531c01	White	6554160
 132531c01	White	6586717
+132531c01	White	6666324
 201436c01	White	6454557
 201436c01	White	6610998
+201436c01	White	6669513
 854011stk01	(Not Applicable)	6297084
 854012stk01	(Not Applicable)	6299886
 854015stk01	(Not Applicable)	6297088
@@ -104827,6 +105076,7 @@ Item No	Color	Code
 910054stk02	(Not Applicable)	6601025
 910055stk01	(Not Applicable)	6601030
 910057stk01	(Not Applicable)	6602662
+910058stk01	(Not Applicable)	6601051
 2000421stk01	(Not Applicable)	6051881
 2000422stk01	(Not Applicable)	6051881
 2000423stk01	(Not Applicable)	6051881
@@ -105215,19 +105465,6 @@ duplamb01pb01	White	6018945
 duplamb01pb02	White	6215528
 duplamb02	White	6108567
 duplof1	Red	4242015
-dupmc	Blue	4250257
-dupmc	Blue	75881
-dupmc	Green	4143636
-dupmc	Green	75469
-dupmc	Red	4171902
-dupmc	Red	4285416
-dupmc	Red	4567525
-dupmc	Red	4568659
-dupmc	Red	4578635
-dupmc	White	4174122
-dupmc	White	4567524
-dupmc	White	4578638
-dupmc	White	74824
 dupmc3pb01	White	4612115
 dupmc3pb01	White	6063242
 dupmc3pb02	Medium Blue	6017018
@@ -105817,6 +106054,7 @@ FTGpb261c01	White	6354074
 FTGpb262c01	Light Nougat	6297353
 FTGpb263c01	Light Nougat	6299342
 FTGpb264c01	Light Nougat	6294382
+FTGpb264c01	Light Nougat	6354072
 FTGpb265c01	Light Nougat	6299333
 FTGpb266c01	Nougat	6295950
 FTGpb267c01	Light Nougat	6296141
@@ -106126,6 +106364,10 @@ FTGpb566c01	Light Nougat	6588275
 FTGpb567c01	Light Nougat	6584153
 FTGpb568c01	Nougat	6593181
 FTGpb569c01	Nougat	6594888
+FTGpb570c01	Light Aqua	6604974
+FTGpb571c01	Medium Tan	6585366
+FTGpb572c01	White	6586604
+FTGpb573c01	Nougat	6585470
 FTMpb001c01	Light Nougat	4612370
 FTMpb001c01	Light Nougat	6050486
 FTMpb008c01	Light Nougat	6101926
@@ -107176,6 +107418,7 @@ x351	Orange	4163951
 x351	Red	4162885
 x351	White	4163944
 x351	Yellow	4162135
+x353px2	White	71138
 x36	Black	4112929
 x37	Green	4125332
 x37	Light Bluish Gray	6564266
@@ -107441,10 +107684,11 @@ x90	Yellow	4544151
 x90	Yellow	70905
 x903pb01	Green	4550327
 x903pb02	Sand Green	4630118
-x903pb03	Sand Green	6078324
-x903pb03	Sand Green	6214565
-x903pb03	Sand Green	6308064
 x903pb04	Green	6139576
+x903pb05	Sand Green	6078324
+x903pb06	Sand Green	6214565
+x903pb06	Sand Green	6308064
+x903pb06	Sand Green	6602018
 x903px1	Dark Turquoise	4220936
 x903px1	Sky Blue	4217328
 x928cx1	Black	4194830
