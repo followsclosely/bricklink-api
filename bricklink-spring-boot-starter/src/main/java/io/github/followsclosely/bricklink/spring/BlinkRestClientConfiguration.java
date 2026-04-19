@@ -9,6 +9,7 @@ import io.github.followsclosely.toolbox.PathBuilder;
 import io.github.followsclosely.toolbox.web.cache.DiskCachingClientHttpRequestInterceptor;
 import io.github.followsclosely.toolbox.web.cache.DiskCachingHint;
 import io.github.followsclosely.toolbox.web.limiter.ApiRateLimiterClientHttpRequestInterceptor;
+import io.github.followsclosely.toolbox.web.limiter.DailyApiLimiterClientHttpRequestInterceptor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
@@ -66,6 +67,10 @@ public class BlinkRestClientConfiguration {
             builder.requestInterceptor(
                     new DiskCachingClientHttpRequestInterceptor(configuration.getCaching())
             );
+        }
+
+        if (configuration.getDailyLimit() != null && configuration.getDailyLimit().isEnabled()) {
+            builder.requestInterceptor(new DailyApiLimiterClientHttpRequestInterceptor(configuration.getDailyLimit()));
         }
 
         return builder.build();

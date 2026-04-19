@@ -2,6 +2,7 @@ package io.github.followsclosely.bricklink;
 
 import io.github.followsclosely.toolbox.web.cache.DiskCachingConfiguration;
 import io.github.followsclosely.toolbox.web.limiter.ApiRateLimiterConfiguration;
+import io.github.followsclosely.toolbox.web.limiter.DailyApiLimitConfiguration;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.boot.context.properties.ConfigurationProperties;
@@ -21,4 +22,5 @@ public class BlinkConfiguration {
 
     private DiskCachingConfiguration caching = new DiskCachingConfiguration();
     private ApiRateLimiterConfiguration apiLimits = new ApiRateLimiterConfiguration();
+    private DailyApiLimitConfiguration dailyLimit = new DailyApiLimitConfiguration();
 }
