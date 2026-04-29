@@ -898,7 +898,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 373	1998	4114948	1998 Insert - LEGO Club - US/Canadian (4114948)	1998	2.62
 373	1998 / Technic	4114952	1998 Insert - LEGO Direct - US/Canadian Technic (4114952)	1998	14
 371	1996	c96LDin2	1996 Insert - Lego Direct - US/Canadian (4103357)	1996	5.8
-378	2002 / Spybotics	4181069	2002 Insert - Spybotics - North America	2002	12
 371	1996 / Town / Classic Town	m96town3	1996 Mini Town North America (4.103.768-NA)	1996	4.2
 371	1996 / Service Packs	s96de1	1996 Medium Service Packs German (924.716-D)	1996	11.2
 369	1994 / Service Packs	s94de	1994 Medium Service Packs German (923323-D)	1994	7
@@ -1184,7 +1183,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 565	2006	c06dedc2	2006 Dealer Large German	2006	396
 565	2006	c06dedc3	2006 Dealer German '2nd Half Year Campaign'	2006	71
 366	1991	c91itdc	1991 Dealer Large Italian	1991	144
-368	1993	c93us2	1993 Large US Customer 'Let a Child Create'	1993	?
 374	1999	c99us2	1999 Large US Spring	1999	83
 370	1995	c95usdc	1995 Dealer Large US	1995	190
 544	2005	c05sah1a	2005 Shop at Home - January 2 (WOR U-2234)	2005	146
@@ -4570,7 +4568,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 361	1986	c86ch2	1986 Medium Swiss (2000221-CH)	1986	?
 1249	2023	c23sk1	2023 Large Slovak January - May (SK - 6442751)	2023	149
 355	1980 / Train	c80betr	1980 Large Train Belgian (99780-B)	1980	?
-786	2013 / Technic	c13tech	2013 Medium Technic (6033794/6033795)	2013	?
 560	1956	c56dk	1956 Danish	1956	5
 367	1992	c92se	1992 Large Swedish (922038-S)	1992	95
 369	1994 / Service Packs	s04se	1994 Medium Service Packs Swedish (923323-S)	1994	10
@@ -4911,7 +4908,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25be1	2025 Large Belgian January - June (BEFR f/Brand Retail - 6543360, BEFR - 6543389)	2025	198
 367	1992	c92sahhl2	1992 Shop at Home - Holiday	1992	133
 1319	2025	c25f1	2025 Large Formula 1	2025	68
-363	1988 / Fabuland	m88fab	1988 Mini Fabuland Dutch	1988	5.2
+363	1988 / Fabuland	m88nlf	1988 Mini Fabuland Dutch	1988	5.2
 756	2011 / Architecture	c11archdc1eu	2011 Dealer German Architecture (Central Europe)	2011	?
 345	1970	c70dk2	1970 Medium Danish (3407-Da)	1970	?
 354	1979 / Scala	c79dkscala	1979 Medium Scala Danish (104302-DK)	1979	?
@@ -4985,8 +4982,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25mx2	2025 Large Mexican August - December (MX - 6570332)	2025	221
 1319	2025	c25us1	2025 Large US January - June	2025	213
 1319	2025	c25sa1	2025 Large South American January - June	2025	?
-1319	2025	c25ch2	2025 Large Swiss March - June (DE/A Batch 2 - 6543370, DE/A f/B.R. Batch 2 - 6543356, 6543372, 6543374)	2025	210
-1319	2025	c25ch3	2025 Large Swiss January - June	2025	210
 1319	2025	c25ch4	2025 Large Swiss June - December (CH/DE/F - 6570288, CH/DE/F f/Brand Retail - 6570270)	2025	221
 1319	2025	c25fi1	2025 Large Finnish January - June (FI - 6543385)	2025	213
 1319	2025	c25fi2	2025 Large Finnish August - December (FI - 6570298)	2025	226
@@ -5045,6 +5040,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 743	2010	c10dedc	2010 Dealer Large German (459.5751-DE)	2010	460
 354	1979 / Technic	c79set	1979 Medium Technic Swedish (103312-S.)	1979	13
 1287	2024	c24no2	2024 Large Norwegian August - December (NO - 6519339)	2024	199
+1119	2021	c21sah1cafr	2021 Shop at Home - January Canadian French (WOR 1605)	2021	114
+1119	2021	c21sah4cafr	2021 Shop at Home - Fall Canadian French (WOR 1680)	2021	108.2
 353	1978	c78usdc	1978 Dealer Large US	1978	?
 491	2003	c96hudc	2003 Dealer Large Hungarian (4209914-HUN)	2003	?
 368	1993	c93dedc	1993 Dealer Catalog German	1993	?
@@ -5060,7 +5057,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 371	1996 / Western	m96westjp	1996 Mini Western Japanese (4.105.478-J)	1996	5
 581	2007	c07rudc1	2007 Dealer Russian - Novelties January - May 2007 (4507027-RU)	2007	140
 601	2008	c08rudc1	2008 Dealer Russian - Novelties June - December 2008	2008	?
-1360	2026	c26de1	2026 Large German January - June (DE/A f/B.R. - 6605817, DE-AT - 6605831, 6605833, 6605835)	2026	175
+1360	2026	c26de1	2026 Large German January - June (DE/A f/B.R. - 6605817, DE-AT - 6605831, 6605833, 6605835)	2026	176
 1319	2025	c25za1	2025 Large Middle East and African January - June (MENA - 6543411, RSA - 6543412)	2025	183
 351	1976	c76ch3	1976 Large Swiss (98.400-Schw)	1976	?
 371	1996	c96chBlue	1996 Large Swiss (924.714-CH.D) - Blue Cover	1996	?
@@ -5071,9 +5068,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25tr1	2025 Large Turkish January - June (TR - 6543407, TR for CAT - 6543417)	2025	?
 1213	2022	c22ua1	2022 Large Ukrainian January - May (UA - 6395196)	2022	169
 1360	2026	c26de2	2026 Large German March - June (DE/A f/B.R.-batch 2 - 6605892 DE-AT - Batch 2 - 6605832 DE-AT FH Insert - Batch 2 - 6605836)	2026	186
-1360	2026	c26de3	2026 Large German March - June (DE/A f/B.R.-batch 2 - P11 - 6605818, DE - Batch 2 - P11 - 6605891, DE SMYTH Insert - Batch 2 - P11 - 6605834) SMART Play	2026	182
+1360	2026	c26de3	2026 Large German March - June, SMART Play Version (DE/A f/B.R.-batch 2 - P11 - 6605818, DE - Batch 2 - P11 - 6605891, DE SMYTH Insert - Batch 2 - P11 - 6605834)	2026	207
 1360	2026	c26sah2	2026 Shop at Home - Spring (WOR 2153)	2026	37
 372	1997	c97jpdc	1997 Dealer Large Japanese	1997	?
 374	1999	c99hudc	1999 Dealer Hungarian	1999	?
 373	1998	c98hudc	1998 Dealer Large Hungarian	1998	?
 373	1998	c98frdc	1998 Dealer French	1998	?
+363	1988 / Fabuland	m88euf	1988 Mini Fabuland European (101783-EU)	1988	?
+365	1990	c90uk2	1990 Medium UK (921390-UK)	1990	21

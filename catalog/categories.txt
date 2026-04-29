@@ -908,6 +908,7 @@ Category ID	Category Name
 706	Spider-Man 2
 1354	Spider-Man 3
 1322	Spider-Man Across the Spider-Verse
+1383	Spider-Man Brand New Day
 1033	Spider-Man Far From Home
 956	Spider-Man Homecoming
 1162	Spider-Man No Way Home
@@ -1094,6 +1095,7 @@ Category ID	Category Name
 732	Toy Story
 1049	Toy Story 3
 1034	Toy Story 4
+1382	Toy Story 5
 645	Toy, Early
 679	Toy, Fast Food
 512	Toy, Plush
