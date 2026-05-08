@@ -204,7 +204,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 464	Bead	bead003pb009	Bead, Globular with Ball Pattern, Basketball Lines Black	?	1.9	1.5 x 1.5 x 1.3
 464	Bead	bead005	Bead, Technic Gear Style	?	1.05	? x ? x ?
 464	Bead	bead020c01	Bead, Minifigure Style Assembly SW Darth Vader	?	?	? x ? x ?
-464	Bead	bead022c01	Bead, Minifigure Style Assembly SW R2-D2	?	?	? x ? x ?
+464	Bead	bead022c01	Bead, Minifigure Style Assembly SW R2-D2	2002	1.85	1.6 x 2.1 x 1.6
 464	Bead	bead006	Bead, Cylinder Large	?	0.96	1.2 x 1.2 x 1.3
 464	Bead	bead003pb010	Bead, Globular with Ball Pattern, Soccer Pentagons	?	1.83	1.5 x 1.5 x 1.3
 464	Bead	bead003pb002	Bead, Globular with Leopard Spots Pattern	?	1.91	1.5 x 1.5 x 1.3
@@ -798,7 +798,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 525	Human Toiletries / BIONICLE	brush5	Toothbrush Battery Operated, Bionicle Onua Nuva - Colgate	2003	?	? x ? x ?
 525	Human Toiletries / BIONICLE	brush6	Toothbrush Battery Operated, Bionicle Tahu Nuva - Colgate	2003	149	23 x 6 x 6
 525	Human Toiletries / BIONICLE	brush7	Toothbrush Battery Operated, Bionicle Gali Nuva - Colgate	2003	?	? x ? x ?
-517	Watch	bb1001	Watch Part, Band Link - Standard without Rectangular Holes	?	0.33	1.02 x 1.8 x 0.42
+517	Watch	bb1001	Watch Part, Band Link - Standard without Rectangular Holes, Arched Profile Sides	?	0.33	1.02 x 1.8 x 0.42
 517	Watch	bb1002	Watch Part, Band Attachment - Clasp, Male with LEGO Logo	2000	0.51	1.8 x 1.8 x 0.4
 517	Watch	bb1003	Watch Part, Band Attachment - Clasp, Female	?	0.54	2 x 1.7 x 0.6
 517	Watch	bb1004	Watch Part, Band Link - Long with Studs	?	0.68	1.8 x 1.7 x 0.6
@@ -2335,7 +2335,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 336	Clock	97807	Wall Clock, LEGO Logo	1984	630	50 x 25 x 4.5
 517	Watch / Exo-Force	4507042	Watch Set, Exo-Force Elastic	2006	?	? x ? x ?
 517	Watch / Racers	4271021	Watch Set, Racers Constructor	2006	?	? x ? x ?
-517	Watch	4250341	Watch Set, Classic Constructor	2004	74	? x ? x ?
+517	Watch / Creator	4250341	Watch Set, Classic Constructor	2004	74	7.95 x 16.42 x 1.89
 517	Watch / Sports / Soccer	4193356	Watch Set, Soccer (Football) 2006	2006	66	? x ? x ?
 517	Watch / Racers	4507043	Watch Set, Racers Elastic	2006	?	? x ? x ?
 521	Photo Frame & Holder / Town / City	4494714	Photo Frame City (Men working in park)	2006	?	? x ? x ?
@@ -6866,7 +6866,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 399	Storage / NINJAGO / Rise of the Snakes	853409	NINJAGO Spinner Storage Box	2012	975	32 x 32 x 6.3
 517	Watch / Pirates of the Caribbean	5000141	Watch Set, Jack Sparrow	2012	58	? x ? x ?
 14	Magnet / NINJAGO / Rise of the Snakes	853404	Magnet Set, Minifigures NINJAGO (3) - Sensei Wu, Fangdam, Jay ZX - Glued with 2 x 4 Brick Bases blister pack	2012	62	? x ? x ?
-517	Watch	2850868	Watch Set, Classic Kids Watch	2012	?	? x ? x ?
+517	Watch / Creator	2850868	Watch Set, Classic Kids Watch	2012	?	? x ? x ?
 745	Building Event Instructions / LEGO Brand Store	MMMB1203DE	Mini-Modell des Monats-Karte - 2012 03 März, Garten und Regenwurm	2012	1.62	5.1 x 8.9 x 0.01
 252	Game / NINJAGO / The Golden Weapons	4617146	NINJAGO Score Pad	2010	?	? x ? x ?
 848	Retail Display Case / Power Miners	4559607	Display Assembled Set, Power Miners Set 8963 in Plastic Case	2009	1250	41.5 x 17 x 27
@@ -7507,7 +7507,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 241	Pen / Town / City / Harbor	LGO2223	City Pen, Boat Captain Minifigure, Retractable	2011	88.4	9.5 x 22 x 4
 1007	Accessory Pack / Dino 2010	4296983	Dino 2010 Parachute and Minifigure	2006	?	? x ? x ?
 848	Retail Display Case / Castle / Knights Kingdom I	KKIAML1	Display Assembled Set, Large Plastic Case Light with Knights Kingdom I (shows 6094, 6095, 6096, 6098)	2000	20200	120 x 40 x 30
-464	Bead	bead017pb01	Bead, Round 2 x 2 Dome Top with Silver and Blue Pattern (R2-D2)	?	?	? x ? x ?
+464	Bead	bead017pb01	Bead, Round 2 x 2 Dome Top with Silver and Blue Pattern (R2-D2)	2002	0.76	1.6 x 1.1 x 1.6
 517	Watch / Space / Alien Conquest	9003912	Watch Set, Alien Conquest	2011	?	? x ? x ?
 517	Watch / Castle / Kingdoms	9003400	Watch Set, Kingdoms	2011	?	? x ? x ?
 517	Watch / Town / City / Fire	9003448	Watch Set, City Fire	2011	?	? x ? x ?
@@ -9211,7 +9211,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 336	Clock / Friends	9009853	Alarm Clock, Brick 2 x 4 - Friends	2015	427	? x ? x ?
 517	Watch / Star Wars	8020288	Watch Set, SW Anakin Skywalker - Purple Watch Face	2015	82	10 x 15 x 3
 517	Watch / NINJAGO / Rise of the Snakes	8020041	Watch Set, NINJAGO Kendo Cole (2015)	2015	78	10 x 15 x 3
-517	Watch / Star Wars	8020295	Watch Set, SW Yoda (2015)	2015	78	10 x 15 x 3
+517	Watch / Star Wars	8020295	Watch Set, SW Yoda (2015)	2015	78	9.6 x 16.8 x 3.2
 517	Watch / Friends	8020172	Watch Set, Friends Stephanie with Minifigure	2015	80	? x ? x ?
 517	Watch / Friends	8020165	Watch Set, Friends Olivia with Minifigure	2015	80	? x ? x ?
 517	Watch / Star Wars	8020400	Watch Set, SW Han Solo And Chewbacca	2015	82	10 x 15 x 3
@@ -10706,9 +10706,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 517	Watch / Star Wars / Star Wars Episode 3	8021032	Watch Set, SW Yoda 2017	2017	78	10 x 15 x 3
 517	Watch / Star Wars	8021025	Watch Set, SW Stormtrooper (2017)	2017	82	10 x 15 x 3
 517	Watch / Star Wars / Star Wars Episode 7	8020998	Watch Set, SW Kylo Ren	2017	78	10 x 15 x 3
-517	Watch / Star Wars	8021018	Watch Set, SW Darth Vader (2017)	2017	77	10 x 15 x 3
+517	Watch / Star Wars	8021018	Watch Set, SW Darth Vader (2017)	2017	77	9.6 x 16.8 x 3.2
 517	Watch / Star Wars	8020370	Watch Set, SW Chewbacca (2016)	2016	73	10 x 15 x 3
-517	Watch / Star Wars / Star Wars Episode 7	8020929	Watch Set, SW BB-8	2017	77	10 x 15 x 3
+517	Watch / Star Wars / Star Wars Episode 7	8020929	Watch Set, SW BB-8	2017	77	9.6 x 16.8 x 3.2
 517	Watch / NINJAGO / The Hands of Time	8020912	Watch Set, NINJAGO Nya (The Hands of Time)	2017	?	10 x 15 x 3
 517	Watch / Super Heroes / Batman II	9001239	Watch Set, Super Heroes The Joker	2015	70	10 x 15 x 3
 517	Watch / Star Wars	8020424	Watch Set, SW Stormtrooper (2016)	2016	80	10 x 15 x 3
@@ -11448,7 +11448,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / (Other)	ctw014FR	Create the World Trading Card #014 Le Roi des Océans (French)	2018	1	5.5 x 8 x 0.03
 380	Card, Trading Card / (Other)	ctw068FR	Create the World Trading Card #068 Le Clown Triste (French)	2018	1	5.5 x 8 x 0.03
 380	Card, Trading Card / (Other)	ctw081FR	Create the World Trading Card #081 Le Koala (French)	2018	1	5.5 x 8 x 0.03
-517	Watch	bb1083	Watch Part, Band Link - Standard without Rectangular Holes, Oval-Shaped Sides	2013	0.4	1.1 x 1.9 x 0.3
+517	Watch	bb1083	Watch Part, Band Link - Standard without Rectangular Holes, Oval Profile Sides	2013	0.4	1.1 x 1.9 x 0.3
 380	Card, Trading Card / (Other)	ctw002FR	Create the World Trading Card #002 Hugo (French)	2018	1	5.5 x 8 x 0.03
 380	Card, Trading Card / (Other)	ctwpack04	Create the World Trading Cards - Pack of 4 - Incredible Inventions	2018	?	6 x 10 x 0.1
 380	Card, Trading Card / (Other)	ctw004FR	Create the World Trading Card #004  Le joueur de Saxophone (French)	2018	1	5.5 x 8 x 0.03
@@ -16500,7 +16500,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 996	Card, Greeting Card / Holiday & Event / Christmas	cc13	Christmas Card - 2013 Brand Store, Das LEGO Team München Riem (German)	2013	?	13.9 x 10.7 x 0.05
 472	Card, Postcard	pc13echt	Postcard - Echt Steinig (German)	2013	?	14.8 x 10.5 x 0.05
 380	Card, Trading Card / NEXO KNIGHTS	nex1derules	NEXO KNIGHTS Trading Card Game (German) Series 1 - Spielregeln	2016	?	? x ? x ?
-336	Clock	clk16	Clock Unit, Paw Prints Pattern (Gear 4393)	?	?	? x ? x ?
+336	Clock	clk16	Clock Unit, Paw Prints Pattern (Gear 4393)	2000	113	9.6 x 10.1 x 4
 380	Card, Trading Card / NINJAGO	njo05en023	NINJAGO Trading Card Game (English) Series 5 - # 23 Ultra Duel Red Visor	2020	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / NINJAGO	njo05en237	NINJAGO Trading Card Game (English) Series 5 - # 237 Puzzle Piece	2020	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / NINJAGO	njo05en162	NINJAGO Trading Card Game (English) Series 5 - # 162 The Desert of Doom	2020	2	6.2 x 8.8 x 0.02
@@ -22771,8 +22771,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 175	Food & Drink	5010096	Thermo Bottle Stud Top	2026	?	? x ? x ?
 517	Watch	bb1053pb02	Watch Part, Band Link - Minifigure Body Part, Head Male with Grin Pattern	?	0.81	? x ? x ?
 517	Watch	bb1053pb03	Watch Part, Band Link - Minifigure Body Part, Head Male with Open Mouth, White Teeth and Red Tongue Pattern	?	0.81	? x ? x ?
-517	Watch	bb1030pb01	Watch Part, Band Link - Minifigure Body Part, Hips and Legs with Red Hips Pattern (Superman)	?	?	? x ? x ?
-517	Watch	bb1030pb02	Watch Part, Band Link - Minifigure Body Part, Hips and Legs with Black Hips Pattern (Storm Trooper)	?	?	? x ? x ?
+517	Watch	bb1030pb01	Watch Part, Band Link - Minifigure Body Part, Hips and Legs with Red Hips Pattern (Superman)	?	0.88	? x ? x ?
+517	Watch	bb1030pb02	Watch Part, Band Link - Minifigure Body Part, Hips and Legs with Black Hips Pattern (Storm Trooper)	?	0.88	? x ? x ?
 517	Watch / Super Heroes / The LEGO Batman Movie	bb1030pb03	Watch Part, Band Link - Minifigure Body Part, Hips and Legs with Buckle, Pockets and Chain Pattern (The Joker)	2017	0.88	? x ? x ?
 517	Watch	bb1420	Watch Part, Band Link - Minifigure Body Part, Hips and Short Legs Plain	2019	0.55	? x ? x ?
 380	Card, Trading Card / NEXO KNIGHTS	nex2de001	NEXO KNIGHTS Trading Card Game (German) Series 2 - # 1 Mutiger Clay	2017	2	6.2 x 8.8 x 0.02
@@ -23888,5 +23888,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 252	Game	GA23rulesno	Brick Like This! Rulebook (Norwegian)	2025	15	14.8 x 21 x 0.55
 252	Game	GA23rulesfi	Brick Like This! Rulebook (Finnish)	2025	15	14.8 x 21 x 0.55
 252	Game	hourglass02	Hourglass for Brick Like This!	2025	13.1	2.5 x 9.15 x 2.5
+1008	Decoration / Star Wars / Star Wars The Mandalorian and Grogu	5010320	Display Ornament, Lenticular, Star Wars The Mandalorian and Grogu	2026	?	? x ? x ?
+1008	Decoration / Star Wars / Star Wars The Mandalorian and Grogu	5010325	Metal Card, Star Wars The Mandalorian and Grogu	2026	?	? x ? x ?
+503	Poster / Star Wars / Star Wars The Mandalorian	5010827	Star Wars Poster 2026, The Mandalorian's N-1 Starfighter	2026	?	? x ? x ?
 175	Food & Drink / Botanicals	5010326	Cup / Mug Ceramic Botanicals	2026	198	11 x 9.2 x 9.8
 380	Card, Trading Card / NINJAGO	njo11deLE05	NINJAGO Trading Card Game (German) Series 11 - # LE5 Gewaltiger Cole Limited Edition	2026	?	? x ? x ?

@@ -11679,10 +11679,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 9	sw1088	Jannah	2020	5
 65	Star Wars / Star Wars Episode 9	sw1089	Knight of Ren (Vicrul)	2020	3.8
 67	Town / City / Space Exploration	cty1092	Astronaut - Male, White Spacesuit with Orange Lines, Side Camera and Lamp, Goatee	2019	8.1
-65	Star Wars / Star Wars The Mandalorian	sw1077	Mandalorian Tribe Warrior - Female, Black Cape, Light Bluish Gray Helmet with Antenna / Rangefinder	2020	4
-65	Star Wars / Star Wars The Mandalorian	sw1078	Mandalorian Tribe Warrior - Female, Dark Brown Cape, Green Helmet with Antenna / Rangefinder	2020	4
-65	Star Wars / Star Wars The Mandalorian	sw1079	Mandalorian Tribe Warrior - Male, Dark Brown Cape, Dark Orange Helmet	2020	3.8
-65	Star Wars / Star Wars The Mandalorian	sw1080	Mandalorian Tribe Warrior - Male, Olive Green Cape, Dark Azure Helmet	2020	3.8
+65	Star Wars / Star Wars The Mandalorian	sw1077	Mandalorian Tribe Warrior (Amot Tenau) - Female, Black Cape, Light Bluish Gray Helmet with Antenna / Rangefinder	2020	4
+65	Star Wars / Star Wars The Mandalorian	sw1078	Mandalorian Tribe Warrior (Idalia Desta) - Female, Dark Brown Cape, Green Helmet with Antenna / Rangefinder	2020	4
+65	Star Wars / Star Wars The Mandalorian	sw1079	Mandalorian Tribe Warrior (Pen Varad) - Male, Dark Brown Cape, Dark Orange Helmet	2020	3.8
+65	Star Wars / Star Wars The Mandalorian	sw1080	Mandalorian Tribe Warrior (Hewitt Dala) - Male, Olive Green Cape, Dark Azure Helmet	2020	3.8
 768	Super Heroes / Avengers Endgame	sh0610	Rescue (Pepper Potts) - Dark Purple Armor	2019	4.7
 801	Minecraft	min070	Alex - Medium Azure Legs and Armor	2019	4.4
 801	Minecraft	min071	Blaze - Trans-Brown Cone Stand	2019	4.95
@@ -16296,7 +16296,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1285	Animal Crossing	ani005	Kapp'n	2024	5.48
 1285	Animal Crossing	ani006	Marshal	2024	5.86
 771	Friends	frnd0734	Friends Liann - Coral Patchwork Jacket, Sand Blue Trousers, Black Boots, Dark Turquoise Horse Riding Helmet	2024	3.05
-771	Friends	frnd0735	Friends Zoya	2024	2.02
+771	Friends	frnd0735	Friends Zoya - Micro Doll	2024	2.02
 227	Harry Potter	hp468	Hermione Granger - Gryffindor Robe Clasped, Black Skirt, Black Short Legs with Dark Bluish Gray Stripes, Open Mouth Scared / Closed Mouth Grin	2024	4.07
 167	DUPLO / DUPLO, Town / Farm	47205pb113	Duplo Figure Lego Ville, Child Girl, Light Bluish Gray Legs, Medium Azure Jacket with Capital Letter A and Buttons, Black Hair, Reddish Orange Riding Helmet (6474068)	2024	12.12
 167	DUPLO / DUPLO, Town / Farm	47394pb355	Duplo Figure Lego Ville, Male, Medium Azure Legs with Overalls and Pocket, Lime Bandana, Reddish Brown Hair and Stubble (6477388)	2024	14.96
@@ -16796,7 +16796,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1268	DREAMZzz	drm061	Zoey - Backpack and Pins with Tow Ball	2024	5.11
 1268	DREAMZzz	drm058	Dizzy - Cloth Skirt	2024	4.89
 1268	DREAMZzz	drm059	Astrid	2024	3.94
-67	Town / City / Harbor	cty1791	Man - Reddish Brown Hair, Orange Jacket and Life Jacket, Dark Blue Legs	2024	3.92
+67	Town / City / Harbor	cty1791	Man (Jason 'Just Jason' Brickle) - Reddish Brown Hair, Orange Jacket and Life Jacket, Dark Blue Legs	2024	3.92
 67	Town / City / Harbor	cty1792	Child - Boy, White Tank Top with Dark Azure Sailboat, Dark Azure Short Legs, Dark Tan Bowl Cut Hair, Orange Life Jacket	2024	3.48
 67	Town / City / Harbor	cty1793	Woman - Red Ball Cap with Reddish Brown Ponytail, Orange Life Jacket, Sand Blue Legs	2024	4.17
 67	Town / City / Harbor	cty1796	Dock Worker - Male, Neon Yellow Safety Vest with Reflective Stripes, Reddish Brown Legs, White Construction Helmet, Goatee	2024	3.36
@@ -17368,7 +17368,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Race	cty1868	Hot Dog Soapbox Race Car Driver (Vendor) - Female, Red and White Striped Shirt, Tan Legs, Red Ball Cap with Reddish Brown Ponytail	2025	3.84
 67	Town / City / Race	cty1869	Toilet Soapbox Race Car Driver (Plumber) - Male, Dark Turquoise Overalls with Toilet Logo, Dark Turquoise Legs, Neon Yellow Construction Helmet, Stubble	2025	3.37
 67	Town / City / Race	cty1870	Soapbox Race Car Mechanic - Female, Sand Blue Vest, Dark Azure Legs, Magenta Messy Hair, Freckles	2025	3.46
-67	Town / City / Race	cty1871	Soapbox Race Reporter - Male, Orange Jacket with Panels and Zipper, Dark Blue Legs, Reddish Brown Tousled Hair	2025	3.61
+67	Town / City / Race	cty1871	Soapbox Race Reporter (Jason 'Just Jason' Brickle) - Male, Orange Jacket with Panels and Zipper, Dark Blue Legs, Reddish Brown Tousled Hair	2025	3.61
 771	Friends	frnd0819	Friends Paisley - Bright Light Yellow and Medium Lavender Tank Top, Medium Lavender Shorts, Dark Tan Shoes	2025	3.22
 771	Friends	frnd0820	Friends Elsa D - White Knotted Sleeveless Shirt, Magenta Skirt, Black Boots	2025	4.07
 768	Super Heroes / The Infinity Saga	sh1035	Iron Legion - Dark Blue Head, One Piece Helmet, Stud Shooter	2025	?
@@ -18737,16 +18737,36 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars The Mandalorian and Grogu	sw1517	New Republic Astromech - Dark Green	2026	4.47
 65	Star Wars / Star Wars The Mandalorian and Grogu	sw1518	Carson Teva - X-Wing Flightsuit	2026	3.58
 167	DUPLO / Super Heroes / Spidey and his Amazing Friends	47394pb382	Duplo Figure Lego Ville, Green Goblin, Dark Purple Outfit (6593625)	2026	16.3
-65	Star Wars / Star Wars The Mandalorian and Grogu	sw1519	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jetpack, Printed Head	?	4.11
-65	Star Wars / Star Wars The Mandalorian and Grogu	sw1520	Din Grogu / The Child / 'Baby Yoda' - Long Robe	?	1.02
-65	Star Wars / Star Wars The Mandalorian and Grogu	sw1521	Imperial Remnant AT-RT Driver	?	4.18
-65	Star Wars / Star Wars The Mandalorian and Grogu	sw1522	Din Grogu / The Child / 'Baby Yoda' - Long Robe, Beskar Rondel with Mudhorn Signet	?	1.02
-65	Star Wars / Star Wars The Mandalorian and Grogu	sw1523	Anzellan - Black Hood (6581506)	?	0.68
-65	Star Wars / Star Wars The Mandalorian and Grogu	sw1524	Anzellan - Dark Brown Hood (6581505)	?	0.69
-65	Star Wars / Star Wars The Mandalorian and Grogu	sw1525	Imperial Stormtrooper - Dual Molded Helmet with Light Bluish Gray Panels on Back, Black Pauldron, Shoulder Belts, Medium Nougat Head	?	4.5
-65	Star Wars / Star Wars The Mandalorian and Grogu	sw1526	Colonel Ward - Sand Green Jacket, Reddish Brown Legs	?	3.84
-65	Star Wars / Star Wars The Mandalorian and Grogu	sw1527	Garazeb 'Zeb' Orrelios - Republic Flightsuit	?	3.77
+65	Star Wars / Star Wars The Mandalorian and Grogu	sw1519	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jetpack, Printed Head	2026	4.11
+65	Star Wars / Star Wars The Mandalorian and Grogu	sw1520	Din Grogu / The Child / 'Baby Yoda' - Long Robe	2026	1.02
+65	Star Wars / Star Wars The Mandalorian and Grogu	sw1521	Imperial Remnant AT-RT Driver	2026	4.18
+65	Star Wars / Star Wars The Mandalorian and Grogu	sw1522	Din Grogu / The Child / 'Baby Yoda' - Long Robe, Beskar Rondel with Mudhorn Signet	2026	1.02
+65	Star Wars / Star Wars The Mandalorian and Grogu	sw1523	Anzellan - Black Hood (6581506)	2026	0.68
+65	Star Wars / Star Wars The Mandalorian and Grogu	sw1524	Anzellan - Dark Brown Hood (6581505)	2026	0.69
+65	Star Wars / Star Wars The Mandalorian and Grogu	sw1525	Imperial Stormtrooper - Dual Molded Helmet with Light Bluish Gray Panels on Back, Black Pauldron, Shoulder Belts, Medium Nougat Head	2026	4.5
+65	Star Wars / Star Wars The Mandalorian and Grogu	sw1526	Colonel Ward - Sand Green Jacket, Reddish Brown Legs	2026	3.84
+65	Star Wars / Star Wars The Mandalorian and Grogu	sw1527	Garazeb 'Zeb' Orrelios - Republic Flightsuit	2026	3.77
 67	Town / City / Race	cty2003	Stunt Driver - Male, Dark Turquoise Jacket with Dark Green Panel, Dark Tan Legs, Black Helmet, Trans-Clear Visor	2026	3.66
 102	Scala	scaFemY04b	Scala Doll Female Young (Emma with 3270 Outfit)	1997	23.68
-167	DUPLO / Peppa Pig	47205pb132	Duplo Figure Lego Ville, Peppa Pig - Bright Light Blue Overalls with White and Yellow Flower (6601198)	?	11.49
-167	DUPLO / Disney / Disney Junior / Mickey Mouse Clubhouse	47394pb383	Duplo Figure Lego Ville, Minnie Mouse, White Top with Black Sleeves, Dark Pink Legs (6600689)	?	15
+878	Disney / Toy Story / Toy Story 5	dis193	Jessie - Normal Legs, Minifigure Head and Bow, Printed Dark Orange Boot Tips, Sheriff Star Badge	2026	4.43
+878	Disney / Toy Story / Toy Story 5	dis194	Woody - Plain Legs, Nougat Chin Dimple	2026	3.91
+1359	Editions	edi002	Lionel Messi	2026	3.57
+1359	Editions	edi003	Cristiano Ronaldo	2026	3.63
+167	DUPLO / Peppa Pig	47205pb132	Duplo Figure Lego Ville, Peppa Pig - Bright Light Blue Overalls with White and Yellow Flower (6601198)	2026	11.49
+167	DUPLO / Disney / Disney Junior / Mickey Mouse Clubhouse	47394pb383	Duplo Figure Lego Ville, Minnie Mouse, White Top with Black Sleeves, Dark Pink Legs (6600689)	2026	15
+746	Collectible Minifigures / Series 29 Minifigures	col475	Bionicle Cosplayer (Toa Tahu), Series 29 (Minifigure Only without Stand and Accessories)	2026	3.9
+746	Collectible Minifigures / Series 29 Minifigures	col476	Monster Hunter, Series 29 (Minifigure Only without Stand and Accessories)	2026	4.37
+746	Collectible Minifigures / Series 29 Minifigures	col474	Marine Biologist, Series 29 (Minifigure Only without Stand and Accessories)	2026	4.89
+746	Collectible Minifigures / Series 29 Minifigures	col473	Robot T. rex, Series 29 (Minifigure Only without Stand and Accessories)	2026	4.37
+746	Collectible Minifigures / Series 29 Minifigures	col477	Boba Cup Fan, Series 29 (Minifigure Only without Stand and Accessories)	2026	5.84
+746	Collectible Minifigures / Series 29 Minifigures	col478	Trash Monster, Series 29 (Minifigure Only without Stand and Accessories)	2026	3.86
+746	Collectible Minifigures / Series 29 Minifigures	col479	Chocolatier, Series 29 (Minifigure Only without Stand and Accessories)	2026	4.21
+746	Collectible Minifigures / Series 29 Minifigures	col480	Tuba Player, Series 29 (Minifigure Only without Stand and Accessories)	2026	3.87
+746	Collectible Minifigures / Series 29 Minifigures	col481	Soccer Goalkeeper, Series 29 (Minifigure Only without Stand and Accessories)	2026	3.81
+746	Collectible Minifigures / Series 29 Minifigures	col482	Cute Witch, Series 29 (Minifigure Only without Stand and Accessories)	2026	6.08
+746	Collectible Minifigures / Series 29 Minifigures	col483	Mysterious Ronin, Series 29 (Minifigure Only without Stand and Accessories)	2026	4.56
+746	Collectible Minifigures / Series 29 Minifigures	col484	Unicorn Elf, Series 29 (Minifigure Only without Stand and Accessories)	2026	4.45
+1359	Editions	edi004	Kylian Mbappé {Mbappe}	2026	3.32
+1359	Editions	edi005	Vini Jr.	2026	3.66
+1359	Editions	edi006	Lewis Hamilton	2026	3.73
+167	DUPLO / Peppa Pig	47205pb133	Duplo Figure Lego Ville, George Pig - Dark Azure Plain Outfit, Silver Earpiece (6600808)	2026	11.6

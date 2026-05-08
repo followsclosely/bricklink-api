@@ -3516,7 +3516,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 576	Curriculum Activity Book / Educational & Dacta	9311b02	Set 9311 Activity Card 2 (4582311)	2010	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta	9311b03	Set 9311 Activity Card 3 (4582312)	2010	?	? x ? x ?
 317	Idea Book / Town / City / Police	9781465416407	City - Build an Adventure	2013	?	? x ? x ?
-317	Idea Book / Castle / Fantasy Era	9781465416384	Castle - Build an Adventure	2013	?	? x ? x ?
+317	Idea Book / Castle / Fantasy Era	9781465416384	Castle - Build an Adventure	2013	?	23.2 x 27.8 x 3.9
 576	Curriculum Activity Book / Educational & Dacta / DUPLO	9161b1	Set 9161 Activity Card 1 (120247)	1991	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta / DUPLO	9161b2	Set 9161 Activity Card 2 (120247)	1991	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta / DUPLO	9161b3	Set 9161 Activity Card 3 (120247)	1991	?	? x ? x ?
@@ -7857,6 +7857,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1024	Magazine, NINJAGO	mag2016njo06es	NINJAGO Magazine 2016 Issue 6 (Spanish)	2016	?	21 x 28 x 0.1
 1024	Magazine, NINJAGO	mag2017njo07es	NINJAGO Magazine 2017 Issue 7 (Spanish)	2017	?	21 x 28 x 0.1
 1024	Magazine, NINJAGO	mag2026njo139de	NINJAGO Magazine 2026 Issue 139 (German)	2026	?	? x ? x ?
+1025	Magazine, Star Wars	mag2018sw02es	Star Wars Magazine 2018 Issue 2 (Spanish)	2018	0.3	21 x 27.5 x 0.5
 1025	Magazine, Star Wars	mag2018sw05es	Star Wars Magazine 2018 Issue 5 (Spanish)	2018	0.3	21 x 27.5 x 0.5
 766	Activity Book / Holiday & Event / Easter	b25hol01	Easter Build and Play!	2025	?	? x ? x ?
 331	Comic Book / NINJAGO / Legacy	com2026njol34de	NINJAGO Legacy Comic 2026 Issue 34 (German)	2026	?	? x ? x ?
@@ -7879,3 +7880,5 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1021	Magazine, City	mag2026cty87de	City Magazine 2026 Issue 87 (German)	2026	?	? x ? x ?
 332	Informational Book	b75other01	En klods. Her er historien om den	1975	?	? x ? x ?
 1024	Magazine, NINJAGO	mag2026njo140de	NINJAGO Magazine 2026 Issue 140 (German)	2026	?	? x ? x ?
+1025	Magazine, Star Wars	mag2026sw134es	Star Wars Magazine 2026 Issue 134 (Spanish)	2026	83	21 x 28 x 0.13
+1025	Magazine, Star Wars	mag2025sw129de	Star Wars Magazine 2025 Issue 129 (German)	2025	81	21 x 28 x 0.13
