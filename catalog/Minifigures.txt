@@ -971,7 +971,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 473	Sports / Soccer	soc049	Soccer Player - Red, White, and Blue Team with Number 4 on Back	?	3.36
 65	Star Wars	sw0051	Yoda - Sand Green	2002	2
 65	Star Wars / Star Wars Episode 4/5/6	sw0052	Tusken Raider - Tan Head, Plain Legs	2002	3.06
-469	Spider-Man / Spider-Man 1	spd001	Spider-Man 1 - Blue Arms and Legs, Silver Webbing	2003	3.21
+469	Spider-Man / Spider-Man 1	spd001	Spider-Man - Blue Arms and Legs, Silver Webbing	2003	3.21
 67	Town / Classic Town	zip018	Jacket with Zipper - White, White Legs, Black Male Hair	1992	3.36
 67	Town / Classic Town	zip019	Jacket with Zipper - White, White Legs, Brown Male Hair	1992	3.36
 67	Town / Classic Town	jbl001	Jacket Blue - Blue Legs, Red Cap, Sunglasses	1995	3.42
@@ -2055,7 +2055,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 469	Spider-Man / Spider-Man 1	spd009	Norman Osborn	2003	3
 469	Spider-Man / Spider-Man 1	spd010	Scientist With Open Jacket, Black and Brown Stripe Tie and Plaid Shirt	2003	3.36
 469	Spider-Man / Spider-Man 1	spd011	Criminal	2003	3.4
-469	Spider-Man / Spider-Man 1	spd012	Spider-Man 2 - Balaclava Face	2002	3.05
+469	Spider-Man / Spider-Man 1	spd012	Spider-Man - Balaclava Face	2002	3.05
 516	4 Juniors / Jack Stone	4j002	Police - Black Legs, Black Jacket, White Helmet, Yellow Head	2003	6
 65	Star Wars / Star Wars Episode 4/5/6	sw0106a	Luke Skywalker	?	3.36
 482	Discovery	sp060	Apollo Astronaut	2003	3.68
@@ -2256,7 +2256,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 102	Scala	72056	Scala Doll (Christian with Clothes)	1998	?
 102	Scala	71519	Scala Doll (Mother with 3201 Outfit)	1997	34.57
 102	Scala	71713	Scala Doll (Andrea with Clothes)	1997	24.31
-469	Spider-Man / Spider-Man 2	spd028	Spider-Man 3 - Dark Blue Arms and Legs, Silver Webbing	2004	3
+469	Spider-Man / Spider-Man 2	spd028	Spider-Man - Dark Blue Arms and Legs, Silver Webbing	2004	3
 67	Town / World City / Fire	wc024	Fire - Reflective Stripes, Black Legs, White Fire Helmet, Smile, Orange Vest	2004	3.8
 469	Spider-Man / Spider-Man 2	spd003	Police - Highway Patrolman, Black Shirt with Badge and Radio, Black Legs, White Helmet	2004	3.75
 469	Spider-Man / Spider-Man 2	spd029	Security Guard, Dark Bluish Gray Shirt w/Badge and Radio, Dark Bluish Gray Legs	2004	3.3
@@ -4011,7 +4011,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 689	Power Miners	pm008	Power Miner	?	3.8
 689	Power Miners	pm009	Power Miner	?	3.6
 689	Power Miners	pm010	Power Miner - Rex	2009	3.6
-469	Spider-Man / Spider-Man 1	spd001a	Spider-Man 1 - Blue Arms and Legs, Silver Webbing, Neck Bracket	2002	3.2
+469	Spider-Man / Spider-Man 1	spd001a	Spider-Man - Blue Arms and Legs, Silver Webbing, Neck Bracket	2002	3.2
 689	Power Miners	pm011	Power Miner - Orange Scar, Helmet	2009	3.6
 473	Sports / Gravity Games	gg019a	Skateboarder - Black Jacket, Medium Orange Legs, Black Knit Cap, Light Gray Neck Bracket	2003	3.57
 65	Star Wars / Star Wars The Clone Wars	sw0231	Astromech Droid, R7-A7 - Black Rectangles	2009	4.6
@@ -4141,11 +4141,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 9	Castle / Fantasy Era	cas424	Fantasy Era - Troll, Sand Green with Black Armor	2009	32.6
 9	Castle / Fantasy Era	cas418	Fantasy Era - Crown Knight Quarters, Helmet with Broad Brim, Black Messy Hair and Stubble	2009	4
 9	Castle / Fantasy Era	cas419	Fantasy Era - Crown Knight Scale Mail with Crown, Breastplate, Grille Helmet, Curly Eyebrows and Goatee	2009	4.6
-34	Space / Space Police III	sp094	Space Police 3 Officer 1	2009	3.73
-34	Space / Space Police III	sp095	Space Police 3 Officer 2 - Air Tanks	2009	4.27
-34	Space / Space Police III	sp096	Space Police 3 Officer 4 - Air Tanks	2009	4.92
+34	Space / Space Police III	sp094	Space Police 3 Officer  1	2009	3.73
+34	Space / Space Police III	sp095	Space Police 3 Officer  2 - Air Tanks	2009	4.27
+34	Space / Space Police III	sp096	Space Police 3 Officer  4 - Air Tanks	2009	4.92
 34	Space / Space Police III	sp097	Space Police 3 Alien - Snake with Visor	2009	4.28
-34	Space / Space Police III	sp098	Space Police 3 Officer 3	2009	4.4
+34	Space / Space Police III	sp098	Space Police 3 Officer  3	2009	4.4
 65	Star Wars / Star Wars The Clone Wars	sw0233	Clone Jet Trooper (Phase 1) - Large Eyes	2009	4.3
 65	Star Wars / Star Wars The Clone Wars	sw0241	Onaconda Farr	2009	3.2
 65	Star Wars / Star Wars The Clone Wars	sw0242	Nute Gunray - Dark Red Outfit, Dark Bluish Gray Headgear	2009	4
@@ -4188,7 +4188,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City	cty0152	Blue Jacket with Pockets and Orange Stripes, Dark Bluish Gray Legs, Black Helmet, Gray Beard	2009	3.7
 67	Town / City	twn049	Black Vest with Blue Striped Tie, Dark Bluish Gray Legs, White Arms, Black Short Tousled Hair	2009	3.4
 605	Indiana Jones / Kingdom of the Crystal Skull	iaj044	Indiana Jones - Dark Brown Jacket, Reddish Brown Fedora, Open Mouth Lopsided Grin	2009	3.67
-34	Space / Space Police III	sp099	Space Police 3 Officer 5 - Air Tanks	2009	4.3
+34	Space / Space Police III	sp099	Space Police 3 Officer  5 - Air Tanks	2009	4.3
 34	Space / Space Police III	sp100	Space Police 3 Alien - Snake without Visor	2009	3.27
 65	Star Wars / Star Wars Other	sw0097	Imperial Stormtrooper - Chrome Silver	2009	4.1
 153	Fabuland	fab3i	Fabuland Cat - Charlie Cat, Brown Head, Yellow Legs, Blue Top and Arms	1982	7.4
@@ -4200,7 +4200,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 34	Space / Space Police III	sp101	Space Police 3 Alien - Skull Twin	2009	3.8
 34	Space / Space Police III	sp102	Space Police 3 Alien - Slizer	2009	3.6
 34	Space / Space Police III	sp103	Statue - Space Police 3 Classic	2009	4
-34	Space / Space Police III	sp104	Space Police 3 Officer 6	2009	3.7
+34	Space / Space Police III	sp104	Space Police 3 Officer  6	2009	3.7
 609	Agents	agt013a	Dr. Inferno (Metallic Silver Claw)	2009	4.1
 9	Castle / Fantasy Era	cas427	Fantasy Era - Troll Warrior 10	2009	4.5
 9	Castle / Fantasy Era	cas428	Fantasy Era - Troll Warrior 11 with Cape	2009	3.96
@@ -5202,9 +5202,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1166	Games / Heroica	85863pb063	Microfigure Heroica Goblin King (4613073 / 6023709)	2011	0.64
 1166	Games / Heroica	85863pb064	Microfigure Heroica Golem Lord (4621885 / 6024395)	2011	0.64
 1166	Games / Heroica	85863pb065	Microfigure Heroica Golem Guardian (4621882)	2011	0.64
-1166	Games / Heroica	85863pb066	Microfigure Heroica Werewolf	2011	0.64
-1166	Games / Heroica	85863pb067	Microfigure Heroica Dark Druid	2011	0.64
-1166	Games / Heroica	85863pb069	Microfigure Heroica Ranger	2011	0.64
+1166	Games / Heroica	85863pb066	Microfigure Heroica Werewolf (4613079 / 6023718)	2011	0.64
+1166	Games / Heroica	85863pb067	Microfigure Heroica Dark Druid (4636636 / 6022427)	2011	0.64
+1166	Games / Heroica	85863pb069	Microfigure Heroica Ranger (4613070 / 6023704)	2011	0.64
 67	Town / City	cty0240	White Hoodie with Medium Blue Pocket, Dark Green Legs, Dark Orange Short Tousled Hair	2011	3
 67	Town / City / Police	cty0241	Police - City Suit with Blue Tie and Badge, Black Legs, Reddish Brown Female Hair over Shoulder	2011	3.79
 67	Town / City / Police	cty0242	Police - City Leather Jacket with Gold Badge, White Helmet, Trans-Brown Visor, Black Eyebrows	2011	3
@@ -5216,8 +5216,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter	hp130	Professor Remus Lupin - Dark Tan Suit	2011	3.43
 227	Harry Potter	hp131	Professor Pomona Sprout	2011	5.23
 227	Harry Potter	hp132	Gregory Goyle - Dark Bluish Gray Slytherin Sweater, Black Legs, Reddish Brown Flat Top	2011	3.43
-1166	Games / Heroica	85863pb070	Microfigure Heroica Thief	2011	0.64
-1166	Games / Heroica	85863pb068	Microfigure Heroica Goblin General (6023711)	2011	0.64
+1166	Games / Heroica	85863pb070	Microfigure Heroica Thief (4613068 / 6023710)	2011	0.64
+1166	Games / Heroica	85863pb068	Microfigure Heroica Goblin General (4613074 / 6023711)	2011	0.64
 67	Town / City	cty0244	Red Shirt with 3 Silver Logos, Dark Blue Arms, Black Legs, Messy Red Hair, Red Construction Helmet	2009	3
 67	Town / City	ovr041	Overalls Green with Pocket, Light Bluish Gray Legs, Orange Sunglasses, Reddish Brown Hair	2009	3
 67	Town / City / Coast Guard	cty0243	Coast Guard City - Kayaker, without Life Jacket	2009	3
@@ -5288,8 +5288,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0356	Han Solo - Celebration, Smooth Hair	2011	3.4
 65	Star Wars / Star Wars Other	sw0358	Yoda - Santa Yoda, Backpack	2011	3.67
 65	Star Wars / Star Wars Other	sw0357	Han Solo, Young	2011	3
-1166	Games	85863pb071	Microfigure Lego Champion Female Pink Dress	2011	0.64
-1166	Games	85863pb072	Microfigure Lego Champion Female Yellow Warrior	2011	0.64
+1166	Games	85863pb071	Microfigure Lego Champion Female Pink Dress (4621887 / 6024397)	2011	0.64
+1166	Games	85863pb072	Microfigure Lego Champion Female Yellow Warrior (4621889 / 6024398)	2011	0.64
 447	School Supplies	pln169	Plain Red Torso with Red Arms, Blue Legs, Brown Eyebrows, Thin Grin	2011	3.05
 473	Sports / Soccer	soc012s01	Soccer Player - German Goalie, German Flag Torso Sticker on Front, White Number Sticker on Back (1, 18 or 22, specify number in listing)	2000	3.41
 473	Sports / Soccer	soc031s01	Soccer Player - German Player 3, German Flag Torso Sticker on Front, Black Number Sticker on Back (specify number in listing)	2000	3.32
@@ -5551,24 +5551,24 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Rise of the Snakes	njo0052	Kai Kendo	2012	4.53
 67	Town / City / Fire	cty0303	Fire - Reflective Stripes, Dark Bluish Gray Legs, White Standard Helmet, Cheek Lines	2008	3.68
 759	NINJAGO / Rise of the Snakes	njo0053	Zane ZX	2012	3.81
-1166	Games / Town / City / Police	85863pb073	Microfigure City Alarm Thief	2012	0.64
-1166	Games / Town / City / Police	85863pb074	Microfigure City Alarm Police Officer	2012	0.64
+1166	Games / Town / City / Police	85863pb073	Microfigure City Alarm Thief (4656047)	2012	0.64
+1166	Games / Town / City / Police	85863pb074	Microfigure City Alarm Police Officer (4656046 / 6020809)	2012	0.64
 167	DUPLO / Disney / Disney Princess / Sleeping Beauty	47394pb147	Duplo Figure Lego Ville, Disney Princess, Aurora (4648758 / 6044578)	2012	15
 170	Alpha Team / Mission Deep Sea	alp017a	Dash - Mission Deep Sea, Trans-Dark Blue Scuba Mask, Black Flippers	2002	4.68
 167	DUPLO / Disney / Disney Princess / Snow White	47394pb148	Duplo Figure Lego Ville, Disney Princess, Snow White (6078536 / 6103054)	2012	15
 167	DUPLO / Disney / Disney Princess / Cinderella	47394pb149	Duplo Figure Lego Ville, Disney Princess, Cinderella, Bright Light Blue Headband (6044338 / 6018267)	2012	15
 167	DUPLO / Disney / Disney Princess / Cinderella	47394pb150	Duplo Figure Lego Ville, Disney Princess, Prince Charming, Black Hair	2012	15
 759	NINJAGO / Rise of the Snakes	njo0054	Cole ZX	2012	4
-1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb075	Microfigure Star Wars Luke Skywalker	2012	0.64
-1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb076	Microfigure Star Wars Rebel Pilot	2012	0.64
-1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb078	Microfigure Star Wars Han Solo	2012	0.64
-1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb079	Microfigure Star Wars Chewbacca	2012	0.64
-1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb080	Microfigure Star Wars Darth Vader	2012	0.64
-1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb081	Microfigure Star Wars AT-ST Pilot	2012	0.64
-1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb082	Microfigure Star Wars Snowtrooper	2012	0.64
-1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb083	Microfigure Star Wars Boba Fett	2012	0.64
-1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb084	Microfigure Star Wars General Veers	2012	0.64
-1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb077	Microfigure Star Wars Rebel Trooper	2012	0.64
+1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb075	Microfigure Star Wars Luke Skywalker (4655938 / 6023385)	2012	0.64
+1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb076	Microfigure Star Wars Rebel Pilot (4668411 / 6022340)	2012	0.64
+1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb078	Microfigure Star Wars Han Solo (4655940)	2012	0.64
+1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb079	Microfigure Star Wars Chewbacca (4655924 / 6020829)	2012	0.64
+1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb080	Microfigure Star Wars Darth Vader (4655937 / 6022463)	2012	0.64
+1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb081	Microfigure Star Wars AT-ST Pilot (4656048 / 6023386)	2012	0.64
+1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb082	Microfigure Star Wars Snowtrooper (4656053)	2012	0.64
+1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb083	Microfigure Star Wars Boba Fett (4656049 / 6020830)	2012	0.64
+1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb084	Microfigure Star Wars General Veers (4668410)	2012	0.64
+1166	Games / Star Wars / Star Wars Episode 4/5/6	85863pb077	Microfigure Star Wars Rebel Trooper (4656057)	2012	0.64
 617	Dino	dino008	Hero - Ballistics Vest	2012	3.56
 67	Town / City / Fire	cty0304	Fire - Bright Light Orange Fire Suit with Utility Belt, Dark Red Fire Helmet, Yellow Air Tanks, Red Lips	2012	3.5
 67	Town	twn155	Mayor	2012	3.3
@@ -5620,10 +5620,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / The Avengers	sh0035	Black Widow - Black Jumpsuit, Dark Orange Mid-Length Hair, Printed Legs, Black Hands, Dark Orange Eyebrows	2012	3.8
 65	Star Wars / Star Wars Episode 1	sw0385	TC-14 Protocol Droid - Chrome Silver with Blue, Red and White Wires Pattern	2012	3
 768	Super Heroes / X-Men	sh0017	Wolverine - Hair, Dark Blue Hands	2012	3.61
-1166	Games	85863pb085	Microfigure Mini Taurus Gladiator Blue	2012	0.64
-1166	Games	85863pb086	Microfigure Mini Taurus Gladiator Yellow	2012	0.64
-1166	Games	85863pb087	Microfigure Mini Taurus Gladiator Red	2012	0.64
-1166	Games	85863pb088	Microfigure Mini Taurus Gladiator White	2012	0.64
+1166	Games	85863pb085	Microfigure Mini Taurus Gladiator Blue (4655674 / 6030592)	2012	0.64
+1166	Games	85863pb086	Microfigure Mini Taurus Gladiator Yellow (4655669 / 6032018)	2012	0.64
+1166	Games	85863pb087	Microfigure Mini Taurus Gladiator Red (4655672 / 6030573)	2012	0.64
+1166	Games	85863pb088	Microfigure Mini Taurus Gladiator White (4655665 / 6022425)	2012	0.64
 768	Super Heroes / The Avengers	sh0036	Iron Man - Mark 7 Armor, Small Helmet Visor, Foot Repulsors	2012	4.6
 65	Star Wars / Star Wars Legends	sw0384	Darth Maul - Printed Red Arms	2012	3.1
 67	Town / City	twn163	Red Jacket with Zipper Pockets and Classic Space Logo, Red Legs, Blue Helmet	2012	3.68
@@ -5838,14 +5838,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 390	Holiday & Event / Halloween	mof018	Zombie, Reddish Brown Suit	2012	3
 759	NINJAGO / Rise of the Snakes	njo0069	Zane NRG	2012	3.81
 67	Town / City / Construction	cty0322	Miner - Shirt with Tie and Suspenders, Mining Helmet, Beard	2012	3.8
-1166	Games / Heroica	85863pb089	Microfigure Heroica Prince	2012	0.64
-1166	Games / Heroica	85863pb090	Microfigure Heroica Sage	2012	0.64
-1166	Games / Heroica	85863pb091	Microfigure Heroica Zombie	2012	0.64
-1166	Games / Heroica	85863pb092	Microfigure Heroica Vampire Lord	2012	0.64
+1166	Games / Heroica	85863pb089	Microfigure Heroica Prince (6005574 / 6032008)	2012	0.64
+1166	Games / Heroica	85863pb090	Microfigure Heroica Sage (6005572 / 6031997)	2012	0.64
+1166	Games / Heroica	85863pb091	Microfigure Heroica Zombie (6005576 / 6032034)	2012	0.64
+1166	Games / Heroica	85863pb092	Microfigure Heroica Vampire Lord (6005575 / 6032017)	2012	0.64
 65	Star Wars / Star Wars Episode 4/5/6	sw0425	Hoth Rebel Trooper Tan Uniform (Moustache)	2012	4.53
 65	Star Wars / Star Wars Episode 4/5/6	sw0426	Imperial Officer with Battle Armor (Captain / Commandant / Commander) - Chin Strap	2012	3.7
 65	Star Wars / Star Wars Episode 4/5/6	sw0427	Rebel Fleet Trooper - Plain Vest, Grin	2012	4.14
-1166	Games / Heroica	85863pb093	Microfigure Heroica King	2012	0.64
+1166	Games / Heroica	85863pb093	Microfigure Heroica King (6005573)	2012	0.64
 65	Star Wars / Star Wars Episode 4/5/6	sw0430	Gonk Droid (GNK Power Droid), Light Bluish Gray Body and Dark Bluish Gray Legs	2012	5.64
 65	Star Wars / Star Wars Episode 1	sw0429	DRK-1 Dark Eye Probe Droid - Black with Stand	2012	2.35
 65	Star Wars / Star Wars Episode 4/5/6	sw0431	Boba Fett - Balaclava Head	2012	3.55
@@ -5880,10 +5880,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0030	Friends Olivia (Light Nougat) - Dark Blue Layered Skirt, Light Aqua Long Sleeve Christmas Top	2012	3.6
 67	Town / City / Construction	cty0333	Miner - Shirt with Harness and Wrench, Sand Blue Legs, Red Short Bill Cap	2012	3.3
 67	Town / City	cty0334	Flannel Shirt with Pocket and Belt, Dark Tan Legs, Mining Helmet, Safety Goggles	2012	3.8
-1166	Games / The Hobbit and The Lord of the Rings / The Hobbit	85863pb094	Microfigure The Hobbit Fili the Dwarf	2012	0.64
-1166	Games / The Hobbit and The Lord of the Rings / The Hobbit	85863pb095	Microfigure The Hobbit Dwalin the Dwarf	2012	0.64
-1166	Games / The Hobbit and The Lord of the Rings / The Hobbit	85863pb096	Microfigure The Hobbit Kili the Dwarf	2012	0.64
-1166	Games / The Hobbit and The Lord of the Rings / The Hobbit	85863pb097	Microfigure The Hobbit Gandalf the Grey	2012	0.64
+1166	Games / The Hobbit and The Lord of the Rings / The Hobbit	85863pb094	Microfigure The Hobbit Fili the Dwarf (6022970)	2012	0.64
+1166	Games / The Hobbit and The Lord of the Rings / The Hobbit	85863pb095	Microfigure The Hobbit Dwalin the Dwarf (6022972)	2012	0.64
+1166	Games / The Hobbit and The Lord of the Rings / The Hobbit	85863pb096	Microfigure The Hobbit Kili the Dwarf (6022971)	2012	0.64
+1166	Games / The Hobbit and The Lord of the Rings / The Hobbit	85863pb097	Microfigure The Hobbit Gandalf the Grey (6022969)	2012	0.64
 65	Star Wars / Star Wars Episode 4/5/6	sw0432	Luke Skywalker (Tatooine, Smiling)	2012	3.6
 771	Friends	frnd0027	Friends Emma - White Riding Pants, Lavender Top	2012	3.6
 67	Town / City	cty0335	Overalls with Tools in Pocket Blue, Black Short Bill Cap, Chin Dimple	2012	3
@@ -6350,9 +6350,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Coast Guard	cty0416	Coast Guard City - Dinghy Passenger Female	2013	3.85
 67	Town / City / Coast Guard	cty0417	Coast Guard City - Helicopter Pilot, Life Jacket	2013	3.95
 67	Town / City / Coast Guard	cty0418	Coast Guard City - Crew Member Male, Blue Cap with Hole, Headphones	2013	3.82
-1166	Games / LEGENDS OF CHIMA	85863pb098	Microfigure Legends of Chima Crocodile	2013	0.64
-1166	Games / LEGENDS OF CHIMA	85863pb099	Microfigure Legends of Chima Eagle	2013	0.64
-1166	Games / LEGENDS OF CHIMA	85863pb100	Microfigure Legends of Chima Lion	2013	0.64
+1166	Games / LEGENDS OF CHIMA	85863pb098	Microfigure Legends of Chima Crocodile (6037457)	2013	0.64
+1166	Games / LEGENDS OF CHIMA	85863pb099	Microfigure Legends of Chima Eagle (6019002)	2013	0.64
+1166	Games / LEGENDS OF CHIMA	85863pb100	Microfigure Legends of Chima Lion (6037459)	2013	0.64
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor072	Grima Wormtongue	2013	3.73
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor073	Gandalf the Grey - Hair, Starched Fabric Cape	2013	4.47
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor074	Saruman - Long Robes	2013	5.03
@@ -6704,17 +6704,17 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 804	The LEGO Movie	tlm044	Robo SWAT - Knit Cap, Body Armor Vest	2014	4.35
 804	The LEGO Movie	tlm045	Robo SWAT - Knit Cap	2013	3.35
 67	Town / City	cty0471	Blue Jacket with Pockets and Orange Stripes, Blue Legs, Red Construction Helmet, Safety Goggles	2014	3.15
-1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb109	Microfigure Lord of the Rings Aragorn	2013	0.64
-1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb110	Microfigure Lord of the Rings Gimli	2013	0.64
-1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb111	Microfigure Lord of the Rings Eowyn	2013	0.64
-1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb112	Microfigure Lord of the Rings King Theoden	2013	0.64
-1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb113	Microfigure Lord of the Rings Haldir	2013	0.64
-1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb114	Microfigure Lord of the Rings Legolas	2013	0.64
-1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb115	Microfigure Lord of the Rings Rohan Swordsman	2013	0.64
-1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb116	Microfigure Lord of the Rings Uruk-Hai General	2013	0.64
-1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb117	Microfigure Lord of the Rings Uruk-Hai Archer	2013	0.64
-1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb118	Microfigure Lord of the Rings Uruk-Hai Berserker	2013	0.64
-1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb119	Microfigure Lord of the Rings Uruk-Hai Swordsman	2013	0.64
+1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb109	Microfigure Lord of the Rings Aragorn (6038420)	2013	0.64
+1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb110	Microfigure Lord of the Rings Gimli (6038414)	2013	0.64
+1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb111	Microfigure Lord of the Rings Eowyn (6038425)	2013	0.64
+1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb112	Microfigure Lord of the Rings King Theoden (6038413)	2013	0.64
+1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb113	Microfigure Lord of the Rings Haldir (6038419)	2013	0.64
+1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb114	Microfigure Lord of the Rings Legolas (6038421)	2013	0.64
+1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb115	Microfigure Lord of the Rings Rohan Swordsman (6038416)	2013	0.64
+1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb116	Microfigure Lord of the Rings Uruk-Hai General (6038417)	2013	0.64
+1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb117	Microfigure Lord of the Rings Uruk-Hai Archer (6038415)	2013	0.64
+1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb118	Microfigure Lord of the Rings Uruk-Hai Berserker (6038423)	2013	0.64
+1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	85863pb119	Microfigure Lord of the Rings Uruk-Hai Swordsman (6038424)	2013	0.64
 759	NINJAGO / Rebooted	njo0097	Lloyd (Techno Robe) - Rebooted	2014	3.67
 759	NINJAGO / Rebooted	njo0098	Mindroid	2014	3.61
 759	NINJAGO / Rebooted	njo0099	Zane (Techno Robe) - Rebooted	2014	3.54
@@ -7054,7 +7054,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Rebooted	njo0107	Overlord (Golden Master) - Rebooted	2014	5
 67	Town / City / Train	cty0499	Overalls Farmer Green, Green Cap with Hole, Brown Moustache and Goatee	2014	3.48
 67	Town / City / Train	cty0500	Blue Jacket with Pockets and Orange Stripes, Dark Blue Legs, Red Cap with Hole, Sunglasses, NO Back Print	2014	3.48
-124	Train	trn235	Neon Red Safety Vest, Dark Bluish Gray Legs, Red Construction Helmet, Brown Beard	2014	3.48
+124	Train	trn235	Cargo Train Driver - Neon Red Safety Vest, Dark Bluish Gray Legs, Red Construction Helmet, Brown Beard	2014	3.48
 124	Train	trn236	Light Orange Safety Vest, Light Bluish Gray Legs, Red Cap with Hole, Headphones, Dark Orange Lips	2014	3.58
 787	LEGENDS OF CHIMA	loc105	Frax - Armor	2014	6.73
 790	Teenage Mutant Ninja Turtles	tnt051	Splinter - Black Jacket	2014	3.03
@@ -7344,7 +7344,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Justice League	sh0003a	Superman - Blue Suit, Spongy Cape, Hair with Front Curl, Frown / Lopsided Grin	2015	3.65
 65	Star Wars / Star Wars Episode 3	sw0608	Clone Trooper Pilot (Phase 2) - Light Bluish Gray Arms and Legs, Light Nougat Head	2015	3.8
 65	Star Wars / Star Wars Episode 2	sw0609	Clone Trooper Pilot (Phase 1) - Bright Light Orange Markings, Printed Legs, Scowl	2015	3.8
-124	Train	trn235a	Light Orange Safety Vest, Dark Bluish Gray Legs, Red Construction Helmet, Black Beard	2014	3.5
+124	Train	trn235a	Cargo Train Driver - Light Orange Safety Vest, Dark Bluish Gray Legs, Red Construction Helmet, Black Beard	2014	3.5
 759	NINJAGO / Tournament of Elements	njo0111	Zane (Jungle Robe) - Tournament of Elements	2015	4.29
 759	NINJAGO / Tournament of Elements	njo0112	Clouse - Tournament of Elements, Hair	2015	3.17
 759	NINJAGO / Tournament of Elements	njo0113	Chop'rai	2015	7.62
@@ -10378,7 +10378,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw0936	2-1B Medical Droid - Dotted Badge and Peeling Paint Pattern (Tan)	2018	2.2
 65	Star Wars / Star Wars Episode 4/5/6	sw0957	Luke Skywalker (Bacta Tank Outfit, Dark Tan Hair)	2018	3.5
 65	Star Wars / Star Wars Solo	sw0946	Qi'ra - Fur Coat	2018	3.89
-227	Harry Potter	hp134	Professor Severus Snape - Dark Purple Shirt, Black Robes, Printed Legs (Undetermined Legs)	2019	3.55
+227	Harry Potter	hp134	Professor Severus Snape - Dark Purple Shirt, Black Robes, Printed Legs (Undetermined Legs)	?	3.55
 227	Harry Potter / Sorcerer's Stone	hp135	Lucian Bole - Quidditch Uniform	2018	3.78
 227	Harry Potter / Sorcerer's Stone	hp136	Marcus Flint - Quidditch Uniform	2018	3.79
 227	Harry Potter / Sorcerer's Stone	hp137	Oliver Wood - Quidditch Uniform	2018	3.58
@@ -10970,11 +10970,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Legacy	njo0505	Lord Garmadon - Legacy, Tall	2019	5
 65	Star Wars / Star Wars Episode 8	sw1005	Resistance Bomber Pilot - Finch Dallow	2019	3
 971	The LEGO Movie 2	tlm143	Sweet Mayhem - Crooked Smile, Raised Eyebrow, Hair	2019	3.8
-390	Holiday & Event / Chinese New Year	hol133	Dragon Dance Performer, Top Knot and Headband, Lopsided Grin	2019	3.8
-390	Holiday & Event / Chinese New Year	hol135	Dragon Dance Performer, Top Knot and Headband, Scared / Lopsided Smile	2019	3.8
-390	Holiday & Event / Chinese New Year	hol134	Dragon Dance Performer, Tied Red Bandana, Open Mouth Smile with Teeth	2019	3.3
-390	Holiday & Event / Chinese New Year	hol136	Dragon Dance Performer, Tied Red Bandana, Angry Eyebrows and Scowl	2019	3.3
-390	Holiday & Event / Chinese New Year	hol137	Dragon Dance Performer, Pig Costume, No Tail, Open Mouth Smile with White Teeth and Red Tongue	2019	4.1
+390	Holiday & Event / Chinese Festivals	hol133	Dragon Dance Performer, Top Knot and Headband, Lopsided Grin	2019	3.8
+390	Holiday & Event / Chinese Festivals	hol135	Dragon Dance Performer, Top Knot and Headband, Scared / Lopsided Smile	2019	3.8
+390	Holiday & Event / Chinese Festivals	hol134	Dragon Dance Performer, Tied Red Bandana, Open Mouth Smile with Teeth	2019	3.3
+390	Holiday & Event / Chinese Festivals	hol136	Dragon Dance Performer, Tied Red Bandana, Angry Eyebrows and Scowl	2019	3.3
+390	Holiday & Event / Chinese Festivals	hol137	Dragon Dance Performer, Pig Costume, No Tail, Open Mouth Smile with White Teeth and Red Tongue	2019	4.1
 759	NINJAGO / Legacy	njo0506	Pythor Chumsworth - Purple with Lavender	2019	8.6
 759	NINJAGO / Legacy	njo0507	Stone Army Scout, Yellow Face	2019	3.95
 759	NINJAGO / Legacy	njo0508	Stone Army Warrior, Green Face	2019	4.5
@@ -11013,16 +11013,16 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Harbor	cty1002	Jet Skier Female, 'ViTA RUSH' Logo, Life Jacket	2019	4
 167	DUPLO	4943pb002a	Duplo Figure, Child Type 1 Baby, Yellow Legs, Yellow Body, Yellow Bonnet, 3 Lines Eyebrows and Outlined Hair	?	11
 167	DUPLO / DUPLO, Town	47394pb114a	Duplo Figure Lego Ville, Female, Medium Blue Legs, Red Jacket with White Zipper and Pockets, Reddish Brown Ponytail Hair	?	17
-390	Holiday & Event / Chinese New Year	hol138	Mother, Chinese New Year's Eve Dinner	2019	4.19
-390	Holiday & Event / Chinese New Year	hol139	Daughter, Chinese New Year's Eve Dinner	2019	3.33
+390	Holiday & Event / Chinese Festivals	hol138	Mother, Chinese New Year's Eve Dinner	2019	4.19
+390	Holiday & Event / Chinese Festivals	hol139	Daughter, Chinese New Year's Eve Dinner	2019	3.33
 759	NINJAGO / March of the Oni	njo0510	Oni Villain - Short Legs	2019	3.43
 759	NINJAGO / March of the Oni	njo0511	Oni Villain - Armor	2019	3.44
 759	NINJAGO / March of the Oni	njo0512	Oni Villain - Scabbard	2019	5.33
 971	The LEGO Movie 2	tlm169	Armory Skeleton Mannequin	2019	4.05
-390	Holiday & Event / Chinese New Year	hol140	Grandfather, Chinese New Year's Eve Dinner	2019	3.42
-390	Holiday & Event / Chinese New Year	hol141	Grandmother, Chinese New Year's Eve Dinner	2019	3.81
-390	Holiday & Event / Chinese New Year	hol142	Father, Chinese New Year's Eve Dinner	2019	3.5
-390	Holiday & Event / Chinese New Year	hol143	Son, Chinese New Year's Eve Dinner	2019	3.27
+390	Holiday & Event / Chinese Festivals	hol140	Grandfather, Chinese New Year's Eve Dinner	2019	3.42
+390	Holiday & Event / Chinese Festivals	hol141	Grandmother, Chinese New Year's Eve Dinner	2019	3.81
+390	Holiday & Event / Chinese Festivals	hol142	Father, Chinese New Year's Eve Dinner	2019	3.5
+390	Holiday & Event / Chinese Festivals	hol143	Son, Chinese New Year's Eve Dinner	2019	3.27
 971	The LEGO Movie 2	tlm170	Sharkira - Hair	2019	3.5
 971	The LEGO Movie 2	tlm171	Sewer Baby	2019	0.5
 971	The LEGO Movie 2	tlm172	Sewer Baby - Band Around Eyes	2019	0.5
@@ -11337,7 +11337,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 850	Jurassic World / Jurassic Park	jw057	John Hammond - Shirt with 2 Pockets	2019	3.7
 850	Jurassic World / Jurassic Park	jw056	Dr. Ellie Sattler - Bright Pink Shirt, Ponytail and Swept Sideways Fringe	2019	3.75
 850	Jurassic World / Jurassic Park	jw058	Ray Arnold - White Lab Coat	2019	3.6
-850	Jurassic World / Jurassic Park	jw059	Dennis Nedry - Jurassic Park Logo on Back	2019	3.5
+850	Jurassic World / Jurassic Park	jw059	Dennis Nedry - Jurassic Park Logo on Back, Hair	2019	3.5
 850	Jurassic World / Jurassic Park	jw060	Dr. Ian Malcolm - Open Shirt	2019	3.7
 771	Friends	frnd0312	Friends Andrea - Dark Turquoise Skirt, Dark Blue Top	2019	3.1
 971	The LEGO Movie 2	tlm198	Royal Guard	2019	16.6
@@ -11836,14 +11836,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Legacy	njo0575	Cole - Legacy, Rebooted, Ninjago Logogram 'MANTER' on Torso	2020	3.81
 759	NINJAGO / Legacy	njo0576	Jay - Legacy, Rebooted, Ninjago Logogram 'MANTER' on Torso	2020	3.81
 759	NINJAGO / Legacy	njo0577	Nindroid Warrior, Dual Sided Head - Legacy	2020	3.89
-390	Holiday & Event / Chinese New Year	hol174	Year of the Rat Guy	2020	3.95
-390	Holiday & Event / Chinese New Year	hol175	Mayor, Lion Dance, Red Scarf, Black Suit	2020	3.54
-390	Holiday & Event / Chinese New Year	hol176	Woman, Lion Dance, White Shirt, Gold Legs with Fringe	2020	3.68
-390	Holiday & Event / Chinese New Year	hol177	Woman, Lion Dance, White Shirt, White Legs with Red Fringe	2020	3.68
-390	Holiday & Event / Chinese New Year	hol178	Man, Lion Dance, Red Shirt, Red Legs with Gold Fringe	2020	3.37
-390	Holiday & Event / Chinese New Year	hol179	Lion Dance Musician, Red Head Wrap, Smile, Red Robe with Gold Dragon	2020	3.42
-390	Holiday & Event / Chinese New Year	hol180	Lion Dance Musician, Red Head Wrap, Glasses, Red Robe with Gold Dragon	2020	3.45
-390	Holiday & Event / Chinese New Year	hol181	Lion Dance Musician, Red Head Wrap, Lopsided Grin, Raised Eyebrow, Red Robe with Gold Dragon	2020	3.41
+390	Holiday & Event / Chinese Festivals	hol174	Year of the Rat Guy	2020	3.95
+390	Holiday & Event / Chinese Festivals	hol175	Mayor, Lion Dance, Red Scarf, Black Suit	2020	3.54
+390	Holiday & Event / Chinese Festivals	hol176	Woman, Lion Dance, White Shirt, Gold Legs with Fringe	2020	3.68
+390	Holiday & Event / Chinese Festivals	hol177	Woman, Lion Dance, White Shirt, White Legs with Red Fringe	2020	3.68
+390	Holiday & Event / Chinese Festivals	hol178	Man, Lion Dance, Red Shirt, Red Legs with Gold Fringe	2020	3.37
+390	Holiday & Event / Chinese Festivals	hol179	Lion Dance Musician, Red Head Wrap, Smile, Red Robe with Gold Dragon	2020	3.42
+390	Holiday & Event / Chinese Festivals	hol180	Lion Dance Musician, Red Head Wrap, Glasses, Red Robe with Gold Dragon	2020	3.45
+390	Holiday & Event / Chinese Festivals	hol181	Lion Dance Musician, Red Head Wrap, Lopsided Grin, Raised Eyebrow, Red Robe with Gold Dragon	2020	3.41
 878	Disney / Disney Princess / Mulan	dp080	Mulan - Micro Doll	2020	2.1
 878	Disney / Disney Princess / Mulan	dp081	Li Shang - Micro Doll	2020	1.62
 878	Disney / Disney Princess / Mulan	dp082	Ping - Micro Doll	2020	1.64
@@ -11924,19 +11924,19 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Space Exploration	cty1055a	Astronaut - Male, White Spacesuit with Orange Lines, Smirk, Cheek Lines, Black Eyebrows	2019	5
 390	Holiday & Event	hol182	Birthday Boy, Tan Hair, Bright Light Blue Hooded Sweatshirt, Dark Azure Short Legs	2019	3.25
 65	Star Wars / Star Wars The Mandalorian	sw1113	Din Grogu / The Child / 'Baby Yoda'	2020	0.9
-390	Holiday & Event / Chinese New Year	hol183	Food Vendor, Red Cap and Apron, Bright Light Orange Chinese Logogram '烧烤' (Barbecue)	2020	3.38
-390	Holiday & Event / Chinese New Year	hol184	Man, Black Hair, Blue Jacket, Dark Red Shirt, Dark Blue Legs	2020	3.36
-390	Holiday & Event / Chinese New Year	hol185	Man, Black Spiked Hair, Glasses, Orange Jacket, Sand Blue Shirt, Dark Tan Legs	2020	3.59
-390	Holiday & Event / Chinese New Year	hol186	Toy Vendor, Black Hair, Red Changshan with Bright Light Orange Wide Hem, Gold Circles Pattern	2020	3.42
-390	Holiday & Event / Chinese New Year	hol187	Man, Dark Red Jacket with Bright Light Blue Shirt, Dark Tan Legs, Red Scarf, Black Smooth Hair, Glasses	2020	3.69
-390	Holiday & Event / Chinese New Year	hol188	Woman, Black Hair, Medium Nougat Jacket, Dark Bluish Gray Shirt, Light Bluish Gray Legs	2020	3.9
-390	Holiday & Event / Chinese New Year	hol189	Child - Girl, Dark Pink Puffy Jacket, Medium Blue Short Legs, Black Hair with Pigtails, Red Scarf	2020	3.52
-390	Holiday & Event / Chinese New Year	hol190	Man, Black Hair, Dark Azure Plaid Vest, Dark Blue Banana Shirt, Dark Bluish Gray Legs	2020	3.58
-390	Holiday & Event / Chinese New Year	hol191	Woman, Sand Blue Beanie, Orange Braids, Black Jacket, Striped Shirt, Red Legs	2020	4.22
-390	Holiday & Event / Chinese New Year	hol192	Porcelain Vendor, Female, Light Bluish Gray Hair, Glasses, Sand Blue Tunic, Medium Nougat Sash, Tan Legs	2020	3.81
-390	Holiday & Event / Chinese New Year	hol193	Woman, Black Hair, White Hoodie with Medium Blue Pocket, Light Bluish Gray Legs	2020	3.49
-390	Holiday & Event / Chinese New Year	hol194	Child - Boy, Dark Azure Hoodie, Red Short Legs, Red and Tan Ushanka Hat, Freckles	2020	3.57
-390	Holiday & Event / Chinese New Year	hol195	Shadow Puppeteer, Light Bluish Gray Hair, Glasses, Blue Changshan with Yellow Hem and Sash, Silver Circles Pattern	2020	3.39
+390	Holiday & Event / Chinese Festivals	hol183	Food Vendor, Red Cap and Apron, Bright Light Orange Chinese Logogram '烧烤' (Barbecue)	2020	3.38
+390	Holiday & Event / Chinese Festivals	hol184	Man, Black Hair, Blue Jacket, Dark Red Shirt, Dark Blue Legs	2020	3.36
+390	Holiday & Event / Chinese Festivals	hol185	Man, Black Spiked Hair, Glasses, Orange Jacket, Sand Blue Shirt, Dark Tan Legs	2020	3.59
+390	Holiday & Event / Chinese Festivals	hol186	Toy Vendor, Black Hair, Red Changshan with Bright Light Orange Wide Hem, Gold Circles Pattern	2020	3.42
+390	Holiday & Event / Chinese Festivals	hol187	Man, Dark Red Jacket with Bright Light Blue Shirt, Dark Tan Legs, Red Scarf, Black Smooth Hair, Glasses	2020	3.69
+390	Holiday & Event / Chinese Festivals	hol188	Woman, Black Hair, Medium Nougat Jacket, Dark Bluish Gray Shirt, Light Bluish Gray Legs	2020	3.9
+390	Holiday & Event / Chinese Festivals	hol189	Child - Girl, Dark Pink Puffy Jacket, Medium Blue Short Legs, Black Hair with Pigtails, Red Scarf	2020	3.52
+390	Holiday & Event / Chinese Festivals	hol190	Man, Black Hair, Dark Azure Plaid Vest, Dark Blue Banana Shirt, Dark Bluish Gray Legs	2020	3.58
+390	Holiday & Event / Chinese Festivals	hol191	Woman, Sand Blue Beanie, Orange Braids, Black Jacket, Striped Shirt, Red Legs	2020	4.22
+390	Holiday & Event / Chinese Festivals	hol192	Porcelain Vendor, Female, Light Bluish Gray Hair, Glasses, Sand Blue Tunic, Medium Nougat Sash, Tan Legs	2020	3.81
+390	Holiday & Event / Chinese Festivals	hol193	Woman, Black Hair, White Hoodie with Medium Blue Pocket, Light Bluish Gray Legs	2020	3.49
+390	Holiday & Event / Chinese Festivals	hol194	Child - Boy, Dark Azure Hoodie, Red Short Legs, Red and Tan Ushanka Hat, Freckles	2020	3.57
+390	Holiday & Event / Chinese Festivals	hol195	Shadow Puppeteer, Light Bluish Gray Hair, Glasses, Blue Changshan with Yellow Hem and Sash, Silver Circles Pattern	2020	3.39
 1042	Hidden Side	hs046	Parker L. Jackson - Black Top with Headphones (Open Mouth Smile / Disgusted)	2020	4
 1042	Hidden Side	hs047	Jack Davids - Red Jacket with Backwards Cap (Open Mouth Smile / Scared)	2020	4
 842	SPEED CHAMPIONS	sc082	Ferrari F8 Tributo Driver	2020	3.63
@@ -12712,11 +12712,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter	hp273	Ron Weasley - Gryffindor Sweater with Crest, Black Short Legs	2021	3.18
 227	Harry Potter	hp274	Professor Minerva McGonagall - Dark Green Robe over Black Dress, Hat with Hair	2021	4.91
 759	NINJAGO / The Island	njo0681	Lloyd - The Island, Hair with Bandana	2021	4
-390	Holiday & Event / Chinese New Year	hol220	Grandmother, Floral Shirt, Black Legs, Light Bluish Gray Hair, Glasses	2021	3.49
-390	Holiday & Event / Chinese New Year	hol221	Grandfather, Argyle Cardigan over Red Shirt, Dark Blue Legs, Light Bluish Gray Hair	2021	3.49
-390	Holiday & Event / Chinese New Year	hol222	Child - Girl, Red Shirt with Bows and Flowers, Red Short Legs, Black Short Hair, Glasses, Freckles	2021	3.12
-390	Holiday & Event / Chinese New Year	hol223	Child - Boy, Red Tang Jacket with Hood, Black Short Legs, Dark Azure Beanie	2021	3.18
-390	Holiday & Event / Chinese New Year	hol224	Year of the Ox Guy	2021	4.59
+390	Holiday & Event / Chinese Festivals	hol220	Grandmother, Floral Shirt, Black Legs, Light Bluish Gray Hair, Glasses	2021	3.49
+390	Holiday & Event / Chinese Festivals	hol221	Grandfather, Argyle Cardigan over Red Shirt, Dark Blue Legs, Light Bluish Gray Hair	2021	3.49
+390	Holiday & Event / Chinese Festivals	hol222	Child - Girl, Red Shirt with Bows and Flowers, Red Short Legs, Black Short Hair, Glasses, Freckles	2021	3.12
+390	Holiday & Event / Chinese Festivals	hol223	Child - Boy, Red Tang Jacket with Hood, Black Short Legs, Dark Azure Beanie	2021	3.18
+390	Holiday & Event / Chinese Festivals	hol224	Year of the Ox Guy	2021	4.59
 67	Town / City / Police	cty1249	Police - City Officer Shirt with Dark Blue Tie and Gold Badge, Dark Tan Belt with Radio, Dark Blue Legs, White Helmet, Sunglasses	2021	3.65
 67	Town	twn402	Newsstand Operator	2021	3.5
 67	Town	twn403	Donut / Doughnut Shop Clerk	2021	3.9
@@ -12751,22 +12751,22 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Legacy	njo0647	Zane - Legacy, Titanium VS	2021	3.46
 759	NINJAGO / Legacy	njo0648	Jay - Legacy, White Tunic with Blue Trim and Stripes	2021	3.84
 759	NINJAGO / Legacy	njo0649	Rattla / Serpentine Warrior - Legacy	2021	4.03
-390	Holiday & Event / Chinese New Year	hol225	Father, Red Tang Jacket with Hood, Blue Legs, Black Tousled Hair	2021	3.47
+390	Holiday & Event / Chinese Festivals	hol225	Father, Red Tang Jacket with Hood, Blue Legs, Black Tousled Hair	2021	3.47
 768	Super Heroes / Avengers	sh0680	Thor - Helmet, No Cape	2021	3.77
 768	Super Heroes / Spider-Man	sh0682	Ghost-Spider / Spider-Gwen (Gwen Stacy) - Black Legs, White Basic Smooth Hood, White Hands	2021	3.73
 1095	Super Mario	mar0046	Piranha Plant - Full Frame	2021	?
-390	Holiday & Event / Chinese New Year	hol226	Man, Sand Blue Jacket and Reddish Brown Satchel, Dark Blue Legs, Black Hair	2021	3.38
-390	Holiday & Event / Chinese New Year	hol227	Woman - Bright Light Orange Jacket over Light Bluish Gray Shirt, White Legs, Black Mid-Length Hair	2021	3.9
+390	Holiday & Event / Chinese Festivals	hol226	Man, Sand Blue Jacket and Reddish Brown Satchel, Dark Blue Legs, Black Hair	2021	3.38
+390	Holiday & Event / Chinese Festivals	hol227	Woman - Bright Light Orange Jacket over Light Bluish Gray Shirt, White Legs, Black Mid-Length Hair	2021	3.9
 768	Super Heroes / Spider-Man	sh0683	Carnage - Medium Appendages	2021	7.56
 768	Super Heroes / Spider-Man	sh0684	Spider-Man - Printed Blue Arms, Plain Legs	2021	3.1
-390	Holiday & Event / Chinese New Year	hol228	Man, Dark Red '2021' Shirt, Blue Legs, Black Hair	2021	3.6
-390	Holiday & Event / Chinese New Year	hol229	Woman, Dark Red '2021' Shirt, Sand Blue Legs, Long Black Hair	2021	3.89
-390	Holiday & Event / Chinese New Year	hol230	Child - Boy, Tan Tang Jacket, Dark Green Short Legs, Black Spiked Hair, Freckles, Red Scarf	2021	3.41
+390	Holiday & Event / Chinese Festivals	hol228	Man, Dark Red '2021' Shirt, Blue Legs, Black Hair	2021	3.6
+390	Holiday & Event / Chinese Festivals	hol229	Woman, Dark Red '2021' Shirt, Sand Blue Legs, Long Black Hair	2021	3.89
+390	Holiday & Event / Chinese Festivals	hol230	Child - Boy, Tan Tang Jacket, Dark Green Short Legs, Black Spiked Hair, Freckles, Red Scarf	2021	3.41
 801	Minecraft	min091	Beekeeper	2020	4.65
 801	Minecraft	min092	Villager - Dark Tan Pouch	2020	4
-390	Holiday & Event / Chinese New Year	hol231	Man, Dark Blue Sweater, Dark Tan Legs, Black Hair, Glasses	2021	3.48
-390	Holiday & Event / Chinese New Year	hol232	Child - Girl, White Shirt with Unicorn, Dark Turquoise Short Legs, Black Hair with Pigtails	2021	3.32
-390	Holiday & Event / Chinese New Year	hol233	Statue - Chinese New Year Lantern Festival	2021	3.03
+390	Holiday & Event / Chinese Festivals	hol231	Man, Dark Blue Sweater, Dark Tan Legs, Black Hair, Glasses	2021	3.48
+390	Holiday & Event / Chinese Festivals	hol232	Child - Girl, White Shirt with Unicorn, Dark Turquoise Short Legs, Black Hair with Pigtails	2021	3.32
+390	Holiday & Event / Chinese Festivals	hol233	Statue - Chinese New Year Lantern Festival	2021	3.03
 67	Town / City / Police	cty1263	Police - City Officer Female, Bright Light Blue Shirt with Badge and Radio, Dark Blue Legs, Dark Blue Cap with Dark Orange Ponytail, Life Jacket	2021	4.2
 759	NINJAGO / Legacy	njo0650	Kai - 10th Anniversary Golden Ninja	2021	4.2
 759	NINJAGO / Legacy	njo0576a	Jay - Legacy, Rebooted, Ninjago Logogram 'MASTER' on Torso, Hair	2021	3.83
@@ -12775,7 +12775,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Legacy	njo0652	Nindroid, Short Legs - Legacy	2021	3.55
 759	NINJAGO / Legacy	njo0653	Nindroid Warrior, Neck Bracket (for Jet Pack) - Legacy	2021	4.71
 67	Town / City / Fire	cty1264	Fire - Male, Black Jacket and Legs with Reflective Stripes and Red Collar, White Fire Helmet, Trans-Brown Visor, Dark Orange Goatee	2021	4.3
-390	Holiday & Event / Chinese New Year	hol234	Snowman - Red Scarf, No Hat	2021	3.49
+390	Holiday & Event / Chinese Festivals	hol234	Snowman - Red Scarf, No Hat	2021	3.49
 67	Town / City / Airport	cty1265	Ground Crew - Female, Blue Jacket over Dark Red V-Neck Sweater, Dark Tan Legs, Dark Blue Cap with Dark Orange Ponytail	2021	3.85
 67	Town / City / Airport	cty1266	Airshow Jet Pilot - Bright Light Orange Jacket, Dark Blue Legs, White Helmet, Oxygen Mask	2021	3.8
 67	Town	twn407	Surfer - Male, White Tank Top with Dark Azure Sailboat, Dark Blue Legs, Dark Brown Hair	2021	3.53
@@ -12802,13 +12802,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 976	LEGO Brand	gen151	Hubster London October 2014	2014	?
 768	Super Heroes / Spider-Man	sh0687	Dr. Octopus (Otto Octavius) / Doc Ock - Dark Green Suit, Neck Bracket	2021	4.18
 167	DUPLO / Cars	crs044	Duplo Tow Mater - Light Bluish Gray Hook Base, Silver Wheels, Lime Flag	2020	91
-167	DUPLO / Holiday & Event / Chinese New Year	47394pb303	Duplo Figure Lego Ville, Female, White Legs, Bright Light Blue Top with White and Bright Light Orange Flowers, Dark Brown Glasses, White Hair	2021	17
-167	DUPLO / Holiday & Event / Chinese New Year	47394pb304	Duplo Figure Lego Ville, Female, White Legs, Red Top with Black Flowers, Black Hair	2021	16
-167	DUPLO / Holiday & Event / Chinese New Year	47394pb305	Duplo Figure Lego Ville, Male, Black Legs, White Top, Dark Brown Glasses, Light Bluish Gray Hair	2021	17
-167	DUPLO / Holiday & Event / Chinese New Year	47394pb306	Duplo Figure Lego Ville, Male, Black Legs, Bright Light Blue Top with White Shirt, Dark Brown Hair	2021	15
-167	DUPLO / Holiday & Event / Chinese New Year	47205pb077	Duplo Figure Lego Ville, Child Boy, Red Legs, White Top with Medium Azure and Dark Blue Stripes, Black Hair	2021	12
-167	DUPLO / Holiday & Event / Chinese New Year	47205pb078	Duplo Figure Lego Ville, Child Girl, White Legs, Coral Top with Polka Dots Pattern, White Arms, Black Hair (6335901)	2021	13
-167	DUPLO / Holiday & Event / Chinese New Year	47205pb079	Duplo Figure Lego Ville, Child Girl, Bright Light Yellow Legs, White Top with Black Hearts, Black Hair with Pigtails, Light Nougat Skin (6335905)	2021	13
+167	DUPLO / Holiday & Event / Chinese Festivals	47394pb303	Duplo Figure Lego Ville, Female, White Legs, Bright Light Blue Top with White and Bright Light Orange Flowers, Dark Brown Glasses, White Hair	2021	17
+167	DUPLO / Holiday & Event / Chinese Festivals	47394pb304	Duplo Figure Lego Ville, Female, White Legs, Red Top with Black Flowers, Black Hair	2021	16
+167	DUPLO / Holiday & Event / Chinese Festivals	47394pb305	Duplo Figure Lego Ville, Male, Black Legs, White Top, Dark Brown Glasses, Light Bluish Gray Hair	2021	17
+167	DUPLO / Holiday & Event / Chinese Festivals	47394pb306	Duplo Figure Lego Ville, Male, Black Legs, Bright Light Blue Top with White Shirt, Dark Brown Hair	2021	15
+167	DUPLO / Holiday & Event / Chinese Festivals	47205pb077	Duplo Figure Lego Ville, Child Boy, Red Legs, White Top with Medium Azure and Dark Blue Stripes, Black Hair	2021	12
+167	DUPLO / Holiday & Event / Chinese Festivals	47205pb078	Duplo Figure Lego Ville, Child Girl, White Legs, Coral Top with Polka Dots Pattern, White Arms, Black Hair (6335901)	2021	13
+167	DUPLO / Holiday & Event / Chinese Festivals	47205pb079	Duplo Figure Lego Ville, Child Girl, Bright Light Yellow Legs, White Top with Black Hearts, Black Hair with Pigtails, Light Nougat Skin (6335905)	2021	13
 759	NINJAGO / Legacy	njo0658	Wu Sensei - 10th Anniversary Golden Ninja	2021	3.6
 759	NINJAGO / Legacy	njo0655	Jay - Urban Jay	2021	3.7
 759	NINJAGO / Legacy	njo0656	Nya - Urban Nya	2021	4
@@ -13878,33 +13878,33 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Police	cty1368	Police - Jail Prisoner 50382 Prison Stripes, Female, Dark Tan Legs, Smirk with Nougat Lips, and Bright Light Yellow Ponytail	2022	3.68
 878	Disney / Disney Princess / Aladdin	dp148	Jasmine - Plain Top and Trousers, Pearl Gold Shoes	2022	3.61
 878	Disney / Disney Princess / Mulan	dp149	Mulan - Yellowish Green and Bright Light Yellow Robe, Black Shoes, Lopsided Grin	2022	3.32
-390	Holiday & Event / Chinese New Year	hol258	Year of the Tiger Guy	2022	4.75
-390	Holiday & Event / Chinese New Year	hol259	Child - Boy, Black Ice Planet Coat, Dark Azure Short Legs, Dark Azure Beanie, Glasses	2022	3.18
-390	Holiday & Event / Chinese New Year	hol260	Man, Black Spiked Hair, Dark Tan Shirt, Reddish Brown Overalls and Legs	2022	3.6
-390	Holiday & Event / Chinese New Year	hol261	Woman, Black Hair, Bright Light Blue Jacket, Dark Purple Star Shirt, Bright Light Blue Legs	2022	3.92
-390	Holiday & Event / Chinese New Year	hol262	Child - Girl, Flat Silver Jacket, Medium Lavender Short Legs, Black Short Hair, Glasses, Freckles	2022	3.11
-390	Holiday & Event / Chinese New Year	hol263	Man, Blue Cap, Dark Azure Jacket, Medium Nougat Legs	2022	3.41
-390	Holiday & Event / Chinese New Year	hol264	Grandfather, Black Shirt with Dark Red Scarf, Dark Brown Legs, Light Bluish Gray Hair	2022	3.49
-390	Holiday & Event / Chinese New Year	hol265	Child - Boy, Red Letterman Jacket, Black Short Legs, Black Spiked Hair	2022	3.21
-390	Holiday & Event / Chinese New Year	hol266	Woman, Orange Tracksuit, Long Black Hair	2022	3.92
-390	Holiday & Event / Chinese New Year	hol267	Man, Orange Tracksuit, Black Hair	2022	3.6
-390	Holiday & Event / Chinese New Year	hol268	The God of Wealth	2022	4.7
-390	Holiday & Event / Chinese New Year	hol269	Man, Orange Ushanka Hat, Black Ice Planet Coat, Blue Legs	2022	3.94
-390	Holiday & Event / Chinese New Year	hol270	Woman, Black Hair, Dark Azure Jacket, Dark Blue Legs	2022	3.64
-390	Holiday & Event / Chinese New Year	hol271	Man, Dark Red Jacket with Bright Light Blue Shirt, Dark Bluish Gray Legs, Black Male Hair, Moustache	2022	3.35
-390	Holiday & Event / Chinese New Year	hol272	Child - Girl, Dark Turquoise Pajamas Top, Dark Turquoise Short Legs, Black Long Hair	2022	3.37
+390	Holiday & Event / Chinese Festivals	hol258	Year of the Tiger Guy	2022	4.75
+390	Holiday & Event / Chinese Festivals	hol259	Child - Boy, Black Ice Planet Coat, Dark Azure Short Legs, Dark Azure Beanie, Glasses	2022	3.18
+390	Holiday & Event / Chinese Festivals	hol260	Man, Black Spiked Hair, Dark Tan Shirt, Reddish Brown Overalls and Legs	2022	3.6
+390	Holiday & Event / Chinese Festivals	hol261	Woman, Black Hair, Bright Light Blue Jacket, Dark Purple Star Shirt, Bright Light Blue Legs	2022	3.92
+390	Holiday & Event / Chinese Festivals	hol262	Child - Girl, Flat Silver Jacket, Medium Lavender Short Legs, Black Short Hair, Glasses, Freckles	2022	3.11
+390	Holiday & Event / Chinese Festivals	hol263	Man, Blue Cap, Dark Azure Jacket, Medium Nougat Legs	2022	3.41
+390	Holiday & Event / Chinese Festivals	hol264	Grandfather, Black Shirt with Dark Red Scarf, Dark Brown Legs, Light Bluish Gray Hair	2022	3.49
+390	Holiday & Event / Chinese Festivals	hol265	Child - Boy, Red Letterman Jacket, Black Short Legs, Black Spiked Hair	2022	3.21
+390	Holiday & Event / Chinese Festivals	hol266	Woman, Orange Tracksuit, Long Black Hair	2022	3.92
+390	Holiday & Event / Chinese Festivals	hol267	Man, Orange Tracksuit, Black Hair	2022	3.6
+390	Holiday & Event / Chinese Festivals	hol268	The God of Wealth	2022	4.7
+390	Holiday & Event / Chinese Festivals	hol269	Man, Orange Ushanka Hat, Black Ice Planet Coat, Blue Legs	2022	3.94
+390	Holiday & Event / Chinese Festivals	hol270	Woman, Black Hair, Dark Azure Jacket, Dark Blue Legs	2022	3.64
+390	Holiday & Event / Chinese Festivals	hol271	Man, Dark Red Jacket with Bright Light Blue Shirt, Dark Bluish Gray Legs, Black Male Hair, Moustache	2022	3.35
+390	Holiday & Event / Chinese Festivals	hol272	Child - Girl, Dark Turquoise Pajamas Top, Dark Turquoise Short Legs, Black Long Hair	2022	3.37
 759	NINJAGO / Core	njo0741	Wu Sensei - Core	2022	3.69
 759	NINJAGO / Core	njo0742	Pixal / P.I.X.A.L. - Core	2022	4.36
 759	NINJAGO / Core	njo0735	Boa Destructor - Breastplate Torso, Pearl Dark Gray Head	2022	4.03
-390	Holiday & Event / Chinese New Year	hol273	Grandmother, Red Jacket, Dark Bluish Gray Shirt, Dark Green Legs, Light Bluish Gray Hair, Glasses	2022	3.5
-390	Holiday & Event / Chinese New Year	hol274	Man, Black Hair, Glasses, Light Bluish Gray Hoodie, Dark Red Shirt and Legs	2022	3.48
-390	Holiday & Event / Chinese New Year	hol275	Child - Girl, Bright Green Jacket, Red Short Legs, Black Hair	2022	3.54
-390	Holiday & Event / Chinese New Year	hol276	Child - Girl, Dark Turquoise Jacket over Dark Purple Shirt, Dark Azure Short Legs, Black Ponytail	2022	3.53
-390	Holiday & Event / Chinese New Year	hol277	Woman, Black Hair, Dark Purple Jacket, Sand Blue Legs, Ice Skates	2022	3.87
-390	Holiday & Event / Chinese New Year	hol278	Child - Boy, Dark Red Puffy Coat, Dark Blue Short Legs, Black Hair	2022	2.98
-390	Holiday & Event / Chinese New Year	hol279	Woman, Black Hair, Blue Coat, Lime Safety Vest, Black Legs	2022	3.67
-390	Holiday & Event / Chinese New Year	hol280	Lunar New Year Ice Festival Participant - Female, Dark Azure Coat, Black Legs, Light Bluish Gray Wavy Hair, Glasses	2022	3.83
-390	Holiday & Event / Chinese New Year	hol281	Man, Dark Red Jacket, Dark Tan Legs, Dark Bluish Gray Beanie, Ice Skates	2022	3.76
+390	Holiday & Event / Chinese Festivals	hol273	Grandmother, Red Jacket, Dark Bluish Gray Shirt, Dark Green Legs, Light Bluish Gray Hair, Glasses	2022	3.5
+390	Holiday & Event / Chinese Festivals	hol274	Man, Black Hair, Glasses, Light Bluish Gray Hoodie, Dark Red Shirt and Legs	2022	3.48
+390	Holiday & Event / Chinese Festivals	hol275	Child - Girl, Bright Green Jacket, Red Short Legs, Black Hair	2022	3.54
+390	Holiday & Event / Chinese Festivals	hol276	Child - Girl, Dark Turquoise Jacket over Dark Purple Shirt, Dark Azure Short Legs, Black Ponytail	2022	3.53
+390	Holiday & Event / Chinese Festivals	hol277	Woman, Black Hair, Dark Purple Jacket, Sand Blue Legs, Ice Skates	2022	3.87
+390	Holiday & Event / Chinese Festivals	hol278	Child - Boy, Dark Red Puffy Coat, Dark Blue Short Legs, Black Hair	2022	2.98
+390	Holiday & Event / Chinese Festivals	hol279	Woman, Black Hair, Blue Coat, Lime Safety Vest, Black Legs	2022	3.67
+390	Holiday & Event / Chinese Festivals	hol280	Lunar New Year Ice Festival Participant - Female, Dark Azure Coat, Black Legs, Light Bluish Gray Wavy Hair, Glasses	2022	3.83
+390	Holiday & Event / Chinese Festivals	hol281	Man, Dark Red Jacket, Dark Tan Legs, Dark Bluish Gray Beanie, Ice Skates	2022	3.76
 759	NINJAGO / Core	njo0738	Cobra Mechanic - Harness Torso, Neck Bracket with Flamethrowers and Mechanical Arms	2022	6.49
 759	NINJAGO / Core	njo0736	Kai - Core, Hair	2022	4.06
 759	NINJAGO / Core	njo0737	Boa Destructor - Breastplate Torso, Pearl Dark Gray Head, Jet Pack	2022	10.34
@@ -13930,7 +13930,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Police	cty1380	Police - City Helicopter Pilot, Allen	2022	3.64
 67	Town / City / Police	cty1381	Police - City Officer Female, Bright Light Blue Shirt with Badge and Radio, Dark Blue Legs, Short Black Curly Hair	2022	3.51
 67	Town / City / Police	cty1382	Police - Jail Prisoner Chef with Apron	2022	3.34
-390	Holiday & Event / Chinese New Year	hol282	Man, Black Hair, Blue Jacket, Dark Red Shirt, Dark Tan Legs	2022	3.36
+390	Holiday & Event / Chinese Festivals	hol282	Man, Black Hair, Blue Jacket, Dark Red Shirt, Dark Tan Legs	2022	3.36
 67	Town / City / Police	cty1383	Police - Crook Ice, Hair	2022	3.7
 67	Town / City / Police	cty1385	Police - Crook Cream	2022	3.41
 67	Town / City / Police	cty1384	Police - City Officer Female, Bright Light Blue Shirt with Badge and Radio, Dark Blue Legs, Medium Nougat Hair	2022	3.65
@@ -14945,29 +14945,29 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0597	Friends Gabriela - Medium Blue Shirt with Stethoscope, Blue Trousers, White Shoes, Medium Azure Head Wrap	2023	3.9
 771	Friends	frnd0598	Friends Autumn - Sand Green Vest over White Shirt, Sand Green Shorts, Nougat and Reddish Brown Boots	2023	2.91
 771	Friends	frnd0599	Friends Zac - Red, White, and Yellow Hoodie with Zippers, White Cropped Trousers, Black Shoes	2023	3.2
-390	Holiday & Event / Chinese New Year	hol305	Lunar New Year Parade Participant - Male, Light Aqua Tang Jacket, Tan Legs, Black Hair	2023	3.62
-390	Holiday & Event / Chinese New Year	hol306	Lunar New Year Parade Participant - Female, Light Aqua Tang Jacket, Tan Legs, Black Hair	2023	3.94
-390	Holiday & Event / Chinese New Year	hol307	Lunar New Year Parade Spectator - Female, Red and Bright Light Orange Jacket, Dark Blue Legs, Black Hair	2023	3.9
-390	Holiday & Event / Chinese New Year	hol308	Child - Girl, Red and Bright Light Orange Jacket, Medium Lavender Short Legs, Dark Red Beanie with Black Hair	2023	3.85
-390	Holiday & Event / Chinese New Year	hol309	Lunar New Year Parade Spectator - Male, Red Scarf, Tan Sweater, Dark Red Legs, Black Hair, Rabbit Glasses	2023	3.7
+390	Holiday & Event / Chinese Festivals	hol305	Lunar New Year Parade Participant - Male, Light Aqua Tang Jacket, Tan Legs, Black Hair	2023	3.62
+390	Holiday & Event / Chinese Festivals	hol306	Lunar New Year Parade Participant - Female, Light Aqua Tang Jacket, Tan Legs, Black Hair	2023	3.94
+390	Holiday & Event / Chinese Festivals	hol307	Lunar New Year Parade Spectator - Female, Red and Bright Light Orange Jacket, Dark Blue Legs, Black Hair	2023	3.9
+390	Holiday & Event / Chinese Festivals	hol308	Child - Girl, Red and Bright Light Orange Jacket, Medium Lavender Short Legs, Dark Red Beanie with Black Hair	2023	3.85
+390	Holiday & Event / Chinese Festivals	hol309	Lunar New Year Parade Spectator - Male, Red Scarf, Tan Sweater, Dark Red Legs, Black Hair, Rabbit Glasses	2023	3.7
 1100	Monkie Kid	mk116	Azure Lion	2023	4.45
 1100	Monkie Kid	mk117	The Golden-Winged Eagle - Pearl Gold Wings	2023	4.7
-390	Holiday & Event / Chinese New Year	hol310	Year of the Rabbit Girl	2023	4.87
+390	Holiday & Event / Chinese Festivals	hol310	Year of the Rabbit Girl	2023	4.87
 1100	Monkie Kid	mk118	Monkie Kid Power-up	2023	3.9
 1100	Monkie Kid	mk119	Monkey King - Bright Light Orange Robe, Black Animal Stripes, Sash	2023	4.2
 1100	Monkie Kid	mk120	Mr. Tang - Dark Red Robe, Gold Headdress	2023	4.25
-390	Holiday & Event / Chinese New Year	hol311	Lunar New Year Parade Spectator - Female, Tan Knit Argyle Sweater Vest, Sand Blue Legs, Dark Orange Hair	2023	3.68
-390	Holiday & Event / Chinese New Year	hol312	Lunar New Year Parade Participant - Musician, Female, Ornate Dark Turquoise Costume, Black Bun, Singing Face	2023	3.42
-390	Holiday & Event / Chinese New Year	hol313	Lunar New Year Parade Participant - Musician, Female, Ornate Dark Turquoise Costume, Black Bun, Large Smile	2023	3.44
-390	Holiday & Event / Chinese New Year	hol314	Lunar New Year Parade Participant - Musician, Female, Ornate Dark Turquoise Costume, Black Bun, Slight Smile	2023	3.41
-390	Holiday & Event / Chinese New Year	hol315	Lunar New Year Parade Participant - Musician, Female, Ornate Dark Turquoise Costume, Black Space Buns	2023	3.92
-390	Holiday & Event / Chinese New Year	hol316	Lunar New Year Parade Participant - Musician, Female, Ornate Dark Turquoise Costume, Black Long Hair	2023	4.04
-390	Holiday & Event / Chinese New Year	hol321	Lunar New Year Parade Participant - Male, Red Tang Shirt, Black Legs, Pirate Bicorne Hat	2023	3.59
-390	Holiday & Event / Chinese New Year	hol319	Lunar New Year Parade Participant - Male, Red Tang Shirt, Dark Purple Legs, Space Helmet, and Air Tanks	2023	4.02
-390	Holiday & Event / Chinese New Year	hol317	Child - Boy, Yellow Monkey King Jacket, Dark Azure Short Legs, Black Mop Top, Freckles	2023	3.25
-390	Holiday & Event / Chinese New Year	hol318	Lunar New Year Parade Participant - Female, Red Tang Jacket, Red Legs, Black Hair with Red Headband	2023	3.66
-390	Holiday & Event / Chinese New Year	hol320	Child - Girl, Reddish Brown Jacket, White Short Legs, Reddish Brown Ponytail, Freckles	2023	3.29
-390	Holiday & Event / Chinese New Year	hol322	Lunar New Year Parade Participant - Male, Red Tang Shirt, Blue Legs, Castle Guard Helmet with Neck Protector	2023	3.67
+390	Holiday & Event / Chinese Festivals	hol311	Lunar New Year Parade Spectator - Female, Tan Knit Argyle Sweater Vest, Sand Blue Legs, Dark Orange Hair	2023	3.68
+390	Holiday & Event / Chinese Festivals	hol312	Lunar New Year Parade Participant - Musician, Female, Ornate Dark Turquoise Costume, Black Bun, Singing Face	2023	3.42
+390	Holiday & Event / Chinese Festivals	hol313	Lunar New Year Parade Participant - Musician, Female, Ornate Dark Turquoise Costume, Black Bun, Large Smile	2023	3.44
+390	Holiday & Event / Chinese Festivals	hol314	Lunar New Year Parade Participant - Musician, Female, Ornate Dark Turquoise Costume, Black Bun, Slight Smile	2023	3.41
+390	Holiday & Event / Chinese Festivals	hol315	Lunar New Year Parade Participant - Musician, Female, Ornate Dark Turquoise Costume, Black Space Buns	2023	3.92
+390	Holiday & Event / Chinese Festivals	hol316	Lunar New Year Parade Participant - Musician, Female, Ornate Dark Turquoise Costume, Black Long Hair	2023	4.04
+390	Holiday & Event / Chinese Festivals	hol321	Lunar New Year Parade Participant - Male, Red Tang Shirt, Black Legs, Pirate Bicorne Hat	2023	3.59
+390	Holiday & Event / Chinese Festivals	hol319	Lunar New Year Parade Participant - Male, Red Tang Shirt, Dark Purple Legs, Space Helmet, and Air Tanks	2023	4.02
+390	Holiday & Event / Chinese Festivals	hol317	Child - Boy, Yellow Monkey King Jacket, Dark Azure Short Legs, Black Mop Top, Freckles	2023	3.25
+390	Holiday & Event / Chinese Festivals	hol318	Lunar New Year Parade Participant - Female, Red Tang Jacket, Red Legs, Black Hair with Red Headband	2023	3.66
+390	Holiday & Event / Chinese Festivals	hol320	Child - Girl, Reddish Brown Jacket, White Short Legs, Reddish Brown Ponytail, Freckles	2023	3.29
+390	Holiday & Event / Chinese Festivals	hol322	Lunar New Year Parade Participant - Male, Red Tang Shirt, Blue Legs, Castle Guard Helmet with Neck Protector	2023	3.67
 771	Friends	frnd0600	Friends Liann - Bright Light Blue Overalls over White Shirt, Bright Light Blue Shorts, Lime Shoes	2023	3.1
 771	Friends	frnd0601	Friends Autumn - White Sleeveless Top, Sand Blue  Shorts, Lime Shoes	2023	2.9
 771	Friends	frnd0602	Friends Aliya - Bright Light Blue Pajamas with White Horseshoes and Dots, Lavender Shoes	2023	3.5
@@ -15002,7 +15002,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Traffic	cty1536	Custom Car Garage Driver - Male, Bright Light Orange Racing Jacket, Dark Blue Legs, Reddish Brown Hair	2023	3.5
 67	Town / City / Traffic	cty1537	Custom Car Garage Driver - Female, Dark Turquoise Jacket, Black Legs, Dark Turquoise Ball Cap with Black Ponytail, Sunglasses	2023	3.85
 67	Town / City / Traffic	cty1538	Custom Car Garage Mechanic - Male, Medium Blue Shirt with Octan Logo, Medium Blue Legs, Short Black Hair, Safety Glasses	2023	3.45
-67	Town / City / Traffic	cty1539	Mechanic - Female, Sand Blue Vest, Medium Blue Legs, Black Helmet, Magenta Welding Visor	2023	4
+67	Town / City / Traffic	cty1539	Mechanic (Mech-Max) - Female, Sand Blue Vest, Medium Blue Legs, Black Helmet, Magenta Welding Visor	2023	4
 67	Town / City / Traffic	cty1540	Gaming Tournament Participant - Female, Orange T-Shirt with Fist, Magenta Legs, Magenta Hair	2023	4.1
 67	Town / City / Traffic	cty1541	Gaming Tournament Participant - Male, Dark Azure T-Shirt with Sword, Blue Legs, Dark Azure Hair	2023	3.6
 67	Town / City / Traffic	cty1542	Gaming Tournament Spectator - Female, Dark Green Hoodie, White Legs, Dark Orange Hair	2023	3.7
@@ -15293,8 +15293,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 605	Indiana Jones / Raiders of the Lost Ark	iaj051	Sallah	2023	3.4
 605	Indiana Jones / Raiders of the Lost Ark	iaj052	Mummy	2023	3.05
 801	Minecraft	min154	Wither	2016	13
-167	DUPLO / Holiday & Event / Chinese New Year	47205pb094	Duplo Figure Lego Ville, Child Boy, Red Legs, Yellow Robe, Bright Light Yellow Arms, Black Hair, Reddish Brown Eyes (6429723)	2023	11.9
-167	DUPLO / Holiday & Event / Chinese New Year	47205pb095	Duplo Figure Lego Ville, Child Girl, White Legs, Bright Light Blue Top with Bright Pink Flowers, Black Hair, Reddish Brown Eyes (6429732)	2023	12.8
+167	DUPLO / Holiday & Event / Chinese Festivals	47205pb094	Duplo Figure Lego Ville, Child Boy, Red Legs, Yellow Robe, Bright Light Yellow Arms, Black Hair, Reddish Brown Eyes (6429723)	2023	11.9
+167	DUPLO / Holiday & Event / Chinese Festivals	47205pb095	Duplo Figure Lego Ville, Child Girl, White Legs, Bright Light Blue Top with Bright Pink Flowers, Black Hair, Reddish Brown Eyes (6429732)	2023	12.8
 67	Town	twn461	Beach Tourist - Male, White Tank Top with Dark Azure Sailboat, Dark Azure Legs, Tan Hair	2023	3.65
 67	Town	twn462	Beach Tourist - Female, White Halter Top with Green Apples and Lime Spots, Blue Legs, Dark Brown Long Tousled Hair, Sunglasses	2023	4.5
 801	Minecraft	min147	Netherite Knight	2023	5.2
@@ -15449,7 +15449,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Dragons Rising Season 1	njo0808	Kai - Dragon Power Kai	2023	4.41
 36	Technic	tech022as	Technic Figure White Legs, White Torso with Black 'RESCUE' and Green Belt, Green Arms, Green Helmet, Black Visor - With Sticker	1999	14.36
 36	Technic	tech022bs	Technic Figure White Legs, White Top with Black 'RESCUE' and Green Belt Pattern, Green Arms, White Helmet with Green Snake, Black Visor - With Sticker	1999	14.42
-850	Jurassic World / Jurassic Park	jw106	Dennis Nedry - Dark Blue Undershirt	2023	3.5
+850	Jurassic World / Jurassic Park	jw106	Dennis Nedry - Dark Blue Undershirt, Hair	2023	3.5
 67	Town	twn466	Taquero - Male, White Sweater with Red Horizontal Stripes, Dark Bluish Gray Legs, Blue Cap	2023	3.8
 227	Harry Potter / Sorcerer's Stone	hp438	Harry Potter - Gryffindor Robe Open, Black Short Legs, Grin / Open Mouth Smile	2023	3.3
 227	Harry Potter / Sorcerer's Stone	hp439	Hermione Granger - Gryffindor Robe Clasped, Black Skirt, Black Short Legs with Dark Bluish Gray Stripes, Open Mouth Smile / Confused	2023	4.25
@@ -15589,7 +15589,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City	cty1650	Electric Scooter Rider - Male, White Shirt with Bright Green Tie, Dark Green Legs, Reddish Brown Spiked Hair, Safety Glasses	2023	3.61
 67	Town / City	cty1651	Sanitary Engineer - Male, Dark Turquoise Top, Dark Orange Overalls and Legs, Reddish Brown Flat Cap	2023	3.55
 67	Town / City	cty1652	Hotel Receptionist - Female, Black Vest with Blue Striped Tie, Black Legs, Reddish Brown Hair	2023	3.63
-67	Town / City	cty1653	DJ - Male, White Jacket, Black Legs, Lime Hair, Dark Turquoise Headphones	2023	3.77
+67	Town / City	cty1653	DJ (Bytz) - Male, White Jacket, Black Legs, Lime Hair, Dark Turquoise Headphones	2023	3.77
 67	Town / City	cty1655	Child - Boy, Medium Azure Top with Triangles, Dark Blue Short Legs, Black Hair	2023	3.29
 67	Town / City	cty1654	Tourist / Food Critic - Female, Tan Jacket and Legs, Bright Light Yellow Hair over Shoulder, Glasses	2023	3.87
 65	Star Wars / Star Wars Ahsoka	sw1310	First Officer Hawkins	2023	3.25
@@ -16039,20 +16039,20 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1095	Super Mario	mar0182	Dorrie - Articulated Front Flippers	2024	33.54
 1095	Super Mario	mar0183	Cheep Chomp	2024	54
 1095	Super Mario	mar0179	Bowser - Pointed Claws	2024	76.4
-390	Holiday & Event / Chinese New Year	hol336	Woman - Black Jacket over Striped Shirt, Medium Blue Legs, Reddish Brown Long Hair	2024	4.58
-390	Holiday & Event / Chinese New Year	hol337	Chef - Jacket with Bright Light Orange Trim, Gold Buttons and Dragon on Back, Black Legs, Dark Bluish Gray Beard	2024	3.64
+390	Holiday & Event / Chinese Festivals	hol336	Woman - Black Jacket over Striped Shirt, Medium Blue Legs, Reddish Brown Long Hair	2024	4.58
+390	Holiday & Event / Chinese Festivals	hol337	Chef - Jacket with Bright Light Orange Trim, Gold Buttons and Dragon on Back, Black Legs, Dark Bluish Gray Beard	2024	3.64
 67	Town / City / Construction	cty1691	Construction Worker - Male, Orange Safety Jacket, Reflective Stripe, Sand Blue Hoodie, Sand Blue Legs, Red Construction Helmet	2023	3.4
-390	Holiday & Event / Chinese New Year	hol338	Woman - Bright Green Sweater with Bright Light Yellow Zigzag Lines, White Legs, Black Hair	2024	3.7
-390	Holiday & Event / Chinese New Year	hol339	Child - Girl, Bright Light Orange Tang Jacket, Dark Turquoise Short Legs, Black Hair with Buns	2024	3.57
-390	Holiday & Event / Chinese New Year	hol340	Restaurant Worker - Female, White Uniform Jacket, Black Legs, Light Bluish Gray Hair with Top Knot Bun	2024	3.41
-390	Holiday & Event / Chinese New Year	hol341	Flower Seller - Female, Bright Light Orange Tang Jacket, Dark Turquoise Legs, Light Bluish Gray Hair, Red Glasses	2024	3.82
-390	Holiday & Event / Chinese New Year	hol342	Child - Boy, Red Tracksuit Jacket, Tan Short Legs, Black Hair	2024	3.23
-390	Holiday & Event / Chinese New Year	hol343	Man - White Sweater with Red Horizontal Stripes, Blue Legs, Black Hair, Glasses	2024	3.51
-390	Holiday & Event / Chinese New Year	hol344	Man - Light Bluish Gray Knit Cable Cardigan Sweater, Dark Blue Legs, Light Bluish Gray Hair, Glasses	2024	3.4
-390	Holiday & Event / Chinese New Year	hol345	Waiter - Male, White Uniform Jacket, Black Legs, Black Hair	2024	3.37
-390	Holiday & Event / Chinese New Year	hol346	Man - Dark Azure Jacket over Silver Shirt, Dark Red Legs, Black Hair, Red Scarf	2024	3.81
-390	Holiday & Event / Chinese New Year	hol347	Woman - Dark Azure Jacket over Silver Shirt, Olive Green Legs, Black Hair, Dark Red Beanie	2024	4.27
-390	Holiday & Event / Chinese New Year	hol348	Year of the Dragon Costume Guy	2024	4.9
+390	Holiday & Event / Chinese Festivals	hol338	Woman - Bright Green Sweater with Bright Light Yellow Zigzag Lines, White Legs, Black Hair	2024	3.7
+390	Holiday & Event / Chinese Festivals	hol339	Child - Girl, Bright Light Orange Tang Jacket, Dark Turquoise Short Legs, Black Hair with Buns	2024	3.57
+390	Holiday & Event / Chinese Festivals	hol340	Restaurant Worker - Female, White Uniform Jacket, Black Legs, Light Bluish Gray Hair with Top Knot Bun	2024	3.41
+390	Holiday & Event / Chinese Festivals	hol341	Flower Seller - Female, Bright Light Orange Tang Jacket, Dark Turquoise Legs, Light Bluish Gray Hair, Red Glasses	2024	3.82
+390	Holiday & Event / Chinese Festivals	hol342	Child - Boy, Red Tracksuit Jacket, Tan Short Legs, Black Hair	2024	3.23
+390	Holiday & Event / Chinese Festivals	hol343	Man - White Sweater with Red Horizontal Stripes, Blue Legs, Black Hair, Glasses	2024	3.51
+390	Holiday & Event / Chinese Festivals	hol344	Man - Light Bluish Gray Knit Cable Cardigan Sweater, Dark Blue Legs, Light Bluish Gray Hair, Glasses	2024	3.4
+390	Holiday & Event / Chinese Festivals	hol345	Waiter - Male, White Uniform Jacket, Black Legs, Black Hair	2024	3.37
+390	Holiday & Event / Chinese Festivals	hol346	Man - Dark Azure Jacket over Silver Shirt, Dark Red Legs, Black Hair, Red Scarf	2024	3.81
+390	Holiday & Event / Chinese Festivals	hol347	Woman - Dark Azure Jacket over Silver Shirt, Olive Green Legs, Black Hair, Dark Red Beanie	2024	4.27
+390	Holiday & Event / Chinese Festivals	hol348	Year of the Dragon Costume Guy	2024	4.9
 759	NINJAGO / Dragons Rising Season 2	njo0859	Zane - Dragons Rising, Tunic with Large Armor Plates, Head Wrap, Shoulder Pad	2024	4.2
 759	NINJAGO / Dragons Rising Season 2	njo0852	Jay - Dragons Rising, Head Wrap	2024	3.9
 759	NINJAGO / Dragons Rising Season 2	njo0858	Kai - Dragons Rising, Tunic with Large Armor Plates, Dark Red and Red Head Wrap	2024	3.88
@@ -16079,8 +16079,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 390	Holiday & Event / Christmas	hol351	Child - Boy, Bright Green Sweater with Bright Light Yellow Zigzag Lines, Reddish Brown Short Legs and  Hair Tousled with Side Part, Freckles	2023	3
 390	Holiday & Event / Christmas	hol352	Child - Girl, Bright Light Blue Jacket over White Shirt with Coral Flowers, Reddish Brown Short Legs, Medium Nougat Hair Long, Red Glasses	2023	3.6
 1095	Super Mario	mar0181	Yellow Toad - Happy, Standing	2023	9.1
-390	Holiday & Event / Chinese New Year	hol353	Woman - Dark Turquoise Jacket over Dark Purple Shirt, Sand Blue Legs, Black Hair Top Knot Bun	2024	3.45
-390	Holiday & Event / Chinese New Year	hol354	Man - Red Jacket over White Shirt, Dark Blue Legs, Black Hair with Short Ponytail	2024	3.49
+390	Holiday & Event / Chinese Festivals	hol353	Woman - Dark Turquoise Jacket over Dark Purple Shirt, Sand Blue Legs, Black Hair Top Knot Bun	2024	3.45
+390	Holiday & Event / Chinese Festivals	hol354	Man - Red Jacket over White Shirt, Dark Blue Legs, Black Hair with Short Ponytail	2024	3.49
 759	NINJAGO / Dragons Rising Season 2	njo0866	Arin - Shirt with Orange Dragon, Head Wrap, Shoulder Armor	2024	4.39
 759	NINJAGO / Dragons Rising Season 2	njo0864	Kai - Dragons Rising, Tunic with Large Armor Plates, Red and Pearl Gold Head Wrap, Shoulder Armor	2024	4.39
 801	Minecraft	min161	Swamp Explorer	2024	3.5
@@ -16469,7 +16469,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 878	Disney / Inside Out 2	dis162	Joy	2024	3.03
 878	Disney / Inside Out 2	dis163	Anxiety	2024	1.27
 759	NINJAGO / Dragons Rising Season 2	njo0890	Kai - Dragons Rising, Tunic with Large Armor Plates, Red and Pearl Gold Head Wrap	2024	3.88
-67	Town / City / Recreation	cty1800	Robot World Patron - Male, White Jacket, Black Legs, Lime Hair	2024	3.58
+67	Town / City / Recreation	cty1800	Robot World Patron (Bytz) - Male, White Jacket, Black Legs, Lime Hair	2024	3.58
 67	Town / City / Harbor	cty1795	Dock Worker - Female, Neon Yellow Safety Vest with Reflective Stripes, Reddish Brown Legs, White Construction Helmet with Dark Brown Ponytail Hair, Orange Life Jacket	2024	4
 850	Jurassic World / Chaos Theory	jw122	Sammy Gutierrez - Medium Blue Jacket over Dark Red Shirt, Dark Blue Legs	2024	3.94
 850	Jurassic World / Chaos Theory	jw121	Ben Pincus - Sand Green Hoodie over Orange Shirt, Sand Blue Legs	2024	3.56
@@ -16539,7 +16539,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Traffic	cty1769	Bus Driver - Male, Sand Blue Vest over White Shirt, Dark Blue Legs and Hat	2024	3.43
 67	Town / City / Traffic	cty1772	Bus Passenger - Male, Bright Light Yellow Shirt with Flowers and Leaves, Dark Tan Legs, Reddish Brown Flat Cap	2024	3.56
 67	Town / City / Traffic	cty1770	Bus Passenger - Female, Bright Light Blue Jacket over White Shirt with Coral Flowers, Medium Nougat Legs, Dark Orange Hair	2024	3.91
-67	Town / City / Traffic	cty1771	Bus Passenger - Female, Dark Turquoise Jacket with Dark Green Panel, Dark Bluish Gray Legs, Dark Brown Hair	2024	4.41
+67	Town / City / Traffic	cty1771	Bus Passenger (Wanda About) - Female, Dark Turquoise Jacket with Dark Green Panel, Dark Bluish Gray Legs, Dark Brown Hair	2024	4.41
 801	Minecraft	min170	Swashbuckler	2024	3.5
 801	Minecraft	min171	Buccaneer	2024	3.5
 759	NINJAGO / Dragons Rising Season 2	njo0899	Wolf Mask Warrior - Dark Purple and Red Mask, Energy Claws	2024	12.21
@@ -17101,11 +17101,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1285	Animal Crossing	ani016	Poppy	2025	5.93
 1285	Animal Crossing	ani017	Mabel	2025	6.06
 1285	Animal Crossing	ani018	Sasha	2025	5.44
-390	Holiday & Event / Chinese New Year	hol370	Year of the Snake Costume Guy	2025	4.48
-390	Holiday & Event / Chinese New Year	hol371	Child - Girl, Dark Turquoise Cheongsam Bolero Shrug, Medium Nougat Short Legs, Black Hair with Buns	2025	3.56
-390	Holiday & Event / Chinese New Year	hol372	Man - Bright Light Blue Denim Jacket over Shirt with Record, Dark Blue Legs, Black Hair, Glasses	2025	3.52
-390	Holiday & Event / Chinese New Year	hol373	Woman, Black Long Hair, Dark Turquoise Cheongsam Bolero Shrug, Medium Nougat Legs	2025	3.98
-390	Holiday & Event / Chinese New Year	hol374	Child - Boy, White Jacket with Black Sleeves, Sand Blue Short Legs, Black Hair	2025	3.23
+390	Holiday & Event / Chinese Festivals	hol370	Year of the Snake Costume Guy	2025	4.48
+390	Holiday & Event / Chinese Festivals	hol371	Child - Girl, Dark Turquoise Cheongsam Bolero Shrug, Medium Nougat Short Legs, Black Hair with Buns	2025	3.56
+390	Holiday & Event / Chinese Festivals	hol372	Man - Bright Light Blue Denim Jacket over Shirt with Record, Dark Blue Legs, Black Hair, Glasses	2025	3.52
+390	Holiday & Event / Chinese Festivals	hol373	Woman, Black Long Hair, Dark Turquoise Cheongsam Bolero Shrug, Medium Nougat Legs	2025	3.98
+390	Holiday & Event / Chinese Festivals	hol374	Child - Boy, White Jacket with Black Sleeves, Sand Blue Short Legs, Black Hair	2025	3.23
 67	Town	twn510	Tudor House Patron / Food Critic - Tan Jacket and Legs, Red Hat with Hair, Soft Folded Brim	2025	4.03
 67	Town	twn511	Tudor House Haberdashery Store Owner - Light Bluish Gray Jacket with Pinstripes and Legs, Black  Hair	2025	3.44
 67	Town	twn512	Tudor House Haberdashery Mannequin - Black Tuxedo, Legs and Top Hat	2025	3.6
@@ -17367,7 +17367,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Race	cty1867	Formula 1 Pit Crew Member - Male, Reddish Orange Racing Suit with Pockets, Dark Bluish Gray Legs, White Dirt Bike Helmet, Beard and Moustache	2025	3.75
 67	Town / City / Race	cty1868	Hot Dog Soapbox Race Car Driver (Vendor) - Female, Red and White Striped Shirt, Tan Legs, Red Ball Cap with Reddish Brown Ponytail	2025	3.84
 67	Town / City / Race	cty1869	Toilet Soapbox Race Car Driver (Plumber) - Male, Dark Turquoise Overalls with Toilet Logo, Dark Turquoise Legs, Neon Yellow Construction Helmet, Stubble	2025	3.37
-67	Town / City / Race	cty1870	Soapbox Race Car Mechanic - Female, Sand Blue Vest, Dark Azure Legs, Magenta Messy Hair, Freckles	2025	3.46
+67	Town / City / Race	cty1870	Soapbox Race Car Mechanic (Mech-Max) - Female, Sand Blue Vest, Dark Azure Legs, Magenta Messy Hair, Freckles	2025	3.46
 67	Town / City / Race	cty1871	Soapbox Race Reporter (Jason 'Just Jason' Brickle) - Male, Orange Jacket with Panels and Zipper, Dark Blue Legs, Reddish Brown Tousled Hair	2025	3.61
 771	Friends	frnd0819	Friends Paisley - Bright Light Yellow and Medium Lavender Tank Top, Medium Lavender Shorts, Dark Tan Shoes	2025	3.22
 771	Friends	frnd0820	Friends Elsa D - White Knotted Sleeveless Shirt, Magenta Skirt, Black Boots	2025	4.07
@@ -18326,8 +18326,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Legacy	njo1006	Master of Lightning (Libber)	2026	3.89
 759	NINJAGO / Legacy	njo1002	Samurai X (Nya) - Legacy Update	2026	4.76
 768	Super Heroes	sh1096	Captain America (Sam Wilson) - Dark Blue Suit, Dark Blue Plain Legs, Backpack and Wings	2025	8.15
-390	Holiday & Event / Chinese New Year	hol407	Year of the Horse Costume Guy	2026	4.59
-390	Holiday & Event / Chinese New Year	hol408	Child - Girl, Yellowish Green Tang Jacket, Dark Green Short Legs, Black Hair with Buns	2026	3.51
+390	Holiday & Event / Chinese Festivals	hol407	Year of the Horse Costume Guy	2026	4.59
+390	Holiday & Event / Chinese Festivals	hol408	Child - Girl, Yellowish Green Tang Jacket, Dark Green Short Legs, Black Hair with Buns	2026	3.51
 801	Minecraft	min242	Micromob Steve - Short, Dark Brown Hair, Dark Azure Legs	2026	0.5
 801	Minecraft	min243	Micromob Husk	2026	0.5
 801	Minecraft	min244	Micromob Pillager	2026	0.5
@@ -18506,12 +18506,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1043	Stranger Things	st023	Joyce Byers - Dark Red Plaid Flannel Shirt, Dark Blue Legs	2026	4.12
 67	Town / City / Coast Guard	cty1960	Coast Guard City Helicopter Pilot - Male, Reddish Orange Jacket with Dark Blue Safety Vest, Dark Blue Legs with Pockets and Reflective Stripes, White Flight Helmet	2026	3.67
 842	SPEED CHAMPIONS	sc142	Ferrari SF90 XX Stradale Driver	2026	3.63
-390	Holiday & Event / Chinese New Year	hol409	The God of Fortune	2026	4.38
-390	Holiday & Event / Chinese New Year	hol410	Grandmother - Tan Knit Cable Sweater, Reddish Brown Legs, Light Bluish Gray Short Wavy Hair	2026	3.89
-390	Holiday & Event / Chinese New Year	hol411	Grandfather - Light Bluish Gray Jacket with Pinstripes and Legs, White Hair	2026	3.53
-390	Holiday & Event / Chinese New Year	hol412	Child - Girl, Red Jacket over White Shirt, Dark Blue Legs, Black Hair	2026	3.95
-390	Holiday & Event / Chinese New Year	hol413	Child - Boy, Sand Green Sweater over Reddish Orange Tang Jacket, Medium Azure Short Legs, Black Spiked Hair	2026	3.22
-390	Holiday & Event / Chinese New Year	hol414	Man - Sand Green Sweater over Reddish Orange Tang Jacket, Blue Legs, Black Smooth Hair	2026	3.5
+390	Holiday & Event / Chinese Festivals	hol409	The God of Fortune	2026	4.38
+390	Holiday & Event / Chinese Festivals	hol410	Grandmother - Tan Knit Cable Sweater, Reddish Brown Legs, Light Bluish Gray Short Wavy Hair	2026	3.89
+390	Holiday & Event / Chinese Festivals	hol411	Grandfather - Light Bluish Gray Jacket with Pinstripes and Legs, White Hair	2026	3.53
+390	Holiday & Event / Chinese Festivals	hol412	Child - Girl, Red Jacket over White Shirt, Dark Blue Legs, Black Hair	2026	3.95
+390	Holiday & Event / Chinese Festivals	hol413	Child - Boy, Sand Green Sweater over Reddish Orange Tang Jacket, Medium Azure Short Legs, Black Spiked Hair	2026	3.22
+390	Holiday & Event / Chinese Festivals	hol414	Man - Sand Green Sweater over Reddish Orange Tang Jacket, Blue Legs, Black Smooth Hair	2026	3.5
 842	SPEED CHAMPIONS	sc143	Bugatti Vision Gran Turismo Driver	2026	3.67
 67	Town / City / Coast Guard	cty1961	Woman - Light Bluish Gray and Lime Wetsuit, Light Bluish Gray Legs, Dark Orange Hair, Orange Life Jacket	2026	3.94
 67	Town / City / Coast Guard	cty1962	Coast Guard City - Female, Reddish Orange Jacket with Pockets and Reflective Stripes, Dark Blue Legs with Pockets and Reflective Stripes, Orange Life Jacket, White Sports Helmet	2026	3.7
@@ -18592,10 +18592,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1197	BrickLink Designer Program	bdp269	Art Factory Maintenance Worker - Male, Black Jacket with Reflective Stripes, Dark Bluish Gray Legs with Knee Pads, Light Bluish Gray Combed Hair	2026	3.34
 227	Harry Potter	hp615	Ginny Weasley - Gryffindor Robe Clasped, Black Short Legs, Skirt	?	3.9
 1374	Project Hail Mary	phm001	Ryland Grace	2026	4.58
-390	Holiday & Event / Chinese New Year	hol415	Man - Red Tang Jacket with Gold Chinese Scrollwork, Red Legs, Black Smooth Hair	2026	3.5
-390	Holiday & Event / Chinese New Year	hol416	Woman - Red Tang Jacket with Gold Chinese Scrollwork, White Legs, Dark Brown Hair	2026	3.5
-390	Holiday & Event / Chinese New Year	hol417	Man - Red Tang Jacket with Gold Chinese Scrollwork, White Legs, Dark Tan Hair	2026	3.4
-390	Holiday & Event / Chinese New Year	hol418	Woman - Red Tang Jacket with Gold Chinese Scrollwork, Red Legs, Brown Short Hair	2026	3.4
+390	Holiday & Event / Chinese Festivals	hol415	Man - Red Tang Jacket with Gold Chinese Scrollwork, Red Legs, Black Smooth Hair	2026	3.5
+390	Holiday & Event / Chinese Festivals	hol416	Woman - Red Tang Jacket with Gold Chinese Scrollwork, White Legs, Dark Brown Hair	2026	3.5
+390	Holiday & Event / Chinese Festivals	hol417	Man - Red Tang Jacket with Gold Chinese Scrollwork, White Legs, Dark Tan Hair	2026	3.4
+390	Holiday & Event / Chinese Festivals	hol418	Woman - Red Tang Jacket with Gold Chinese Scrollwork, Red Legs, Brown Short Hair	2026	3.4
 65	Star Wars / Star Wars Episode 4/5/6	sw1491	Luke Skywalker - SMART Minifigure, Tatooine	2026	3.74
 65	Star Wars / Star Wars Episode 4/5/6	sw1492	Jawa - Straps with Orange Stains and Holster	2026	3.44
 65	Star Wars / Star Wars Episode 4/5/6	sw1493	Gonk Droid (GNK Power Droid) - Dark Blue Body	2026	4.75
@@ -18737,7 +18737,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars The Mandalorian and Grogu	sw1517	New Republic Astromech - Dark Green	2026	4.47
 65	Star Wars / Star Wars The Mandalorian and Grogu	sw1518	Carson Teva - X-Wing Flightsuit	2026	3.58
 167	DUPLO / Super Heroes / Spidey and his Amazing Friends	47394pb382	Duplo Figure Lego Ville, Green Goblin, Dark Purple Outfit (6593625)	2026	16.3
-65	Star Wars / Star Wars The Mandalorian and Grogu	sw1519	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jetpack, Printed Head	2026	4.11
+65	Star Wars / Star Wars The Mandalorian and Grogu	sw1519	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jetpack, Printed Head, Reddish Brown and Dark Silver Knee Pads	2026	4.11
 65	Star Wars / Star Wars The Mandalorian and Grogu	sw1520	Din Grogu / The Child / 'Baby Yoda' - Long Robe	2026	1.02
 65	Star Wars / Star Wars The Mandalorian and Grogu	sw1521	Imperial Remnant AT-RT Driver	2026	4.18
 65	Star Wars / Star Wars The Mandalorian and Grogu	sw1522	Din Grogu / The Child / 'Baby Yoda' - Long Robe, Beskar Rondel with Mudhorn Signet	2026	1.02
@@ -18769,4 +18769,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1359	Editions	edi004	Kylian Mbappé {Mbappe}	2026	3.32
 1359	Editions	edi005	Vini Jr.	2026	3.66
 1359	Editions	edi006	Lewis Hamilton	2026	3.73
-167	DUPLO / Peppa Pig	47205pb133	Duplo Figure Lego Ville, George Pig - Dark Azure Plain Outfit, Silver Earpiece (6600808)	2026	11.6
+167	DUPLO / Peppa Pig	47205pb133	Duplo Figure Lego Ville, George Pig - Dark Azure Plain Outfit with Silver Earpiece Pattern (6600808)	2026	11.6
+167	DUPLO / Peppa Pig	47205pb134	Duplo Figure Lego Ville, George Pig - Dark Azure Outfit with Green Dinosaur Outline on Lime Background, Silver Earpiece Pattern (6601057)	2026	11.6
+167	DUPLO / Peppa Pig	47205pb135	Duplo Figure Lego Ville, Peppa Pig - Red Outfit with Coral, Bright Light Yellow and Medium Lavender Rainbow, White Clouds Pattern (6601118)	2026	11.49
+167	DUPLO / Peppa Pig	7627pb02	Duplo Figure Lego Ville, Baby Evie Pig, Light Aqua Sleep Sack with Lavender and Medium Lavender Bib, Yellow Duck and Bow Pattern (6566316)	2026	11.52
+850	Jurassic World / Jurassic Park	jw143	Dennis Nedry - Jurassic Park Logo on Back, Hood	?	3.65
+65	Star Wars / Star Wars The Mandalorian	sw1528	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape, Printed Head, Reddish Brown and Dark Silver Knee Pads	?	3.8
+1359	Editions	edi007	Charles Leclerc	2026	3.64
+67	Town	twn549	Italian Market Van Driver - Male, Blue Torso, Dark Blue Legs and Cap	?	3.4

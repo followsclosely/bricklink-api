@@ -173,6 +173,7 @@ Category ID	Category Name
 1344	BDP Series 5
 1358	BDP Series 6
 1363	BDP Series 7
+1385	BDP Series 8
 464	Bead
 1142	BeatBox
 1180	Beauty and the Beast
@@ -249,7 +250,7 @@ Category ID	Category Name
 991	Chain
 696	Chamber of Secrets
 1302	Chaos Theory
-955	Chinese New Year
+955	Chinese Festivals
 1219	Chip &#39;n&#39; Dale: Rescue Rangers
 391	Christmas
 1184	Cinderella
@@ -637,6 +638,7 @@ Category ID	Category Name
 1067	Microfighters Series 7
 1127	Microfighters Series 8
 1206	Midway Arcade
+1386	Mighty Machines Series 1
 874	Mighty Micros
 867	Miles From Tomorrowland
 59	MINDSTORMS
@@ -874,6 +876,7 @@ Category ID	Category Name
 63	Service Packs
 1378	Shadow Horde
 1152	Shang-Chi
+1384	Shrek
 1375	Skull Army
 950	Skybound
 1186	Sleeping Beauty

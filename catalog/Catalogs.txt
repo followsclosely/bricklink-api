@@ -5048,6 +5048,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 369	1994	c94dedc	1994 Dealer Catalog German	1994	?
 1319	2025 / Holiday & Event / Christmas	c25sah4	2025 Shop at Home - Holiday (WOR 2106)	2025	62
 354	1979	c79ja	1979 Large Japanese (102508/102608-Ja.)	1979	25
+1066	2020 / Dots	c20sk3	2020 Medium Dots Slovak	2020	32
+1028	2019 / Friends	c19sk3	2019 Medium Friends Slovak	2019	24
 372	1997	c97ja2	1997 Large Japanese (925.232)	1997	90
 373	1998	c98ja2	1998 Medium Japanese (4112648/4112649-J)	1998	19
 371	1996	c96ja2	1996 Large Japanese	1996	79

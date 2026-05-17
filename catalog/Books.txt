@@ -5174,7 +5174,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1022	Magazine, Friends	mag2020frnd07pl	Friends Magazine 2020 Issue 7 (Polish)	2020	81	21 x 28 x 0.13
 1083	Magazine, Hidden Side	mag2020hs06pl	Hidden Side Magazine 2020 Issue 6 (Polish)	2020	81	21 x 28 x 0.13
 317	Idea Book / Disney Princess	b18dp04uk	Disney Princess - Build Your Own Adventure (Box Set) (English - UK Edition) (with Poster and Bookmarks)	2018	?	? x ? x ?
-766	Activity Book	9789030507567	Het LEGO Spelletjes Boek (Dutch Edition)	2020	460	18.7 x 23.7 x 2.7
+766	Activity Book	b20other13nl	Het LEGO Spelletjes Boek (Hardcover) (Dutch Edition)	2020	460	18.7 x 23.7 x 2.7
 317	Idea Book	b20other12nl	Grootse Geschiedenis (Box Set) (Dutch Edition)	2020	660	22 x 28 x 2.4
 766	Activity Book / Harry Potter	b20hp03nl	Harry Potter - Harry vs Draco (Box Set) (Dutch Edition)	2020	640	25 x 30 x 4.3
 1063	Magazine, Super Heroes / Batman II	mag2020shba05pl	Batman Magazine 2020 Issue 5 (Polish)	2020	81	21 x 28 x 0.13
@@ -5235,7 +5235,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 317	Idea Book / Holiday & Event / Halloween	b20hol04	Halloween Ideas (Hardcover)	2020	368	15.6 x 25.1 x 2.6
 317	Idea Book	9780241458211	100 ways to Rebuild the world	2020	487	20.2 x 26.2 x 1.2
 332	Informational Book	9780241458235	Minifigure Handbook	2020	595	15.1 x 22.8 x 1.8
-766	Activity Book	9780241409466	The LEGO Games Book	2020	477	18.7 x 23.8 x 2.2
+766	Activity Book	b20other13uk	The LEGO Games Book (Hardcover) (English - UK Edition)	2020	477	18.7 x 23.8 x 2.2
 1102	Sticker Book / Star Wars	9780744030884	Sticker Book - Star Wars Holiday	2020	295	21.1 x 27.4 x 0.5
 1102	Sticker Book / Holiday & Event / Christmas	9781465492081	Ultimate Sticker Book - Winter Wonderland	2020	108	21.6 x 27.9 x 0.3
 505	Story Book / Disney Princess	9781465497888	Disney Princess - Enchanted Treasury	2020	567	18.8 x 23.1 x 2.8
@@ -7570,7 +7570,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1022	Magazine, Friends	mag2025frnd13de	Friends Magazine 2025 Issue 13 (German)	2025	?	? x ? x ?
 1021	Magazine, City	mag2024cty07pl	City Magazine 2024 Issue 7 (Polish)	2024	?	? x ? x ?
 317	Idea Book	220-se	Vi leker med Lego (1971-72)	1971	184	21 x 29.7 x 0.3
-766	Activity Book / Star Wars / Star Wars Episode 1	b25sw03de	Star Wars - Rätselspass mit Anakin Skywalker (German Edition)	2025	?	? x ? x ?
+766	Activity Book / Star Wars / Star Wars Episode 1 / 1955	b25sw03de	Star Wars - Rätselspass mit Anakin Skywalker (German Edition)	2025	?	? x ? x ?
 332	Informational Book / NINJAGO	b25njo06	NINJAGO - Adventure Atlas: Journey Through the World of Ninjago (Hardcover)	2025	636	20 x 26 x 2.8
 1021	Magazine, City	mag2025cty83de	City Magazine 2025 Issue 83 (German)	2025	?	? x ? x ?
 1024	Magazine, NINJAGO / Legacy	mag2025njol34uk	NINJAGO Legacy Magazine 2025 Issue 34 (English - UK)	2025	?	? x ? x ?
@@ -7661,7 +7661,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 317	Idea Book	b19other07hu	Mókás Gépek (Hungarian Edition)	2019	545	25.8 x 25.5 x 2.7
 317	Idea Book	b18other12hu	Láncreakciók (Hungarian Edition)	2018	540	22.9 x 25.6 x 2.7
 317	Idea Book / NINJAGO	b21njo18hu	NINJAGO - Építs magadnak Kalandot! - A Legnagyobb Nindzsacsaták (Box Set) (Hungarian Edition)	2021	860	22.2 x 27.8 x 4
-766	Activity Book	b22other19hu	LEGO Játékok (Hungarian Edition)	2022	465	18.7 x 23.7 x 2.3
+766	Activity Book	b22other19hu	LEGO Játékok (Hardcover) (Hungarian Edition)	2022	465	18.7 x 23.7 x 2.3
 317	Idea Book	b22other18hu	Kalandos Történelem (Box Set) (Hungarian Edition)	2022	675	22 x 28 x 2.6
 317	Idea Book	b16other06hu	Fantasztikus Ötletek (Hard cover) (Hungarian Edition)	2016	1017	23.9 x 27.6 x 1.6
 317	Idea Book	b12other02hu	LEGO Ötletek Könyve: Bármit Megépíthetsz (Hardcover) (Hungarian Edition)	2014	1023	23.5 x 27.5 x 1.7
@@ -7881,4 +7881,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 332	Informational Book	b75other01	En klods. Her er historien om den	1975	?	? x ? x ?
 1024	Magazine, NINJAGO	mag2026njo140de	NINJAGO Magazine 2026 Issue 140 (German)	2026	?	? x ? x ?
 1025	Magazine, Star Wars	mag2026sw134es	Star Wars Magazine 2026 Issue 134 (Spanish)	2026	83	21 x 28 x 0.13
+331	Comic Book / BIONICLE	b08bio09	BIONICLE - Graphic Novel 2: Challenge of the Rahkshi (Softcover)	2008	189	? x ? x ?
 1025	Magazine, Star Wars	mag2025sw129de	Star Wars Magazine 2025 Issue 129 (German)	2025	81	21 x 28 x 0.13
+766	Activity Book / Star Wars	b26sw03uk	Star Wars - Grogu's Adventures (English - UK Edition)	2026	160	20.5 x 28.8 x 2.7

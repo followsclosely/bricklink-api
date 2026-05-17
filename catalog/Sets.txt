@@ -943,7 +943,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 9	Castle / Fright Knights	6027-1	Bat Lord's Catapult	1997	92	14.1 x 9.4 x 4.6
 9	Castle / Fright Knights	6028-1	Treasure Cart	1998	33	7 x 7 x 4.5
 9	Castle / Fright Knights	6029-1	Treasure Guard polybag	1998	22	14.2 x 14.6 x 1.7
-67	Town / Classic Town / Traffic	603-1	Sidecar	1978	?	? x ? x ?
+67	Town / Classic Town / Traffic	603-1	Motor bike	1978	?	? x ? x ?
 9	Castle / Black Falcons	6030-1	Catapult	1984	123	19.3 x 9.2 x 3.7
 9	Castle / Fright Knights	6031-1	Fright Force	1998	65	14.3 x 9.7 x 4.7
 9	Castle / Knights Kingdom I	6032-1	Catapult Crusher	2000	111	18.5 x 9.5 x 4.5
@@ -2233,8 +2233,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 166	Educational & Dacta / Service Packs / DUPLO	9838-1	Gears For Primary Simple Machines (Gears For Primary T&B)	1998	?	? x ? x ?
 166	Educational & Dacta / Service Packs / DUPLO	9839-1	Small Pulleys and Handles ESM (Early Simple Machines)	1998	48	20.3 x 12.2 x 2
 166	Educational & Dacta / Service Packs / Technic	9848-1	9V Lamps (Lamps And Fittings)	1997	10	? x ? x ?
-166	Educational & Dacta / Service Packs / Technic	9854-1	Worm Gear Pack (Gear & Worm Racks/Rack and Worm Gears)	1992	16	? x ? x ?
-166	Educational & Dacta / Service Packs / Technic	9876-1	Large Turntables	1992	?	? x ? x ?
+166	Educational & Dacta / Service Packs / Technic	9854-1	Worm Gear Pack (Gear & Worm Racks/Rack and Worm Gears)	1992	22	12 x 20.5 x 1
+166	Educational & Dacta / Service Packs / Technic	9876-1	Large Turntables	1992	36.5	12 x 19.5 x 4.5
 166	Educational & Dacta / Service Packs / Technic	9883-1	Motor (9V)	1993	?	? x ? x ?
 166	Educational & Dacta / Service Packs / Technic	9885-1	Sound Element (9V)	1993	6.5	12.5 x 20.5 x 1.7
 166	Educational & Dacta / Technic / Control Lab	9889-1	Temperature Sensor (9V)	1993	10.93	14.2 x 18.8 x 1.2
@@ -4145,7 +4145,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 423	Classic / Supplemental	700-1	10 x 20 Brickplate	1966	?	? x ? x ?
 423	Classic / Wooden Box Set	713-1	Wooden Storage Box Medium, Empty	1963	925	38 x 28 x 7.5
 629	Architecture	750-2	Hobby and Model Building Starter Set - Large	1962	?	? x ? x ?
-629	Architecture	751-2	Hobby and Model Building Starter Set - Medium	1962	?	? x ? x ?
+629	Architecture	751-2	Hobby and Model Building Starter Set - Medium	1962	?	48 x 29 x 4
 629	Architecture	752-1	Hobby and Model Building Starter Set - Small	1962	770	37.5 x 23 x 3.1
 422	Universal Building Set / Supplemental	782-1	Storage Case	1984	?	? x ? x ?
 422	Universal Building Set / Supplemental	797-1	2 large baseplates, gray/white	1971	?	? x ? x ?
@@ -4706,7 +4706,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 478	Bulk Bricks	10114-1	2 x 2 Sand Red Roof Tiles	2001	?	? x ? x ?
 179	Racers / Drome Racers	65062-1	Racers Turbo Pack	2002	410.8	? x ? x ?
 67	Town / Classic Town / Wrecker	642-1	Tow Truck and Car	1978	?	? x ? x ?
-277	LEGOLAND / Hospital	600-1	Ambulance	1970	55	10.1 x 6.5 x 4.1
+277	LEGOLAND / Hospital	600-1	Ambulance	1970	56.52	10.1 x 6.5 x 4.1
 36	Technic / Model / Riding Cycle	8430-1	Motorbike	2002	496	28.7 x 23.9 x 6
 478	Bulk Bricks	3446-1	2 x 2 Window White	2000	24.24	13.5 x 13 x 1
 166	Educational & Dacta / DUPLO / Learning	1013-1	Numbers - 6 symbols	1985	804	29.5 x 29.5 x 9.5
@@ -7125,7 +7125,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO / Basic Set	3191-1	50 Jahre Anniversary DUPLO Bucket	2006	?	? x ? x ?
 166	Educational & Dacta / Service Packs / Technic	1320-1	Differential and Bevel Gears	1985	?	? x ? x ?
 166	Educational & Dacta / Service Packs / Technic	1321-1	Worm Gears and Gear Racks	1985	?	? x ? x ?
-166	Educational & Dacta / Service Packs / Technic	1322-1	Pulleys, Tires, and Steering Wheels	1985	?	? x ? x ?
+166	Educational & Dacta / Service Packs / Technic	1322-1	Pulleys, Tires, and Steering Wheels	1985	36	12 x 20.5 x 2
 166	Educational & Dacta / Service Packs	1323-1	Hubs and Tyres	1985	?	? x ? x ?
 166	Educational & Dacta / Service Packs / Technic	1324-1	Rubber Bands and String	1985	?	? x ? x ?
 166	Educational & Dacta / Service Packs / Technic	1336-1	Pole Reverser Switches for Battery Box	1985	?	? x ? x ?
@@ -8702,7 +8702,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 166	Educational & Dacta / Service Packs	1344-1	Light Bricks (4.5V)	1986	?	? x ? x ?
 166	Educational & Dacta / Service Packs / Technic	1330-1	Red/Black Plates	1985	?	? x ? x ?
 166	Educational & Dacta / Service Packs / Technic	1332-1	Red/Blue Beams	1985	?	? x ? x ?
-166	Educational & Dacta / Service Packs / Technic	1333-1	Red/Blue Beams	1985	?	? x ? x ?
+166	Educational & Dacta / Service Packs / Technic	1333-1	Red/Blue Beams	1985	108	14.5 x 21 x 2.5
 166	Educational & Dacta / Service Packs / Technic	1334-1	Motors (4.5V)	1985	?	? x ? x ?
 166	Educational & Dacta / Service Packs	1341-1	Building Plates, Green	1985	?	? x ? x ?
 166	Educational & Dacta / Service Packs	1347-1	Leads (4.5V), Spirals	1987	?	? x ? x ?
@@ -10530,14 +10530,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Mini / Star Wars The Clone Wars	30243-1	Umbaran MHC - Mini polybag	2013	30.3	13.7 x 14 x 1
 65	Star Wars / Mini / Star Wars Episode 1	30242-1	Republic Frigate - Mini polybag	2013	35	17 x 17 x 1
 65	Star Wars / Mini / Star Wars The Clone Wars	30241-1	Mandalorian Fighter - Mini polybag	2013	34.1	17.5 x 17 x 1
-67	Town / City / Police	30222-1	Police Helicopter polybag	2013	51	17 x 16.6 x 1
+67	Town / City / Police	30222-1	Police Helicopter polybag	2013	51	17 x 16.6 x 2
 171	Creator / Basic Model / Traffic	30183-1	Little Car polybag	2013	30	? x ? x ?
 768	Super Heroes / Batman II	30166-1	Robin and Redbird Cycle polybag	2013	29.9	17.1 x 16.2 x 1.5
 167	DUPLO / DUPLO, Town / Circus	30066-1	Circus polybag	2013	36	? x ? x ?
 167	DUPLO / Basic Set	10554-1	Toddler Build and Pull Along	2013	496	24.5 x 12.6 x 17.5
 167	DUPLO / Basic Set	10553-1	Toddler Build and Play Cubes	2013	426	19 x 19 x 12.8
 629	Architecture	21017-1	Imperial Hotel	2013	1461	38.1 x 26 x 7
-390	Holiday & Event / Chinese New Year / Model / Creature	10250-1	Year of the Snake	2013	683	38.1 x 26.03 x 9.22
+390	Holiday & Event / Chinese Festivals / Model / Creature	10250-1	Year of the Snake	2013	683	38.1 x 26.03 x 9.22
 167	DUPLO / DUPLO, Town / Circus	10504-1	My First Circus	2013	954	47.7 x 28 x 7
 976	LEGO Brand / LEGO Brand Store / Monthly Model	40061-1	Monthly Mini Model Build Set - 2013 01 January, Igloo polybag	2013	38	14 x 13.8 x 0.5
 768	Super Heroes / The Avengers	30167-1	Iron Man vs. Fighting Drone polybag	2013	16.55	17 x 16.5 x 1.5
@@ -11895,7 +11895,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 768	Super Heroes / Batman II	30303-1	The Joker Bumper Car polybag	2015	30	16.8 x 17.2 x 1
 771	Friends	41089-1	Little Foal	2015	70	12 x 9 x 4.5
 67	Town / City / Race	60084-1	Racing Bike Transporter	2015	456	26 x 19 x 6
-390	Holiday & Event / Chinese New Year / Model / Creature	40148-1	Year of the Sheep	2015	139	14 x 12.3 x 4.6
+390	Holiday & Event / Chinese Festivals / Model / Creature	40148-1	Year of the Sheep	2015	139	14 x 12.3 x 4.6
 65	Star Wars / Mini / Star Wars Episode 4/5/6	30272-1	A-Wing Starfighter - Mini polybag	2015	38.9	17 x 19.3 x 1
 65	Star Wars / Star Wars Episode 4/5/6	5002947-1	Admiral Yularen polybag	2015	5.2	13.9 x 13.9 x 1
 759	NINJAGO / Tournament of Elements	70756-1	Dojo Showdown	2015	342	26 x 19 x 5.8
@@ -12456,10 +12456,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Advent Sub-Set / Star Wars	75097-9	Advent Calendar 2015, Star Wars (Day  8) - Ewok Warrior	2015	5.41	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Star Wars	75097-10	Advent Calendar 2015, Star Wars (Day  9) - Catapult	2015	5.92	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Star Wars	75097-11	Advent Calendar 2015, Star Wars (Day 10) - Stormtrooper	2015	4.9	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Star Wars	75097-12	Advent Calendar 2015, Star Wars (Day 11) - Star Destroyer	2015	8.81	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / Star Wars	75097-12	Advent Calendar 2015, Star Wars (Day 11) - Star Destroyer	2015	8.81	10.9 x 10 x 1
 390	Holiday & Event / Advent Sub-Set / Star Wars	75097-13	Advent Calendar 2015, Star Wars (Day 12) - Blaster Rack	2015	5.48	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Star Wars	75097-14	Advent Calendar 2015, Star Wars (Day 13) - Assassin Droid	2015	2.76	8 x 11 x 2
-390	Holiday & Event / Advent Sub-Set / Star Wars	75097-15	Advent Calendar 2015, Star Wars (Day 14) - Millennium Falcon	2015	9.16	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / Star Wars	75097-15	Advent Calendar 2015, Star Wars (Day 14) - Millennium Falcon	2015	9.16	10.8 x 10 x 1
 390	Holiday & Event / Advent Sub-Set / Star Wars	75097-16	Advent Calendar 2015, Star Wars (Day 15) - Gun Turret	2015	9.6	11 x 10 x 0.8
 390	Holiday & Event / Advent Sub-Set / Star Wars	75097-17	Advent Calendar 2015, Star Wars (Day 16) - A-wing Starfighter	2015	7.29	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Star Wars	75097-18	Advent Calendar 2015, Star Wars (Day 17) - Hoth Rebel Trooper	2015	5.56	2.6 x 4.15 x 1.3
@@ -12881,7 +12881,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 166	Educational & Dacta / WeDo	45302-1	WeDo 2.0 Smart Hub Rechargeable Battery	2016	54	? x ? x ?
 166	Educational & Dacta / WeDo	45305-1	WeDo 2.0 Tilt Sensor	2016	13	14 x 14 x 2
 166	Educational & Dacta / WeDo	5004838-1	WeDo 2.0 Add-On Power Pack	2016	?	? x ? x ?
-390	Holiday & Event / Chinese New Year / Model / Creature	40207-1	Year of the Monkey	2016	166	14 x 12.5 x 4.5
+390	Holiday & Event / Chinese Festivals / Model / Creature	40207-1	Year of the Monkey	2016	166	14 x 12.5 x 4.5
 3	Boat	40227-1	MSC Meraviglia	2016	226	16 x 14 x 6
 67	Town / City / Fire	30347-1	Fire Car polybag	2016	40	17.4 x 18.8 x 1.6
 390	Holiday & Event / Wedding	40165-1	Wedding Favor Set	2016	120	14 x 12 x 6
@@ -13296,7 +13296,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 545	FIRST LEGO League	45802-1	FIRST LEGO League (FLL) Challenge 2016 - Animal Allies	2016	3790	117 x 17 x 17
 390	Holiday & Event / Advent Sub-Set / Star Wars	75146-2	Advent Calendar 2016, Star Wars (Day  1) - Slave I	2016	9.6	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Star Wars	75146-3	Advent Calendar 2016, Star Wars (Day  2) - Bespin Guard	2016	4.5	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Star Wars	75146-4	Advent Calendar 2016, Star Wars (Day  3) - TIE Interceptor	2016	7.93	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / Star Wars	75146-4	Advent Calendar 2016, Star Wars (Day  3) - TIE Interceptor	2016	7.93	8.8 x 8.5 x 1
 390	Holiday & Event / Advent Sub-Set / Star Wars	75146-5	Advent Calendar 2016, Star Wars (Day  4) - Imperial Navy Trooper	2016	4.87	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Star Wars	75146-6	Advent Calendar 2016, Star Wars (Day  5) - Hoth Battle Turret	2016	4.26	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Star Wars	75146-7	Advent Calendar 2016, Star Wars (Day  6) - Snowtrooper	2016	5.93	? x ? x ?
@@ -13305,7 +13305,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Advent Sub-Set / Star Wars	75146-10	Advent Calendar 2016, Star Wars (Day  9) - Hoth Rebel Trooper	2016	5.06	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Star Wars	75146-11	Advent Calendar 2016, Star Wars (Day 10) - Republic Attack Cruiser	2016	10.48	10.7 x 8.8 x 1.5
 390	Holiday & Event / Advent Sub-Set / Star Wars	75146-12	Advent Calendar 2016, Star Wars (Day 11) - Droid Federation Tank	2016	6.55	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Star Wars	75146-13	Advent Calendar 2016, Star Wars (Day 12) - Droid Gunship	2016	6.6	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / Star Wars	75146-13	Advent Calendar 2016, Star Wars (Day 12) - Droid Gunship	2016	6.6	8.8 x 8.5 x 1
 390	Holiday & Event / Advent Sub-Set / Star Wars	75146-14	Advent Calendar 2016, Star Wars (Day 13) - Battle Droid	2016	2.47	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Star Wars	75146-15	Advent Calendar 2016, Star Wars (Day 14) - Obi-Wan's Jedi Starfighter	2016	7.75	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Star Wars / Star Wars Episode 4/5/6	75146-16	Advent Calendar 2016, Star Wars (Day 15) - Tantive IV	2016	5.76	? x ? x ?
@@ -13495,7 +13495,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars Rogue One	75165-1	Imperial Trooper Battle Pack	2017	119	19 x 14 x 4.5
 65	Star Wars / Star Wars Rogue One	75171-1	Battle on Scarif	2017	762	37.6 x 26.1 x 6.6
 65	Star Wars / Star Wars Rogue One	75172-1	Y-Wing Starfighter	2017	840	48 x 28.2 x 6.1
-390	Holiday & Event / Chinese New Year / Model / Creature	40234-1	Year of the Rooster	2017	158	13.5 x 12.2 x 4.5
+390	Holiday & Event / Chinese Festivals / Model / Creature	40234-1	Year of the Rooster	2017	158	13.5 x 12.2 x 4.5
 868	NEXO KNIGHTS	271611-1	Pilot Bot foil pack	2016	6.5	12 x 15 x 1
 860	Dimensions / Dimensions Wave 7 / Adventure Time	71285-1	Fun Pack - Adventure Time (Marceline the Vampire Queen and Lunatic Amp)	2016	80	17 x 19 x 5
 976	LEGO Brand / LEGO Brand Store / Grand Opening	LESTER-1	Lester - LEGO Store Grand Opening Exclusive Set, Leicester Square, London, UK blister pack	2016	?	? x ? x ?
@@ -14375,7 +14375,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 768	Super Heroes / Mighty Micros / Batman II	76093-1	Mighty Micros: Nightwing vs. The Joker	2018	88	12 x 14 x 4.5
 768	Super Heroes / Mighty Micros / (Other)	76094-1	Mighty Micros: Supergirl vs. Brainiac	2018	89	12 x 14 x 4.5
 423	Classic	40290-1	60 Years of the LEGO Brick	2018	426	26 x 13.8 x 8.9
-390	Holiday & Event / Chinese New Year / Model / Creature	40235-1	Year of the Dog	2018	164	14 x 12.3 x 4.5
+390	Holiday & Event / Chinese Festivals / Model / Creature	40235-1	Year of the Dog	2018	164	14 x 12.3 x 4.5
 422	Universal Building Set / Basic Set	1511-2	Basic Building Set with Storage Case	1986	?	? x ? x ?
 167	DUPLO / Basic Set	10858-1	My First Puzzle Pets	2018	318	26.2 x 14.1 x 9.1
 167	DUPLO / Basic Set	10859-1	My First Ladybug	2018	113	15.7 x 14.1 x 6.1
@@ -14537,9 +14537,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 746	Collectible Minifigures / Series 18 Minifigures	6213825-1	Minifigure, Series 18 (Box of 60)	2018	988	28.2 x 20.2 x 12.4
 976	LEGO Brand / LEGO Brand Store / Monthly Model	40277-1	Monthly Mini Model Build Set - 2018 02 February, Car And Petrol Pump polybag	2018	?	? x ? x ?
 227	Harry Potter / Sorcerer's Stone	75954-1	Hogwarts Great Hall	2018	1624	48 x 37.8 x 7.1
-976	LEGO Brand / LEGO Brand Store / Holiday & Event / Chinese New Year	6242508-1	LEGO Store Chinese New Year Fortuna Exclusive Set, Hong Kong	2018	?	? x ? x ?
-976	LEGO Brand / LEGO Brand Store / Holiday & Event / Chinese New Year	6240688-1	LEGO Store Chinese New Year of the Dog Exclusive Set, Hong Kong	2018	?	? x ? x ?
-976	LEGO Brand / LEGO Brand Store / Holiday & Event / Chinese New Year	6244853-1	LEGO Store Chinese New Year Lion Dance Exclusive Set, Hong Kong	2018	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Holiday & Event / Chinese Festivals	6242508-1	LEGO Store Chinese New Year Fortuna Exclusive Set, Hong Kong	2018	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Holiday & Event / Chinese Festivals	6240688-1	LEGO Store Chinese New Year of the Dog Exclusive Set, Hong Kong	2018	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Holiday & Event / Chinese Festivals	6244853-1	LEGO Store Chinese New Year Lion Dance Exclusive Set, Hong Kong	2018	?	? x ? x ?
 976	LEGO Brand / LEGO Brand Store / Promotional	6221181-1	LEGO Store Beary Happy Exclusive Set, Hong Kong Cityplaza	2017	?	? x ? x ?
 976	LEGO Brand / Promotional	legolife-1	LEGO Life	2018	5	7 x 15 x 2
 983	Promotional	Dad2.0Summit-1	Dad 2.0 Summit	2016	5	7 x 15 x 2
@@ -15030,7 +15030,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 801	Minecraft	21151-1	The End Battle	2019	371	26 x 18.8 x 6.1
 801	Minecraft	21152-1	The Pirate Ship Adventure	2019	730	27.9 x 26 x 9.5
 171	Creator / Model / Robot	31090-1	Underwater Robot	2019	378	26 x 18.75 x 6
-390	Holiday & Event / Chinese New Year / Model / Creature	40186-1	Year of the Pig	2019	163.47	13.8 x 12.2 x 4.5
+390	Holiday & Event / Chinese Festivals / Model / Creature	40186-1	Year of the Pig	2019	163.47	13.8 x 12.2 x 4.5
 771	Friends	41365-1	Emma's Art Studio	2019	397	22.2 x 26.2 x 6.2
 67	Town / City / Construction	60219-1	Construction Loader	2019	149	15.5 x 14 x 6
 759	NINJAGO / Spinjitzu	70659-1	Spinjitzu Kai	2019	127	? x ? x ?
@@ -15057,9 +15057,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars Episode 4/5/6	75229-1	Death Star Escape	2019	400	26 x 19 x 7
 65	Star Wars / Microfighters Series 6 / Star Wars Episode 1	75224-1	Sith Infiltrator Microfighter	2019	94	14 x 12.2 x 4.5
 36	Technic / Model / Construction	42094-1	Tracked Loader	2019	1092	38.2 x 26.2 x 7
-390	Holiday & Event / Chinese New Year	80101-1	Chinese New Year's Eve Dinner	2019	1050	53.3 x 27.6 x 5.4
+390	Holiday & Event / Chinese Festivals	80101-1	Chinese New Year's Eve Dinner	2019	1050	53.3 x 27.6 x 5.4
 390	Holiday & Event	80103-1	Dragon Boat Race	2019	857	38 x 26 x 5.5
-390	Holiday & Event / Chinese New Year	80102-1	Dragon Dance	2019	879	47.62 x 27.94 x 5.72
+390	Holiday & Event / Chinese Festivals	80102-1	Dragon Dance	2019	879	47.62 x 27.94 x 5.72
 768	Super Heroes / Batman II	76116-1	Batman Batsub and the Underwater Clash	2019	299	26 x 18.9 x 6.1
 36	Technic / Model / Race	42093-1	Chevrolet Corvette ZR1	2019	740	35.4 x 19.1 x 9.1
 65	Star Wars / Star Wars Other	66596-1	Star Wars Bundle Pack, Super Pack 2-in-1 (Sets 75206 and 75207)	2018	357.2	39.05 x 14.6 x 5.08
@@ -15132,7 +15132,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO / DUPLO, Town / Airport	10908-1	Plane	2019	206	19 x 14 x 7
 903	BrickHeadz / Holiday & Event / Birthday	40348-1	Birthday Clown	2019	162	14.4 x 12.1 x 6.1
 903	BrickHeadz / Holiday & Event / Valentine's Day	40349-1	Puppy	2019	157	14.4 x 12.1 x 6.1
-903	BrickHeadz / Holiday & Event / Chinese New Year	40354-1	Dragon Dance Guy	2019	159	14.4 x 12.1 x 6.1
+903	BrickHeadz / Holiday & Event / Chinese Festivals	40354-1	Dragon Dance Guy	2019	159	14.4 x 12.1 x 6.1
 903	BrickHeadz / Holiday & Event / Easter	40350-1	Chick	2019	144	11.8 x 14.1 x 6.1
 903	BrickHeadz / Holiday & Event / Halloween	40351-1	Ghost	2019	157	14.4 x 12.1 x 6.1
 903	BrickHeadz / Holiday & Event / Christmas	40353-1	Reindeer, Elf & Elfie	2019	284	18.9 x 13.9 x 6.9
@@ -15750,8 +15750,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Monthly Model	40331-1	Monthly Mini Model Build Set - 2019 11 November, Wolf polybag	2019	25	? x ? x ?
 842	SPEED CHAMPIONS	76899-1	Lamborghini Urus ST-X & Lamborghini Huracán Super Trofeo EVO	2020	826	38.2 x 26.2 x 7.1
 759	NINJAGO / (Other)	11915-1	Parts for Book: NINJAGO - Build Your Own Adventure: Greatest Ninja Battles polybag (9781465473356)	2018	?	? x ? x ?
-390	Holiday & Event / Chinese New Year	80104-1	Lion Dance	2020	972	35 x 37.5 x 6.5
-390	Holiday & Event / Chinese New Year	80105-1	Chinese New Year Temple Fair	2020	1635	47.5 x 37.5 x 6.5
+390	Holiday & Event / Chinese Festivals	80104-1	Lion Dance	2020	972	35 x 37.5 x 6.5
+390	Holiday & Event / Chinese Festivals	80105-1	Chinese New Year Temple Fair	2020	1635	47.5 x 37.5 x 6.5
 166	Educational & Dacta / SPIKE Prime	45603-1	Medium Angular Motor	2020	54	13 x 13 x 3
 166	Educational & Dacta / SPIKE Prime	45604-1	Distance Sensor	2020	39	13.5 x 13 x 2
 166	Educational & Dacta / SPIKE Prime	45606-1	Force Sensor	2020	23	13 x 12.5 x 2
@@ -15889,7 +15889,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 801	Minecraft	21162-1	The Taiga Adventure	2020	99	14.1 x 12.2 x 4.6
 629	Architecture	21051-1	Tokyo	2020	543	26.2 x 19.1 x 7.2
 629	Architecture	21052-1	Dubai	2020	586	26.2 x 19.1 x 7.2
-390	Holiday & Event / Chinese New Year / Model / Creature	40355-1	Year of the Rat	2020	163	13.7 x 12.2 x 4.4
+390	Holiday & Event / Chinese Festivals / Model / Creature	40355-1	Year of the Rat	2020	163	13.7 x 12.2 x 4.4
 423	Classic	11010-1	White Baseplate	2020	104.4	26 x 30.8 x 0.3
 167	DUPLO / Basic Set	10913-1	Brick Box	2020	1052	37 x 18 x 18
 167	DUPLO / Basic Set	10914-1	Deluxe Brick Box	2020	1437	37 x 26.2 x 18
@@ -16143,7 +16143,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1095	Super Mario / Super Mario Expansion Set	30385-1	Super Mushroom Surprise - Expansion Set polybag	2020	26	16.5 x 17 x 2.16
 1095	Super Mario / Super Mario Expansion Set	71369-1	Bowser's Castle Boss Battle - Expansion Set	2020	1373	47.5 x 37.5 x 8.8
 1095	Super Mario / Super Mario Expansion Set	71365-1	Piranha Plant Power Slide - Expansion Set	2020	280	26 x 18.9 x 5.7
-976	LEGO Brand / LEGOLAND Parks / Office Supplies	854013-1	LEGOLAND Magnet Build	2020	54	9.5 x 19.5 x 2
+976	LEGO Brand / LEGOLAND Parks / Office Supplies	854013-1	LEGOLAND Magnet Build blister pack	2020	54	9.5 x 19.5 x 2
 976	LEGO Brand / LEGO Brand Store / Grand Opening	Pittsburgh-1	LEGO Store Grand Opening Exclusive Set, Ross Park Mall, Pittsburgh, PA blister pack	2018	21.8	? x ? x ?
 423	Classic	11717-1	Bricks Bricks Plates	2020	1950	48 x 37 x 9
 808	MIXELS / MIXELS Series 5	5004743-1	MIXELS Klinkers	2015	151	? x ? x ?
@@ -16263,9 +16263,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Promotional / Star Wars Episode 4/5/6	6252812-1	Luke Skywalker, Legoland Parks Promotional Exclusive	2018	17.4	10.4 x 17 x 1
 65	Star Wars / Promotional / Star Wars Episode 4/5/6	6252808-1	Chewbacca, Legoland Parks Promotional Exclusive	2018	19.8	10.4 x 17 x 1
 65	Star Wars / Promotional / Star Wars Episode 4/5/6	6252770-1	Leia Organa, Legoland Parks Promotional Exclusive	2018	16.5	10.4 x 17 x 1
-976	LEGO Brand / LEGO Brand Store / Holiday & Event / Chinese New Year	6317941-1	LEGO Store Chinese New Year Traditional Drum Exclusive Set, Malaysia & Singapore	2020	?	? x ? x ?
-976	LEGO Brand / LEGO Brand Store / Holiday & Event / Chinese New Year	6317942-1	LEGO Store Chinese New Year Candy Box Exclusive Set, Malaysia & Singapore	2020	?	? x ? x ?
-976	LEGO Brand / LEGO Brand Store / Holiday & Event / Chinese New Year	6317939-1	LEGO Store Chinese New Year Peach Flower Exclusive Set, Malaysia & Singapore	2020	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Holiday & Event / Chinese Festivals	6317941-1	LEGO Store Chinese New Year Traditional Drum Exclusive Set, Malaysia & Singapore	2020	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Holiday & Event / Chinese Festivals	6317942-1	LEGO Store Chinese New Year Candy Box Exclusive Set, Malaysia & Singapore	2020	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Holiday & Event / Chinese Festivals	6317939-1	LEGO Store Chinese New Year Peach Flower Exclusive Set, Malaysia & Singapore	2020	?	? x ? x ?
 124	Train	10277-1	Crocodile Locomotive	2020	1497	53.5 x 28 x 9
 983	Promotional	40409-1	Hot Rod	2020	146	14 x 12 x 6
 878	Disney / Disney Princess / Beauty and the Beast	43180-1	Belle's Castle Winter Celebration	2020	606	38.2 x 26.2 x 5.6
@@ -16553,9 +16553,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Deep Sea Explorers	952012-1	Deep Sea Diver foil pack	2020	11.6	12 x 15 x 1
 870	Ghostbusters	10274-1	Ghostbusters ECTO-1	2020	3145	58 x 37.5 x 11.5
 976	LEGO Brand / LEGO Brand Store / Grand Opening	KingofPrussia-2	LEGO Store Grand Re-opening Exclusive Set, King of Prussia Mall, PA blister pack	2019	23	10.5 x 14.5 x 2.8
-390	Holiday & Event / Chinese New Year	80107-1	Spring Lantern Festival	2021	2144	47.5 x 37 x 9
-167	DUPLO / Holiday & Event / Chinese New Year	10943-1	Happy Childhood Moments	2021	3307	58 x 47.5 x 12.5
-390	Holiday & Event / Chinese New Year	80106-1	Story of Nian	2021	1386	35 x 37.5 x 7
+390	Holiday & Event / Chinese Festivals	80107-1	Spring Lantern Festival	2021	2144	47.5 x 37 x 9
+167	DUPLO / Holiday & Event / Chinese Festivals	10943-1	Happy Childhood Moments	2021	3307	58 x 47.5 x 12.5
+390	Holiday & Event / Chinese Festivals	80106-1	Story of Nian	2021	1386	35 x 37.5 x 7
 1108	Explorer	11943-1	Insect polybag	2020	15.7	13.8 x 13.8 x 1.5
 67	Town / City / Police	4508192-1	City Police Value Pack (7245, 7235)	2007	247	33 x 14.5 x 6
 273	BIONICLE / Warriors	66235-1	BIONICLE Bundle Pack (Copack of Sets 8930, 8931, and 8935)	2007	?	? x ? x ?
@@ -16703,7 +16703,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Building Event / Pick-a-Brick Model	PAB7-1	LEGO Brand Store Pick-a-Brick Model - Surfer	2012	184.89	10.92 x 10.92 x 9.66
 903	BrickHeadz / Pets	40440-1	German Shepherd & Puppy	2021	242	15.5 x 14 x 7
 903	BrickHeadz / Pets	40441-1	Shorthair Cat & Kitten	2021	244	15.5 x 14 x 7
-903	BrickHeadz / Holiday & Event / Chinese New Year	40466-1	Chinese New Year Pandas	2021	267	19 x 14 x 7
+903	BrickHeadz / Holiday & Event / Chinese Festivals	40466-1	Chinese New Year Pandas	2021	267	19 x 14 x 7
 976	LEGO Brand / LEGO Brand Store / Building Event / Pick-a-Brick Model / Super Heroes	PAB4-1	LEGO Brand Store Pick-a-Brick Model - Batman	2012	290.04	10.92 x 10.92 x 19.02
 1122	Botanicals	40461-1	Tulips	2021	110	14 x 15.6 x 4.4
 1122	Botanicals	40460-1	Roses	2021	144	18.9 x 13.9 x 4.6
@@ -16712,7 +16712,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1044	xtra	40464-1	Chinatown polybag	2021	23	14 x 16.5 x 2
 1044	xtra	40465-1	Food polybag	2021	17	14 x 16.5 x 2
 390	Holiday & Event / Valentine's Day	40462-1	Valentine's Brown Bear	2021	250	19.1 x 14 x 7
-390	Holiday & Event / Chinese New Year / Model / Creature	40417-1	Year of the Ox	2021	159	14 x 12.2 x 4.5
+390	Holiday & Event / Chinese Festivals / Model / Creature	40417-1	Year of the Ox	2021	159	14 x 12.2 x 4.5
 171	Creator / Basic Model / Race	30577-1	Super Muscle Car polybag	2021	44.2	17 x 19 x 1.5
 759	NINJAGO / Master of the Mountain	892172-1	Lloyd foil pack #6	2021	8.3	12 x 14.5 x 1
 1108	Explorer	11946-1	Penguin polybag	2021	30	13.8 x 13.8 x 1.5
@@ -17367,7 +17367,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Mini / Star Wars Episode 3	912176-1	Clone Turbo Tank - Mini foil pack	2021	47.5	11.9 x 15.3 x 1.7
 171	Creator / Creator Expert / Winter Village Collection / Holiday & Event / Christmas	10293-1	Santa's Visit	2021	1670	48 x 28 x 9
 1095	Super Mario	71395-1	Super Mario 64 Question Mark Block	2021	2740	58.2 x 37.8 x 10.3
-976	LEGO Brand / LEGO House / Office Supplies	854015-1	LEGO House Magnet Build	2020	55	9.4 x 19.4 x 2.1
+976	LEGO Brand / LEGO House / Office Supplies	854015-1	LEGO House Magnet Build blister pack	2020	55	9.4 x 19.4 x 2.1
 166	Educational & Dacta / Technic	9618-2	Structures Set (2002 Version)	2002	1638	37.7 x 29.5 x 9.9
 490	Clikits	65304-1	Clikits Bundle Pack, Heart (Copack of Sets 7501, 7507, and 7510)	2003	668	47.2 x 28.5 x 6.1
 171	Creator / Creator Expert / Queer Eye	10291-1	Queer Eye – The Fab 5 Loft	2021	1420	47.5 x 28 x 9
@@ -17466,8 +17466,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 759	NINJAGO / Seabound	892182-1	Maaray Guard foil pack	2021	8	12 x 15 x 1.5
 988	Building Event / Disney / Disney Princess / Beauty and the Beast	TRUCOGSWORTH-1	Toys "R" Us Exclusive Build: Cogsworth	2016	?	? x ? x ?
 768	Super Heroes / Batman II	212118-1	Batman foil pack #6	2021	6	10 x 14 x 1
-390	Holiday & Event / Chinese New Year	80108-1	Lunar New Year Traditions	2022	1296	34.5 x 37.4 x 6.6
-390	Holiday & Event / Chinese New Year	80109-1	Lunar New Year Ice Festival	2022	2270	47.5 x 37.3 x 9
+390	Holiday & Event / Chinese Festivals	80108-1	Lunar New Year Traditions	2022	1296	34.5 x 37.4 x 6.6
+390	Holiday & Event / Chinese Festivals	80109-1	Lunar New Year Ice Festival	2022	2270	47.5 x 37.3 x 9
 1095	Super Mario / Super Mario Expansion Set	71396-1	Bowser Jr.’s Clown Car - Expansion Set	2022	101	15.7 x 14.1 x 4.5
 1095	Super Mario / Super Mario Expansion Set	71398-1	Dorrie’s Beachfront - Expansion Set	2022	296	26.2 x 19.1 x 6.1
 1095	Super Mario / Super Mario Expansion Set	71400-1	Big Urchin Beach Ride - Expansion Set	2022	755	38.2 x 26.2 x 7
@@ -17581,7 +17581,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 801	Minecraft	21179-1	The Mushroom House	2022	395	26.2 x 19.1 x 6.1
 903	BrickHeadz / Pets	40544-1	French Bulldog	2022	236	15.5 x 14 x 7
 903	BrickHeadz / Pets	40543-1	St. Bernard	2022	236	15.7 x 14.1 x 7.1
-903	BrickHeadz / Holiday & Event / Chinese New Year	40540-1	Lion Dance Guy	2022	190	14.1 x 12.2 x 6.1
+903	BrickHeadz / Holiday & Event / Chinese Festivals	40540-1	Lion Dance Guy	2022	190	14.1 x 12.2 x 6.1
 67	Town / City / Recreation	60326-1	Picnic in the park	2022	225	26.2 x 14.1 x 4.8
 1122	Botanicals	40524-1	Sunflowers	2022	137	19 x 14 x 4.6
 878	Disney / Disney Princess / Frozen	43198-1	Anna’s Castle Courtyard	2022	98	14.1 x 12.2 x 4.6
@@ -17661,7 +17661,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 721	Power Functions / Powered Up	88017-1	Large Angular Motor	2021	82	8.1 x 4.4 x 4.4
 721	Power Functions / Powered Up	88018-1	Medium Angular Motor	2021	60	8 x 4.4 x 3
 721	Power Functions / Powered Up	88016-1	Large Hub	2021	199	9.3 x 6.6 x 6.1
-390	Holiday & Event / Chinese New Year / Model / Creature	40491-1	Year of the Tiger	2022	179	13.7 x 12.2 x 4.4
+390	Holiday & Event / Chinese Festivals / Model / Creature	40491-1	Year of the Tiger	2022	179	13.7 x 12.2 x 4.4
 976	LEGO Brand / LEGO Employee Gift	6389962-1	LEGO Play Day 2021	2021	?	? x ? x ?
 976	LEGO Brand / LEGO Employee Gift / Braille Bricks	6384690-1	LEGO Play Day 2021 - Braille Bricks polybag	2021	?	? x ? x ?
 976	LEGO Brand / LEGO Employee Gift	6383927-1	LEGO Play Day 2021 - Miscellaneous Bricks polybag	2021	?	? x ? x ?
@@ -18294,10 +18294,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1236	Avatar / The Way of Water	75579-1	Payakan the Tulkun & Crabsuit	2023	1167	53.6 x 27.7 x 7.6
 976	LEGO Brand	pab2022-1	Pick-a-Brick (PaB) 2022 Parts	2022	?	? x ? x ?
 768	Super Heroes / Batman II	212224-1	Batman with Jet Ski foil pack	2022	22	10 x 14 x 1.5
-390	Holiday & Event / Chinese New Year	40648-1	Money Tree	2023	391	19 x 26 x 6
-390	Holiday & Event / Chinese New Year	80110-1	Lunar New Year Display	2023	1245.2	48 x 28 x 7.5
-390	Holiday & Event / Chinese New Year	80111-1	Lunar New Year Parade	2023	1867	48 x 37.5 x 9
-167	DUPLO / Holiday & Event / Chinese New Year	10411-1	Learn about Chinese Culture	2023	1759	48 x 37.5 x 11
+390	Holiday & Event / Chinese Festivals	40648-1	Money Tree	2023	391	19 x 26 x 6
+390	Holiday & Event / Chinese Festivals	80110-1	Lunar New Year Display	2023	1245.2	48 x 28 x 7.5
+390	Holiday & Event / Chinese Festivals	80111-1	Lunar New Year Parade	2023	1867	48 x 37.5 x 9
+167	DUPLO / Holiday & Event / Chinese Festivals	10411-1	Learn about Chinese Culture	2023	1759	48 x 37.5 x 11
 1100	Monkie Kid	80045-1	Monkey King Ultra Mech	2023	2030	37.3 x 48 x 9.2
 976	LEGO Brand / LEGO Brand Store / Promotional	5007378-4	LEGO Amsterdam Tile	2022	6	7.9 x 5 x 0.4
 988	Building Event / Star Wars / Mini / Star Wars Episode 4/5/6	XWING-2	Toys "R" Us Exclusive Build - X-wing Trench Run	2019	?	? x ? x ?
@@ -18327,7 +18327,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1095	Super Mario / Super Mario Series 6	char06-1	Blooper, Super Mario, Series 6 (Complete Set)	2023	52.9	11 x 12.5 x 3.5
 1095	Super Mario / Super Mario Series 6	char06-6	Sumo Bro, Super Mario, Series 6 (Complete Set)	2023	69.6	11 x 12.5 x 3.5
 1095	Super Mario / Super Mario Series 6	char06-7	Spike, Super Mario, Series 6 (Complete Set)	2023	69.8	11 x 12.5 x 3.5
-390	Holiday & Event / Chinese New Year / Model / Creature	40575-1	Year of the Rabbit	2023	170	14 x 12.2 x 4.5
+390	Holiday & Event / Chinese Festivals / Model / Creature	40575-1	Year of the Rabbit	2023	170	14 x 12.2 x 4.5
 67	Town / City / Construction	952212-1	Forklift Driver with Forklift Truck foil pack	2022	26.7	12 x 15 x 1.2
 850	Jurassic World	122225-1	Blue Raptor paper bag	2022	25.3	11.9 x 14.8 x 1.1
 976	LEGO Brand / LEGO Brand Store / Promotional	5007378-5	LEGO Berlin Tile	2022	6	7.9 x 5 x 0.4
@@ -18498,7 +18498,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand	40605-1	Lunar New Year VIP Add On Pack polybag	2023	86	20 x 19.5 x 2
 801	Minecraft	30647-1	The Dripstone Cavern polybag	2023	37	17 x 19.2 x 2
 166	Educational & Dacta / SERIOUS PLAY	2000414-2	Serious Play Starter Kit (214 Pieces Version)	2010	573	35.5 x 19 x 9
-976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Chinese New Year	6394783-1	LEGO Brand Store Exclusive Build - Lunar New Year 4-in-1 Builds	2021	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Chinese Festivals	6394783-1	LEGO Brand Store Exclusive Build - Lunar New Year 4-in-1 Builds	2021	?	? x ? x ?
 1095	Super Mario / Super Mario Series 6	71413-3	Character, Super Mario, Series 6 (Box of 16)	2023	1176	23.5 x 12.6 x 29.5
 390	Holiday & Event / Easter	40639-1	Bird's Nest	2023	185.2	15.5 x 14 x 6
 976	LEGO Brand	PPL1997-1	{PPL Project Set 1997}	1997	?	? x ? x ?
@@ -18509,7 +18509,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 988	Building Event / Holiday & Event / Halloween	TRUFRANK-1	Toys "R" Us Exclusive Build - Frankenstein's Monster	2016	24.42	? x ? x ?
 988	Building Event / NINJAGO	REDTEMPLE-1	Toys "R" Us Exclusive Build - Red Temple	2017	35.7	? x ? x ?
 768	Super Heroes / Batman II	212325-1	Batcycle paper bag	2023	26	11.8 x 14.7 x 1.5
-976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Chinese New Year	5007587-1	LEGO Brand Store Exclusive Build - LNY23 4in1 and Lion Dance	2023	98	17.6 x 29.5 x 1
+976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Chinese Festivals	5007587-1	LEGO Brand Store Exclusive Build - LNY23 4in1 and Lion Dance	2023	98	17.6 x 29.5 x 1
 850	Jurassic World	122326-1	Raptor with Trap paper bag #1	2023	14	12 x 13.7 x 1
 768	Super Heroes / Spider-Man	682303-1	Miles Morales paper bag #1	2023	9	12 x 15 x 1
 273	BIONICLE / Promotional	40581-1	BIONICLE Tahu and Takua	2023	225	14 x 19 x 6
@@ -18550,7 +18550,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1108	Explorer	11974-1	Polar Bear polybag	2023	26	14 x 14 x 1.5
 983	Promotional	6258624-1	Classic Truck	2018	?	? x ? x ?
 1254	Braille Bricks	4000503-1	Braille Bricks Toolkit (English)	2020	1567	42 x 10 x 30
-390	Holiday & Event / Chinese New Year / Model / Creature	6396381-1	Tiger	2022	?	? x ? x ?
+390	Holiday & Event / Chinese Festivals / Model / Creature	6396381-1	Tiger	2022	?	? x ? x ?
 983	Promotional	DI2023-1	Danmarks Indsamling 2023	2023	5.85	? x ? x ?
 976	LEGO Brand / LEGO Employee Gift	traekvejret-1	LEGO TRÆK VEJRET	?	?	? x ? x ?
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	10316-1	Rivendell	2023	6890	52.5 x 48 x 22
@@ -19309,11 +19309,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1100	Monkie Kid	80054-1	Megapolis City	2024	3728	52 x 47.5 x 12
 817	LEGO Ideas (CUUSOO)	21345-1	Polaroid OneStep SX-70 Camera	2024	894	38.5 x 26 x 5.6
 1309	Fortnite / Promotional	FNIK-1	LEGO Fortnite Influencer Kit	2023	4151	61.5 x 18.5 x 38.5
-390	Holiday & Event / Chinese New Year	80112-1	Auspicious Dragon	2024	1196	45.4 x 28 x 7
-390	Holiday & Event / Chinese New Year	40678-1	Festival Calendar	2024	445	26 x 18.8 x 7
+390	Holiday & Event / Chinese Festivals	80112-1	Auspicious Dragon	2024	1196	45.4 x 28 x 7
+390	Holiday & Event / Chinese Festivals	40678-1	Festival Calendar	2024	445	26 x 18.8 x 7
 801	Minecraft	66779-1	Minecraft Bundle Pack, 3 in 1 Play Pack (Sets 21164, 21177, and 21178) - Overworld Adventures Pack	2023	812	34 x 26.7 x 6.9
 903	BrickHeadz / Disney	40673-1	Spring Festival Mickey Mouse	2024	125	8.9 x 12 x 5.9
-390	Holiday & Event / Chinese New Year	80113-1	Family Reunion Celebration	2024	2186	47.8 x 37.3 x 9
+390	Holiday & Event / Chinese Festivals	80113-1	Family Reunion Celebration	2024	2186	47.8 x 37.3 x 9
 746	Collectible Minifigures / Series 25 Minifigures	71045-1	Minifigure, Series 25 (Complete Random Set of 1 Minifigure)	2024	21.57	9.4 x 10.6 x 2.8
 746	Collectible Minifigures / Series 25 Minifigures	71045-2	Minifigure, Series 25 (Complete Series of 12 Complete Minifigure Sets)	2024	?	? x ? x ?
 746	Collectible Minifigures / Series 25 Minifigures	66763-1	Minifigure, Series 25 (Box of 6)	2024	164	15.4 x 9.5 x 8.8
@@ -19347,7 +19347,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars Episode 4/5/6	912402-1	Emperor Palpatine paper bag	2024	9	12 x 15 x 2
 1203	Sonic the Hedgehog	30676-1	Kiki's Coconut Attack polybag	2024	21.95	17.4 x 19.4 x 1.2
 878	Disney / Wish	30661-1	Asha's Welcome Booth polybag	2024	34.65	17.4 x 19.4 x 1.55
-390	Holiday & Event / Chinese New Year / Model / Creature	40611-1	Year of the Dragon	2024	164.9	13.5 x 12.2 x 4.65
+390	Holiday & Event / Chinese Festivals / Model / Creature	40611-1	Year of the Dragon	2024	164.9	13.5 x 12.2 x 4.65
 983	Promotional	40681-1	Retro Food Truck	2024	321.49	26 x 14 x 6
 422	Universal Building Set / Basic Set	1905-3	Mini-Building Set (Vizir Promotional Set)	1982	440	115 x 7 x 35
 1122	Botanicals	40747-1	Daffodils	2024	159	13.9 x 18.9 x 4.5
@@ -19771,6 +19771,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 983	Promotional	40692-1	Candy Store	2024	352	25.8 x 13.7 x 7.2
 903	BrickHeadz / Super Heroes / Batman II	40748-1	Batman 8in1	2024	308	14 x 19 x 9
 976	LEGO Brand / LEGO Brand Store / Promotional	5007378-11	LEGO Sydney Tile	2022	6	7.9 x 5 x 0.4
+167	DUPLO / Peppa Pig	472402-1	George Pig paper bag	2024	?	? x ? x ?
 983	Promotional	4000041-1	LEGO MRI Scanner	2023	?	? x ? x ?
 67	Town / City / Police	952408-1	Police Officer with Jet Ski paper bag	2024	24	12 x 15 x 2
 1268	DREAMZzz	30660-1	Zoey's Dream Jet Pack Booster polybag	2024	23.1	17 x 19 x 2
@@ -20086,9 +20087,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / Promotional / Christmas	Kladno2020-1	Kladno Christmas Puzzle Promotional 2020 - 20 Let V Kladně	2020	?	? x ? x ?
 976	LEGO Brand / Promotional / Christmas	Kladno2019-1	Kladno Christmas Puzzle Promotional 2019 - Veselé Vánoce	2019	20.8	11 x 17.7 x 0.4
 759	NINJAGO / Dragons Rising Season 2	112406-1	Cole vs. Lord Ras metal box	2024	68	12.5 x 9 x 2
-390	Holiday & Event / Chinese New Year	40813-1	Lucky Cat	2025	420	19 x 26 x 6
-390	Holiday & Event / Chinese New Year	80116-1	Trotting Lantern	2025	1488	35.1 x 37.2 x 9
-390	Holiday & Event / Chinese New Year	80117-1	Good Fortune	2025	1042	45.4 x 27.8 x 7.1
+390	Holiday & Event / Chinese Festivals	40813-1	Lucky Cat	2025	420	19 x 26 x 6
+390	Holiday & Event / Chinese Festivals	80116-1	Trotting Lantern	2025	1488	35.1 x 37.2 x 9
+390	Holiday & Event / Chinese Festivals	80117-1	Good Fortune	2025	1042	45.4 x 27.8 x 7.1
 1100	Monkie Kid	80065-1	Erlang's Celestial Mech	2025	1016	28 x 45.5 x 7
 1100	Monkie Kid	80066-1	Mythical Creature Qilin	2025	760.7	38 x 26 x 5.6
 167	DUPLO / DUPLO, Train	10425-1	Train Tunnel and Tracks Expansion Set	2025	661	28 x 26 x 11.6
@@ -20111,7 +20112,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 759	NINJAGO / Dragons Rising Season 2	892413-1	Jay paper bag #2	2024	10.5	12 x 15 x 1.6
 768	Super Heroes / Spider-Man	682406-1	Venomised Green Goblin paper bag	2024	22	12 x 14 x 1.5
 545	FIRST LEGO League	45826-1	FIRST LEGO League (FLL) Challenge 2024 - Submerged	2024	3174	116 x 17.8 x 13.5
-976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Chinese New Year	5008063-1	LEGO Brand Store Exclusive Build - Opera Singer 4 in 1	2024	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Chinese Festivals	5008063-1	LEGO Brand Store Exclusive Build - Opera Singer 4 in 1	2024	?	? x ? x ?
 983	Promotional	WINDTURBINE-1	Wind Turbine	2017	?	? x ? x ?
 34	Space / Classic Space / Games	5008897-1	Tic Tac Toe	2024	160	14.7 x 14.7 x 4.5
 171	Creator / Model / Holiday & Event / Christmas	40700-1	Winter Holiday Train	2024	326	20.5 x 19 x 6
@@ -20254,7 +20255,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO / Disney / Disney Junior / Mickey Mouse Clubhouse	10454-1	Mickey Mouse Clubhouse & Car	2025	432	26.2 x 19.1 x 9.1
 167	DUPLO / Winnie The Pooh	10457-1	Winnie the Pooh's Birthday Party	2025	372	26.2 x 19.1 x 9.1
 771	Friends	30696-1	Autumn's Waffle Stand paper bag / polybag	2025	36.9	17 x 18 x 1.7
-390	Holiday & Event / Chinese New Year / Model / Creature	40707-1	Year of the Snake	2025	182	14.2 x 12.1 x 6
+390	Holiday & Event / Chinese Festivals / Model / Creature	40707-1	Year of the Snake	2025	182	14.2 x 12.1 x 6
 983	Promotional	40757-1	Corner Kiosk	2025	246	26 x 13.8 x 4.8
 171	Creator / Creator Expert / Race	10353-1	Williams Racing FW14B & Nigel Mansell	2025	1085	38.2 x 26.2 x 7.1
 850	Jurassic World / Chaos Theory	76967-1	Little Eatie: T. rex	2025	344	26.2 x 19.1 x 6.1
@@ -20294,7 +20295,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Model / Race	42199-1	Monster Jam DIGatron Pull-Back	2025	392	26.2 x 14.1 x 7.2
 36	Technic / Model / Race	42200-1	Monster Jam ThunderROARus Pull-Back	2025	437	26.2 x 14.1 x 7.2
 36	Technic / Model / Harbor	42201-1	Deep-Sea Research Submarine	2025	572	28.2 x 26.2 x 5.9
-390	Holiday & Event / Chinese New Year	40756-1	Lucky Knots	2025	230.2	30.4 x 28.8 x 4.6
+390	Holiday & Event / Chinese Festivals	40756-1	Lucky Knots	2025	230.2	30.4 x 28.8 x 4.6
 36	Technic / Model / Traffic	412403-1	Sports Car paper bag	2024	59	13.5 x 15 x 2
 227	Harry Potter / Sorcerer's Stone	30706-1	Quidditch Lesson paper bag / polybag	2025	30	17 x 18 x 1.75
 976	LEGO Brand / LEGO Brand Store / Build-A-Minifigure	bam2025-1	Build-a-Minifigure (BAM) 2025 Parts	2025	?	? x ? x ?
@@ -20637,7 +20638,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 801	Minecraft	662507-1	Ender Knight and Enderman paper bag	2025	17	12 x 15 x 1.5
 171	Creator / Model / Building	31167-1	Haunted Mansion	2025	1595	37.4 x 35 x 6.6
 171	Creator / Model / Castle	31168-1	Medieval Horse Knight Castle	2025	2543	47.8 x 37.5 x 9
-171	Creator / Model / Creature	31173-1	Tropical Toucan	2025	321	26 x 14 x 4.6
+171	Creator / Model / Creature	31173-1	Tropical Toucan	2025	321	26.6 x 14.1 x 4.6
 171	Creator / Model	31174-1	Retro Telephone	2025	540	26 x 22 x 6
 171	Creator / Model / Building	31175-1	Unicorn Castle	2025	568	28 x 26 x 5.8
 878	Disney / Disney Villains	43277-1	Cruella De Vil's Car	2025	564	28 x 26 x 5.7
@@ -20735,12 +20736,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 903	BrickHeadz / Harry Potter	40802-1	Luna Lovegood & Thestral Figures	2025	291	19 x 14 x 6.7
 903	BrickHeadz / Harry Potter / Goblet of Fire	40791-1	The Goblet of Fire Figures	2025	728	35 x 19 x 9
 976	LEGO Brand / LEGO Brand Store / Building Event	6603212-1	LEGO Brand Store Exclusive Build - Castle	2025	?	? x ? x ?
-976	LEGO Brand / LEGO Brand Store / Grand Opening	5009423-1	LEGO Store Grand Opening Exclusive Set, Discovery Centre, Hamburg - LEGO Discovery Centre Hamburg Grand Opening	2025	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Grand Opening	5009423-1	LEGO Store Grand Opening Exclusive Set, Discovery Centre Hamburg, Germany - LEGO Discovery Centre Hamburg Grand Opening	2025	?	? x ? x ?
 227	Harry Potter	76457-1	Hogsmeade Village - Collectors' Edition	2025	5760	55.5 x 37.8 x 15.7
 629	Architecture	21068-1	Shanghai {Reissue}	2025	?	? x ? x ?
 983	Promotional / F1 Race Cars	6585115-1	Formula 1 Collection - Make your own F1 Racing Car	2025	81	? x ? x ?
 768	Super Heroes / Avengers	242504-1	Thor paper bag #2	2025	9	12 x 14 x 1.5
 67	Town / City / Jungle	952508-1	Jungle Explorer with Swamp Boat paper bag	2025	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Promotional	6606280-1	I Heart SG SG60 - Building Our Singapore Together	2025	15	? x ? x ?
 850	Jurassic World	122504-1	Raptor with Trap paper bag #3	2025	?	12 x 14 x 1.5
 227	Harry Potter / Deathly Hallows	40770-1	Hogwarts Castle: Room of Requirement	2025	283	20.2 x 18.8 x 6
 759	NINJAGO	112505-1	Zane vs. Dragonian Scout metal box	2025	65	12.5 x 9 x 2
@@ -20763,6 +20765,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Building Event / DREAMZzz	6565157-1	LEGO Brand Store Exclusive Build - Dreamzzz Zblob	2025	55	21.5 x 21.5 x 1.5
 817	LEGO Ideas (CUUSOO)	21360-1	Willy Wonka & the Chocolate Factory	2025	2601	47.6 x 37.5 x 10.8
 801	Minecraft	662509-1	Hero with Skeleton Horseman paper bag	2025	19	12 x 15 x 1.5
+988	Building Event / Bluey	6601204-1	Duck Cake	2025	35	? x ? x ?
 761	Pirates of the Caribbean	10365-1	Captain Jack Sparrow's Pirate Ship	2025	4475	37.3 x 55.5 x 15.2
 746	Collectible Minifigures / Super Heroes / Spider-Man Across the Spider-Verse	71050-1	Minifigure, Spider-Man Across the Spider-Verse (Complete Random Set of 1 Minifigure)	2025	21.54	9.4 x 10.65 x 2.6
 746	Collectible Minifigures / Super Heroes / Spider-Man Across the Spider-Verse	71050-2	Minifigure, Spider-Man Across the Spider-Verse (Complete Series of 12 Complete Minifigure Sets)	2025	215.26	17.7 x 10.9 x 15.6
@@ -21205,13 +21208,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars The Mandalorian	75443-1	Grogu's Homestead	2026	218	19 x 14 x 4.5
 65	Star Wars / Star Wars Other / Star Wars Mechs	75448-1	Clone Shock Trooper Mech	2026	168	14 x 15.8 x 4.5
 65	Star Wars / Sculptures / Star Wars Episode 7	75452-1	BB-8	2026	689	28 x 26 x 7.5
-390	Holiday & Event / Chinese New Year	40864-1	Fortune Master	2026	447	25.8 x 18.7 x 5.9
-390	Holiday & Event / Chinese New Year	80118-1	Fortune Firecracker	2026	1172	28 x 45.8 x 7.1
-390	Holiday & Event / Chinese New Year	80119-1	Galloping Horses Canvas	2026	1975	47.5 x 37 x 6.5
+390	Holiday & Event / Chinese Festivals	40864-1	Fortune Master	2026	447	25.8 x 18.7 x 5.9
+390	Holiday & Event / Chinese Festivals	80118-1	Fortune Firecracker	2026	1172	28 x 45.8 x 7.1
+390	Holiday & Event / Chinese Festivals	80119-1	Galloping Horses Canvas	2026	1975	47.5 x 37 x 6.5
 390	Holiday & Event / Easter	40863-1	Easter Egg Basket	2026	237	19 x 13.9 x 6
 390	Holiday & Event / Valentine's Day	40867-1	Love Letters	2026	325	25.9 x 13.9 x 6.9
 390	Holiday & Event / Easter / Looney Tunes	40920-1	Bugs Bunny	2026	736	22 x 26 x 9.3
-390	Holiday & Event / Chinese New Year	40779-1	Year of the Horse	2026	159	15.7 x 13.9 x 4.3
+390	Holiday & Event / Chinese Festivals	40779-1	Year of the Horse	2026	159	15.7 x 13.9 x 4.3
 842	SPEED CHAMPIONS / F1 The Movie	77252-1	APXGP Team Race Car	2026	309	26 x 14 x 5
 842	SPEED CHAMPIONS	77253-1	Bugatti Vision Gran Turismo	2026	318	26 x 14 x 6
 842	SPEED CHAMPIONS	77254-1	Ferrari SF90 XX Stradale	2026	352	26 x 14 x 6
@@ -21240,7 +21243,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars Episode 4/5/6	75423-1	Luke's Red Five X-Wing	2026	1143	43 x 28 x 6.2
 65	Star Wars / Star Wars Episode 4/5/6	75427-1	Throne Room Duel & A-Wing	2026	1643	47.8 x 37.7 x 7
 390	Holiday & Event / Easter	40957-1	Spring Wreath	2026	711	38.4 x 26 x 5.6
-390	Holiday & Event / Chinese New Year	40915-1	Lion Dance	2026	463	26 x 19 x 6
+390	Holiday & Event / Chinese Festivals	40915-1	Lion Dance	2026	463	26 x 19 x 6
 171	Creator / Basic Model / Holiday & Event / Easter	30716-1	Cute Easter Bunny paper bag	2026	44	16.9 x 17.8 x 2.8
 768	Super Heroes / Spider-Man	30725-1	Spider-Man vs. Anti-Venom Heist paper bag	2026	36	16.9 x 17.8 x 2.7
 768	Super Heroes / Batman II	30726-1	Batman: Bruce Wayne and the Batsuit paper bag	2026	34	16.8 x 17.8 x 2.5
@@ -21268,6 +21271,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1122	Botanicals	11503-1	Flower Wall	2026	889	26.2 x 38.3 x 6.9
 842	SPEED CHAMPIONS	77259-1	Audi Revolut F1 Team R26	2026	264	25.9 x 13.8 x 4.6
 65	Star Wars / Star Wars Other	66808-1	Star Wars Bundle Pack, 2 in 1 with Bonus Set (Sets 30708, 75431, and 75435) - Epic Battle Set	2025	?	? x ? x ?
+801	Minecraft	66805-1	Minecraft Bundle Pack, 5 in 1 Gift Set (Sets 21251, 21252, 21266, 21267, and 30705) - World Explorer Gift Set	2025	965	41 x 19.5 x 9.5
 65	Star Wars / Star Wars Episode 4/5/6	75420-1	Luke's Landspeeder	2026	361	25.8 x 18.8 x 4.5
 65	Star Wars / Star Wars Episode 4/5/6	75422-1	Yoda's Hut and Jedi Training	2026	747	28 x 25.8 x 7.4
 65	Star Wars / Star Wars Episode 4/5/6	75424-1	AT-ST Attack on Endor	2026	512	25.8 x 21.8 x 6
@@ -21280,6 +21284,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Building Event	6575529-1	LEGO Brand Store Exclusive Build - Hoop	2025	?	? x ? x ?
 171	Creator / Creator Expert / Project Hail Mary	11389-1	Project Hail Mary	2026	1035	26.1 x 38.1 x 7
 67	Town / City / Police	L0002220-1	Police Officer with Snowmobile paper bag	2026	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Grand Opening	5009620-1	LEGO Store Grand Opening Exclusive Set, Jurong Point, Singapore - Jurong Point Grand Opening	2025	256	14.5 x 15 x 4.5
 768	Super Heroes / Batman II	L0002270-1	Mr. Freeze with Snowman paper bag	2026	13.3	12 x 15 x 1.5
 759	NINJAGO	112601-1	Lloyd vs. Dragonian Warrior metal box	2026	66	12.5 x 9 x 2
 768	Super Heroes / Avengers	L0002276-1	Black Panther with Hoverboard paper bag	2026	15	12 x 15 x 1.5
@@ -21299,7 +21304,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 878	Disney / Winnie The Pooh	43305-1	Piglet's Birthday Fun	2026	564	22.1 x 26 x 6.2
 167	DUPLO / Peppa Pig	10468-1	Tractor and Market	2026	356	26.1 x 19 x 8.9
 167	DUPLO / Peppa Pig	10466-1	Train Ride with Grandpa Pig	2026	630	38 x 26 x 7
-167	DUPLO / Peppa Pig	10467-1	Family House	2026	1344	35.1 x 37.5 x 11.3
+167	DUPLO / Peppa Pig	10467-1	Family House	2026	1349	35.1 x 37.5 x 11.3
 817	LEGO Ideas (CUUSOO)	21366-1	Floating Sea Otters	2026	1504.4	38.5 x 26.2 x 11.7
 171	Creator / Creator Expert / Race	11375-1	Ferrari F2004 & Michael Schumacher	2026	1102	37.5 x 26 x 7
 34	Space / Classic Space	40921-1	Up-Scaled Blue Astronaut Minifigure	2026	1134	25.9 x 37.8 x 9
@@ -21321,6 +21326,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 771	Friends	L0002264-1	Cute Bunny with Bakery paper bag	2026	?	? x ? x ?
 65	Star Wars / Star Wars Episode 3	L0002233-1	Phase 2 Clone Pilot paper bag	2026	8	12 x 14.5 x 1.5
 903	BrickHeadz / Fortnite	40910-1	Beef Boss & Skye	2026	264	19 x 14 x 7
+390	Holiday & Event / Valentine's Day	66817-1	Mixed Bundle Pack, 3 in 1 Gift Set (Sets 40460, 40638, and 40821) - Hearts & Flowers Gift Set	2026	609	43 x 20.2 x 6.7
 171	Creator / Model	40954-1	Germany Postcard	2026	255	19.1 x 14.1 x 7
 390	Holiday & Event / Birthday	40871-1	Gift Box Celebration	2026	297.6	18.8 x 20.3 x 6
 1122	Botanicals	40916-1	Floral Picture Frame	2026	310	20.2 x 18.7 x 5.9
@@ -21365,8 +21371,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1359	Editions	43015-1	Lionel Messi - Soccer Legend	2026	1434	38 x 26.2 x 9.4
 1359	Editions	43016-1	Cristiano Ronaldo - Soccer Legend	2026	1333	25.8 x 38 x 9.2
 1359	Editions	43027-1	Vini Jr. - Soccer Highlights	2026	609.8	26.1 x 22.1 x 7.6
-1359	Editions	43032-1	FIFA World Cup 2026 Official Emblem	2026	?	? x ? x ?
-1359	Editions	43033-1	2026 U.S. Soccer National Team Jersey	2026	?	? x ? x ?
+1359	Editions	43032-1	FIFA World Cup 2026 Official Emblem	2026	338.38	18.8 x 26 x 6.3
+1359	Editions	43033-1	2026 U.S. Soccer National Team Jersey	2026	506.46	26.5 x 18.9 x 9
 746	Collectible Minifigures / Series 29 Minifigures	66814-1	Minifigure, Series 29 (Box of 6)	2026	164	15.4 x 8.8 x 9.3
 746	Collectible Minifigures / Series 29 Minifigures	71052-1	Minifigure, Series 29 (Complete Random Set of 1 Minifigure)	2026	?	9.4 x 10.7 x 2.6
 746	Collectible Minifigures / Series 29 Minifigures	71052-2	Minifigure, Series 29 (Complete Series of 12 Complete Minifigure Sets)	2026	217.98	? x ? x ?
@@ -21396,5 +21402,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars The Clone Wars	L0002235-1	Commando Droid paper bag	2026	6	12 x 15 x 1
 878	Disney / Toy Story / Toy Story 5	43304-1	Blaze's Horse Ranch	2026	637	28 x 26 x 5.7
 746	Collectible Minifigures / Series 29 Minifigures	71052-4	Minifigure, Series 29 (Box of 12)	2026	342	9.8 x 35.4 x 11.2
+771	Friends	66806-1	Friends Bundle Pack, 2 in 1 Adventure Gift Set (Sets 42603 and 42622) - Explore Outdoors Gift Set	2025	?	50 x 26.5 x 7.3
+759	NINJAGO / Dragons Rising Season 4	L0002203-1	Dragon Nya paper bag	2026	?	? x ? x ?
 976	LEGO Brand / LEGO Brand Store / Building Event / Star Wars / Star Wars The Mandalorian and Grogu	6626049-1	LEGO Brand Store Exclusive Build - Star Wars N-1 Starfighter	2026	65	21.5 x 21.5 x 1.7
+988	Building Event / Star Wars / Star Wars The Mandalorian and Grogu	5010305-1	Barnes & Noble Exclusive Build - The Mandalorian & Grogu	2026	152	17 x 29 x 3
 759	NINJAGO / Dragons Rising Season 4	L0002202-1	Earth Monster paper bag	2026	12	12 x 15 x 1.5
+801	Minecraft	L0002250-1	Blacksmith with Armor and Smithing Table paper bag	2026	17.3	12 x 15 x 1.5
+36	Technic / Model / Harbor	L0002290-1	Submarine paper bag	2025	?	? x ? x ?
+67	Town / City / Traffic	L0002223-1	Sweeper paper bag	2026	?	? x ? x ?
