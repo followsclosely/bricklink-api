@@ -10055,7 +10055,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 748	Cars / Cars 3	crs010	Broadside	2017	27.65
 759	NINJAGO / (Other)	njo0417	Neuro	2017	3.6
 759	NINJAGO / Skybound	njo0418	Nindroid Sentry General	2017	4
-759	NINJAGO / The Hands of Time	njo0419	Krux - Young	2017	4
+759	NINJAGO / The Hands of Time	njo0419	Young Krux - Helmet	2017	4
 759	NINJAGO / (Other)	njo0420	Kai (Golden Power)	2017	4
 748	Cars / Cars 3	crs011	Lightning McQueen - Red, 'RUSTEZE' in Heavy Script	2017	24.83
 748	Cars / Cars 3	crs012	Smokey - with Bales of Hay	2017	26.17
@@ -12240,7 +12240,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Legacy	njo0614	Samurai X (Nya) - Legacy, Red Shoulder Pads	2020	4.49
 759	NINJAGO / Legacy	njo0615	Jay - Legacy, Pearl Gold Shoulder Pad	2020	4.21
 759	NINJAGO / Legacy	njo0616	Zane - Legacy, Pearl Gold Armor Shoulder Pad	2020	4.21
-759	NINJAGO / Legacy	njo0617	Lloyd Young, Garmadon - Legacy	2020	3.57
+759	NINJAGO / Legacy	njo0617	Young Lloyd Garmadon - Legacy	2020	3.57
 759	NINJAGO / Legacy	njo0618	Cole - Legacy, Pearl Gold Armor Shoulder Pad	2020	4.16
 1042	Hidden Side	hs065	Shadow-Walker	2020	3.9
 1042	Hidden Side	hs066	Nehmaar Reem	2020	9.35
@@ -12835,7 +12835,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Legacy	njo0671	Cece	2021	3.85
 759	NINJAGO / Legacy	njo0672	Cole - Urban Cole	2021	3.7
 759	NINJAGO / Legacy	njo0673	Scoop	2021	4.9
-759	NINJAGO / Legacy	njo0674	Lloyd - Young Lloyd, Legacy	2021	3.3
+759	NINJAGO / Legacy	njo0674	Young Lloyd - Legacy	2021	3.3
 759	NINJAGO / Legacy	njo0675	Statue - NINJAGO City Gardens	2021	3.85
 1095	Super Mario / Super Mario Series 2	mar0053	Bone Goomba, Super Mario, Series 2 (Character Only)	2021	7.6
 768	Super Heroes / Batman II	sh0688	Batman - Rocket Pack	2021	7.8
@@ -18359,7 +18359,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Legacy	njo1019	Postman (Mailman) - Legacy	2026	4.14
 759	NINJAGO / Legacy	njo1020	Administration Agent	2026	4.41
 759	NINJAGO / Legacy	njo1021	Faith - Legacy	2026	3.53
-759	NINJAGO / Legacy	njo1022	Young Krux	2026	3.5
+759	NINJAGO / Legacy	njo1022	Young Krux - Hair	2026	3.5
 759	NINJAGO / Legacy	njo1023	Harumi - Legacy	2026	3.73
 759	NINJAGO / Dragons Rising Season 4	njo1024	Loyalist Leader (Dr. LaRow)	2026	3.85
 759	NINJAGO / Legacy	njo1025	Loyalist	2026	3.78
@@ -18770,10 +18770,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1359	Editions	edi005	Vini Jr.	2026	3.66
 1359	Editions	edi006	Lewis Hamilton	2026	3.73
 167	DUPLO / Peppa Pig	47205pb133	Duplo Figure Lego Ville, George Pig - Dark Azure Plain Outfit with Silver Earpiece Pattern (6600808)	2026	11.6
+976	LEGO Brand / LEGO Brand Store / Build-A-Minifigure / NINJAGO	njo1064	Young Lloyd ZX (BAM)	2026	3.48
+768	Super Heroes / X-Men	sh0995a	Iceman - Dark Azure Eyes and Mouth	2024	3.05
 167	DUPLO / Peppa Pig	47205pb134	Duplo Figure Lego Ville, George Pig - Dark Azure Outfit with Green Dinosaur Outline on Lime Background, Silver Earpiece Pattern (6601057)	2026	11.6
 167	DUPLO / Peppa Pig	47205pb135	Duplo Figure Lego Ville, Peppa Pig - Red Outfit with Coral, Bright Light Yellow and Medium Lavender Rainbow, White Clouds Pattern (6601118)	2026	11.49
 167	DUPLO / Peppa Pig	7627pb02	Duplo Figure Lego Ville, Baby Evie Pig, Light Aqua Sleep Sack with Lavender and Medium Lavender Bib, Yellow Duck and Bow Pattern (6566316)	2026	11.52
 850	Jurassic World / Jurassic Park	jw143	Dennis Nedry - Jurassic Park Logo on Back, Hood	?	3.65
 65	Star Wars / Star Wars The Mandalorian	sw1528	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape, Printed Head, Reddish Brown and Dark Silver Knee Pads	?	3.8
 1359	Editions	edi007	Charles Leclerc	2026	3.64
-67	Town	twn549	Italian Market Van Driver - Male, Blue Torso, Dark Blue Legs and Cap	?	3.4
+67	Town	twn549	Italian Market Van Driver - Male, Blue Torso, Dark Blue Legs and Cap	2025	3.4

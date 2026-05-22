@@ -13898,7 +13898,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Jungle	60162-1	Jungle Air Drop Helicopter	2017	2252	57.2 x 37.5 x 9.8
 868	NEXO KNIGHTS	271717-1	Rock Speeder / Stone Racer foil pack	2017	19.8	12 x 15 x 1
 801	Minecraft	21137-1	The Mountain Cave	2017	5050	58.2 x 48 x 17
-166	Educational & Dacta / Western	9363-1	Sheriff's Lock-Up & Gold City Junction	1998	1521	? x ? x ?
+166	Educational & Dacta / Western	9363-1	Sheriff's Lock-Up & Gold City Junction	1998	1521	40 x 14 x 30
 447	School Supplies / Money and Coin Bank	40251-1	Mini Piggy Bank	2017	342	26 x 14 x 6
 67	Town / City / Coast Guard	60168-1	Sailboat Rescue	2017	489	35 x 18.5 x 7
 67	Town / City / Airport	60169-1	Cargo Terminal	2017	1406	54 x 28.2 x 9.1
@@ -21407,6 +21407,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Building Event / Star Wars / Star Wars The Mandalorian and Grogu	6626049-1	LEGO Brand Store Exclusive Build - Star Wars N-1 Starfighter	2026	65	21.5 x 21.5 x 1.7
 988	Building Event / Star Wars / Star Wars The Mandalorian and Grogu	5010305-1	Barnes & Noble Exclusive Build - The Mandalorian & Grogu	2026	152	17 x 29 x 3
 759	NINJAGO / Dragons Rising Season 4	L0002202-1	Earth Monster paper bag	2026	12	12 x 15 x 1.5
-801	Minecraft	L0002250-1	Blacksmith with Armor and Smithing Table paper bag	2026	17.3	12 x 15 x 1.5
+801	Minecraft	L0002250-1	Blacksmith with Netherite Armor and Smithing Table paper bag	2026	17.3	12 x 15 x 1.5
 36	Technic / Model / Harbor	L0002290-1	Submarine paper bag	2025	?	? x ? x ?
 67	Town / City / Traffic	L0002223-1	Sweeper paper bag	2026	?	? x ? x ?
+65	Star Wars / Star Wars Episode 2	L0002245-2	Jango Fett metal box {Helmet Shaped Box Version}	2026	?	? x ? x ?
+65	Star Wars / Star Wars Episode 2	L0002245-1	Jango Fett metal box {Rectangular Box Version}	2026	60	9 x 12.5 x 2.1
