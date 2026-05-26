@@ -241,7 +241,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / Res-Q	1097-1	Res-Q Runner	1999	?	? x ? x ?
 67	Town / Extreme Team	1098-1	Hang Glider	1998	?	? x ? x ?
 284	Ninja	1099-1	Ninja Blaster	1999	2	9.5 x 9.5 x 3.7
-124	Train / 4.5V	111-2	Starter Train Set without Motor	1966	3.3	20 x 30 x 5
+124	Train / 4.5V	111-2	Small Train Set without Motor	1966	3.3	20 x 30 x 5
 124	Train / 4.5V	112-2	Locomotive with Motor	1966	3.3	20 x 20 x 5
 124	Train / 4.5V	113-2	Motorized Train Set	1966	4	40 x 30 x 5
 124	Train / 4.5V	114-2	Small Train Set	1966	?	? x ? x ?
@@ -3584,7 +3584,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 171	Creator / Basic Set	4414-1	Creator Half Tub Blue	2004	?	? x ? x ?
 9	Castle / Knights Kingdom II	8701-1	King Jayko	2006	51	23.8 x 28.5 x 6
 9	Castle / Knights Kingdom II	8702-1	Lord Vladek	2006	50	23.8 x 28.5 x 6
-9	Castle / Knights Kingdom II	8703-1	Sir Kentis	2006	?	8.8 x 22.4 x 8.8
+9	Castle / Knights Kingdom II	8703-1	Sir Kentis	2006	18	8.8 x 22.4 x 8.8
 9	Castle / Knights Kingdom II	8704-1	Sir Adric	2006	20	8.8 x 22.4 x 8.8
 9	Castle / Knights Kingdom II	8705-1	Dracus	2006	20	8.8 x 22.4 x 8.8
 9	Castle / Knights Kingdom II	8706-1	Karzon	2006	20	8.8 x 22.4 x 8.8
@@ -3934,7 +3934,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 395	Samsonite / Supplemental	445-3	Roof Bricks	1969	?	9 x 17 x 4
 395	Samsonite / Supplemental	446-1	Special Building Bricks	1969	?	17 x 9 x 4
 395	Samsonite / Supplemental	447-1	Garage Kit & Street Signs	1969	?	9 x 17 x 4
-395	Samsonite / Train / 4.5V	118-2	Small Train Set	1968	?	? x ? x ?
+395	Samsonite / Train / 4.5V	111-4	Starter Train Set without Motor	1968	?	? x ? x ?
 36	Technic / Expert Builder	98959-1	Motor	1977	4.9	? x ? x ?
 395	Samsonite / Basic Set	102-2	Imagination Basic Set 2	1971	?	? x ? x ?
 277	LEGOLAND / Construction	102A-1	Front-End Loader (First Version with Type A Motor 12 x 4 x 4)	1970	3.3	25 x 20 x 5
@@ -8033,7 +8033,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Monthly Model	40243-1	Monthly Mini Model Build Set - 2017 05 May, Race Car polybag	2017	?	17 x 16.5 x 2
 67	Town / City / Jungle	60162-1	Jungle Air Drop Helicopter	2017	347	57.2 x 37.5 x 9.8
 801	Minecraft	21137-1	The Mountain Cave	2017	800	58.2 x 48 x 17
-166	Educational & Dacta / Western	9363-1	Sheriff's Lock-Up & Gold City Junction	1998	?	? x ? x ?
+166	Educational & Dacta / Western	9363-1	Sheriff's Lock-Up & Gold City Junction	1998	?	40 x 14 x 30
 447	School Supplies / Money and Coin Bank	40251-1	Mini Piggy Bank	2017	64.3	26 x 14 x 6
 67	Town / City / Coast Guard	60168-1	Sailboat Rescue	2017	87.3	35 x 18.5 x 7
 67	Town / City / Airport	60169-1	Cargo Terminal	2017	240	54 x 28.2 x 9.1
@@ -11685,7 +11685,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Model / Space Exploration	42178-1	Surface Space Loader LT78	2024	161	28.1 x 26.1 x 7.5
 67	Town / City / Space Exploration	30663-1	Space Hoverbike polybag	2024	3.8	17.4 x 19.2 x 1.5
 67	Town / City / Police	30664-1	Police Off-Road Buggy Car polybag	2024	5	16 x 18 x 1.5
-1203	Sonic the Hedgehog	30676-1	Kiki's Coconut Attack polybag	2024	?	17.4 x 19.4 x 1.2
+1203	Sonic the Hedgehog	30676-1	Kiki's Coconut Attack polybag	2024	4	17.4 x 19.4 x 1.2
 878	Disney / Wish	30661-1	Asha's Welcome Booth polybag	2024	5	17.4 x 19.4 x 1.55
 390	Holiday & Event / Chinese Festivals / Model / Creature	40611-1	Year of the Dragon	2024	33.01	13.5 x 12.2 x 4.65
 983	Promotional	40681-1	Retro Food Truck	2024	55.65	26 x 14 x 6
@@ -12318,7 +12318,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1272	Art	31215-1	Vincent van Gogh - Sunflowers	2025	552	37.5 x 55.4 x 13.1
 988	Building Event / Super Mario	6527192-1	Gamescom Exclusive Build - Yoshi	2024	?	? x ? x ?
 171	Creator / Basic Model / Holiday & Event / Easter	30690-1	Easter Egg Chick Painting Fun paper bag / polybag	2025	6	17.2 x 18.7 x 1.7
-768	Super Heroes / Spider-Man	30707-1	Venom's Museum Robbery paper bag / polybag	2025	?	17 x 18 x 2
+768	Super Heroes / Spider-Man	30707-1	Venom's Museum Robbery paper bag / polybag	2025	2	17 x 18 x 2
 759	NINJAGO / Dragons Rising Season 3	71837-1	NINJAGO City Workshops	2025	1021	52 x 47.5 x 12
 817	LEGO Ideas (CUUSOO)	21355-1	The Evolution of STEM	2025	190	25.8 x 38 x 7
 976	LEGO Brand / LEGO Employee Gift	4002024-1	2024 Employee Exclusive - LEGO Factories National Animals	2024	320	38.1 x 26 x 11.4

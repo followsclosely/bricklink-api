@@ -1492,7 +1492,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 48	Belville	belvmale09	Belville Male, Child Boy - Light Violet Shorts, White Top with Sailboat Logo Pattern, Black Hair, White Shoes (4100304)	1996	8.3
 48	Belville	belvfemale12	Belville Female - Medic, Light Blue Shorts, White Shirt with EMT Star of Life Pattern, Light Yellow Hair	1996	15.4
 48	Belville	belvfemale13	Belville Female - Medic, White Pants, White Shirt with EMT Star of Life Pattern, Brown Hair	1997	15.4
-48	Belville	belvfemale14	Belville Female, Adult Woman (Witch) - Black Shorts, Violet Top with Bones and Neckerchief Pattern, Red Hair, Black Shoes (4140035)	1999	15
+48	Belville	belvfemale14	Belville Female, Adult Woman (Witch) - Black Shorts, Violet Top with Bones and Neckerchief Scarf Pattern, Red Hair, Black Shoes (4140035)	1999	15
 48	Belville	belvfemale15	Belville Female, Adult Woman  - Light Violet Top with Lace Pattern, Brown Hair, White Shoes (75540)	1994	15.7
 48	Belville	belvfemale16	Belville Female - Horse Rider, White Shorts, Red Shirt, Light Yellow Hair	1994	9.2
 48	Belville	belvfemale17	Belville Female, Adult Woman (Princess Rosaline) - White Shorts, Pink Top with Flower and Lace Pattern, Very Light Orange Hair, Pink Shoes (4140033)	1999	16
@@ -2202,7 +2202,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 34	Space	sp061	Astrobot Female, Sandy Moondust	2002	4
 34	Space	sp062	Astrobot Male, Biff Starling	2002	4
 167	DUPLO / Dora the Explorer	duplodiego	Duplo Figure Dora the Explorer, Diego (4216600)	2004	24
-167	DUPLO / DUPLO, Town / Circus	4555pb110	Duplo Figure, Male Clown, Blue Legs, Blue Aviator Helmet, Blue Neckerchief	1989	16.4
+167	DUPLO / DUPLO, Town / Circus	4555pb110	Duplo Figure, Male Clown, Blue Legs, Blue Aviator Helmet, Blue Neckerchief Scarf	1989	16.4
 227	Harry Potter / Prisoner of Azkaban	hp042	Professor Remus Lupin - Dark Green Suit	2004	3.75
 227	Harry Potter / Prisoner of Azkaban	hp043	Neville Longbottom - Gryffindor Stripe Torso, Black Cape	2004	3.55
 227	Harry Potter / Prisoner of Azkaban	hp044	Professor Severus Snape Boggart - Sand Green Outfit, Black Hair	2004	3.48
@@ -3187,7 +3187,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 54	Aquazone / Aquaraiders II	aqu023	Aquaraider Diver 8 with Black Flippers	2007	4
 54	Aquazone / Aquaraiders II	aqu025	Aquaraider Diver 6 with Black Flippers	2007	4.6
 227	Harry Potter / Sorcerer's Stone	hp003	Hermione Granger - Hogwarts Torso, Light Gray Legs, Black Cape with Stars	2001	4
-294	Primo	baby020	Primo Figure Boy with Lime Base, Medium Blue Top with Lime Overalls with Blue Neckerchief, Red Cap	2005	37
+294	Primo	baby020	Primo Figure Boy with Lime Base, Medium Blue Top with Lime Overalls with Blue Neckerchief Scarf, Red Cap	2005	37
 167	DUPLO / DUPLO, Train	47394pb051	Duplo Figure Lego Ville, Male Train Conductor, Red Hat, Smile with Closed Mouth, Blue Jacket with Yellow and Red Tie, Black Legs	2005	16
 65	Star Wars / Star Wars Episode 3	sw0091	Clone Shock Trooper, Coruscant Guard (Phase 2) - Black Head	2007	4.13
 65	Star Wars / Star Wars Episode 2	sw0092	Super Battle Droid - Pearl Dark Gray, Wide Head	2007	3.32
@@ -4367,7 +4367,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 48	Belville	belvfemale08a	Belville Female - Princess Elena, Skirt Long, Crown	2002	10.85
 48	Belville	belvfemale09a	Belville Female - Queen, Skirt Long, Crown	2002	20.1
 48	Belville	belvfemale12a	Belville Female - Medic, Light Blue Shorts, White Shirt with EMT Star of Life Pattern, Light Yellow Hair, Skirt	1996	16
-48	Belville	belvfemale14a	Belville Female, Adult Woman (Witch) - Black Shorts, Violet Top with Bones and Neckerchief Pattern, Red Hair, Black Shoes, Skirt, Hat with Spider	1999	22.34
+48	Belville	belvfemale14a	Belville Female, Adult Woman (Witch) - Black Shorts, Violet Top with Bones and Neckerchief Scarf Pattern, Red Hair, Black Shoes, Skirt, Hat with Spider	1999	22.34
 48	Belville	belvfemale16a	Belville Female - Horse Rider, White Shorts, Red Shirt, Light Yellow Hair, Helmet	1994	11
 48	Belville	belvfemale17a	Belville	?	17.13
 48	Belville	belvfemale17b	Belville Female, Adult Woman (Princess Rosaline) - White Shorts, Pink Top with Flower and Lace Pattern, Very Light Orange Hair, Pink Shoes, Skirt, Crown	1999	17.13
@@ -10486,7 +10486,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City	trn248	Dark Blue Suit with Train Logo, Dark Blue Legs, Dark Red Hat, Gray Beard	2018	3.3
 67	Town / City	trn249	Barista - Female, Reddish Brown Apron with Cup and Name Tag, Reddish Brown Legs, Bright Light Yellow Hair, Glasses	2018	3.6
 67	Town / City	trn250	Train Passenger - Female, White and Green Sweatshirt with Zipper, Tan Legs, Reddish Brown Hair with Ponytail, Freckles	2018	3.6
-167	DUPLO / DUPLO, Train	47394pb252	Duplo Figure Lego Ville, Male, Blue Legs, Dark Azure Shirt with Blue Overalls and Red Neckerchief Pattern, Blue Cap (6273563)	2018	14.89
+167	DUPLO / DUPLO, Train	47394pb252	Duplo Figure Lego Ville, Male, Blue Legs, Dark Azure Shirt with Blue Overalls and Red Neckerchief Scarf Pattern, Blue Cap (6273563)	2018	14.89
 167	DUPLO	47205pb063	Duplo Figure Lego Ville, Child Girl, Magenta Legs, White and Medium Azure Top with Shooting Star, Black Hair with Pigtails	2018	12
 759	NINJAGO / Hunted	njo0456	Wu Sensei (Dragon Master) - Hunted	2018	5.05
 759	NINJAGO / Hunted	njo0457	Kai - Hunted, Flat Silver Side-Scabbard	2018	3.96
@@ -13175,7 +13175,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Spider-Man	sh0709	Mysterio - Light Bluish Gray Head, Satin Trans-Light Blue Helmet, Double Hole Cape	2021	4.34
 768	Super Heroes / Spider-Man	sh0710	J. Jonah Jameson - Vest with Striped Tie, Swept Back Hair	2021	3.53
 768	Super Heroes / Spider-Man	sh0711	Venom - White Teeth Parted, 4 Back Appendages Medium	2021	6.8
-67	Town / City	cty1291	Street Sweeper - Male, Blue Overalls over V-Neck Shirt, Blue Legs, Dark Green Cap, Moustache	2021	3.41
+67	Town / City / Traffic	cty1291	Street Sweeper - Male, Blue Overalls over V-Neck Shirt, Blue Legs, Dark Green Cap, Moustache	2021	3.41
 768	Super Heroes / Spider-Man	sh0712	Firestar	2021	4.56
 768	Super Heroes / Spider-Man	sh0713	Blade	2021	3.36
 768	Super Heroes / Spider-Man	sh0714	Peter Parker - Red Jacket	2021	3.37
@@ -18779,3 +18779,4 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars The Mandalorian	sw1528	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape, Printed Head, Reddish Brown and Dark Silver Knee Pads	?	3.8
 1359	Editions	edi007	Charles Leclerc	2026	3.64
 67	Town	twn549	Italian Market Van Driver - Male, Blue Torso, Dark Blue Legs and Cap	2025	3.4
+67	Town / City / Traffic	cty2004	Street Sweeper - Male, Neon Yellow Safety Vest with Reflective Stripes, Olive Green Legs, Dark Blue Cap	2026	3.41

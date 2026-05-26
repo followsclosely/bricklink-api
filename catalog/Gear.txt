@@ -15355,7 +15355,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 517	Watch	bb1202	Watch Part, Band Attachment - Clasp, Male with LEGO Logo and 'WATCH SYSTEM' Text	?	0.78	1.8 x 1.7 x 0.4
 517	Watch	bb1012pb02	Watch Part, Case Attachment - Bezel Ring Raised with Silver Triangles and Dots Pattern	2000	0.94	? x ? x ?
 517	Watch	bb1043pb04	Watch Part, Case Attachment - Bezel Ring Wide with Dark Pink Heart, Butterfly, Starfish, Flower, and Circles Pattern	?	?	? x ? x ?
-517	Watch	bb1205	Watch Part, Case Attachment - Bezel Ring with Trapezoidal Segments - Flexible Rubber	?	?	? x ? x ?
+517	Watch	bb1205	Watch Part, Case Attachment - Bezel Ring with Trapezoidal Segments - Flexible Rubber	2000	1.18	? x ? x ?
 517	Watch	bb1203c01pb01	Watch Part, Case Attachment - Bezel Ring in Metal Carabiner Fob with Stylized 'GRINDER' Pattern	2000	41.8	4.7 x 14.2 x 2
 517	Watch	bb1013pb02	Watch Part, Case Attachment - Bezel Ring Narrow with Black Numbers Pattern	?	?	? x ? x ?
 517	Watch	bb1208pb01	Watch Part, Case Attachment - Bezel Ring with Vertical Clips with Black Numbers and Dots Pattern	?	?	? x ? x ?
@@ -17395,7 +17395,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / Super Heroes / Batman II	shba01de040	Batman Trading Card Game (German) Series 1 - # 40 Blue Beetle	2019	1.9	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Super Heroes / Batman II	shba01de128	Batman Trading Card Game (German) Series 1 - # 128 Mighty Micros Bane	2019	1.9	6.2 x 8.8 x 0.02
 160	Sticker Sheet	5007095	Sticker Sheet, VIP Set of 6 Sheets	2023	15.9	17.7 x 9.5 x 0.2
-334	Key Chain / Collectible Minifigures / Series 22 Minifigures	854234	Chili Girl Key Chain	2023	?	? x ? x ?
+334	Key Chain / Collectible Minifigures / Series 22 Minifigures	854234	Chili Girl Key Chain	2023	15	? x ? x ?
 334	Key Chain / Minecraft	854244	Piglin Key Chain	2023	?	? x ? x ?
 1008	Decoration / Star Wars / Ultimate Collector Series / Star Wars Episode 4/5/6	5007908	Limited Edition Print Star Wars - Luke Skywalker's T-65 X-wing Starfighter	2023	36	40 x 30 x 0.2
 473	Sports / LEGOLAND Parks	golfset	Golf Gift Set	?	131	15.4 x 4.5 x 4.5
@@ -22476,7 +22476,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 334	Key Chain / Collectible Minifigures / Series 21 Minifigures	LGL-KE213H	LED Key Light Pug Guy Key Chain (LEDLITE)	2024	36	8 x 4.5 x 3
 512	Toy, Plush / DUPLO	353800	DUPLO Carrot Plush	2024	130	9.5 x 24 x 9.5
 512	Toy, Plush / DUPLO	353810	DUPLO Tomato Plush	2024	115	9 x 14 x 9
-512	Toy, Plush / DUPLO	353840	DUPLO Bee Plush	2024	96	11 x 13 x 5.5
+512	Toy, Plush / DUPLO	353840	DUPLO Bee (Open Mouth) Plush	2024	96	11 x 13 x 5.5
 512	Toy, Plush / DUPLO	353850	DUPLO Snail Plush	2024	92	11 x 11 x 5.5
 512	Toy, Plush / DUPLO	353860	DUPLO Pineapple Plush	2024	117	9 x 19 x 9
 1111	Clothing Accessories / Nike	5010036	Hat, Knit Cap Beanie Nike Logo and 1 x 3 Brick - Children's	2025	?	? x ? x ?
@@ -22724,6 +22724,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 997	Card / Educational & Dacta / Science	6559909	Connection Card for Education Science Sets with 4-Digit Number - Dark Purple	?	5.14	5.4 x 8.6 x 0.07
 997	Card / Educational & Dacta / Science	6559618	Connection Card for Education Science Sets with 4-Digit Number - Dark Pink	?	5.05	5.4 x 8.6 x 0.07
 543	Clothing, Adult / Crocs	5010203	Shoe - Crocs Brick Clog	2026	?	? x ? x ?
+512	Toy, Plush / DUPLO	170030	DUPLO Bee (Closed Mouth) Plush	2025	90	19 x 8 x 12
+512	Toy, Plush / DUPLO	170140	DUPLO Lemon Plush	2025	80	10.5 x 10 x 7.8
+512	Toy, Plush / DUPLO	170150	DUPLO Radish Plush	2025	102	9 x 18 x 9
+512	Toy, Plush / DUPLO	170160	DUPLO Strawberry Plush	2025	110	9.5 x 15 x 8.5
 380	Card, Trading Card / NINJAGO	njo10deLE08	NINJAGO Trading Card Game (German) Series 10 - # LE8 Nokt Limited Edition	2026	?	? x ? x ?
 399	Storage / Educational & Dacta / Science	45622box	Complete Box for Set 45622 - Box only entry	?	876	42.5 x 30.5 x 8.5
 1111	Clothing Accessories / Star Wars	LGL-HE3	Head Lamp, Minifigure LED Headlamp Torch - Darth Vader (LEDLITE)	2022	7.6	9.1 x 15 x 3.4
@@ -23900,3 +23904,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / NINJAGO	njo11deLE05	NINJAGO Trading Card Game (German) Series 11 - # LE5 Gewaltiger Cole Limited Edition	2026	?	? x ? x ?
 380	Card, Trading Card / Star Wars	sw03esLE24	Star Wars Trading Card Game (Spanish) Series 3 - # LE24 Ahsoka Tano & Soldado Clon Limited Edition	2022	2	6.2 x 8.8 x 0.03
 180	Software / Educational & Dacta / MINDSTORMS / RCX	2000050	Education ROBOLAB 1.0 CD-ROM	1998	?	? x ? x ?
+1112	Luggage & Luggage Accessories / Botanicals	113555	Tote Bag, Botanicals	2026	95	48.4 x 45.5 x 1
+727	Modulex	Mx1650sleeve4	Modulex sleeve for 20 x 50 perforated foil sheets (Black with Modulex logo and ‘Made in Denmark’ and ‘1650’ text)	?	16.8	25 x 10.3 x 0.1
+380	Card, Trading Card / NINJAGO	njo11deLE06	NINJAGO Trading Card Game (German) Series 11 - # LE6 Gewaltiger Jay Limited Edition	2026	?	? x ? x ?

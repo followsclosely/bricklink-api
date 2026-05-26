@@ -65,7 +65,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 331	Comic Book / Galidor	galmin01	Galidor Mini Comic from McDonald's Promotion	2002	?	? x ? x ?
 462	Magazine	mag2002jul	Lego Magazine 2002 July - August	2002	102	? x ? x ?
 462	Magazine	mag2002sept	LEGO Magazine 2002 September - October	2002	100	21.4 x 26.8 x 0.1
-594	Puzzle Book / Castle	PuzCastle	Castle Mystery - An Interactive Puzzle Book	1998	170	28 x 21.5 x 0.3
+594	Puzzle Book / Castle	b98cas01	Castle Mystery - An Interactive Puzzle Storybook	1998	170	21.5 x 28 x 0.3
 331	Comic Book / BIONICLE	4184374	Bionicle Mini Comic Book (4184374 AM)	2002	4	8.2 x 12 x 0.1
 331	Comic Book / BIONICLE	biocom09	Bionicle # 9 November 2002 Divided We Fall	2002	40	16.9 x 26 x 0.05
 576	Curriculum Activity Book / Educational & Dacta / Technic	1036	Teacher's Guide to TECHNIC II (Set 1032)	1985	115	21 x 15 x 0.3
@@ -1138,8 +1138,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 317	Idea Book	b08other01	Crazy Action Contraptions {Second Edition}	2008	405	26 x 23 x 3.5
 1167	Magazine, LEGO Club	mag08wc4	Lego Club Magazine (Asia/Pacific) 2008 No.4	2008	54	20.4 x 26.7 x 0.2
 332	Informational Book / Technic	117282	User Guide for Technic Control Center 8094	1990	46	29.7 x 10.5 x 0.2
-594	Puzzle Book / Castle	PuzCastleit	Castle Mystery - An Interactive Puzzle Book - Italian Edition	1999	160	28 x 21.5 x 0.3
-594	Puzzle Book / Adventurers / Desert	b99adv02it	Alla Ricerca del Magico Rubino – Un Libro-Quiz Interattivo (Italian Edition)	1999	160	28 x 21.5 x 0.3
+594	Puzzle Book / Castle	b99cas01it	Il Mistero del Castello - Un Libro-Quiz Interattivo (Italian Edition)	1999	160	21.5 x 28 x 0.3
+594	Puzzle Book / Adventurers / Desert	b99adv02it	Alla Ricerca del Magico Rubino - Un Libro-Quiz Interattivo (Italian Edition)	1999	160	28 x 21.5 x 0.3
 332	Informational Book / Educational & Dacta / Technic	9767	Computer Interface Unit Manual Apple IIe (199.009.070)	1987	79	21 x 145 x 0.5
 576	Curriculum Activity Book / Educational & Dacta / Technic	198323	LEGO TC logo Student Guide - Getting Started	1989	102	21 x 14.5 x 0.5
 576	Curriculum Activity Book / Educational & Dacta / Technic	198324	LEGO TC logo Student Guide - Making Machines	1989	58	21 x 14.5 x 0.25
@@ -3205,7 +3205,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 576	Curriculum Activity Book / Educational & Dacta / Technic	9701bc3	Set 9701 Basic Instruction Sheet 1	1993	10	29.7 x 21 x 0
 576	Curriculum Activity Book / Educational & Dacta / Technic	9701bc4	Set 9701 Basic Instruction Sheet 2	1993	10	29.7 x 21 x 0
 576	Curriculum Activity Book / Educational & Dacta / Technic	822204	Control Lab Setup Guide and Introductory Explorations	1993	?	? x ? x ?
-317	Idea Book / Town / City / Fire	b16cty09	City - Build Your Own Adventure (Box Set)	2016	1038	? x ? x ?
+317	Idea Book / Town / City / Fire	b16cty09	City - Build Your Own Adventure (Box Set)	2016	1038	22.5 x 27.5 x 4.4
 317	Idea Book / Star Wars	b16sw18	Star Wars - Build Your Own Adventure (Hardcover)	2016	1008	22.5 x 27.5 x 4.3
 505	Story Book / Town / City	9780241246276	City - Heroes to the Rescue (Hardcover)	2016	?	? x ? x ?
 505	Story Book / NINJAGO	b16njo11	NINJAGO - Team Ninja (Hardcover)	2016	342	? x ? x ?
@@ -5408,7 +5408,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 552	Coloring Book / City	LNH-6012	City - Het Waanzinnige Logboek (Dutch Edition)	2021	234	14.5 x 19 x 3.5
 317	Idea Book	b20other01	Gear Bots	2020	640	25.5 x 25.9 x 4.4
 1102	Sticker Book / NINJAGO / Legacy	LTSY-701S2	NINJAGO - Legacy 800 Stickers Racen en Strijden	2020	222	28.8 x 20.4 x 0.5
-1102	Sticker Book / Star Wars	LTSY-6301	Star Wars - 800 Stickers De Lichte Kant Slaat Terug!	2020	220	28.8 x 20.3 x 0.5
+1102	Sticker Book / Star Wars	b20sw13nl	Star Wars - 800 Stickers - De Lichte Kant Slaat Terug! (Dutch Edition)	2020	220	20.3 x 28.8 x 0.5
 1102	Sticker Book / Town / City	LTSY-6011	City - 800 Stickers Geweldige Voertuigen	2020	218	28.8 x 20.3 x 0.5
 1025	Magazine, Star Wars	mag2021sw05sfr	Star Wars Magazine 2021 Issue 5 Super (French)	2021	90	21 x 27.5 x 1.5
 552	Coloring Book / City	9789463850841	City - Kleur Je Avontuur! (Dutch Edition)	2021	374	28.8 x 20.5 x 0.8
@@ -7861,7 +7861,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1025	Magazine, Star Wars	mag2018sw05es	Star Wars Magazine 2018 Issue 5 (Spanish)	2018	0.3	21 x 27.5 x 0.5
 766	Activity Book / Holiday & Event / Easter	b25hol01	Easter Build and Play!	2025	?	? x ? x ?
 331	Comic Book / NINJAGO / Legacy	com2026njol34de	NINJAGO Legacy Comic 2026 Issue 34 (German)	2026	?	? x ? x ?
-1025	Magazine, Star Wars	mag2026sw132de	Star Wars Magazine 2026 Issue 132 (German)	2026	88	21 x 28 x 0.13
+1025	Magazine, Star Wars	mag2026sw132de	Star Wars Magazine 2026 Issue 132 (German)	2026	81	21 x 28 x 0.13
 766	Activity Book / Star Wars	b25sw08ca	Star Wars - Imperial Orders! (Softcover) (English - CA Edition)	2025	152	20.5 x 29 x 5
 1269	Magazine, DREAMZzz	mag2026drm13de	DREAMZzz Magazine 2026 Issue 13 (German)	2026	?	? x ? x ?
 332	Informational Book / Jurassic World	b22jw12	Jurassic World - Complete Dinosauria: A Jurassic Explorer Field Guide	2022	?	? x ? x ?
@@ -7884,3 +7884,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 331	Comic Book / BIONICLE	b08bio09	BIONICLE - Graphic Novel 2: Challenge of the Rahkshi (Softcover)	2008	189	? x ? x ?
 1025	Magazine, Star Wars	mag2025sw129de	Star Wars Magazine 2025 Issue 129 (German)	2025	81	21 x 28 x 0.13
 766	Activity Book / Star Wars	b26sw03uk	Star Wars - Grogu's Adventures (English - UK Edition)	2026	160	20.5 x 28.8 x 2.7
+1102	Sticker Book / Star Wars	b24sw08uk	Star Wars - 800 Stickers - The Light Side Strikes Back (English - UK Edition)	2024	220	21.6 x 30.2 x 0.5
+1102	Sticker Book / Star Wars	b16sw28nl	Star Wars - 3...2...1... Plakken! (Dutch Edition)	2016	100	21 x 30 x 1
+1063	Magazine, Super Heroes / Avengers	mag2026shav35de	Avengers Magazine 2026 Issue 35 (German)	2026	81	21 x 28 x 0.13
+1025	Magazine, Star Wars	mag2026sw133de	Star Wars Magazine 2026 Issue 133 (German)	2026	81	21 x 28 x 0.13
+1323	Magazine, LEGO Magazine	mag2026lmag02de	LEGO Magazine 2026 Issue 2 March - June (German)	2026	63	20.2 x 26.8 x 0.2
+1025	Magazine, Star Wars	mag2026sw134de	Star Wars Magazine 2026 Issue 134 (German)	2026	81	21 x 28 x 0.13
+594	Puzzle Book / Castle	b98cas01de	Das Burg-Geheimnis - Eine LEGO-Rätsel-Spiel-Geschichte (German Edition)	1998	170	22 x 28 x 1
+1024	Magazine, NINJAGO	mag2026njo141de	NINJAGO Magazine 2026 Issue 141 (German)	2026	?	? x ? x ?
+1021	Magazine, City	mag2026cty88de	City Magazine 2026 Issue 88 (German)	2026	?	? x ? x ?

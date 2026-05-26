@@ -2989,7 +2989,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 767	2012	c12pl1	2012 Large Polish January - May (600.9023-PL)	2012	?
 515	2004	c04hu2	2004 Large Hungarian January - May, Version 2 (424.4315-HU)	2004	57
 756	2011	c11pl2	2011 Large Polish July - December (465.1468-PL)	2011	?
-367	1992 / Holiday & Event / Christmas	c92pl2	1992 Large Polish Christmas Edition (922038-PL)	1992	?
+367	1992 / Holiday & Event / Christmas	c92pl2	1992 Large Polish Christmas Edition (922038-PL)	1992	92
 364	1989	c89os3	1989 Medium Overseas (109993-OS (PL/H/SU/CS/D))	1989	?
 362	1987	c87os3	1987 Medium Overseas (152593/152693-OS (PL/H/D))	1987	?
 743	2010 / Game	c10plga	2010 Insert Polish Board Games	2010	?
@@ -4409,7 +4409,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1213	2022	c22de1	2022 Large German / Austrian January - June (DE/A f/Brand Retail - 6395158, DE/A - 6395163, DE/A SMYTH Insert - 6395165, DE/A FH Insert - 6395166)	2022	174
 369	1994	c94cz2	1994 Medium Czech (923570-CR)	1994	6
 1213	2022	c22pl1	2022 Large Polish January - May (6395189-PL)	2022	?
-370	1995	c95pl	1995 Large Polish (923.963-PL)	1995	?
+370	1995	c95pl	1995 Large Polish (923.963-PL)	1995	106
 368	1993 / DUPLO	c93czdup	1993 Medium Duplo Czech (922713-TJK)	1993	7
 368	1993 / Pirates / Pirates I	c93czin	1993 Insert - Pirates Competition Czech (920625-TJE)	1993	8
 368	1993 / Technic	c93cztec	1993 Medium Technic Czech Foldout (922714-CR)	1993	22
@@ -5078,3 +5078,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 373	1998	c98frdc	1998 Dealer French	1998	?
 363	1988 / Fabuland	m88euf	1988 Mini Fabuland European (101783-EU)	1988	?
 365	1990	c90uk2	1990 Medium UK (921390-UK)	1990	21
+1360	2026	c26nl1	2026 Large Dutch January - June (NL f/Brand Retail: 6605824 NL for EUC: 6605840 NL: 6605850)	2026	161
+1287	2024	c24pl2	2024 Large Polish June - December (PL - 6519348, PL f/Brand Retail - 6519317)	2024	200
+901	2017	c17it1	2017 Large Italian / Swiss January - May (619.1785-CH/I 619.1811-IT)	2017	?
+901	2017	c17it2	2017 Large Italian / Swiss June - December (620.7846 CH/I 620.7876-IT)	2017	?
+1287	2024	c24it1	2024 Large Italian / Swiss January - June (IT-TC - 6488897, IT - 6488860, CH/I - 6488846)	2024	?
+1360	2026	c26it1	2026 Large Italian / Swiss January - June (Italy - 6605853, CH/I - 6605839)	2026	?

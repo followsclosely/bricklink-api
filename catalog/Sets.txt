@@ -55,7 +55,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 63	Service Packs / Train	1102-1	Motor Bushes	1977	3	9.7 x 15.2 x 0.6
 63	Service Packs / Train	1107-1	Signal and Direction-Change Switch	1977	45	14.4 x 8.5 x 4
 63	Service Packs / Train	1109-1	Magnetic Couplings for Railway Car	1977	15	? x ? x ?
-124	Train / 4.5V	111-2	Starter Train Set without Motor	1966	610	20 x 30 x 5
+124	Train / 4.5V	111-2	Small Train Set without Motor	1966	610	20 x 30 x 5
 63	Service Packs / Train	1110-1	Train Wheels	1977	10	9.7 x 15.1 x 1.9
 124	Train / 4.5V	112-2	Locomotive with Motor	1966	364	20 x 20 x 5
 124	Train / 4.5V	113-2	Motorized Train Set	1966	1495	40 x 30 x 5
@@ -7295,7 +7295,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 395	Samsonite / Supplemental	446-1	Special Building Bricks	1969	85	17 x 9 x 4
 395	Samsonite / Supplemental	447-1	Garage Kit & Street Signs	1969	85	9 x 17 x 4
 395	Samsonite / Supplemental	449-1	50 x 50 Large Baseplate	1969	?	? x ? x ?
-395	Samsonite / Train / 4.5V	118-2	Small Train Set	1968	?	? x ? x ?
+395	Samsonite / Train / 4.5V	111-4	Starter Train Set without Motor	1968	?	? x ? x ?
 395	Samsonite / Supplemental	112-3	2 40 x 40 Baseplates	1971	228	32 x 32 x 0.5
 395	Samsonite / Supplemental	167-2	Building Accessory Pack / House and Garden Extra Parts Kit	1971	225	20.5 x 10.5 x 5
 166	Educational & Dacta / Samsonite / Jumbo Bricks	060-3	Jumbo Brick School Set	1969	?	? x ? x ?
@@ -21412,3 +21412,4 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Traffic	L0002223-1	Sweeper paper bag	2026	?	? x ? x ?
 65	Star Wars / Star Wars Episode 2	L0002245-2	Jango Fett metal box {Helmet Shaped Box Version}	2026	?	? x ? x ?
 65	Star Wars / Star Wars Episode 2	L0002245-1	Jango Fett metal box {Rectangular Box Version}	2026	60	9 x 12.5 x 2.1
+65	Star Wars / Star Wars Episode 3	L0002238-1	327th Star Corps Clone Trooper paper bag	2026	8	12 x 15 x 1.6
