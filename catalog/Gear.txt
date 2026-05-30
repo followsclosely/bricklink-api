@@ -182,8 +182,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 180	Software / BIONICLE	4166538	BIONICLE Promotional US CD-ROM, 1.00	2001	?	? x ? x ?
 513	Media Audio & Video / Creator	4177v	Video Tape - Building Stories with NaNa Bird	2001	132	10.5 x 18.8 x 2.5
 252	Game / BIONICLE	31390	BIONICLE Quest for Makuta: Adventure Game  {Regular Box Version}	2001	1506	? x ? x ?
-521	Photo Frame & Holder / LEGOLAND Parks / Western	5923	Photo Frame Legoland Western	2002	225	19 x 19 x 7
-521	Photo Frame & Holder / LEGOLAND Parks / Castle / Knights Kingdom I	5924-GEAR	Photo Frame Legoland Castle	2002	246	19 x 19 x 7
+521	Photo Frame & Holder / LEGOLAND Parks / Western	5923	Photo Frame LEGOLAND Western	2002	225	19 x 19 x 7
+521	Photo Frame & Holder / LEGOLAND Parks / Castle / Knights Kingdom I	5924-GEAR	Photo Frame LEGOLAND Castle	2002	246	19 x 19 x 7
 334	Key Chain / Town / Paradisa	KC021	Paradisa Female with Horse Top Key Chain	?	?	? x ? x ?
 334	Key Chain / Castle / Black Falcons	KC020	Black Falcon (Red Hips) Key Chain	?	?	? x ? x ?
 445	Patch & Pin / Technic	28867	Pin, Technic Space Shuttle with Electric Lights	?	10	5.3 x 2.8 x 1.7
@@ -582,7 +582,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 180	Software / Technic	8428cd	Turbo Command CD-ROM Package (2 CDs) for 8428	1998	111	14 x 12.5 x 1.3
 1111	Clothing Accessories / BIONICLE	4327308	Tattoos (Temporary Body Print), Bionicle Pattern	2001	?	? x ? x ?
 334	Key Chain	4202583	2 x 4 Brick - Yellow Key Chain with 2 x 2 Square Lego Logo Tile	2003	13.99	? x ? x ?
-521	Photo Frame & Holder / LEGOLAND Parks / Racers	5927-GEAR	Photo Frame Legoland Racers	2002	266	19 x 19 x 7
+521	Photo Frame & Holder / LEGOLAND Parks / Racers	5927-GEAR	Photo Frame LEGOLAND Racers	2002	266	19 x 19 x 7
 180	Software / BIONICLE	nesquikcd01	BIONICLE Promotional Nesquik CD-ROM (Barcodemegamix01)	2000	28	12.5 x 12.5 x 0.2
 180	Software / Racers	nesquikcd3	Nesquik Promotional Racers CD-Rom2	2002	?	12 x 12 x 0
 180	Software / Racers	nesquikcd4	Nesquik Promotional Racers CD-Rom1	2002	?	12 x 12 x 0
@@ -1882,7 +1882,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 443	Puzzle / LEGOLAND Parks / Train	puz016	LEGOLAND Deutschland Puzzle - LEGOLAND Train	2003	264.5	27.3 x 19 x 3.7
 443	Puzzle / LEGOLAND Parks	puz014	LEGOLAND Deutschland Puzzle - LEGOLAND Deutschland Entrance	2003	264.57	27.3 x 19 x 3.7
 252	Game / LEGOLAND Parks	1058	LEGOLAND Deutschland - LEGOLAND Spiel	2004	732	29.5 x 22.5 x 6.2
-521	Photo Frame & Holder / LEGOLAND Parks	PFMem	Photo Holder Legoland Memory of the Day Set	2004	117.11	? x ? x ?
+521	Photo Frame & Holder / LEGOLAND Parks	PFMem	Photo Holder LEGOLAND Memory of the Day Set	2004	117.11	? x ? x ?
 175	Food & Drink / LEGOLAND Parks	lldemug01	Cup / Mug Legoland Deutschland, Minifigures Pattern	?	?	? x ? x ?
 445	Patch & Pin	4290281	Pin, 2 x 4 Brick (Flat)	2005	8.75	? x ? x ?
 447	School Supplies	4202675	Eraser, LEGO Brick Eraser Set of 3 (Red, Yellow & Blue) blister pack	2003	38.57	? x ? x ?
@@ -2319,8 +2319,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 333	Card, Game Card / BIONICLE	BioGMC060	BIONICLE Great Mask Challenge Game Card  60	2001	1.75	6.4 x 8.9 x 0
 398	Human Furniture / Educational & Dacta	1003	Supplementary Storage Trays	1982	?	? x ? x ?
 398	Human Furniture / Educational & Dacta	1006	Storage Stand	1982	?	? x ? x ?
-521	Photo Frame & Holder / LEGOLAND Parks / DUPLO	PFLL1	Photo Frame Legoland Duplo with Giraffe	2002	?	12 x 10 x 4
-521	Photo Frame & Holder / LEGOLAND Parks / DUPLO	PFLL2	Photo Frame Legoland Duplo with Elephant	2002	?	12 x 10 x 4
+521	Photo Frame & Holder / LEGOLAND Parks / DUPLO	PFLL1	Photo Frame LEGOLAND Duplo with Giraffe	2002	?	12 x 10 x 4
+521	Photo Frame & Holder / LEGOLAND Parks / DUPLO	PFLL2	Photo Frame LEGOLAND Duplo with Elephant	2002	?	12 x 10 x 4
 160	Sticker Sheet / Castle / Fright Knights	Gstk024	Sticker Sheet, Fright Knights, Folgt mir!	1997	?	8 x 10 x 0
 160	Sticker Sheet	Gstk025	Sticker Sheet, Ich freu`mich!	1991	1	6.9 x 7.9 x 0
 160	Sticker Sheet	Gstk026	Sticker Sheet, Lach`mal wieder!	1992	1	6.9 x 7.9 x 0
@@ -3970,7 +3970,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 526	Retail Display Flag	LEGLogBan03	Display Flag Cloth, LEGO Logo with Bricks Yellow Pattern, Plain Studs	2008	150	60 x 180 x 0
 1111	Clothing Accessories / Castle / Fantasy Era	852196	Ball Cap, Castle Small Dwarf - Big Hero Pattern	2008	?	? x ? x ?
 525	Human Toiletries / Pirates	4514911	Towel, Legoland Pirate, 60 x 120 cm	2008	?	60 x 120 x 0
-521	Photo Frame & Holder / LEGOLAND Parks	4530860	Photo Album, Legoland Deutschland	2008	148	? x ? x ?
+521	Photo Frame & Holder / LEGOLAND Parks	4530860	Photo Album, LEGOLAND Deutschland	2008	148	? x ? x ?
 447	School Supplies / LEGOLAND Parks	4530865	Notebook, Legoland Deutschland, Spiral Bound	2008	176	? x ? x ?
 503	Poster / Aquazone	p95naaq	Aquazone Poster 1995 (4.100.088/4.100.089-NA)	1995	23.6	40.5 x 54 x 0
 160	Sticker Sheet / BIONICLE	BioStamps	Sticker Sheet, Bionicle Kanohi Masks Collectors Stamp Sheet	2001	?	? x ? x ?
@@ -7605,7 +7605,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 252	Game / DUPLO	6031646	DUPLO Memory Card Game 3 - Animal Memory	2013	32.9	7.5 x 10.2 x 0.8
 521	Photo Frame & Holder	850702	Photo Frame Classic Picture Frame	2013	215	20 x 16 x 3
 996	Card, Greeting Card	bc94ukbc	Birthday Card - Exclusive for UK Lego Builders Club - 1994	1994	?	? x ? x ?
-1113	Office Supplies	KP008	Minifigure Speech Bubbles (2012 - Blue torso minifigure)	2012	61.36	? x ? x ?
+1113	Office Supplies	KP008a	Minifigure Speech Bubbles (2012 - Blue torso minifigure)	2012	61.36	? x ? x ?
 334	Key Chain / Space / Classic Space	LGL-KE10	LED Key Light Classic Space Minifigure Key Chain	2012	65	10 x 15 x 4
 14	Magnet / Star Wars / Star Wars Episode 4/5/6	850643	Magnet Scene - Boba Fett blister pack	2013	53	? x ? x ?
 14	Magnet / Star Wars / Star Wars Episode 4/5/6	850637	Magnet Scene - Princess Leia blister pack	2013	55	? x ? x ?
@@ -7697,7 +7697,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 503	Poster / Town / City / Traffic	4521468-3	City Poster 2007 3 of 3 (Double-Sided)	2007	?	53 x 40 x 0
 503	Poster / LEGENDS OF CHIMA	p13loc03	Legends of Chima Poster, Worriz	2013	?	29.7 x 42 x 0.01
 503	Poster / LEGENDS OF CHIMA	p13loc04	Legends of Chima Poster, Cragger	2013	?	29.7 x 42 x 0.01
-521	Photo Frame & Holder / LEGOLAND Parks	40081	Photo Frame Legoland	2013	303	26 x 19 x 4.3
+521	Photo Frame & Holder / LEGOLAND Parks	40081	Photo Frame LEGOLAND	2013	303	26 x 19 x 4.3
 1113	Office Supplies / NINJAGO	cal13njoDE	Calendar, 2013 NINJAGO (Hardcover Book)	2013	?	? x ? x ?
 513	Media Audio & Video / Star Wars	SWDVDDE2	Video DVD - Star Wars - Das Imperium schlägt ins Aus	2013	109.3	13.8 x 19.4 x 3.8
 539	Retail Display / Friends	displaysign046	Display Sign Hanging, Friends Collectible Animals Bag	2013	402	53 x 74 x 10
@@ -9359,7 +9359,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 586	Play Wear & Weaponry / NINJAGO	eyepatch02	Eye Patch, NINJAGO Sky Pirates (5004391)	2016	2.1	7.5 x 5.5 x 0.01
 1113	Office Supplies	LE369510	Pencil Sharpener, Friends 2 x 4 Brick	2013	33	? x ? x ?
 447	School Supplies	LGO3182	Binder, A4 3 Ring, Minifigures	2013	312	? x ? x ?
-447	School Supplies	L320UK	Pencil Case, Brick Shape 2 x 6 - Blue	2013	112	? x ? x ?
+447	School Supplies	L320UK	Pencil Case, Brick Shape 2 x 6	2013	112	? x ? x ?
 241	Pen	LE51475	Pen, Gel Pen - Red	2015	23	? x ? x ?
 241	Pen	LE51476	Pen, Gel Pen - Blue	2015	23	? x ? x ?
 241	Pen	LE51481	Pen, Gel Pen - Black	2015	23	4.9 x 17.8 x 2
@@ -10341,7 +10341,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 160	Sticker Sheet / Town / City / Police	6230853	Sticker Sheet, City Mountain Police, Sheet of 66 Stickers	2018	4	21 x 10 x 0.02
 175	Food & Drink	853665	Cup / Mug Iconic Tumbler	2017	85	7 x 11 x 7
 334	Key Chain / NEXO KNIGHTS	853682	Macy Key Chain	2017	?	? x ? x ?
-521	Photo Frame & Holder / LEGOLAND Parks / Pirates	40389-GEAR	Photo Frame Legoland Pirate	2018	314	26 x 19 x 4.5
+521	Photo Frame & Holder / LEGOLAND Parks / Pirates	40389-GEAR	Photo Frame LEGOLAND Pirate	2018	314	26 x 19 x 4.5
 380	Card, Trading Card / The LEGO NINJAGO Movie	TRUTC01	Toys &#34;R&#34; Us Trading Card Various Themes - No.  1 - The LEGO NINJAGO Movie - 1 Lloyd	2017	1.7	6 x 9 x 0.03
 380	Card, Trading Card / The LEGO NINJAGO Movie	TRUTC02	Toys &#34;R&#34; Us Trading Card Various Themes - No.  2 - The LEGO NINJAGO Movie - 2 Kai	2017	1.7	6 x 9 x 0.03
 380	Card, Trading Card / The LEGO NINJAGO Movie	TRUTC03	Toys &#34;R&#34; Us Trading Card Various Themes - No.  3 - The LEGO NINJAGO Movie - 3 Jay	2017	1.7	6 x 9 x 0.03
@@ -11306,7 +11306,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 683	Glued Model / LEGOLAND Parks	LLCA55	Miniland Figure in Dragon Costume (Glued)	?	?	? x ? x ?
 1111	Clothing Accessories / LEGOLAND Parks	wrist05	Wristband, Rubber with LEGOLAND Hotel - VIP Pattern	2013	?	? x ? x ?
 1111	Clothing Accessories / LEGOLAND Parks	wrist04	Wristband, Rubber with LEGOLAND Castle Hotel - Guest of Honor Pattern	2018	?	? x ? x ?
-521	Photo Frame & Holder / LEGOLAND Parks	photoband01	Photo Band, Legoland California Master Photos Pattern	2016	?	? x ? x ?
+521	Photo Frame & Holder / LEGOLAND Parks	photoband01	Photo Band, LEGOLAND California Master Photos Pattern	2016	?	? x ? x ?
 160	Sticker Sheet / LEGOLAND Parks	Gstk207	Sticker Sheet, Legoland Florida Grand Opening 2011	2011	?	? x ? x ?
 241	Pen / LEGOLAND Parks	pLLF	Legoland Florida Pen	2012	?	? x ? x ?
 175	Food & Drink / LEGOLAND Parks / LEGENDS OF CHIMA	LLFld2	Drink Bottle Holder Strap with Chima Legoland Florida Pattern	2014	?	? x ? x ?
@@ -14198,7 +14198,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / Super Heroes / Batman II	shba01de177	Batman Trading Card Game (German) Series 1 - # 177 Killer Crocs Battle Chomper	2019	?	6.2 x 8.8 x 0
 646	Electronics	LG10100	Digital Camera (Multicolor) 8MP	?	?	? x ? x ?
 648	Bedding / Town / City	LEG821	Bedding, Duvet Cover and Pillowcase (140 x 200 cm) - City Crook	2019	1009	29 x 24.2 x 4
-648	Bedding / Friends	LEG878	Bedding, Duvet Cover and Pillowcase (140 x 200 cm) - Friends Best Friends	2019	1049	29 x 24.2 x 4
+648	Bedding / Friends	LEG878	Bedding, Duvet Cover and Pillowcase (140 x 200 cm) - Friends Best Friends Beach	2019	1049	29 x 24.2 x 4
 175	Food & Drink	legolandmenu	Menu De Legoland Expresse 1976	1976	60	25.4 x 19.1 x 0
 399	Storage	bygglek01	Storage Box Bygglek 32 x 44	2020	1417.5	37 x 6.5 x 26.5
 399	Storage	bygglek02	Storage Box Bygglek 22 x 32	2020	891	27.5 x 6.5 x 21
@@ -15025,7 +15025,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1111	Clothing Accessories / Vidiyo	charmsvidiyo	Shoe Charms, Shoelace Vidiyo	2021	6.55	6.5 x 7.7 x 0.48
 517	Watch / Creator	66873	Watch Set, Creator - Green Box	2001	52.4	22.8 x 6.6 x 1.5
 1104	Paper, Flyer / Friends	6352146	Flyer 2021 Set 41664 Insert - Inspirational Material	2021	1.8	? x ? x ?
-1006	Envelope & Letter / Holiday & Event / Chinese Festivals	6080905	Envelope, Happy Year of the Horse 2014	2014	5	9 x 20.5 x 0.1
+1006	Envelope & Letter / Holiday & Event / Chinese Festivals	6080905	Envelope, Cardboard, 2014 Happy Year of the Horse!	2014	5	9 x 20.5 x 0.1
 1003	Paper, Forms & Surveys / Friends	b12compfrnden	Competition Form for Winning Friends Sets 3184 and 3185 (25059616_SI-UK)	2012	30	14.8 x 21.1 x 0.1
 1003	Paper, Forms & Surveys / Star Wars	b13compsw	Yoda's Jedi Training Manual, Booklet with Competition to win Sets 75002, 75003 and 75004 (25071709_UK-SIN)	2013	24	14.8 x 21.1 x 0.1
 160	Sticker Sheet / Heroica	6015845	Sticker Sheet, LEGO Games Heroica, Sheet of 9	2012	6	15.3 x 21.5 x 0.1
@@ -20566,6 +20566,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 399	Storage	1784970	Minifigure Head Storage Container Mini, Small, and Large - Male Open Smile and Female Open Smile (6 pieces) Costco Exclusive	2024	?	? x ? x ?
 517	Watch / NINJAGO / Skybound	5005119	Watch Set, NINJAGO Jay (Skybound)	2016	?	? x ? x ?
 1111	Clothing Accessories / Technic	LegoCap21	Ball Cap, LEGO TECHNIC Logo, Gears and Brick Pattern	1995	?	? x ? x ?
+447	School Supplies / Technic	folder04	Folder, Technic - Yellow Bricks	1995	?	? x ? x ?
+241	Pen / Technic	technicpen	Technic Pen - Black with Yellow Brick	1995	?	? x ? x ?
 252	Game	9780241657980	Fun Family Challenges	2024	509	13.4 x 17 x 3.7
 539	Retail Display / Train	displaysign125	Display Sign Hanging, Train 7750, Double-Sided (Swiss) (99.776-CH)	1980	26	26.4 x 25.8 x 0.1
 543	Clothing, Adult / Space / Classic Space	5009116	T-Shirt, Space Traveller with Classic Space Minifigures	2024	185	? x ? x ?
@@ -20622,6 +20624,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / NINJAGO	njo10derules	NINJAGO Trading Card Game (German) Series 10 - Spielregeln	2024	44	21.4 x 30 x 0.1
 380	Card, Trading Card / Star Wars	sw04enLE11	Star Wars Trading Card Collection (English) Series 4 ('The Force' Edition) - # LE11 Yoda Limited Edition	2023	2.2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Star Wars	sw05deLE09	Star Wars Trading Card Collection (German) Series 5 (Jubiläums-Edition) - # LE9 Darth Maul Limitierte Edition	2024	2.2	6.2 x 8.8 x 0.02
+445	Patch & Pin / Technic	2035	Pin, Techno Fan, Cast Metal	1996	?	? x ? x ?
 498	Backpacks & Lunchboxes / Town / City / Space Exploration	5008685	Backpack City Space Cadet	2019	?	? x ? x ?
 517	Watch / Sports / Soccer	9002878	Watch Set, Soccer (Football) 2011	2011	?	? x ? x ?
 399	Storage / Harry Potter	hpbag01	Shopping Bag, Harry Potter	?	65	40 x 32 x 0
@@ -21043,6 +21046,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / Super Heroes / Avengers	shav01pl060	Avengers Trading Card Collection (Polish) Series 1 - # 60 Duet Thor i Czarna Pantera	2023	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Super Heroes / Avengers	shav01pl066	Avengers Trading Card Collection (Polish) Series 1 - # 66 Duet Ms Marvel i Kapitan Marvel	2023	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Super Heroes / Avengers	shav01pl034	Avengers Trading Card Collection (Polish) Series 1 - # 34 Hawkeye	2023	2	6.2 x 8.8 x 0.02
+848	Retail Display Case / Town / City / Police	6201326	Display Assembled Set, City Set 60141 in Plastic Case	2017	?	70 x 50 x 50
 380	Card, Trading Card / Star Wars	sw04pl040	Star Wars Trading Card Collection (Polish) Series 4 (Edycja Mocy) - # 40 Jyn Erso	2023	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Star Wars	sw04pl010	Star Wars Trading Card Collection (Polish) Series 4 (Edycja Mocy) - # 10 Chewbacca	2023	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Star Wars	sw04pl019	Star Wars Trading Card Collection (Polish) Series 4 (Edycja Mocy) - # 19 Luke Skywalker	2023	2	6.2 x 8.8 x 0.02
@@ -21152,6 +21156,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 333	Card, Game Card / NINJAGO	6014173	NINJAGO Masters of Spinjitzu Deck #2 Game Card *2 - Venomari Acid (Golden Card)	2012	2	6.4 x 8.8 x 0.03
 445	Patch & Pin	90515	Patch, Adhesive, 'LET'S GO' Logo with Spaceship and Mars in Orbit	2019	6	8 x 12 x 0.1
 380	Card, Trading Card / NINJAGO	njo10deLE04	NINJAGO Trading Card Game (German) Series 10 - # LE4 Turnier Zane Limited Edition	2025	2.2	6.2 x 8.8 x 0.02
+539	Retail Display / Space	6532550	Display Sign, Topper Space Lab, Tobi Krell (DE: 1128) (German)	2024	345	60 x 25.3 x 6.2
 1008	Decoration / Star Wars / Star Wars Episode 7	bkpunchouts01	Paper Cardboard Punch-Outs for Book b16sw12uk, Sheet 1	2016	37.4	18.2 x 23.4 x 0.13
 1008	Decoration / Star Wars / Star Wars Episode 7	bkpunchouts02	Paper Cardboard Punch-Outs for Book b16sw12uk, Sheet 2	2016	36.9	18.2 x 23.4 x 0.13
 380	Card, Trading Card / Super Heroes / Avengers	shav01de001	Avengers Trading Card Collection (German) Series 1 - # 1 Captain America	2023	2	6.2 x 8.8 x 0.02
@@ -21644,6 +21649,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1104	Paper, Flyer / BrickLink Designer Program / BDP Series 3	6551592	Flyer 2025 Set 910041 Insert - Building App Link and Instructions (International Version)	2025	8.28	14 x 21.5 x 0.05
 513	Media Audio & Video / The LEGO Movie	TLMca	Video Blu-Ray - The LEGO Movie (Canadian Edition) Promotional with Coupon for The LEGO Movie 2	2014	85.5	13.6 x 17.3 x 1.2
 1146	Clothing, Children's / NINJAGO / Rise of the Snakes	TS093	T-Shirt, NINJAGO Kai, Jump Kick and Spin! (Glow in the Dark)	2012	73.5	51 x 38 x 0.5
+539	Retail Display	6535762	Display Sign, Topper - Neu Eingetroffen (DE: 1156) (German)	2024	345	60 x 25.3 x 6.2
+539	Retail Display / DREAMZzz	6538761	Display Sign, Topper Dreamzzz - Entdecke die Traumwelt (DE: 1173) (German)	2024	345	60 x 25.3 x 6.2
+539	Retail Display / Holiday & Event / Christmas	6553197	Display Sign, Topper Christmas - Spielen Schenkt Euch Superkräfte! (DE: 1197) (German)	2024	345	60 x 25.3 x 6.2
+539	Retail Display	6568412	Display Sign, Topper - Nicht Nur Neu, Fun-Tastisch Neu! (DE: 1274) (German)	2025	345	60 x 25.3 x 6.2
 252	Game / Town / City	5007203	City Memory Card Game, VIP (City Pair Game)	2022	70	6.5 x 9 x 1.5
 503	Poster / The Hobbit and The Lord of the Rings / The Lord of the Rings	6594064	The Lord of the Rings Poster, Rivendell / The Shire / Barad-dûr {Barad-dur}	2025	?	? x ? x ?
 380	Card, Trading Card / NINJAGO	njo09adepack2	NINJAGO Trading Card Game (German) Series 9 (Next Level) - Booster Pack with 8 Cards	2024	17	6.5 x 12 x 0.4
@@ -21652,6 +21661,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1104	Paper, Flyer / BrickLink Designer Program / BDP Series 3	6551596	Flyer 2025 Set 910043 Insert - Building App Link and Instructions	2025	8.27	14 x 21.5 x 0.05
 380	Card, Trading Card / NINJAGO	njo10deLE06	NINJAGO Trading Card Game (German) Series 10 - # LE6 Turnier Böser Jay Limited Edition	2025	2	6.2 x 8.8 x 0.02
 334	Key Chain / Star Wars / Star Wars Episode 2	5009394	Jango Fett's Firespray-Class Starship Key Chain	2025	132	7.5 x 12.1 x 2.3
+160	Sticker Sheet / Holiday & Event / Christmas	6436783-DE	Sticker Sheet, Christmas Set of 5 Sheets in Folder	2022	100	20.7 x 29.8 x 0.3
 380	Card, Trading Card / NINJAGO	njo02enpack	NINJAGO Trading Card Game (English) Series 2 - Booster Pack	2017	12	11.8 x 6.4 x 0.3
 334	Key Chain / Star Wars	854312	R2-D2 (Back Print) Key Chain	2025	?	? x ? x ?
 334	Key Chain / Star Wars / Star Wars Episode 4/5/6	854313	C-3PO (Molded Light Bluish Gray Lower Leg) Key Chain	2025	?	? x ? x ?
@@ -21721,6 +21731,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 503	Poster / Star Wars / Star Wars Episode 2	5009512	Star Wars Poster 2025, Flying with the Fetts	2025	?	30 x 40 x 0.1
 380	Card, Trading Card / NINJAGO	njo10deLE24	NINJAGO Trading Card Game (German) Series 10 - # LE24 Ninja-Legende Cole Limited Edition	2025	2	6.2 x 8.8 x 0.02
 472	Card, Postcard / Star Wars / Star Wars Episode 2	6594066	Postcard Star Wars - Set 75409 Jango Fett's Firespray-Class Starship, Greetings from Kamino	2025	8.55	20.4 x 15.3 x 0.02
+503	Poster / SPEED CHAMPIONS	6561010	SPEED CHAMPIONS Poster 2025, Formula 1 Race Cars from Above	2025	?	? x ? x ?
 447	School Supplies / Star Wars	5009393	Pencil Case with Sticker Sheet, Star Wars Minifigures Pattern - Metal	2025	99	19 x 8.5 x 2.3
 586	Play Wear & Weaponry / The LEGO NINJAGO Movie	3989723487	Bodywear, Costume, The LEGO NINJAGO Movie Kai, Youth	2017	760	30 x 30.7 x 15.3
 498	Backpacks & Lunchboxes / Star Wars	5060373579386	Gym Bag, Star Wars	2025	60	? x ? x ?
@@ -21816,6 +21827,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / Super Heroes / Batman II	shba01deLE09	Batman Trading Card Game (German) Series 1 - # LE9 Shazam Limited Edition	2019	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Super Heroes / Batman II	shba01deLE11	Batman Trading Card Game (German) Series 1 - # LE11 Trinity Limited Edition	2019	2	6.2 x 8.8 x 0.02
 473	Sports	5007608	Frisbee, Silicone, Blue, White and Red with Debossed LEGO Logo (Flying Disc)	2023	114	18 x 18 x 0.5
+175	Food & Drink	853835	Cup / Mug Assorted Bricks Plastic Tumbler	2018	52	7.3 x 9 x 7.3
 334	Key Chain / Collectible Minifigures / Series 24 Minifigures	854317	T-Rex Costume Fan Key Chain	2025	?	? x ? x ?
 334	Key Chain / Disney / Lilo & Stitch	854319	Stitch Key Chain	2025	?	? x ? x ?
 990	Human Tool / LEGOLAND Parks	fan02	Hand Fan - LEGOLAND Japan, Skull and Crossbones with Yellow Bandana	2022	14	18 x 18 x 0.075
@@ -21859,6 +21871,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1017	Sticker, Collectible Sticker / BrickLink	bdp01	Sticker, 'bricklink designer program' and Logo	?	0.35	3.8 x 5.3 x 0.02
 1104	Paper, Flyer / BrickLink	flyerBL25th	Flyer 2025 BrickLink 25th Anniversary Giveaway Gift Box Insert	?	3	9.5 x 21 x 0.02
 1111	Clothing Accessories / BrickLink	BL25th01	Lanyard with BrickLink 25th Anniversary Parrot Logo	?	12.25	47 x 2.5 x 1
+1112	Luggage & Luggage Accessories	laptop90years	Laptop Bag - 90 Years of Play	2022	100	30.5 x 41 x 5
+1112	Luggage & Luggage Accessories	tote25	Tote Bag, Holidays 	2023	137	41 x 71 x 0.5
+472	Card, Postcard / Technic / Throwbot / Slizer	78803	Postcard - Throwbot (Slizer), Make your own Postcard - Cards and Stickers	1999	?	? x ? x ?
 513	Media Audio & Video / BIONICLE	VHS402	Video Tape - Die Legende Lebt, Promo (German)	2002	215	12.4 x 19.4 x 3
 380	Card, Trading Card / Star Wars	sw04enLE10	Star Wars Trading Card Collection (English) Series 4 ('The Force' Edition) - # LE10 Stormtrooper Limited Edition	2023	2.2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Star Wars	sw05enLE09	Star Wars Trading Card Collection (English) Series 5 (Anniversary Edition) - # LE9 Jango Fett Limited Edition	2024	2.18	6.2 x 8.8 x 0.02
@@ -21872,6 +21887,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / NINJAGO	njo10deLE25	NINJAGO Trading Card Game (German) Series 10 - # LE25 Ninja-Legende Kai Limited Edition	2025	?	? x ? x ?
 503	Poster / NINJAGO / NINJAGO Legends	6582454	Ninjago Poster 2025 - Master Wu and Guardian Dragon	2025	8	30 x 42 x 0.01
 1104	Paper, Flyer / BrickLink Designer Program / BDP Series 4	6572252	Flyer 2025 Set 910047 Insert - Building App Link and Instructions (North American Version)	2025	8.38	14 x 21.4 x 0.05
+586	Play Wear & Weaponry / Adventurers	adventurerknife	Knife / Dagger Foam, Adventurers	?	32	33.7 x 6.8 x 1.8
 498	Backpacks & Lunchboxes / NINJAGO / Hunted	5711013071585	Lunch Box, NINJAGO, Jay (Hunted)	2021	283	30 x 22.6 x 6.5
 498	Backpacks & Lunchboxes / Knights Kingdom I	gymbagkingdom	Gym Bag, Knights Kingdom	?	138	31 x 41 x 1
 1104	Paper, Flyer / BrickLink Designer Program / BDP Series 4	6572254	Flyer 2025 Set 910048 Insert - Building App Link and Instructions (North American Version)	2025	11.05	14 x 21.5 x 0.05
@@ -22245,6 +22261,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 539	Retail Display / Pirates / Pirates I	shopstop32	Display Sign, Wobbler / Shopper Stopper, Pirates (921238_NL)	?	16	20 x 33 x 0.1
 539	Retail Display / Star Wars / Star Wars Episode 1	Legocube03	Display Carton Cube, Star Wars Use the Force	1999	396	30.5 x 30.5 x 30.5
 539	Retail Display	Legocube04	Display Carton Cube, Multiple Themes: Star Wars, Soccer, Technic Create 'N Race and Action Wheelers	2000	?	30.5 x 30.5 x 30.5
+539	Retail Display	6538763	Display Sign, Topper - Von Ihr Gebaut (German)	2025	345	60 x 25.3 x 6.2
 334	Key Chain / Super Heroes / Batman II	854320	Batgirl (Light Bluish Gray Suit) Key Chain	2025	?	? x ? x ?
 334	Key Chain / Super Heroes / Avengers	854321	The Hulk (Spiked Hair) Key Chain	2025	?	? x ? x ?
 1111	Clothing Accessories	5007977	Shoe Charms, Minifigure Heads and Studs Pattern (Set of 6)	2025	10	6 x 8 x 0.3
@@ -22280,6 +22297,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 997	Card	ACP-6603NL	ReCreate Activity Cards - Dieren (Dutch Edition)	2025	156	8.9 x 17.3 x 2.2
 997	Card	ACP-6604NL	ReCreate Activity Cards - Magie (Dutch Edition)	2025	158	8.9 x 17.3 x 2.2
 848	Retail Display Case / Star Wars / Star Wars Episode 3	SW3AM2	Display Assembled Set, Star Wars Sets 75042 and 75043 in Plastic Case with Light and Sound	2014	6800	58 x 40 x 33
+443	Puzzle / DUPLO	puz019	RoseArt Switchables DUPLO Puzzle Dino Series	?	?	? x ? x ?
+443	Puzzle / DUPLO	puz018	RoseArt Switchables DUPLO Puzzle Jungle Series	?	?	? x ? x ?
 1017	Sticker, Collectible Sticker / NINJAGO / Dragons Rising Season 3	bonjo03stk071	Sticker, NINJAGO Dragons Rising, Blue Ocean - # 71 of 212	2025	?	? x ? x ?
 1017	Sticker, Collectible Sticker / NINJAGO / Dragons Rising Season 3	bonjo03stk081	Sticker, NINJAGO Dragons Rising, Blue Ocean - # 81 of 212	2025	?	? x ? x ?
 1017	Sticker, Collectible Sticker / NINJAGO / Dragons Rising Season 3	bonjo03stk126	Sticker, NINJAGO Dragons Rising, Blue Ocean - # 126 of 212	2025	?	? x ? x ?
@@ -22349,6 +22368,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 445	Patch & Pin / Space / Classic Space	pin269	Pin, LEGO Classic Space Logo, Metal (Employee gift)	2023	?	? x ? x ?
 1104	Paper, Flyer / Technic / Model / Race	6575141	Flyer 2025 Technic Set 42212 Insert - Asphalt Legends Unite Game Code for Ferrari FXX K	2025	7.2	21.1 x 29.8 x 0.01
 1104	Paper, Flyer / Technic / Model / Race	6575471	Flyer 2025 Technic Set 42205 Insert - Asphalt Legends Unite Game Code for Chevrolet Corvette Stingray	2025	7.2	21.1 x 29.8 x 0.01
+160	Sticker Sheet / LEGO Brand / LEGO House	Gstk283	Sticker Sheet, LEGO Masters, Masterbuilder In Training	2025	?	? x ? x ?
+160	Sticker Sheet / LEGO Brand / LEGO House	Gstk282	Sticker Sheet, LEGO Masters Academy	2025	?	? x ? x ?
 1147	Coin / Star Wars / Star Wars Episode 4/5/6	5009550	Coin, Jango Fett's Firespray-Class Starship Lenticular Coin	2025	95	8.5 x 9.5 x 2
 175	Food & Drink	5009906	Cup / Mug Ceramic Snowman 530 ml	2025	445	14.1 x 9.8 x 10.5
 175	Food & Drink	5009904	Cup / Mug Ceramic Snowman 255 ml	2025	277	11.5 x 7.9 x 8.5
@@ -22356,11 +22377,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 399	Storage	5009863	Minifigure Head Storage Container Small - Snowman	2025	?	16 x 18 x 16
 503	Poster / Star Wars / Ultimate Collector Series / Star Wars Episode 4/5/6	5010030	Star Wars Poster 2025, UCS Death Star - 'That's No Moon'	2025	231	59 x 80 x 0.02
 998	Playmat / FIRST LEGO League	45801MAP	Playmat, FIRST LEGO League (FLL) - Set 45802 Trash Trek	2015	?	? x ? x ?
+521	Photo Frame & Holder / LEGOLAND Parks	853155	Photo Frame LEGOLAND Windsor	2010	162	21 x 16 x 0.7
 517	Watch	bb1396	Watch Part, Band Link - Wide Slot for Cloth Band	2006	0.28	2.2 x 0.85 x 0.45
 517	Watch / Clikits	bb1397	Watch Part, Cloth Band with Metal Gripper - Bright Pink, Dark Pink, and Magenta Hearts	2006	5.95	2.35 x 20.6 x 0.35
 1111	Clothing Accessories	5007998	Ball Cap, Customizable with BIONICLE, Blacktron I and Castle Logo Patches (Velcro Patch Cap)	2023	96	20 x 18 x 12
 445	Patch & Pin	5008652	Patch, Velcro / Sew-On Cloth, Set of 3 - Train, Ice Planet and M:Tron Logos	2025	16	9 x 9 x 1
+526	Retail Display Flag / Holiday & Event / Christmas	XmasBan36	Display Flag Cloth, Santa	2007	195	45 x 200 x 0
 1104	Paper, Flyer / Technic / Model / Race	6575146	Flyer 2025 Technic Set 42214 Insert - Asphalt Legends Unite Game Code for Lamborghini Revuelto	2025	7.1	21 x 29.8 x 0.01
+1113	Office Supplies	KP008b	Minifigure Speech Bubbles (2012 - Red torso minifigure)	2012	?	? x ? x ?
 586	Play Wear & Weaponry / LEGOLAND Parks	headband	Headgear, Headband, Striped with LEGO Logo	?	15	? x ? x ?
 334	Key Chain	5009861	Game Controller Key Chain - Dark Azure with Silver Chain (Bag Charm)	2025	?	? x ? x ?
 380	Card, Trading Card / Minecraft	min01de051	Minecraft Trading Card Collection (German) Series 1 - # 51 Comic Zombiejäger	2024	2	6.2 x 8.8 x 0.02
@@ -22699,6 +22723,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 503	Poster / Star Wars	5005888	Star Wars 2019 20th Anniversary Poster (25 x 33cm)	2019	12	25 x 33 x 0.02
 503	Poster / Star Wars	5005887	Star Wars 2019 20th Anniversary Poster (61 x 91cm) - Lightsaber on Reverse Pattern	2019	?	61 x 91 x 0.02
 334	Key Chain / Town	KCP11	LEGOLAND Town Figure Female Key Chain - Plastic Chain	?	5.2	3.5 x 1.5 x 6
+14	Magnet / Harry Potter	5008098	Magnet Flat, The Knight Bus	2023	39	7 x 12 x 0.7
 334	Key Chain / Dots	5006278	Dots Key Chain Round 4 x 4	2021	?	10 x 4 x 0.5
 997	Card	ACP-6612H1DE	ReCreate Karten - Natur (German Edition)	2025	136.26	8.9 x 17.3 x 2.3
 997	Card	ACP-6615H1DE	ReCreate Karten - Winterspaß (German Edition)	2025	134.47	8.9 x 17.3 x 2.3
@@ -22723,7 +22748,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 997	Card / Educational & Dacta / Science	6559827	Connection Card for Education Science Sets with 4-Digit Number - Orange	?	5.14	5.4 x 8.6 x 0.07
 997	Card / Educational & Dacta / Science	6559909	Connection Card for Education Science Sets with 4-Digit Number - Dark Purple	?	5.14	5.4 x 8.6 x 0.07
 997	Card / Educational & Dacta / Science	6559618	Connection Card for Education Science Sets with 4-Digit Number - Dark Pink	?	5.05	5.4 x 8.6 x 0.07
+512	Toy, Plush	349280	Parrot Plush	2022	90	? x ? x ?
+512	Toy, Plush	349310	Crocodile Plush - Embroidered Studs on Back	2022	90	? x ? x ?
 543	Clothing, Adult / Crocs	5010203	Shoe - Crocs Brick Clog	2026	?	? x ? x ?
+648	Bedding / Friends	8719023509736	Bedding, Duvet Cover and Pillowcase (140 x 200 cm) - Friends Best Friends Animals	2021	?	? x ? x ?
 512	Toy, Plush / DUPLO	170030	DUPLO Bee (Closed Mouth) Plush	2025	90	19 x 8 x 12
 512	Toy, Plush / DUPLO	170140	DUPLO Lemon Plush	2025	80	10.5 x 10 x 7.8
 512	Toy, Plush / DUPLO	170150	DUPLO Radish Plush	2025	102	9 x 18 x 9
@@ -22734,8 +22762,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / NINJAGO	njo10deLE11	NINJAGO Trading Card Game (German) Series 10 - # LE11 Wilder Zane Limited Edition	2026	2	6.2 x 8.8 x 0.02
 512	Toy, Plush / Friends	5009236	Friends Cat Churro Plush	2024	?	? x ? x ?
 399	Storage / Educational & Dacta / Science	45621box	Complete Box for Set 45621 - Box only entry	?	865	42.5 x 30.5 x 8.5
+1112	Luggage & Luggage Accessories / Botanicals	tote24	Tote Bag, Botanicals	2025	?	? x ? x ?
 1104	Paper, Flyer / BrickLink Designer Program / BDP Series 6	6616209	Flyer 2026 Set 910054 Insert - Building App Link and Instructions (North American Version)	2026	8.42	14 x 21.4 x 0.05
+1092	Storage, Sorting Tray / Holiday & Event / Advent	6449292	Advent Calendar Packaging Tray - 24 Compartment, Type 4 (Cardboard)	2022	124	37.5 x 25 x 6
 252	Game	monypoli	Monypoli Køreprøven	1947	?	? x ? x ?
+380	Card, Trading Card / Star Wars	sw04de218	Star Wars Trading Card Collection (German) Series 4 ('Die Macht' Edition) - # 218 B-wing Starfighter	2023	2	8.8 x 6.2 x 0.02
+1006	Envelope & Letter / Holiday & Event / Chinese Festivals	6632962	Envelope, Cardboard, 2026 Year of the Horse - Gallop Into Playful Horizons	2026	?	? x ? x ?
 380	Card, Trading Card / NINJAGO	njo10deLE16	NINJAGO Trading Card Game (German) Series 10 - # LE16 Mächtiger Lloyd Limited Edition	2026	2.2	6.2 x 8.8 x 0.02
 1112	Luggage & Luggage Accessories / Botanicals	5009524	Bag / Luggage Tag, Silicone, Botanicals - Rose	2025	23	5 x 13 x 0.5
 334	Key Chain / Collectible Minifigures / Series 10 Minifigures	LGL-KE211H	LED Key Light Bumblebee Girl Key Chain	2025	38	4 x 12 x 3
@@ -22744,6 +22776,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 539	Retail Display / Pirates / Pirates I / Imperial Armada	displaysign136	Display Sign, Pirates I Imperial Armada, 'Scheep in voor Schatteneiland!' (Dutch)	1996	?	50 x 33.5 x 0
 1104	Paper, Flyer / BrickLink Designer Program / BDP Series 6	6616407	Flyer 2025 Set 910057 Insert - Building App Link and Instructions (North American Version)	2026	11	14 x 21.6 x 0.04
 683	Glued Model / Harry Potter	6258073	HP Owl on Book (Target Harry Potter Hedwig Promotional Giveaway)	2018	1191	17 x 24 x 13
+586	Play Wear & Weaponry / Castle	850864	Bodywear, Armor and Cape, Castle Lion Head	2014	150	? x ? x ?
 998	Playmat / Disney Princess	b18dp04MAP	Playmat, Disney Princess - Book b18dp04	2018	?	? x ? x ?
 160	Sticker Sheet / Disney Princess	b18dp04stk01	Sticker Sheet for Book b18dp04	2018	?	? x ? x ?
 1104	Paper, Flyer / BrickLink Designer Program / BDP Series 6	6616277	Flyer 2025 Set 910055 Insert - Building App Link and Instructions (North American Version)	2026	11.15	14 x 21.6 x 0.05
@@ -22751,6 +22784,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1104	Paper, Flyer / Star Wars	4136157	Flyer 1999 Star Wars Galactic Challenge Contest (Norwegian Version)	1999	4	10.5 x 14.5 x 0.05
 1112	Luggage & Luggage Accessories / Holiday & Event / Easter	5010109	Tote Bag, Easter, with Bunny Ears, Bunny Suit Guy and Chicken Suit Guy Pattern	2026	139	28 x 32 x 3
 334	Key Chain / Collectible Minifigures / Series 20 Minifigures	LGL-KE241H	LED Key Light Peapod Costume Girl Key Chain	2021	47	4.5 x 9 x 3
+539	Retail Display / Collectible Minifigures / Disney / Disney Series 1	dispshelf09	Display Shelf Stand for Sets, Cardboard Hanging Collectible Minifigures Disney Series 1	2016	578	31.5 x 65.6 x 11
 1104	Paper, Flyer / BrickLink Designer Program / BDP Series 6	6616071	Flyer 2026 Set 910056 Insert - Building App Link and Instructions (International Version)	2026	7.98	? x ? x ?
 175	Food & Drink	5711938035587	Drink Bottle Hydration Stud Top, Steel	2026	149	6.8 x 6.8 x 24
 175	Food & Drink / Botanicals	5711938035617	Drink Bottle Hydration Stud Top, Steel - Wild Flowers	2026	149	6.8 x 6.8 x 24
@@ -22784,6 +22818,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 517	Watch / Super Heroes / The LEGO Batman Movie	bb1030pb03	Watch Part, Band Link - Minifigure Body Part, Hips and Legs with Buckle, Pockets and Chain Pattern (The Joker)	2017	0.88	? x ? x ?
 517	Watch	bb1420	Watch Part, Band Link - Minifigure Body Part, Hips and Short Legs Plain	2019	0.55	? x ? x ?
 445	Patch & Pin / LEGOLAND Parks	712201	Pin, Minifigure - Boy with Green Top, Blue Legs, Red Hat, and Pin, LEGOLAND - Set of 2	?	?	? x ? x ?
+1112	Luggage & Luggage Accessories / Star Wars	52234	Bag / Luggage Tag, Silicone, Star Wars R2-D2	2019	27	6 x 12 x 0.5
 380	Card, Trading Card / NEXO KNIGHTS	nex2de001	NEXO KNIGHTS Trading Card Game (German) Series 2 - # 1 Mutiger Clay	2017	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / NEXO KNIGHTS	nex2de002	NEXO KNIGHTS Trading Card Game (German) Series 2 - # 2 Action Clay	2017	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / NEXO KNIGHTS	nex2de003	NEXO KNIGHTS Trading Card Game (German) Series 2 - # 3 Superstarker Clay	2017	2	6.2 x 8.8 x 0.02
@@ -23611,6 +23646,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1017	Sticker, Collectible Sticker / NINJAGO / Crystalized	bonjo02stk303	Sticker, NINJAGO Crystalized, Blue Ocean - # 303 of 304	2023	2	6.8 x 5.4 x 0.02
 1017	Sticker, Collectible Sticker / NINJAGO / Crystalized	bonjo02stk304	Sticker, NINJAGO Crystalized, Blue Ocean - # 304 of 304	2023	2	5.4 x 6.8 x 0.02
 380	Card, Trading Card / NINJAGO	njo11deLE04	NINJAGO Trading Card Game (German) Series 11 - # LE4 Gewaltiger Drix Limited Edition	2026	?	? x ? x ?
+503	Poster / NINJAGO	p20njo1	NINJAGO Poster 2020 - Cole	2020	?	42 x 55 x 0.01
 380	Card, Trading Card / NINJAGO	njo11de086	NINJAGO Trading Card Game (German) Series 11 - # 86 Boshafter Jay	2025	?	? x ? x ?
 380	Card, Trading Card / NINJAGO	njo11de090	NINJAGO Trading Card Game (German) Series 11 - # 90 Boshafter Drix	2025	?	? x ? x ?
 380	Card, Trading Card / NINJAGO	njo11de117	NINJAGO Trading Card Game (German) Series 11 - # 117 Boshafter Geisterdrachenmensch	2025	?	? x ? x ?
@@ -23885,8 +23921,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 997	Card	ACP-6607NLcards	ReCreate Activity Cards - Kastelen - Series 1 (Dutch) (Pack of 30 Cards + 1 Bonus Card and Instructions)	2025	73.45	8 x 8 x 1.35
 997	Card	ACP-6601NLcards	ReCreate Activity Cards - Party - Series 1 (Dutch) (Pack of 30 Cards + 2 Bonus Cards and Instructions)	2025	76	8 x 8 x 1.4
 1104	Paper, Flyer	6416585	Flyer 2022 Set 60353 Insert - Building App Link and Instructions (International Version)	2022	3.75	20.3 x 27.5 x 0.02
+848	Retail Display Case / Town / City / Volcano Explorers	6061568	Display Assembled Set, City Sets 60124 and 60125 in Plastic Case	2016	9072	116 x 46.3 x 40.8
 645	Toy, Early	725pb05	Plastic Cube with Piece of Fairy Tale Puzzle and Small Letters u, v, w, x and y Pattern	?	?	4.5 x 4.5 x 4.5
 334	Key Chain / Star Wars / Star Wars The Mandalorian	854326	The Mandalorian (Dark Brown Legs) Key Chain	2026	?	? x ? x ?
+399	Storage	34993	Storage Box Bygglek 32 x 44, Base	2020	277.8	25 x 34.7 x 0.9
+399	Storage	35011	Storage Box Bygglek 32 x 44, Top	2020	?	25 x 35 x 2
+399	Storage	35007	Storage Box Bygglek 32 x 44, Side Wall - Short	2020	?	10 x 25.3 x 1.5
+399	Storage	35010	Storage Box Bygglek 32 x 44, Side Wall - Long	2020	?	10 x 33.5 x 1.5
 336	Clock	5010226	Wall Clock MOC (My Own Creation) – White	2026	952.54	27.94 x 31.91 x 6.03
 1111	Clothing Accessories / Crocs	5010347	Shoe Charms, Crocs Jibbitz, Sunshine Garden 10 Pack	2026	?	? x ? x ?
 380	Card, Trading Card / NINJAGO	njo11deLE12	NINJAGO Trading Card Game (German) Series 11 - # LE12 Wilder Jay Limited Edition	2026	?	? x ? x ?
@@ -23903,7 +23944,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 175	Food & Drink / Botanicals	5010326	Cup / Mug Ceramic Botanicals	2026	198	11 x 9.2 x 9.8
 380	Card, Trading Card / NINJAGO	njo11deLE05	NINJAGO Trading Card Game (German) Series 11 - # LE5 Gewaltiger Cole Limited Edition	2026	?	? x ? x ?
 380	Card, Trading Card / Star Wars	sw03esLE24	Star Wars Trading Card Game (Spanish) Series 3 - # LE24 Ahsoka Tano & Soldado Clon Limited Edition	2022	2	6.2 x 8.8 x 0.03
+380	Card, Trading Card / Star Wars	sw05deLE13	Star Wars Trading Card Collection (German) Series 5 (Jubiläums-Edition) - # LE13 Darth Sidious Limited Edition	2024	2.2	6.2 x 8.8 x 0.02
 180	Software / Educational & Dacta / MINDSTORMS / RCX	2000050	Education ROBOLAB 1.0 CD-ROM	1998	?	? x ? x ?
 1112	Luggage & Luggage Accessories / Botanicals	113555	Tote Bag, Botanicals	2026	95	48.4 x 45.5 x 1
+252	Game / LEGOLAND / Town	93933-OS	Who can collect the most LEGOLAND models? Board Game (93933-OS)	1984	58	42.1 x 41.9 x 0.03
+503	Poster / Pirates / Pirates I	p93pirate3	Pirates Poster 1993 (922557-CHD) (German)	1993	29	59 x 42 x 0
+1113	Office Supplies / Western / Cowboys	4503084	Memo Pad - Western Cowboy	2006	?	10.5 x 14.8 x 0.8
 727	Modulex	Mx1650sleeve4	Modulex sleeve for 20 x 50 perforated foil sheets (Black with Modulex logo and ‘Made in Denmark’ and ‘1650’ text)	?	16.8	25 x 10.3 x 0.1
 380	Card, Trading Card / NINJAGO	njo11deLE06	NINJAGO Trading Card Game (German) Series 11 - # LE6 Gewaltiger Jay Limited Edition	2026	?	? x ? x ?
+996	Card, Greeting Card	bc89lbc	Birthday Card - Exclusive for Lego Builders Club - 1989	1989	?	5 x 7 x 0

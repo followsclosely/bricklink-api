@@ -18246,6 +18246,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1197	BrickLink Designer Program	bdp239	Vampire Castle Visitor - Male, Dark Green Open Jacket, Dark Tan Legs with Reddish Brown Boots, Medium Nougat Hair	2025	3.56
 1197	BrickLink Designer Program	bdp241	Vampire Castle Visitor - Male, Blue Vest with Metallic Light Blue Lapels, Dark Blue Legs, Black Hair	2025	3.6
 1355	Star Trek	trek010	Ensign Ro Laren	2025	4
+153	Fabuland	fab003BHP	Fabuland Crow - LEGO Centre / Birkenhead Point Sydney Pattern	?	10
+153	Fabuland	fab004BHP	Fabuland Crocodile - LEGO Centre / Birkenhead Point Sydney Pattern	?	8
 1197	BrickLink Designer Program	bdp242	Popcorn Wagon Vendor - Red and White Striped Shirt, Black Legs, Black Hair	2025	3.49
 1197	BrickLink Designer Program	bdp243	Popcorn Wagon Customer - Child, White Collared Shirt with Fruit, Blue Medium Legs, Dark Brown Hair	2025	3.67
 1197	BrickLink Designer Program	bdp244	Popcorn Wagon Customer - Female, White Halter Top and Black Choker Necklace, Sand Blue Legs with Pockets, Light Bluish Gray Hair	2025	3.86
@@ -18728,7 +18730,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter	hp616	Draco Malfoy - Black Slytherin Robe and Legs, Neutral / Angry	2026	3.5
 976	LEGO Brand / LEGO Brand Store / Build-A-Minifigure / NINJAGO	njo1059	Nya - Bright Light Blue Kimono Robe (BAM)	2026	3.5
 67	Town	twn547	Bike Burger Cart Driver - Female, Red Torso, Sand Blue Legs, Red Cap	2026	3.4
-67	Town	twn548	Sushi Chef, Torso with Japanese Logogram '寿司' (Sushi) on Front Pocket Pattern, Black Pants	2026	?
+67	Town	twn548	Sushi Chef, Torso with Japanese Logogram '寿司' (Sushi) on Front Pocket Pattern, Black Pants	2026	3.31
 976	LEGO Brand / LEGO Brand Store / Build-A-Minifigure / NINJAGO	njo1060	Mystake - Oni Form (BAM)	2026	3.15
 976	LEGO Brand / LEGO Brand Store / Build-A-Minifigure / NINJAGO	njo1061	Dareth - Reddish Brown Robe, Reddish Brown Plain Legs (BAM)	2026	3.55
 976	LEGO Brand / LEGO Brand Store / Build-A-Minifigure / NINJAGO	njo1062	Young Sora (BAM)	2026	3.55
@@ -18780,3 +18782,4 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1359	Editions	edi007	Charles Leclerc	2026	3.64
 67	Town	twn549	Italian Market Van Driver - Male, Blue Torso, Dark Blue Legs and Cap	2025	3.4
 67	Town / City / Traffic	cty2004	Street Sweeper - Male, Neon Yellow Safety Vest with Reflective Stripes, Olive Green Legs, Dark Blue Cap	2026	3.41
+67	Town	twn550	Taco Chef	2026	3.9

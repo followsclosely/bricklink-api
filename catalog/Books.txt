@@ -7893,3 +7893,4 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 594	Puzzle Book / Castle	b98cas01de	Das Burg-Geheimnis - Eine LEGO-Rätsel-Spiel-Geschichte (German Edition)	1998	170	22 x 28 x 1
 1024	Magazine, NINJAGO	mag2026njo141de	NINJAGO Magazine 2026 Issue 141 (German)	2026	?	? x ? x ?
 1021	Magazine, City	mag2026cty88de	City Magazine 2026 Issue 88 (German)	2026	?	? x ? x ?
+766	Activity Book / Star Wars	b26sw03	Star Wars - Grogu's Adventures	2026	160	20.5 x 28.8 x 2.7

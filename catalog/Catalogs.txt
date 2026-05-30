@@ -4980,7 +4980,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25be4	2025 Large Belgian June - December (BENL f/Brand Retail - 6570274 BENL - 6570303)	2025	206
 1319	2025	c25mx1	2025 Large Mexican January - June	2025	200
 1319	2025	c25mx2	2025 Large Mexican August - December (MX - 6570332)	2025	221
-1319	2025	c25us1	2025 Large US January - June	2025	213
 1319	2025	c25sa1	2025 Large South American January - June	2025	?
 1319	2025	c25ch4	2025 Large Swiss June - December (CH/DE/F - 6570288, CH/DE/F f/Brand Retail - 6570270)	2025	221
 1319	2025	c25fi1	2025 Large Finnish January - June (FI - 6543385)	2025	213

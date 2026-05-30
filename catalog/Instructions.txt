@@ -12,7 +12,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 85	Homemaker	293-1	Piano	1973	3.4	12.4 x 9.9 x 4.9
 277	LEGOLAND / Vehicle / Food & Drink	645-2	Milk Float & Trailer	1971	3.4	15 x 6.5 x 4
 395	Samsonite / Universal Building Set / Gears	003-1	Master Mechanic Set	1966	?	? x ? x ?
-423	Classic / Supplemental	402-2	White Turntables	1964	1	? x ? x ?
+423	Classic / Supplemental	402-2	White Turntables and 4 x 8 Plates (System)	1964	1	? x ? x ?
 423	Classic / Supplemental	519-1	2 x 3 Plates (cardboard box version)	1962	1.5	9 x 6.5 x 3.6
 422	Universal Building Set / Basic	357-2	Basic Building Set	1987	?	52 x 29 x 7.5
 78	FreeStyle	2146-1	FreeStyle with Storage Case	1996	?	59 x 43 x 11.5
@@ -746,7 +746,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 422	Universal Building Set / Basic Model	2127-1	Jack in the Box Promotional Set: Nanas polybag	1997	?	? x ? x ?
 422	Universal Building Set / Basic Model	2135-1	Sabah Promotional Set: Aircraft polybag	1997	?	? x ? x ?
 422	Universal Building Set / Basic Model	3330-1	Racing Car polybag	1998	?	? x ? x ?
-423	Classic / Supplemental	226-1	8 Named Beams	1958	0.5	? x ? x ?
+423	Classic / Supplemental	226-1	8 Named Beams	1956	0.5	? x ? x ?
 423	Classic / Supplemental	280-1	Sloping Roof Bricks, Red	1959	1	? x ? x ?
 423	Classic / Building	324-2	House with Garage	1964	4	25.5 x 10 x 5
 153	Fabuland	3679-1	Mill with Shop	1986	?	31 x 28.8 x 6
@@ -3485,7 +3485,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE / Rahkshi	8590-3	Guurahk with Mini CD-ROM	2003	?	10.5 x 8.5 x 18.5
 273	BIONICLE / Rahkshi	8591-3	Vorahk with Mini CD-ROM	2003	?	10.5 x 8.5 x 18.5
 273	BIONICLE / Rahkshi	8592-3	Turahk with Mini CD-ROM	2003	?	10.5 x 8.5 x 18.5
-390	Holiday & Event / Advent / City	7324-1	Advent Calendar 2005, City	2005	?	38 x 28.5 x 6.9
+390	Holiday & Event / Advent / Town / City	7324-1	Advent Calendar 2005, City	2005	?	38 x 28.5 x 6.9
 65	Star Wars / Star Wars Episode 3	6205-1	V-wing Fighter	2006	20	24 x 14.4 x 5.8
 65	Star Wars / Star Wars Episode 4/5/6	6206-1	TIE Interceptor	2006	27	28.5 x 28.5 x 5.8
 65	Star Wars / Star Wars Episode 4/5/6	6207-1	A-wing Fighter	2006	33	28.7 x 19 x 5.9
@@ -3701,7 +3701,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Advent Sub-Set / City	7904-2	Advent Calendar 2006, City (Day  1) - Construction Worker	2006	?	8.9 x 8.9 x 1.1
 167	DUPLO / DUPLO, Town / Police	4965-1	Police Action	2006	?	? x ? x ?
 65	Star Wars / Star Wars Episode 4/5/6	6212-1	X-wing Fighter	2006	120	47.63 x 28.58 x 5.72
-422	Universal Building Set / Basic	1878-1	Small Bucket	1991	?	? x ? x ?
+422	Universal Building Set / Basic	1878-1	Small Bucket	1991	20	? x ? x ?
 124	Train / 9V	10173-1	Holiday Train	2006	237.94	48 x 28.5 x 10
 169	Sculptures	10177-1	Boeing 787 Dreamliner	2006	252	57.2 x 28.6 x 9.1
 422	Universal Building Set / Basic	1962-1	Basic Building Set	1985	?	? x ? x ?
@@ -3916,7 +3916,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 422	Universal Building Set / Basic	1671-1	Basic Building Set Trial Size	1992	?	? x ? x ?
 78	FreeStyle	4168-1	Large FreeStyle Clearpack	1997	?	? x ? x ?
 490	Clikits	3193-1	Fashion Designer Kit polybag	2005	?	14 x 14 x 1
-423	Classic / Supplemental	445A-1	Lighting Device Pack with Improved Plugs (The Building Toy)	1970	1	8.3 x 6.3 x 2.4
+423	Classic / Supplemental	445A-1	Lighting Device Pack with Improved Plugs (The Building Toy)	1970	1	6.3 x 8.3 x 2.4
 423	Classic / Mosaic	1300-1	Mosaik Set (Small)	1955	?	? x ? x ?
 423	Classic / Mosaic	1301-1	Mosaik Set (Large)	1955	?	? x ? x ?
 395	Samsonite / Basic Set	1905-2	Doll Set	1963	?	? x ? x ?
@@ -4409,7 +4409,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Food & Drink	8398-1	BBQ Stand	2009	2.44	9.3 x 3.8 x 9
 36	Technic / Model / Construction	8259-1	Mini Bulldozer	2009	43.3	19 x 14 x 4.5
 444	Galidor	8321-1	Nepol & Shimmel	2002	12.6	26 x 31.5 x 6
-444	Galidor	8313-1	Nick - Deluxe	2002	?	25.4 x 30.45 x 9
+444	Galidor	8313-1	Nick - Deluxe	2002	13.96	25.4 x 30.45 x 9
 171	Creator / Basic Set / Pirates	6192-1	Pirates Building Set	2009	13	19 x 14 x 5.9
 171	Creator / Basic Set / Castle	6193-1	Castle Building Set	2009	13	19 x 14 x 5.9
 437	Explore / Little Robots / DUPLO	7449-1	Sporty	2003	12	? x ? x ?
@@ -4476,7 +4476,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 34	Space / Space Police III	5972-1	Space Truck Getaway	2009	82.96	38.1 x 26 x 9.53
 65	Star Wars / Star Wars The Clone Wars	10195-1	Republic Dropship with AT-OT	2009	473	58.2 x 48 x 9.1
 124	Train / RC Train	10194-1	Emerald Night	2009	226	54 x 28.2 x 7.9
-423	Classic / Supplemental	445-2	Lighting Device Pack (The Building Toy)	1966	1	8.3 x 6.3 x 2.4
+423	Classic / Supplemental	445-2	Lighting Device Pack (The Building Toy)	1966	1	6.3 x 8.3 x 2.4
 67	Town / City / Farm	4899-1	Tractor polybag	2009	2	13.9 x 13.9 x 0
 171	Creator / Basic Model / Traffic	20011-1	Garbage Truck polybag	2009	8.6	? x ? x ?
 65	Star Wars / Mini / Star Wars Episode 2	20009-1	AT-TE Walker - Mini polybag	2009	12.3	? x ? x ?
@@ -7009,7 +7009,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 856	Scooby-Doo	75903-1	Haunted Lighthouse	2015	161.3	38 x 26 x 7
 856	Scooby-Doo	75904-1	Mystery Mansion	2015	330	48 x 37.5 x 6.5
 771	Friends	40156-1	Organizer	2015	47	26 x 19 x 8.9
-36	Technic	42043-1	Mercedes-Benz Arocs 3245	2015	950	57.5 x 47.5 x 12.5
+36	Technic / Model / Construction	42043-1	Mercedes-Benz Arocs 3245	2015	950	57.5 x 47.5 x 12.5
 36	Technic / Model / Construction	42042-1	Crawler Crane	2015	467	58 x 37.5 x 8.5
 36	Technic / Model / Airport	42040-1	Fire Plane	2015	467	38 x 26.5 x 6.5
 273	BIONICLE	70795-1	Mask Maker vs. Skull Grinder	2015	49	22 x 26 x 6
@@ -10250,7 +10250,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 988	Building Event	TRULEMONADE-1	Toys "R" Us Exclusive Build - Lemonade Stand	?	?	? x ? x ?
 771	Friends	30414-1	Emma's Magical Box polybag	2021	3.87	16 x 14 x 2
 36	Technic	42128-1	Heavy-duty Tow Truck	2021	728	58.2 x 37.8 x 11.8
-36	Technic	42129-1	4x4 Mercedes-Benz Zetros Trial Truck	2021	653	58.2 x 48 x 9.1
+36	Technic / Model / Off-Road	42129-1	4x4 Mercedes-Benz Zetros Trial Truck	2021	653	58.2 x 48 x 9.1
 768	Super Heroes / What If...?	76194-1	Tony Stark’s Sakaarian Iron Man	2021	98	22.2 x 26.2 x 6.2
 817	LEGO Ideas (CUUSOO)	21327-1	Typewriter	2021	468	58 x 37.3 x 9.6
 983	Promotional	5006746-1	Swing Ship Ride	2021	32	14.7 x 14.7 x 4.5
@@ -11598,7 +11598,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 878	Disney / Disney Princess / Tangled	43241-1	Rapunzel's Tower & The Snuggly Duckling	2024	208	37.4 x 35.3 x 6.8
 1203	Sonic the Hedgehog	76996-1	Knuckles' Guardian Mech	2024	65	26.2 x 22.2 x 6.2
 983	Promotional	6495154-1	LEGO Masters Mini Trophy	2023	54	? x ? x ?
-988	Building Event / Fortnite	5008257-1	Llama	2023	?	? x ? x ?
+988	Building Event / Fortnite	5008257-1	Fortnite Launch Event Exclusive Build - Llama	2023	?	? x ? x ?
 390	Holiday & Event / Easter	40709-1	Spring Animal Playground	2024	36	19 x 14 x 4.5
 67	Town / City / Space Exploration	60434-1	Space Base and Rocket Launchpad	2024	420	55.2 x 37.4 x 8.5
 67	Town / City / Space Exploration	60431-1	Space Explorer Rover and Alien Life	2024	120.5	28.2 x 26.4 x 7.6
@@ -11975,6 +11975,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Model / Construction	42175-1	Volvo FMX Truck & EC230 Electric Excavator	2024	912	55.2 x 37.5 x 11.5
 167	DUPLO / Toolo	2960-1	Tool Box	1995	?	? x ? x ?
 1306	The Legend of Zelda	77092-1	Great Deku Tree 2-in-1	2024	733	55.2 x 37.3 x 11.4
+976	LEGO Brand / LEGO Brand Store / Promotional	6436693-1	Buildable 2 x 2 Red Brick	2022	?	6 x 6 x 5
 801	Minecraft	21265-1	The Crafting Table	2024	197	25.9 x 38.2 x 9.2
 903	BrickHeadz / Super Heroes / Iron Man 2	40669-1	Iron Man MK5	2024	16.4	9 x 12.2 x 7.8
 284	Ninja	3017-2	Water Spider {Kabaya Version}	1998	8	10 x 13.5 x 3.5
@@ -12144,6 +12145,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 171	Creator / Model / Holiday & Event / Christmas	40700-1	Winter Holiday Train	2024	47.25	20.5 x 19 x 6
 983	Promotional	40699-1	Retro Record Player	2024	66.4	26.2 x 19 x 7
 171	Creator / Creator Expert / Gardens of the World	10359-1	Fountain Garden	2025	244	38 x 25.9 x 11.5
+976	LEGO Brand / Promotional	5007330-1	AFOL Appreciation Day - LEGO Barracuda Seas	2022	?	? x ? x ?
 1305	Wicked	75680-1	Elphaba's Bottle and Glinda's Flower polybag	2024	2	17.4 x 17 x 2
 1122	Botanicals	10342-1	Pretty Pink Flower Bouquet	2025	139	26 x 38 x 6.9
 1122	Botanicals	10344-1	Lucky Bamboo	2025	50	19 x 26 x 6
@@ -12478,6 +12480,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Arctic	60471-1	Arctic Truck	2025	388	53.6 x 27.7 x 8.85
 67	Town / City / Building	60473-1	The City Tower	2025	708	52.2 x 47.6 x 8.7
 878	Disney / Mickey and Friends	43274-1	Minnie's Pet Hotel	2025	158	25.9 x 21.9 x 6
+988	Building Event / Holiday & Event / Christmas	5009027-1	Barnes & Noble Exclusive Build - Holiday Snow Globe	2024	?	? x ? x ?
 976	LEGO Brand / LEGO Brand Store / Grand Opening	5009407-1	LEGO Store Grand Opening Exclusive Set, Kraków, Poland - Krakow Grand Opening	2025	?	14.5 x 15 x 4.5
 768	Super Heroes / The Fantastic Four First Steps	76316-1	Fantastic Four vs. Galactus Construction Figure	2025	92.3	22 x 26 x 6
 771	Friends	42671-1	Plant Café & Flower Shop {Cafe}	2025	354	45.5 x 28 x 7
@@ -12663,7 +12666,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Grand Opening	6582904-1	LEGO Store Grand Opening Exclusive Set, Belgrade, Serbia - Belgrade Grand Opening	2025	?	? x ? x ?
 976	LEGO Brand / LEGO Brand Store / Building Event / DREAMZzz	6565157-1	LEGO Brand Store Exclusive Build - Dreamzzz Zblob	2025	28.5	21.5 x 21.5 x 1.5
 817	LEGO Ideas (CUUSOO)	21360-1	Willy Wonka & the Chocolate Factory	2025	614	47.6 x 37.5 x 10.8
-988	Building Event / Bluey	6601204-1	Duck Cake	2025	?	? x ? x ?
+988	Building Event / Bluey	5009578-1	Barnes & Noble Exclusive Build - Duck Cake	2025	?	? x ? x ?
 761	Pirates of the Caribbean	10365-1	Captain Jack Sparrow's Pirate Ship	2025	712	37.3 x 55.5 x 15.2
 746	Collectible Minifigures / Super Heroes / Spider-Man Across the Spider-Verse	71050-1	Minifigure, Spider-Man Across the Spider-Verse (Complete Random Set of 1 Minifigure)	2025	1.85	9.4 x 10.65 x 2.6
 1122	Botanicals	10374-1	Bouquet of Pink Roses	2025	64.3	38 x 26 x 7
@@ -12997,7 +13000,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Easter	40890-1	Easter Decorations	2026	?	20.2 x 18.7 x 5.9
 171	Creator / Creator Expert	11378-1	Douglas DC-3 PAN AM Airliner	2026	514	47.8 x 37.5 x 10.2
 1350	Nike	43025-1	Nike Air Max 95	2026	362	35.1 x 37.3 x 9
-521	Photo Frame & Holder / LEGOLAND Parks	40081-99	Photo Frame Legoland	2013	?	26 x 19 x 4.3
+521	Photo Frame & Holder / LEGOLAND Parks	40081-99	Photo Frame LEGOLAND	2013	?	26 x 19 x 4.3
 65	Star Wars / Bust Collection / Star Wars Episode 4/5/6	75438-1	Yoda Bust	2026	92.78	22 x 26 x 6.3
 65	Star Wars / Bust Collection / Star Wars Episode 4/5/6	75439-1	Darth Vader Bust	2026	79.9	22 x 26 x 6.3
 447	School Supplies	52398-99	Ruler, Buildable Ruler - Black Plates with Blue Baseplates	2015	3	10 x 18 x 2
@@ -13040,3 +13043,5 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 878	Disney / Toy Story / Toy Story 5	43304-1	Blaze's Horse Ranch	2026	190.7	28 x 26 x 5.7
 976	LEGO Brand / LEGO Brand Store / Building Event / Star Wars / Star Wars The Mandalorian and Grogu	6626049-1	LEGO Brand Store Exclusive Build - Star Wars N-1 Starfighter	2026	10	21.5 x 21.5 x 1.7
 988	Building Event / Star Wars / Star Wars The Mandalorian and Grogu	5010305-1	Barnes & Noble Exclusive Build - The Mandalorian & Grogu	2026	70	17 x 29 x 3
+988	Building Event	5009813-1	Toys &#34;R&#34; Us Exclusive Build - Giraffe Playtime	2025	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Birthday	6385444-1	LEGO Brand Store Exclusive Build - Birthday Cake	2018	?	? x ? x ?

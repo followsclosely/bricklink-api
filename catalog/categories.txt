@@ -96,6 +96,7 @@ Category ID	Category Name
 969	Airjitzu Flyers
 325	Airport
 1187	Aladdin
+1387	Alice in Wonderland
 762	Alien Conquest
 170	Alpha Team
 1285	Animal Crossing
@@ -529,6 +530,7 @@ Category ID	Category Name
 1091	Iron Man
 1231	Iron Man 2
 829	Iron Man 3
+1388	Iron Man and his Awesome Friends
 449	Island Xtreme Stunts
 271	Islanders
 178	Jack Stone
@@ -644,6 +646,7 @@ Category ID	Category Name
 59	MINDSTORMS
 801	Minecraft
 1096	Minecraft Dungeons
+1389	Minecraft Dungeons II
 1289	Minecraft Legends
 481	Mini
 911	Mini Doll, Body Part
