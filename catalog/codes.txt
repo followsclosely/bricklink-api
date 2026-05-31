@@ -11164,6 +11164,7 @@ Item No	Color	Code
 973pb6611c01	Sand Blue	6609230
 973pb6612c01	Dark Blue	6609257
 973pb6613c01	Red	6618343
+973pb6614c01	Dark Pink	6610696
 973ps0c01	Green	4286750
 973ps0c01	Green	4558000
 973ps1c01	Orange	4193535
@@ -48004,6 +48005,7 @@ Item No	Color	Code
 7217pb01	Light Bluish Gray	6568569
 7218	Light Bluish Gray	6528128
 7219	Trans-Clear	6528129
+7219	Trans-Clear	6662591
 7220	Trans-Bright Green	6528175
 7221	Dark Azure	6595712
 7221	Tan	6528360
