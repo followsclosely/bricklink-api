@@ -5995,7 +5995,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Ultimate Spider-Man	sh0054	J. Jonah Jameson	2013	3.56
 65	Star Wars / Star Wars The Clone Wars	sw0445	Clone Trooper, 501st Legion (Phase 2) - Blue Arms, Large Eyes	2013	3.9
 768	Super Heroes / Ultimate Spider-Man	sh0055	Venom - White Teeth Together, 4 Back Appendages Spiked	2013	5.13
-768	Super Heroes / Ultimate Spider-Man	sh0056	Nick Fury	2013	3.03
+768	Super Heroes / Ultimate Spider-Man	sh0056	Nick Fury - Dark Blue Shirt	2013	3.03
 65	Star Wars / Star Wars Episode 2	sw0456	Astromech Droid, R4-P17 - Black Full Rectangles	2013	5
 65	Star Wars / Star Wars Episode 4/5/6	sw0457	Imperial TIE Fighter / Bomber Pilot	2013	4
 65	Star Wars / Star Wars Episode 4/5/6	sw0458	Snowspeeder Pilot - White Helmet	2013	3.54
@@ -6284,7 +6284,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor060	Arwen - Sand Blue Dress	2013	5.07
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor061	Gandalf the Grey - Hair	2013	4.37
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor062	Frodo Baggins - Reddish Brown Jacket, Dark Brown Legs	2013	3.36
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor063	Gandalf the White	2013	4.19
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor063	Gandalf the White - Plain Legs	2013	4.19
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor064	Mouth of Sauron - Dark Bluish Gray Arms	2013	4.16
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor065	Mordor Orc - with Helmet	2013	3.96
 9	Castle	cas533	Castle - Lion Princess	2013	4.83
@@ -7501,9 +7501,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Avengers Age of Ultron	sh0180	Quicksilver - Dark Azure Shirt	2015	3.6
 768	Super Heroes / Avengers Age of Ultron	sh0179	Baron Von Strucker	2015	3.05
 768	Super Heroes / Avengers Age of Ultron	sh0172	Hawkeye - Black and Dark Red Suit, Reddish Brown Spiked Hair	2015	3.6
-768	Super Heroes / Avengers	sh0183	Maria Hill	2015	3.6
+768	Super Heroes / Avengers	sh0183	Maria Hill - Dark Blue Suit, Printed Right Arm	2015	3.6
 768	Super Heroes / Avengers	sh0184	Captain America - Dark Blue Suit with Reddish Brown Belt and Harness, Reddish Brown Hands, Hair, Dark Orange Eyebrows	2015	3.37
-768	Super Heroes / Avengers	sh0185	Nick Fury - Leather Trench Coat	2015	3.04
+768	Super Heroes / Avengers	sh0185	Nick Fury - Leather Trench Coat, Dark Bluish Gray Legs	2015	3.04
 768	Super Heroes / Avengers Age of Ultron	sh0186	Black Widow - Black Jumpsuit, Dark Orange Short Hair, Printed Legs, Dark Azure Trim	2015	4.05
 771	Friends	frnd0105	Friends Olivia (Light Nougat) - Dark Blue Cropped Trousers, Magenta Top, Magenta Bow	2015	3.13
 167	DUPLO / DUPLO, Town	47394pb182	Duplo Figure Lego Ville, Male, Medium Blue Legs, Lime Striped Apron, Red Bow Tie, Black Hair, Oval Eyes	2015	14.4
@@ -8478,7 +8478,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0158	Friends Olivia (Light Nougat) - Tan Riding Pants, Red Jacket, Black Riding Helmet	2016	3.15
 771	Friends	frnd0159	Friends Sophie - Dark Blue Skirt, Medium Blue Blouse	2016	3.53
 759	NINJAGO / Day of the Departed	njo0220	Pythor Chumsworth - White	2016	8.75
-759	NINJAGO / Day of the Departed	njo0221	General Cryptor	2016	4.79
+759	NINJAGO / Day of the Departed	njo0221	General Cryptor - Day of the Departed	2016	4.79
 759	NINJAGO / Day of the Departed	njo0222	Stone Army Swordsman - Red Face	2016	4.03
 759	NINJAGO / Day of the Departed	njo0223	Kozu - Day of the Departed	2016	6.16
 759	NINJAGO / Day of the Departed	njo0224	Jay (Honor Robe) - Day of the Departed, Hair, Blue Mask	2016	3.85
@@ -9089,7 +9089,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 868	NEXO KNIGHTS	nex077	Rogul	2017	7
 768	Super Heroes / Avengers	sh0367	Justin Hammer	2017	3.7
 768	Super Heroes / Avengers	sh0368	Invincible Iron Man	2017	4.35
-768	Super Heroes / Avengers	sh0369	Agent Coulson	2017	3.48
+768	Super Heroes / Avengers	sh0369	Agent Phil Coulson - Striped Tie	2017	3.48
 768	Super Heroes / Avengers	sh0370	Red Hulk - Giant, Yellow Eyes	2017	29.5
 768	Super Heroes / Avengers	sh0371	Hulk - Giant, Magenta Pants, Dark Green Hair	2017	29.5
 768	Super Heroes / Avengers	sh0372	Red She-Hulk	2017	3.82
@@ -11325,7 +11325,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Secrets of the Forbidden Spinjitzu	njo0527	Clutch Powers - Secrets of the Forbidden Spinjitzu	2019	3.86
 759	NINJAGO / Secrets of the Forbidden Spinjitzu	njo0528	Blizzard Archer - Trans-Light Blue Horns	2019	4.17
 759	NINJAGO / Secrets of the Forbidden Spinjitzu	njo0529	Pyro Destroyer	2019	5.8
-768	Super Heroes / Spider-Man Far From Home	sh0601	Maria Hill - Black Jacket, Light Bluish Gray Shirt, Dark Blue Legs	2019	3.62
+768	Super Heroes / Spider-Man Far From Home	sh0601	Maria Hill - Black Jacket	2019	3.62
 768	Super Heroes / Spider-Man Far From Home	sh0602	Ned Leeds - Dark Red Plaid Shirt, Dark Blue Legs	2019	3.43
 67	Town / City / Recreation	cty1051	Surfer - Female, Black Wetsuit with Medium Azure Trim, Reddish Brown Hair	2019	3.63
 67	Town / City / Recreation	cty1052	Diver - Male, Black Wetsuit with White Logo and Lime Trim and Flippers	2019	4.14
@@ -12221,7 +12221,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Master of the Mountain	njo0607	Skull Sorcerer	2020	6.24
 759	NINJAGO / Master of the Mountain	njo0608	Awaken Warrior	2020	3.89
 759	NINJAGO / Master of the Mountain	njo0609	Moe	2020	3.5
-759	NINJAGO / Master of the Mountain	njo0610	Dummy, Practice	2020	4.5
+759	NINJAGO / Master of the Mountain	njo0610	Statue - Dungeons of Shintaro	2020	4.5
 768	Super Heroes / Avengers	sh0645	Thor - Spongy Cape with Single Hole, Pearl Dark Gray Legs	2020	3.7
 768	Super Heroes / Avengers	sh0646	War Machine - Black and Silver Armor with Neck Bracket	2020	4.46
 227	Harry Potter	hp237	Harry Potter - Black Torso Gryffindor Robe, Black Short Legs	2020	3.3
@@ -12270,9 +12270,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Master of the Mountain	njo0620	Kai - Spinjitzu Burst	2020	3.8
 768	Super Heroes / Batman II	sh0589a	Batman - Dark Bluish Gray Suit with Gold Outline Belt and Crest, Mask and Cape (Type 3 Cowl, Spongy Cape)	2020	3.8
 759	NINJAGO / Master of the Mountain	njo0621	Ginkle	2020	3.43
-61	Pirates / Pirates IV	pi185	Pirate Captain - Bicorne Hat with Skull and White Plume, Pearl Gold Epaulettes, Blue Open Coat, Black Leg and Pearl Dark Gray Peg Leg	2020	3.82
-61	Pirates / Pirates IV	pi186	Pirate - Black Pirate Triangle Hat, Blue Vest, Dark Bluish Gray Legs	2020	3.79
-61	Pirates / Pirates IV	pi187	Pirate - Red Bandana, White Shirt with Red Stripes, Dark Orange Legs	2020	3.44
+61	Pirates / Pirates IV	pi185	Pirate Captain - Male, Bicorne Hat with Skull and Crossbones and White Plume, Pearl Gold Epaulettes, Blue Open Coat, Black Leg and Pearl Dark Gray Peg Leg	2020	3.82
+61	Pirates / Pirates IV	pi186	Pirate - Male, Black Tricorne Hat, Blue Vest over Red and White Striped Shirt, Dark Bluish Gray Legs	2020	3.79
+61	Pirates / Pirates IV	pi187	Pirate - Male, Red Bandana, White Tank Top with Red Stripes, Rope Belt, Dark Orange Legs	2020	3.44
 759	NINJAGO / Master of the Mountain	njo0622	Zane Hero	2020	4.62
 124	Train	trn253	Train Worker - Female, Black Hair, Medium Blue Shirt with Red Bandana, Medium Blue Legs	2020	3.63
 124	Train	trn254	Train Worker - Male, Medium Blue Hat, Medium Blue Shirt with Red Bandana, Medium Blue Legs	2020	3.44
@@ -12429,7 +12429,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 878	Disney / Disney Princess / Cinderella	dp102	Cinderella - Dress with Sparkles and Bow, Pearl Gold Tiara	2020	3
 1095	Super Mario	mar0037	Koopa Troopa - Scanner Code with Yellow Lines	2020	16.75
 65	Star Wars / Star Wars Episode 4/5/6	sw1112	Darth Vader - Printed Arms, Traditional Starched Fabric Cape	2020	4.1
-227	Harry Potter	hp242	Tom Riddle - Black Long Coat and Vest	2020	3
+227	Harry Potter	hp242	Tom Riddle - Black Long Coat, Light Bluish Gray Vest, Black Sweater	2020	3
 1095	Super Mario	mar0038	Lava Bubble - Scanner Code with Blue Lines	2020	6.6
 768	Super Heroes / Super Heroes Other	sh0670	Supergirl (DC Fandome 2020 Exclusive)	2020	?
 771	Friends	frnd0393	Friends Mia - Olive Green Shorts, Dark Azure and Dark Purple Patterned Sleeveless Jacket with Zipper, Nurse Hat	2020	3.27
@@ -12469,7 +12469,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter	hp251	George Weasley - Reddish Brown Suit, Dark Orange Tie, Smiling / Laughing Head	2020	3.4
 227	Harry Potter	hp252	Fred Weasley - Reddish Brown Suit, Dark Red Tie, Grin / Smiling Head	2020	3.4
 227	Harry Potter	hp253	Hermione Granger - Black Torso Gryffindor Robe	2020	4
-227	Harry Potter / Sorcerer's Stone	hp254	Draco Malfoy - Black Torso Slytherin Robe, Black Short Legs	2020	3
+227	Harry Potter / Sorcerer's Stone	hp254	Draco Malfoy - Black Slytherin Robe and Short Legs, Suspicious / Angry	2020	3
 36	Technic / Competition	tech013a	Technic Figure Dark Turquoise Legs, Dark Turquoise Torso with Yellow, Black, Silver Pattern, Black Arms, Dark Turquoise Helmet, Black Visor	1998	14.36
 759	NINJAGO / Prime Empire	njo0628	Kai - Digi Kai	2020	3.8
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 2	colhp39	Harry Potter Baby / Infant with Stud Holder on Back with Light Nougat Smiling Face, Small Eyes and Gold Capital Letter H Pattern (6315567)	2020	0.61
@@ -14350,7 +14350,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter / Deathly Hallows	hp370	Neville Longbottom - Fair Isle Sweater, Dark Blue Legs	2022	3.4
 227	Harry Potter	hp368	Hermione Granger - Gryffindor Sweater with Crest, Black Skirt, Black Short Legs with Dark Bluish Gray Stripes	2022	4.13
 227	Harry Potter / Order of the Phoenix	hp371	Sirius Black - Dark Brown Hair, Dark Tan Sweater	2022	3.8
-227	Harry Potter / Chamber of Secrets	hp372	Moaning Myrtle - Dark Bluish Gray Robe	2022	3.72
+227	Harry Potter / Chamber of Secrets	hp372	Moaning Myrtle - Dark Bluish Gray Robe, Black Glasses	2022	3.72
 227	Harry Potter / Goblet of Fire	hp373	Lord Voldemort - White Head, Black Skirt, Tongue	2022	3.35
 227	Harry Potter / Half-Blood Prince	hp374	Horace Slughorn - Armchair	2022	6.35
 759	NINJAGO / Crystalized	njo0782	Cole - Crystalized	2022	4.18
@@ -14483,7 +14483,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1197	BrickLink Designer Program	bdp047	Pianist - Male, Red Shirt with Tan Tie, Dark Blue Legs, Black Hair	2022	3.6
 1197	BrickLink Designer Program	bdp048	Boy, Medium Nougat Argyle Sweater, Black Legs, Medium Nougat Hair	2022	3.2
 34	Space / Classic Space	sp132	Classic Space - Red with Air Tanks and Updated Helmet (Second Reissue)	2022	4
-34	Space / Classic Space	sp133	Classic Space Droid - Round Plate Base, Light Bluish Gray and Black	2022	5
+34	Space / Classic Space	sp133	Classic Space Droid - Round Plate Base, Light Bluish Gray and Black (Reissue)	2022	5
 67	Town / City / Police	cty1477	Police - City Officer Dark Blue Diving Suit with Bright Light Yellow Harness, Flippers, White Helmet and Air Tanks, Scuff Mark	2022	4.7
 801	Minecraft	min125	Rancher	2022	3.42
 801	Minecraft	min126	Villager (Farmer) - Jungle Biome Outfit, Yellow Hat	2022	4.6
@@ -15343,7 +15343,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Dragons Rising Season 1	njo0822	Arin - Shirt with Orange Dragon, Hood with Horns	2023	4.73
 759	NINJAGO / Dragons Rising Season 1	njo0820	Sora - Shoulder Pads, Hood	2023	4.59
 759	NINJAGO / Dragons Rising Season 1	njo0823	Wyldfyre - Sand Green Robe	2023	3.97
-759	NINJAGO / Dragons Rising Season 1	njo0826	Empress Beatrix	2023	4.35
+759	NINJAGO / Dragons Rising Season 1	njo0826	Empress Beatrix - Black Robe	2023	4.35
 759	NINJAGO / Dragons Rising Season 1	njo0812	Lord Ras - Dark Red Robe, Pearl Gold Shoulder Armor	2023	4.57
 759	NINJAGO / Dragons Rising Season 1	njo0821	Rapton - Shoulder Pads	2023	4.23
 759	NINJAGO / Dragons Rising Season 1	njo0815	Imperium Claw General - Shoulder Armor	2023	5
@@ -15454,7 +15454,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter / Sorcerer's Stone	hp438	Harry Potter - Gryffindor Robe Open, Black Short Legs, Grin / Open Mouth Smile	2023	3.3
 227	Harry Potter / Sorcerer's Stone	hp439	Hermione Granger - Gryffindor Robe Clasped, Black Skirt, Black Short Legs with Dark Bluish Gray Stripes, Open Mouth Smile / Confused	2023	4.25
 227	Harry Potter / Sorcerer's Stone	hp440	Train Conductor - Male, Dark Red Suit and Hat, Light Nougat Head	2023	3.4
-227	Harry Potter / Sorcerer's Stone	hp441	Lee Jordan - Gryffindor Robe Clasped, Black Short Legs	2023	3.36
+227	Harry Potter / Sorcerer's Stone	hp441	Lee Jordan - Gryffindor Robe Clasped, Black Short Legs, Hair Tousled	2023	3.36
 473	Sports / Soccer	soc154	Soccer Goalie, Female, Lavender Uniform, Reddish Brown Skin, Bright Light Yellow Hair	2023	3.66
 473	Sports / Soccer	soc155	Samantha Kerr - Red Soccer Uniform, Hair with Bun	?	3.42
 473	Sports / Soccer	soc156	Asisat Oshoala - Red Soccer Uniform	2023	3.5
@@ -16487,7 +16487,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor139	Sauron	2024	5.19
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor140	Mouth of Sauron - Pearl Dark Gray Arms	2024	4.39
 759	NINJAGO / Dragons Rising Season 2	njo0907	Mr. Pale	2024	3.68
-67	Town / City / Jungle	cty1765	City Jungle Explorer - Tan Shirt, Dark Brown Legs and Fedora	2024	3.6
+67	Town / City / Jungle	cty1765	City Jungle Explorer - Male, Tan Shirt with Ropes and Red Neckerchief Scarf, Dark Brown Legs and Fedora (Johnny Thunder)	2024	3.6
 771	Friends	frnd0736	Friends William (Adult) - Medium Lavender Spacesuit	2024	2.59
 167	DUPLO / Disney / Disney Princess / Frozen	47394pb356	Duplo Figure Lego Ville, Disney Princess, Elsa, Light Aqua Legs, White Top (6482733)	2024	19.31
 759	NINJAGO / Dragons Rising Season 2	njo0894	Cole - Dragons Rising, Tournament Armor, Orange Bandana	2024	3.8
@@ -17163,7 +17163,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / X-Men	sh0989	Wolverine - Hair, Blue Hands	2024	3.55
 801	Minecraft	min191	Wolf Skin	2025	3.46
 801	Minecraft	min192	Zombified Piglin	2025	3.8
-801	Minecraft	min193	Cactus Knight	2025	5.15
+801	Minecraft	min193	Cactus Knight - Medium Azure Helmet and Armor	2025	5.15
 689	Power Miners	pm034	Power Miner - Duke, Bare Arms	2009	3.67
 67	Town / City / Space Exploration	cty1827	Space Explorer - Male, Dark Azure and White Spacesuit, Helmet, Trans-Clear Visor, Stubble	2025	3.96
 67	Town / City / Space Exploration	cty1828	Space Explorer - Female, White Spacesuit with Dark Azure Arms and Helmet, Trans-Clear Visor, Sand Blue Utility Backpack, Glasses	2025	7.61
@@ -17700,7 +17700,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Construction	cty1906	Ted Brickle	2025	3.92
 768	Super Heroes / Spider-Man	sh1053	Spider-Man - Cyborg Suit	2025	3.1
 759	NINJAGO / Dragons Rising Season 3	njo0973	Spectral Dragonian Warrior	2025	5.56
-759	NINJAGO / Dragons Rising Season 3	njo0975	Sora - Dragon Shoulder Armor	2025	4.85
+759	NINJAGO / Dragons Rising Season 3	njo0975	Sora - Dragon Shoulder Armor, Headphones	2025	4.85
 759	NINJAGO / Dragons Rising Season 3	njo0979	Tyr - Spectral	2025	7.32
 759	NINJAGO / Dragons Rising Season 3	njo0980	Drix	2025	3.45
 1268	DREAMZzz	drm089	Albert - Dark Blue Spacesuit	2025	2
@@ -18320,7 +18320,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter / Deathly Hallows	hp598	Xenophilius Lovegood	2026	4.12
 227	Harry Potter / Deathly Hallows	hp599	Death Eater - Black Hood, Black Arms	2026	3.88
 759	NINJAGO / Legacy	njo0996	Wu Sensei - Golden Weapons Legacy Update	2026	3.66
-759	NINJAGO / Legacy	njo0997	Kai ZX - Legacy Update	2026	4.31
+759	NINJAGO / Legacy	njo0997	Kai ZX - Legacy, Shoulder Armor, Head Wrap	2026	4.31
 759	NINJAGO / Legacy	njo0998	Jay ZX - Legacy Update	2026	4.32
 759	NINJAGO / Legacy	njo1003	Zane ZX - Legacy Update	2026	4.34
 759	NINJAGO / Legacy	njo1004	Cole ZX - Legacy Update	2026	4.29
@@ -18354,7 +18354,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Legacy	njo1012	Mystake - Light Bluish Gray Sweater	2026	3.47
 759	NINJAGO / Legacy	njo1013	Statue - Pearl Gold Conical Hat	2026	3.48
 759	NINJAGO / Legacy	njo1014	Chuck the Carpenter	2026	3.58
-759	NINJAGO / Legacy	njo1015	Kai ZX - Legacy Update, Hair	2026	4.51
+759	NINJAGO / Legacy	njo1015	Kai ZX - Legacy, Shoulder Armor, Hair	2026	4.51
 759	NINJAGO / Legacy	njo1016	Lord Garmadon - Legacy, Pearl Dark Gray Helmet	2026	3.87
 759	NINJAGO / Legacy	njo1017	Jay ZX - Legacy Update, Aviator Cap, Neck Bracket	2026	4.08
 759	NINJAGO / Legacy	njo1018	Young Acronix	2026	3.71
@@ -18364,7 +18364,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Legacy	njo1022	Young Krux - Hair	2026	3.5
 759	NINJAGO / Legacy	njo1023	Harumi - Legacy	2026	3.73
 759	NINJAGO / Dragons Rising Season 4	njo1024	Loyalist Leader (Dr. LaRow)	2026	3.85
-759	NINJAGO / Legacy	njo1025	Loyalist	2026	3.78
+759	NINJAGO / Dragons Rising Season 4	njo1025	Loyalist	2026	3.78
 759	NINJAGO / Legacy / Day of the Departed	njo1026	Dr. Sanders Saunders (Krux Disguise)	2026	3.44
 759	NINJAGO / Legacy	njo1027	Cole ZX - Legacy Update, Hair	2026	4.16
 759	NINJAGO / Legacy	njo1028	Dr. Julien	2026	3.57
@@ -18388,9 +18388,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Dragons Rising Season 4	njo1029	Lloyd - Dragon Form	2026	7.12
 759	NINJAGO / Dragons Rising Season 4	njo1030	Earth Monster - Horns	2026	4.59
 759	NINJAGO / Dragons Rising Season 4	njo1031	Arin - Shirt with Dark Blue and Reddish Orange Dragons, Hood with Horns	2026	4.71
-759	NINJAGO / Dragons Rising Season 4	njo1032	Acid Monster	2026	7.98
+759	NINJAGO / Dragons Rising Season 4	njo1032	Acid Monster - Flexible Rubber Tail	2026	7.98
 759	NINJAGO / Dragons Rising Season 4	njo1033	Zane - White Mask, Wide Pearl Gold Shoulder Armor	2026	4.02
-759	NINJAGO / Dragons Rising Season 4	njo1034	Sora - Cat Headphones, Mask, Scabbard Armor with 1 Shoulder Pad	2026	4.42
+759	NINJAGO / Dragons Rising Season 4	njo1034	Sora - Bandana, Scabbard, Headphones	2026	4.42
 759	NINJAGO / Dragons Rising Season 4	njo1035	Cole - Dragon Form	2026	7.13
 166	Educational & Dacta / Science	pln210	Plain White Torso, Dark Turquoise Legs, Standard Grin	2025	3.03
 67	Town / City / Food & Drink	cty1939	Fries Food Truck Vendor - Female, Black Vest, Sand Blue Legs, Red Cap	2026	3.39
@@ -18771,15 +18771,73 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1359	Editions	edi004	Kylian Mbappé {Mbappe}	2026	3.32
 1359	Editions	edi005	Vini Jr.	2026	3.66
 1359	Editions	edi006	Lewis Hamilton	2026	3.73
+768	Super Heroes / The Infinity Saga	sh1127	Iron Man - Mark 85 Armor, Large Helmet Visor, Power Lasers	2026	?
 167	DUPLO / Peppa Pig	47205pb133	Duplo Figure Lego Ville, George Pig - Dark Azure Plain Outfit with Silver Earpiece Pattern (6600808)	2026	11.6
 976	LEGO Brand / LEGO Brand Store / Build-A-Minifigure / NINJAGO	njo1064	Young Lloyd ZX (BAM)	2026	3.48
 768	Super Heroes / X-Men	sh0995a	Iceman - Dark Azure Eyes and Mouth	2024	3.05
 167	DUPLO / Peppa Pig	47205pb134	Duplo Figure Lego Ville, George Pig - Dark Azure Outfit with Green Dinosaur Outline on Lime Background, Silver Earpiece Pattern (6601057)	2026	11.6
 167	DUPLO / Peppa Pig	47205pb135	Duplo Figure Lego Ville, Peppa Pig - Red Outfit with Coral, Bright Light Yellow and Medium Lavender Rainbow, White Clouds Pattern (6601118)	2026	11.49
 167	DUPLO / Peppa Pig	7627pb02	Duplo Figure Lego Ville, Baby Evie Pig, Light Aqua Sleep Sack with Lavender and Medium Lavender Bib, Yellow Duck and Bow Pattern (6566316)	2026	11.52
-850	Jurassic World / Jurassic Park	jw143	Dennis Nedry - Jurassic Park Logo on Back, Hood	?	3.65
+850	Jurassic World / Jurassic Park	jw143	Dennis Nedry - Jurassic Park Logo on Back, Hood	2026	3.65
 65	Star Wars / Star Wars The Mandalorian	sw1528	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape, Printed Head, Reddish Brown and Dark Silver Knee Pads	?	3.8
+759	NINJAGO / Dragons Rising Season 4	njo1074	Zilvar	?	4.66
+759	NINJAGO / Dragons Rising Season 4	njo1076	Empress Beatrix - Gold Chest and Leg Armor	?	?
 1359	Editions	edi007	Charles Leclerc	2026	3.64
 67	Town	twn549	Italian Market Van Driver - Male, Blue Torso, Dark Blue Legs and Cap	2025	3.4
+759	NINJAGO / Dragons Rising Season 4	njo1077	Fire Monster	?	4.86
+759	NINJAGO / Dragons Rising Season 4	njo1075	Ice Monster	?	4.86
 67	Town / City / Traffic	cty2004	Street Sweeper - Male, Neon Yellow Safety Vest with Reflective Stripes, Olive Green Legs, Dark Blue Cap	2026	3.41
 67	Town	twn550	Taco Chef	2026	3.9
+1359	Editions	edi008	Soccer Player - Female, US Team, Stripes Jersey	2026	4.3
+1359	Editions	edi009	Soccer Player - Female, US Team, Stars Jersey	2026	3.7
+227	Harry Potter / Chamber of Secrets	hp619	Lee Jordan - Gryffindor Robe Clasped, Black Medium Legs, Hair Short Layered Mop Top	2026	3.81
+227	Harry Potter / Chamber of Secrets	hp622	Draco Malfoy - Black Slytherin Robe and Short Legs, Grin / Surprised	2026	3.03
+227	Harry Potter / Chamber of Secrets	hp625	Gilderoy Lockhart - Warm Pink Suit, Gold Vest	2026	3.53
+227	Harry Potter / Chamber of Secrets	hp626	Millicent Bulstrode	2026	3.8
+227	Harry Potter / Chamber of Secrets	hp627	Ginny Weasley - Gryffindor Robe Open, Black Short Legs, Skirt	2026	3.95
+227	Harry Potter / Chamber of Secrets	hp629	Statue - Hogwarts, Printed Torso, Helmet Castle	2026	377
+1309	Fortnite	fort018	Fishstick	?	4.06
+1309	Fortnite	fort019	Leviathan	?	4.24
+1309	Fortnite	fort020	Ginger Gunner	?	3.62
+759	NINJAGO / Dragons Rising Season 4	njo1072	Lloyd - Dragons Rising, Tunic with Dragon Head, Helmet	2026	4.09
+759	NINJAGO / Dragons Rising Season 4	njo1073	Jay - Dragons Rising, Tunic with Dragon Head, Hair, Wide Pearl Gold Shoulder Armor	2026	4.38
+67	Town / City	cty2005	Child - Boy, Dark Purple Tracksuit, Black Medium Legs, Coiled Hair	2026	3.43
+67	Town / City	cty2006	Woman - Dark Red Tracksuit, Dark Brown Coiled Hair	2026	4.41
+67	Town / City	cty2007	Airport Worker - Male, Neon Yellow Safety Vest with Reflective Stripes, Sand Blue Legs, Red Construction Helmet with Black Ear Protectors / Headphones	2026	3.54
+67	Town / City	cty2008	Passenger Plane Pilot - Female, Dark Blue Suit with Tie, Bright Light Yellow Ponytail	2026	3.64
+768	Super Heroes / The Infinity Saga	sh1128	Captain America - Dark Blue Suit, Printed Arms	2026	3.57
+759	NINJAGO / Tournament of Elements	njo1071	Elemental Master of Shadow (Dusk)	?	3.84
+759	NINJAGO / Legacy	njo1069	General Cryptor - Legacy	?	?
+759	NINJAGO / Legacy	njo1070	Kai ZX - Legacy, Head Wrap	?	3.82
+759	NINJAGO / NINJAGO Legends	njo1067	Nate	2026	4.79
+759	NINJAGO / NINJAGO Legends	njo1065	Jin	2026	4.44
+759	NINJAGO / NINJAGO Legends	njo1066	Oni General	2026	3.94
+759	NINJAGO / NINJAGO Legends	njo1068	Mira	2026	4.17
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor159	Peregrin Took (Pippin) - Black Surcoat, Dark Green Cape	?	3.56
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor158	Denethor	?	4.23
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor160	Faramir	?	4.3
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor156	Soldier of Gondor - Light Nougat Head, Dark Tan Eyebrows	?	4.43
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor155	Soldier of Gondor - Light Nougat Head, Reddish Brown Eyebrows	?	4.43
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor161	Soldier of Gondor - Medium Tan Head, Cheek Lines	?	4.43
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor162	Soldier of Gondor - Medium Tan Head, Dimples	?	4.43
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor154	Gandalf the White - Printed Legs	?	4.3
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor163	Aragorn (King Elessar)	?	4.83
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor164	Arwen - Yellowish Green Dress	?	4.64
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor157	King of Gondor Statue	?	4.17
+759	NINJAGO / Dragons Rising Season 4	njo1080	Zane - Dragons Rising, Tunic with Dragon Head, Helmet	?	4.08
+759	NINJAGO / Dragons Rising Season 4	njo1078	Sora - Headphones	?	3.92
+759	NINJAGO / Dragons Rising Season 4	njo1079	Acid Monster - Legs	?	4.55
+768	Super Heroes / The Infinity Saga	sh1129	Maria Hill - Dark Blue Suit, Printed Arms	2026	3.63
+768	Super Heroes / The Infinity Saga	sh1130	Hawkeye - Black Suit, Quiver	2026	3.95
+1384	Shrek	shr001	Puss in Boots	2026	5.21
+878	Disney / Disney Princess	dp241	Jasmine - Top with Sparkles and Gold Trim, Open Mouth, Plain Tiara	2026	3.57
+878	Disney / Disney Princess	dp242	Aladdin - Gold Filigree on Vest and Belt, Medium Nougat Skin	2026	3.19
+768	Super Heroes / The Infinity Saga	sh1131	Agent Phil Coulson - Black Tie	2026	3.5
+768	Super Heroes / The Infinity Saga	sh1132	Winter Soldier - Dark Brown Hair, Black and Light Nougat Hands	2026	3.58
+768	Super Heroes / The Infinity Saga	sh1133	Nick Fury - Leather Trench Coat, Black Legs	2026	3
+1332	Bluey	blu008	Bingo - Chef Toque	?	4.06
+759	NINJAGO / NINJAGO Legends	njo1084	Jin - Twin Titan Mech Suit	2026	4.08
+759	NINJAGO / NINJAGO Legends	njo1085	Mira - Twin Titan Mech Suit	2026	4.14
+759	NINJAGO / NINJAGO Legends	njo1087	Oni Warrior - Legends	2026	3.93
+67	Town / City / Construction	cty2009	Construction Worker - Male, Dark Bluish Gray Overalls over Reddish Orange Safety Jacket with Reflective Stripes, Dark Bluish Gray Legs with Knee Pads, Red Construction Helmet, Goatee	2026	3.34
+67	Town / City / Construction	cty2010	Construction Worker - Female, Reddish Orange Safety Jacket with Reflective Stripes, Dark Bluish Gray Legs with Knee Pads, Red Construction Helmet with Dark Brown Ponytail Hair, Smirk	2026	3.62

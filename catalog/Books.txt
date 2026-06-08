@@ -366,7 +366,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 332	Informational Book	b92de	The Development of a Play Idea - January 1992	1992	?	? x ? x ?
 462	Magazine	mag2004feb	Lego Magazine 2004  2.04	2004	53	20.4 x 26.7 x 0.2
 572	LEGOLAND Parks	b80titania	Titania's Palace - The Fairy Queen's Miniature Palace in LEGOLAND Billund	1980	?	15.8 x 22.5 x 0.4
-317	Idea Book / Train	b72train	Train Ideas Booklet 4.5v (97385)	1972	10	13.5 x 13.5 x 0
+317	Idea Book / Train	b72train	Train Ideas Booklet 4.5v (97385)	1972	10	13.6 x 13.6 x 0.05
 505	Story Book / Fabuland	fablb01	Large Book - Lionel Lion's New Car	1984	188	? x ? x ?
 317	Idea Book / Train	b70train	Train Ideas Booklet 4.5v and 12v (3342)	1970	12	13.5 x 13.5 x 0.1
 505	Story Book / Belville	4154182	Belville - Rosita Picture Booklet	2001	3	5.5 x 7.4 x 0.06
@@ -7032,7 +7032,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 505	Story Book / Jurassic World	b22jw09	Jurassic World - 5-Minute Stories (Hardcover)	2022	?	? x ? x ?
 552	Coloring Book / Super Heroes	b22sh04	DC Super Heroes - Ready for Action (Softcover)	2022	?	? x ? x ?
 766	Activity Book / NINJAGO / Legacy	b21njol01	NINJAGO Legacy - Golden Ninja (Softcover)	2021	?	? x ? x ?
-505	Story Book / NINJAGO	b21njo11	NINJAGO - 5-Minute Stories (Hardcover)	2021	?	? x ? x ?
+505	Story Book / NINJAGO	b21njo11	NINJAGO - 5-Minute Stories (Hardcover)	2021	780	20.5 x 27.3 x 2
 766	Activity Book / NINJAGO	b23njo11	NINJAGO - 5-Minute NINJAGO Builds (Hardcover)	2023	?	? x ? x ?
 552	Coloring Book / Town / City	b22cty05	City - Color the City (Softcover)	2022	?	? x ? x ?
 317	Idea Book	b21other15fr	Robots Animés (French Edition)	2021	?	? x ? x ?
