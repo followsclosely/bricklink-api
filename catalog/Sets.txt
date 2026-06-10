@@ -4843,7 +4843,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE / Bohrok-Kal	8575-1	Kohrak-Kal	2003	170	10.7 x 9 x 15.8
 273	BIONICLE / Bohrok-Kal	8574-1	Tahnok-Kal	2003	181	10.7 x 9 x 15.8
 273	BIONICLE / Bohrok-Kal	8573-1	Nuhvok-Kal	2003	170	10.7 x 9 x 15.8
-473	Sports / Basketball	3584-1	Rapid Return	2003	127	? x ? x ?
+473	Sports / Basketball	3584-1	Rapid Return	2003	127	14 x 14.5 x 5.8
 444	Galidor	K8310-1	Galidor Defender Kit	2002	?	? x ? x ?
 437	Explore / Explore Being Me	5434-1	Baby Stack 'n Learn	2002	?	? x ? x ?
 437	Explore / Explore Imagination	4343-1	Story Builder - Pink Palace Magic	2002	?	? x ? x ?
@@ -21415,7 +21415,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 768	Super Heroes / Spider-Man Brand New Day	76350-1	Spider-Man vs. Hulk Epic Clash	2026	949	26 x 38 x 6.9
 768	Super Heroes / Spider-Man Brand New Day	76349-1	Spider-Man Prison Transport Chase	2026	536	26 x 22 x 7.4
 65	Star Wars / Promotional / Star Wars The Mandalorian	40917-1	The Darksaber	2026	348.8	25.8 x 18.8 x 4.6
-65	Star Wars / Ultimate Collector Series / Star Wars The Mandalorian	75442-1	The Mandalorian's N-1 Starfighter - UCS	2026	?	? x ? x ?
+65	Star Wars / Ultimate Collector Series / Star Wars The Mandalorian	75442-1	The Mandalorian's N-1 Starfighter - UCS	2026	2508	55 x 37.6 x 8.3
 227	Harry Potter / Sculptures	76462-1	Hogwarts House Crest	2026	706	22 x 26 x 9.4
 227	Harry Potter / Sculptures	76469-1	Dobby the Free Elf	2026	425	18.7 x 26 x 6
 227	Harry Potter	76471-1	Knockturn Alley Wizarding Shops	2026	1072	38 x 26 x 7
@@ -21436,10 +21436,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Model / Harbor	L0002290-1	Submarine paper bag	2025	?	? x ? x ?
 67	Town / City / Traffic	L0002223-1	Sweeper paper bag	2026	?	? x ? x ?
 171	Creator / Basic Model / Holiday & Event / Christmas	30718-1	Cataclaws Snow Adventure paper bag	2026	55	17 x 18 x 2.5
-903	BrickHeadz / Shrek	40923-1	Shrek, Donkey & Gingy Figures	2026	?	? x ? x ?
+903	BrickHeadz / Shrek	40923-1	Shrek, Donkey & Gingy Figures	2026	268.2	19.4 x 14.2 x 7
 988	Building Event	5009813-1	Toys &#34;R&#34; Us Exclusive Build - Giraffe Playtime	2025	?	17.5 x 29.8 x 1.5
-390	Holiday & Event / Chinese Festivals	80121-1	Ancient Moon-Gazing Inn	2026	?	? x ? x ?
-390	Holiday & Event / Chinese Festivals	80120-1	Prosperity Carp Leaping	2026	?	? x ? x ?
+390	Holiday & Event / Chinese Festivals	80121-1	Ancient Moon-Gazing Inn	2026	2212	47.6 x 37.6 x 9.1
+390	Holiday & Event / Chinese Festivals	80120-1	Prosperity Carp Leaping	2026	975	38 x 25.8 x 6.8
 976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Birthday	6385444-1	LEGO Brand Store Exclusive Build - Birthday Cake	2018	?	? x ? x ?
 976	LEGO Brand / LEGO Brand Store / Promotional	6659862-1	LEGO Store 1st Anniversary Exclusive Set	2024	?	? x ? x ?
 65	Star Wars / Star Wars Episode 2	L0002245-2	Jango Fett metal box {Helmet Shaped Box Version}	2026	76	11.5 x 12.5 x 3
@@ -21469,7 +21469,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Recreation	60512-1	Mountain Bike Adventure Van	2026	?	? x ? x ?
 903	BrickHeadz / Transformers	40924-1	Megatron Robot & Vehicle	2026	?	? x ? x ?
 36	Technic / Model / Race	42229-1	Fast & Furious Mitsubishi Eclipse	2026	1095	38 x 26 x 6.9
-36	Technic / Model / Race	42231-1	Fast & Furious Dodge Charger R/T	2026	?	? x ? x ?
+36	Technic / Model / Race	42231-1	Fast & Furious Dodge Charger R/T	2026	2175	42.9 x 27.9 x 11.6
 36	Technic / Model / Race	42241-1	Bugatti Chiron Pur Sport	2026	?	? x ? x ?
 36	Technic / Model / Construction	42242-1	Mercedes-Benz Unimog U 5023 with Crane	2026	?	? x ? x ?
 771	Friends	42697-1	Creative Dollhouse Suitcase	2026	1087	33 x 23.5 x 14
@@ -21480,7 +21480,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 759	NINJAGO / NINJAGO Legends	71870-1	The Twin Titan Mechs	2026	2084	47.8 x 37.4 x 9
 759	NINJAGO / NINJAGO Legends	71871-1	Battle at the Dragon's Blade	2026	1170	43 x 28 x 7
 759	NINJAGO / NINJAGO Legends	71872-1	Ultra Dragon Battle	2026	3000	51.8 x 47.4 x 9
-1309	Fortnite	77079-1	Tomatohead	2026	?	? x ? x ?
+1309	Fortnite	77079-1	Tomatohead	2026	241.16	20.7 x 19.3 x 4.5
 1309	Fortnite	77080-1	Supply Drop	2026	463	22 x 26 x 6
 1309	Fortnite	77081-1	KIT	2026	1452	28 x 43 x 8.7
 1309	Fortnite	77082-1	Rave Cave	2026	3240	55.4 x 37.4 x 11.5
@@ -21502,12 +21502,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 878	Disney / Disney Princess / Tangled	43294-1	Rapunzel's Mini Tower	2026	263	20.3 x 19 x 4.4
 878	Disney / Disney Princess / Cinderella	43283-1	Cinderella Animal Friends Castle	2026	463	26 x 22 x 6
 878	Disney / Disney Princess / The Little Mermaid	43299-1	Ariel's Royal Wedding Boat	2026	852	38.1 x 26.1 x 6.9
-903	BrickHeadz / Toy Story	40860-1	Toy Story	2026	?	? x ? x ?
-903	BrickHeadz / Disney / Alice in Wonderland	40925-1	Alice in Wonderland	2026	?	? x ? x ?
+903	BrickHeadz / Toy Story	40860-1	Toy Story	2026	544.35	35.7 x 19.2 x 7
+903	BrickHeadz / Disney / Alice in Wonderland	40925-1	Alice in Wonderland	2026	592.77	35.4 x 19.3 x 7
 1332	Bluey	11216-1	Grannies with Bingo and Bluey	2026	183	19 x 14 x 4.4
 1332	Bluey	11217-1	Brick-Built Bluey Family	2026	1186	43 x 28 x 7
 1332	Bluey	11221-1	School with Rusty and Bluey	2026	347	26 x 19 x 4.4
-1203	Sonic the Hedgehog	40926-1	SEGA Genesis Console	2026	?	? x ? x ?
+1203	Sonic the Hedgehog	40926-1	SEGA Genesis Console	2026	658	25.8 x 22 x 9.4
 842	SPEED CHAMPIONS	77260-1	Fast & Furious Toyota Supra MK4	2026	316	26 x 14 x 6
 842	SPEED CHAMPIONS	77261-1	Ferrari 499P	2026	?	? x ? x ?
 759	NINJAGO / Dragons Rising Season 4	71862-1	Lloyd's Dragon Mech Battle Pack	2026	105	12 x 14.3 x 4.3
@@ -21530,7 +21530,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Sculptures / Star Wars Episode 4/5/6	75461-1	Up-Scaled Darth Vader Minifigure	2026	1312	26.2 x 38 x 9.2
 171	Creator / Creator Expert / Traffic	11380-1	Road Bike	2026	?	? x ? x ?
 629	Architecture	21066-1	New York City - The Big Apple	2026	?	? x ? x ?
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	11377-1	Minas Tirith	2026	1092	61.9 x 58.9 x 37
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	11377-1	Minas Tirith	2026	10920	61.9 x 58.9 x 37
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	40893-1	Grond	2026	282	20.5 x 19 x 6
 167	DUPLO / Bluey	10469-1	Pizza Girls with Muffin and Bluey	2026	694	28 x 26 x 11.6
 423	Classic	11045-1	Creative Colorful Bricks	2026	1629	38 x 26 x 11.5

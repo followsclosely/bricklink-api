@@ -5158,7 +5158,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 34	Space / Alien Conquest	ac008	Alien Conquest Reporter	2011	3.5
 34	Space / Alien Conquest	ac009	Alien Defense Unit Soldier 4	2011	4.09
 34	Space / Alien Conquest	ac010	Alien Conquest Toxic Cleanup Scientist	2011	3.7
-34	Space / Alien Conquest	ac011	Alien Commander	2011	7.7
+34	Space / Alien Conquest	ac011	Alien Commander Hypaxxus-8	2011	7.7
 65	Star Wars / Star Wars The Clone Wars	sw0316	Savage Opress	2011	3.95
 65	Star Wars / Star Wars The Clone Wars	sw0317	Anakin Skywalker - Large Eyes, Dark Brown Arms	2011	3.7
 65	Star Wars / Star Wars The Clone Wars	sw0318	Asajj Ventress - Black Torso	2011	3
@@ -14699,7 +14699,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 390	Holiday & Event / Christmas	hol286	Holiday Shopper - Female, Bright Green Sweater with Bright Light Yellow Zigzag Lines, Dark Blue Legs, Dark Red Beanie with Black Hair	2022	4.25
 390	Holiday & Event / Christmas	hol287	Holiday Shopper - Dark Pink Sweater	2022	3.92
 390	Holiday & Event / Christmas	hol288	Child - Boy, Dark Azure Jacket and Short Legs, Red and Tan Ushanka Hat	2022	3.6
-390	Holiday & Event / Christmas	hol289	Streetcar Driver	2022	3.43
+390	Holiday & Event / Christmas	hol289	Streetcar Driver - Male, Dark Blue Suit	2022	3.43
 390	Holiday & Event / Christmas	hol290	H. Jollie's Music Store Owner	2022	3.45
 390	Holiday & Event / Christmas	hol291	Santa's Toys and Games Store Owner - Female, Tan Knit Argyle Sweater Vest, Dark Brown Legs, Dark Orange Hair with Bun, Glasses	2022	3.67
 893	DC Super Hero Girls	shg019	Kryptomite - Purple, Medium Crystals, Hands	2017	2.94
@@ -14899,7 +14899,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town	twn455	Tailor	2023	3.55
 67	Town	twn456	Jazz Singer	2023	4.75
 67	Town	twn457	Magician - Female, Black Suit Jacket with White Button Up Shirt, Black Legs, Bright Light Yellow Hair	2023	3.9
-67	Town	twn458	Pizza Delivery Driver	2023	3.6
+67	Town	twn458	Pizza Delivery Driver - Male	2023	3.6
 167	DUPLO / DUPLO, Town	47394pb340	Duplo Figure Lego Ville, Female, Bright Light Blue Legs with Overalls, White Top, Dark Brown Hair (6427981)	2023	16.42
 983	Promotional	gen171	Gustave Eiffel	2022	3.64
 878	Disney / Disney Princess / Tangled	dp167	Rapunzel - Mini Doll, 2 Bright Pink Flowers, Diamond Dress Container Bottom	2023	6.18
@@ -18779,7 +18779,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO / Peppa Pig	47205pb135	Duplo Figure Lego Ville, Peppa Pig - Red Outfit with Coral, Bright Light Yellow and Medium Lavender Rainbow, White Clouds Pattern (6601118)	2026	11.49
 167	DUPLO / Peppa Pig	7627pb02	Duplo Figure Lego Ville, Baby Evie Pig, Light Aqua Sleep Sack with Lavender and Medium Lavender Bib, Yellow Duck and Bow Pattern (6566316)	2026	11.52
 850	Jurassic World / Jurassic Park	jw143	Dennis Nedry - Jurassic Park Logo on Back, Hood	2026	3.65
-65	Star Wars / Star Wars The Mandalorian	sw1528	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape, Printed Head, Reddish Brown and Dark Silver Knee Pads	?	3.8
+65	Star Wars / Star Wars The Mandalorian	sw1528	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape, Printed Head, Reddish Brown and Dark Silver Knee Pads	2026	3.8
 759	NINJAGO / Dragons Rising Season 4	njo1074	Zilvar	?	4.66
 759	NINJAGO / Dragons Rising Season 4	njo1076	Empress Beatrix - Gold Chest and Leg Armor	?	?
 1359	Editions	edi007	Charles Leclerc	2026	3.64
@@ -18790,6 +18790,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town	twn550	Taco Chef	2026	3.9
 1359	Editions	edi008	Soccer Player - Female, US Team, Stripes Jersey	2026	4.3
 1359	Editions	edi009	Soccer Player - Female, US Team, Stars Jersey	2026	3.7
+227	Harry Potter / Chamber of Secrets	hp617	Hermione Granger - Gryffindor Robe Clasped, Black Skirt, Black Short Legs with Dark Bluish Gray Stripes, Grin / Cat Face	?	4
 227	Harry Potter / Chamber of Secrets	hp619	Lee Jordan - Gryffindor Robe Clasped, Black Medium Legs, Hair Short Layered Mop Top	2026	3.81
 227	Harry Potter / Chamber of Secrets	hp622	Draco Malfoy - Black Slytherin Robe and Short Legs, Grin / Surprised	2026	3.03
 227	Harry Potter / Chamber of Secrets	hp625	Gilderoy Lockhart - Warm Pink Suit, Gold Vest	2026	3.53
@@ -18824,6 +18825,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor163	Aragorn (King Elessar)	?	4.83
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor164	Arwen - Yellowish Green Dress	?	4.64
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor157	King of Gondor Statue	?	4.17
+850	Jurassic World / Jurassic Park	jw144	Dr. Gerry Harding	?	3.6
 759	NINJAGO / Dragons Rising Season 4	njo1080	Zane - Dragons Rising, Tunic with Dragon Head, Helmet	?	4.08
 759	NINJAGO / Dragons Rising Season 4	njo1078	Sora - Headphones	?	3.92
 759	NINJAGO / Dragons Rising Season 4	njo1079	Acid Monster - Legs	?	4.55
@@ -18835,7 +18837,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / The Infinity Saga	sh1131	Agent Phil Coulson - Black Tie	2026	3.5
 768	Super Heroes / The Infinity Saga	sh1132	Winter Soldier - Dark Brown Hair, Black and Light Nougat Hands	2026	3.58
 768	Super Heroes / The Infinity Saga	sh1133	Nick Fury - Leather Trench Coat, Black Legs	2026	3
-1332	Bluey	blu008	Bingo - Chef Toque	?	4.06
+1332	Bluey	blu008	Bingo - Chef Toque	2026	4.06
 759	NINJAGO / NINJAGO Legends	njo1084	Jin - Twin Titan Mech Suit	2026	4.08
 759	NINJAGO / NINJAGO Legends	njo1085	Mira - Twin Titan Mech Suit	2026	4.14
 759	NINJAGO / NINJAGO Legends	njo1087	Oni Warrior - Legends	2026	3.93
