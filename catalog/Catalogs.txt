@@ -1550,7 +1550,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 369	1994	c94ca	1994 Medium Canadian (997918/998018-CA)	1994	28
 601	2008	c08ukdcn	2008 Dealer Large UK Novelties January - May (4526600-AEM/UK)	2008	162
 360	1985	m85us2	1985 Mini US (108217-US)	1985	5
-348	1973	c73nl4	1973 Dutch Price List (97704-Ho)	1973	?
+348	1973	c73nl4	1973 Medium Dutch Foldout (97704-Ho.)	1973	?
 361	1986	c86nl2	1986 Small Dutch (114506/114606-EU IV (NL))	1986	20
 601	2008	c08au1	2008 Large Australian January - July	2008	81
 378	2002 / Train	c02sahtruk	2002 Shop at Home - Trains UK	2002	45
@@ -4883,6 +4883,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1319	2025	c25sk1	2025 Large Slovak January - June (SK - 6543396)	2025	189
 345	1970	c70no	1970 Large Norwegian (3451-No)	1970	13
 1319	2025	c25nl1	2025 Large Dutch January - June (NL f/Brand Retail- 6543362, NL for EUC- 6543378, NL - 6543388)	2025	198
+767	2012 / Educational & Dacta	c12ukdac2	2012 Large UK Education - Secondary Catalogue (Key Stages 2-4)	2012	?
 1319	2025	ce25nl1	2025 Large Dutch January - June (NL f/B.R. - 6543362, NL f/EUC - 6543378, NL 6543388)	2025	216
 348	1973	c73fr4	1973 Medium French - Construisez ce que vous voulez - Lego n'a pas de limite (97640 - Fr.)	1973	?
 360	1985	c85japg	1985 Medium Parents Guide Japanese (109508/109608-JA)	1985	29

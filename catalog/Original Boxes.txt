@@ -87,7 +87,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 422	Universal Building Set / Basic Set	1708-1	Large Bucket	1994	?	24.7 x 30.1 x 23.5
 422	Universal Building Set / Supplemental	938-1	Plates, Hinges and Turntables	1973	?	15 x 6.5 x 4
 422	Universal Building Set / Basic	1662-1	Basic Building Set in Bucket	1989	?	? x ? x ?
-78	FreeStyle	1840-1	FreeStyle Set polybag #1	1995	?	? x ? x ?
+78	FreeStyle	1840-1	Polka-Saurus polybag	1995	?	? x ? x ?
 78	FreeStyle	4055-1	Medium Bucket	1997	?	? x ? x ?
 78	FreeStyle	4271-1	FreeStyle Box #2	1998	?	? x ? x ?
 422	Universal Building Set / Basic Set	1678-1	Basic Building Set Trial Size	1991	17	14.3 x 7.2 x 4.6
@@ -823,7 +823,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Christmas	1807-1	Santa Claus and Sleigh polybag	1995	?	? x ? x ?
 67	Town / Classic Town / Airport	1808-1	Light Aircraft and Ground Support	1996	?	19.2 x 9.4 x 4.7
 124	Train / 4.5V	181-1	Complete Train Set with Motor, Signals and Switch	1972	287	50 x 20 x 6
-67	Town / Paradisa	1815-1	Paradisa Lifeguard	1996	?	? x ? x ?
+67	Town / Paradisa	1815-1	Paradisa Lifeguard	1996	?	14.3 x 9.5 x 4.7
 67	Town / Classic Town / Recreation	1817-1	Sea Plane with Hut and Boat	1996	30	19 x 9.4 x 5.9
 67	Town / Classic Town / Airport	1818-1	Aircraft and Ground Support Equipment and Vehicle	1996	?	? x ? x ?
 124	Train / 4.5V	182-1	Train Set with Signal	1975	?	50.5 x 25 x 6.5
@@ -2934,7 +2934,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 63	Service Packs / Space / Life on Mars	3750-1	Life on Mars Accessories	2001	?	? x ? x ?
 36	Technic / Supplemental	5223-1	Windup Motor 2001	2001	31.16	23.8 x 9.5 x 4.6
 36	Technic / Supplemental	5222-1	Chassis Pack	2000	?	24 x 14.5 x 4.8
-174	Studios / Jurassic Park III	1370-1	Raptor Rumble Studio	2001	?	28 x 19 x 4
+174	Studios / Jurassic Park III	1370-1	Raptor Rumble Studio	2001	100	28 x 19 x 4
 9	Castle / Lion Knights / Legends	10000-1	Guarded Inn	2001	87	28.7 x 19 x 5.8
 3	Boat	311-1	Ferry	1973	?	? x ? x ?
 3	Boat	315-2	Container Transport	1976	59.2	35 x 12.5 x 5
@@ -4840,7 +4840,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE / Bohrok-Kal	8575-1	Kohrak-Kal	2003	73	10.7 x 9 x 15.8
 273	BIONICLE / Bohrok-Kal	8574-1	Tahnok-Kal	2003	70.87	10.7 x 9 x 15.8
 273	BIONICLE / Bohrok-Kal	8573-1	Nuhvok-Kal	2003	?	10.7 x 9 x 15.8
-473	Sports / Basketball	3584-1	Rapid Return	2003	?	? x ? x ?
+473	Sports / Basketball	3584-1	Rapid Return	2003	?	14 x 14.5 x 5.8
 444	Galidor	K8310-1	Galidor Defender Kit	2002	?	? x ? x ?
 437	Explore / Explore Being Me	5434-1	Baby Stack 'n Learn	2002	?	? x ? x ?
 437	Explore / Explore Imagination	4343-1	Story Builder - Pink Palace Magic	2002	?	? x ? x ?
@@ -6363,7 +6363,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Construction	65743-1	City Construction Value Pack (7246, 7242, 7248)	2005	?	44 x 29 x 7.5
 124	Train / 9V / World City	65801-1	Trains Value Pack	2005	?	? x ? x ?
 293	Baby	5436-1	Stack N' Learn polybag	2002	?	? x ? x ?
-67	Town / City / Fire	7891-1	Airport Firetruck	2006	36	23.8 x 14.2 x 5.8
+67	Town / City / Fire	7891-1	Airport Fire Truck	2006	36	23.8 x 14.2 x 5.8
 67	Town / City / Hospital	7892-1	Hospital	2006	380	47.5 x 38 x 9.2
 67	Town / City / Airport	7893-1	Passenger Plane	2006	370	57.2 x 28.5 x 9.2
 67	Town / City / Airport	7894-1	Airport	2006	879	64.7 x 42.8 x 9.7
@@ -6594,7 +6594,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 9	Castle / Knights Kingdom I	10176-1	Royal King's Castle	2006	406	57.15 x 38.1 x 8.89
 537	Quatro	5470-1	My First Quatro Figure	2006	?	28 x 28 x 12
 67	Town / City / Police	7237-2	Police Station - WITHOUT Light-Up Minifigure	2006	?	57.6 x 38.4 x 11.4
-273	BIONICLE / Supplemental	6620-1	Ultimate Accessory Set 500	2006	?	? x ? x ?
+273	BIONICLE / Supplemental	6620-1	Ultimate Accessory Set 500	2006	202	15.5 x 26 x 15.5
 65	Star Wars / Ultimate Collector Series / Star Wars Episode 4/5/6	10174-1	Imperial AT-ST - UCS	2006	318	47.5 x 38 x 6.6
 570	Batman I	7785-1	Arkham Asylum	2006	331	47.5 x 38 x 6.8
 167	DUPLO / Playhouse	4966-1	Doll's House	2006	?	47.5 x 38 x 11
@@ -7669,30 +7669,30 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 568	Exo-Force	3885-2	Hikaru Little Flyer - Boxed Version	2007	11	7.5 x 7 x 4.3
 423	Classic / Town Plan	200-4	Town Plan Board, Continental European Cardboard Version	1959	?	? x ? x ?
 423	Classic / Town Plan	200-5	Town Plan Board, UK / Australian Cardboard Version	1962	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-2	Advent Calendar 2007, Belville (Day  1) - Fairy with Wand	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-3	Advent Calendar 2007, Belville (Day  2) - Bed	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-4	Advent Calendar 2007, Belville (Day  3) - Vanity Unit	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-5	Advent Calendar 2007, Belville (Day  4) - Jewel Chest	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-6	Advent Calendar 2007, Belville (Day  5) - Cat	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-7	Advent Calendar 2007, Belville (Day  6) - Tea Set	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-8	Advent Calendar 2007, Belville (Day  7) - Chair and Desk Lamp	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-9	Advent Calendar 2007, Belville (Day  8) - Kitten	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-10	Advent Calendar 2007, Belville (Day  9) - Sleigh	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-11	Advent Calendar 2007, Belville (Day 10) - Snowman	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-12	Advent Calendar 2007, Belville (Day 11) - Turret	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-13	Advent Calendar 2007, Belville (Day 12) - Rabbit	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-14	Advent Calendar 2007, Belville (Day 13) - Fruit, Cup and Bottles	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-15	Advent Calendar 2007, Belville (Day 14) - Flowers	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-16	Advent Calendar 2007, Belville (Day 15) - Vanity Case	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-17	Advent Calendar 2007, Belville (Day 16) - Fireplace	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-18	Advent Calendar 2007, Belville (Day 17) - Frog, Book and Jewel Case	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-19	Advent Calendar 2007, Belville (Day 18) - Teddy Bear	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-20	Advent Calendar 2007, Belville (Day 19) - Jelly and Ice Cream	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-22	Advent Calendar 2007, Belville (Day 21) - Toy Ball	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-23	Advent Calendar 2007, Belville (Day 22) - Festive Wreath	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-24	Advent Calendar 2007, Belville (Day 23) - Toy Castle	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-25	Advent Calendar 2007, Belville (Day 24) - Christmas Tree and Presents	2007	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Belville	7600-21	Advent Calendar 2007, Belville (Day 20) - Dog and Bowl	2007	?	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / Belville	7600-2	Advent Calendar 2007, Belville (Day  1) - Fairy with Wand	2007	?	8.6 x 8.85 x 1.85
+390	Holiday & Event / Advent Sub-Set / Belville	7600-3	Advent Calendar 2007, Belville (Day  2) - Bed	2007	?	10.7 x 10.9 x 0.8
+390	Holiday & Event / Advent Sub-Set / Belville	7600-4	Advent Calendar 2007, Belville (Day  3) - Vanity Unit	2007	?	8.8 x 8.9 x 1.6
+390	Holiday & Event / Advent Sub-Set / Belville	7600-5	Advent Calendar 2007, Belville (Day  4) - Jewel Chest	2007	?	8.7 x 8.8 x 1.3
+390	Holiday & Event / Advent Sub-Set / Belville	7600-6	Advent Calendar 2007, Belville (Day  5) - Cat	2007	?	8.95 x 8.9 x 1
+390	Holiday & Event / Advent Sub-Set / Belville	7600-7	Advent Calendar 2007, Belville (Day  6) - Tea Set	2007	?	8.6 x 8.75 x 1.55
+390	Holiday & Event / Advent Sub-Set / Belville	7600-8	Advent Calendar 2007, Belville (Day  7) - Chair and Desk Lamp	2007	?	8.85 x 8.85 x 1.15
+390	Holiday & Event / Advent Sub-Set / Belville	7600-9	Advent Calendar 2007, Belville (Day  8) - Kitten	2007	?	8.65 x 8.75 x 1.2
+390	Holiday & Event / Advent Sub-Set / Belville	7600-10	Advent Calendar 2007, Belville (Day  9) - Sleigh	2007	?	10.75 x 10.6 x 0.8
+390	Holiday & Event / Advent Sub-Set / Belville	7600-11	Advent Calendar 2007, Belville (Day 10) - Snowman	2007	?	8.55 x 8.65 x 1.15
+390	Holiday & Event / Advent Sub-Set / Belville	7600-12	Advent Calendar 2007, Belville (Day 11) - Turret	2007	?	10.45 x 10.4 x 2.4
+390	Holiday & Event / Advent Sub-Set / Belville	7600-13	Advent Calendar 2007, Belville (Day 12) - Rabbit	2007	?	8.75 x 8.6 x 1.65
+390	Holiday & Event / Advent Sub-Set / Belville	7600-14	Advent Calendar 2007, Belville (Day 13) - Fruit, Cup and Bottles	2007	?	8.55 x 8.8 x 1
+390	Holiday & Event / Advent Sub-Set / Belville	7600-15	Advent Calendar 2007, Belville (Day 14) - Flowers	2007	?	8.7 x 8.75 x 1.55
+390	Holiday & Event / Advent Sub-Set / Belville	7600-16	Advent Calendar 2007, Belville (Day 15) - Vanity Case	2007	?	8.65 x 8.95 x 1.15
+390	Holiday & Event / Advent Sub-Set / Belville	7600-17	Advent Calendar 2007, Belville (Day 16) - Fireplace	2007	?	8.6 x 8.5 x 2.1
+390	Holiday & Event / Advent Sub-Set / Belville	7600-18	Advent Calendar 2007, Belville (Day 17) - Frog, Book and Jewel Case	2007	?	8.7 x 8.7 x 1.6
+390	Holiday & Event / Advent Sub-Set / Belville	7600-19	Advent Calendar 2007, Belville (Day 18) - Teddy Bear	2007	?	8.75 x 8.65 x 1.6
+390	Holiday & Event / Advent Sub-Set / Belville	7600-20	Advent Calendar 2007, Belville (Day 19) - Jelly and Ice Cream	2007	?	8.7 x 8.9 x 1.15
+390	Holiday & Event / Advent Sub-Set / Belville	7600-22	Advent Calendar 2007, Belville (Day 21) - Toy Ball	2007	?	10.7 x 10.6 x 1.65
+390	Holiday & Event / Advent Sub-Set / Belville	7600-23	Advent Calendar 2007, Belville (Day 22) - Festive Wreath	2007	?	8.6 x 8.85 x 0.55
+390	Holiday & Event / Advent Sub-Set / Belville	7600-24	Advent Calendar 2007, Belville (Day 23) - Toy Castle	2007	?	8.95 x 8.8 x 0.8
+390	Holiday & Event / Advent Sub-Set / Belville	7600-25	Advent Calendar 2007, Belville (Day 24) - Christmas Tree and Presents	2007	?	10.5 x 10.75 x 3.45
+390	Holiday & Event / Advent Sub-Set / Belville	7600-21	Advent Calendar 2007, Belville (Day 20) - Dog and Bowl	2007	?	8.9 x 8.75 x 2
 437	Explore / Explore Being Me	5438-1	Ladybug Rattle polybag	2002	?	? x ? x ?
 167	DUPLO / Basic Set	2398-1	Building Bucket	1994	?	? x ? x ?
 167	DUPLO / Basic Set	5536-1	Tub	2007	?	? x ? x ?
@@ -10883,17 +10883,17 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Advent Sub-Set / Star Wars	75023-9	Advent Calendar 2013, Star Wars (Day  8) - Republic Gunship	2013	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Star Wars	75023-10	Advent Calendar 2013, Star Wars (Day  9) - Republic Assault Ship	2013	?	8 x 4.5 x 0.8
 390	Holiday & Event / Advent Sub-Set / Star Wars	75023-11	Advent Calendar 2013, Star Wars (Day 10) - Clone Trooper	2013	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Star Wars	75023-12	Advent Calendar 2013, Star Wars (Day 11) - AT-TE Walker	2013	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Star Wars	75023-13	Advent Calendar 2013, Star Wars (Day 12) - Republic Dropship	2013	?	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / Star Wars	75023-12	Advent Calendar 2013, Star Wars (Day 11) - AT-TE Walker	2013	?	9 x 7 x 1.2
+390	Holiday & Event / Advent Sub-Set / Star Wars	75023-13	Advent Calendar 2013, Star Wars (Day 12) - Republic Dropship	2013	?	9 x 9 x 1.2
 390	Holiday & Event / Advent Sub-Set / Star Wars	75023-14	Advent Calendar 2013, Star Wars (Day 13) - Battle Droid	2013	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Star Wars	75023-15	Advent Calendar 2013, Star Wars (Day 14) - Geonosian Starfighter	2013	?	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / Star Wars	75023-15	Advent Calendar 2013, Star Wars (Day 14) - Geonosian Starfighter	2013	?	10.8 x 8.8 x 1
 390	Holiday & Event / Advent Sub-Set / Star Wars	75023-16	Advent Calendar 2013, Star Wars (Day 15) - Geonosian Warrior	2013	?	8 x 11 x 2
 390	Holiday & Event / Advent Sub-Set / Star Wars	75023-17	Advent Calendar 2013, Star Wars (Day 16) - Geonosian Weapons Depot	2013	?	9 x 7 x 1.2
-390	Holiday & Event / Advent Sub-Set / Star Wars	75023-18	Advent Calendar 2013, Star Wars (Day 17) - Naboo Cruiser	2013	?	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / Star Wars	75023-18	Advent Calendar 2013, Star Wars (Day 17) - Naboo Cruiser	2013	?	9 x 9 x 1.2
 390	Holiday & Event / Advent Sub-Set / Star Wars	75023-19	Advent Calendar 2013, Star Wars (Day 18) - Scout Trooper	2013	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Star Wars	75023-20	Advent Calendar 2013, Star Wars (Day 19) - Separatist Shuttle	2013	?	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / Star Wars	75023-20	Advent Calendar 2013, Star Wars (Day 19) - Separatist Shuttle	2013	?	9 x 9 x 1.2
 390	Holiday & Event / Advent Sub-Set / Star Wars	75023-21	Advent Calendar 2013, Star Wars (Day 20) - Jedi Starfighter	2013	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Star Wars	75023-22	Advent Calendar 2013, Star Wars (Day 21) - Jango Fett's Slave I	2013	?	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / Star Wars	75023-22	Advent Calendar 2013, Star Wars (Day 21) - Jango Fett's Slave I	2013	?	9 x 9 x 1.2
 390	Holiday & Event / Advent Sub-Set / Star Wars	75023-23	Advent Calendar 2013, Star Wars (Day 22) - Young Boba Fett	2013	?	8 x 11 x 2
 390	Holiday & Event / Advent Sub-Set / Star Wars	75023-24	Advent Calendar 2013, Star Wars (Day 23) - Jet Pack Sled	2013	?	10.9 x 8.9 x 1.4
 390	Holiday & Event / Advent Sub-Set / Star Wars	75023-25	Advent Calendar 2013, Star Wars (Day 24) - Santa Jango Fett	2013	?	? x ? x ?
@@ -11873,7 +11873,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 166	Educational & Dacta / Service Packs / Technic	5003111-1	Air Storage Tanks	2010	?	? x ? x ?
 166	Educational & Dacta / Service Packs / Technic	5003112-1	5.5M Cross Axles	?	?	? x ? x ?
 166	Educational & Dacta / Service Packs / Technic	5003113-1	9M Cross Axles	?	?	? x ? x ?
-166	Educational & Dacta / Service Packs / Technic	5003114-1	Specialty Connector Pegs	?	?	? x ? x ?
+166	Educational & Dacta / Service Packs / Technic	5003114-1	Specialty Connector Pegs	2009	?	? x ? x ?
 166	Educational & Dacta / Service Packs / Technic	5003115-1	3M Connector Pegs w/ Friction Ridge - Blue	?	?	? x ? x ?
 166	Educational & Dacta / Service Packs / Technic	5003116-1	Levers and Half Beams	?	?	? x ? x ?
 166	Educational & Dacta / Service Packs / Technic	5003117-1	Technic Specialty Beams	?	?	? x ? x ?
@@ -16046,7 +16046,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO / Super Heroes / Batman II	10919-1	Batcave	2020	138	35.4 x 19.1 x 7
 167	DUPLO / Cars	10924-1	Lightning McQueen's Race Day	2020	?	38.2 x 26.2 x 7
 167	DUPLO / DUPLO, Town / Construction	10930-1	Bulldozer	2020	?	19.1 x 14.1 x 9.1
-167	DUPLO / DUPLO, Town / Construction	10931-1	Truck & Tracked Excavator	2020	?	28.2 x 26.2 x 9.5
+167	DUPLO / DUPLO, Town / Construction	10931-1	Truck & Tracked Excavator	2020	154	28.2 x 26.2 x 9.5
 1100	Monkie Kid	80006-1	White Dragon Horse Bike	2020	140	35 x 19 x 6.5
 1100	Monkie Kid	80007-1	Iron Bull Tank	2020	191.06	38 x 26 x 7
 1100	Monkie Kid	80008-1	Monkie Kid's Cloud Jet	2020	222	47.6 x 27.9 x 5.9
@@ -17365,7 +17365,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1166	Games	3853-1	Banana Balance	2011	?	14 x 19.7 x 6.5
 1166	Games	3854-1	Frog Rush	2011	?	14 x 27 x 6.5
 1166	Games	3855-1	Ramses Return	2011	?	14 x 27 x 6.5
-1166	Games / NINJAGO / The Golden Weapons	3856-1	Ninjago - The Board Game	2011	?	28.8 x 27.2 x 6.7
+1166	Games / NINJAGO / The Golden Weapons	3856-1	Ninjago - The Board Game	2011	260	28.8 x 27.2 x 6.7
 1166	Games / Heroica	3858-1	Heroica - Waldurk	2011	216	19 x 27.5 x 7
 1166	Games / Heroica	3859-1	Heroica - Nathuz	2011	?	19 x 27 x 6.8
 768	Super Heroes / Avengers	76203-1	Iron Man Mech Armor	2022	30	14.1 x 15.7 x 4.5
@@ -18581,7 +18581,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 746	Collectible Minifigures / Disney / Disney 100	coldis100-1	Oswald the Lucky Rabbit, Disney 100 (Complete Set with Stand and Accessories)	2023	1.61	9.6 x 14.7 x 1.45
 746	Collectible Minifigures / Disney / Disney 100	coldis100-2	Pinocchio, Disney 100 (Complete Set with Stand and Accessories)	2023	1.61	9.6 x 14.7 x 1.1
 746	Collectible Minifigures / Disney / Disney 100	coldis100-3	Jiminy Cricket, Disney 100 (Complete Set with Stand and Accessories)	2023	1.61	9.6 x 14.7 x 1.4
-746	Collectible Minifigures / Disney / Disney 100	coldis100-4	Sorcerer's Apprentice Mickey, Disney 100 (Complete Set with Stand and Accessories)	2023	1.61	9.6 x 14.7 x 2.4
+746	Collectible Minifigures / Disney / Disney 100	coldis100-4	Sorcerer's Apprentice Mickey, Disney 100 (Complete Set with Stand and Accessories)	2023	1.61	9.6 x 14.7 x 1.85
 746	Collectible Minifigures / Disney / Disney 100	coldis100-5	Tiana, Disney 100 (Complete Set with Stand and Accessories)	2023	1.61	9.6 x 14.7 x 1.35
 746	Collectible Minifigures / Disney / Disney 100	coldis100-6	Dr. Facilier, Disney 100 (Complete Set with Stand and Accessories)	2023	1.61	9.6 x 14.7 x 1.5
 746	Collectible Minifigures / Disney / Disney 100	coldis100-7	Queen of Hearts, Disney 100 (Complete Set with Stand and Accessories)	2023	1.61	9.6 x 14.7 x 1.6
@@ -19449,7 +19449,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Space Exploration	60439-1	Space Science Lab	2024	121	28.3 x 26.3 x 7.6
 277	LEGOLAND / Construction	604-3	Excavator {La Redoute Version} (054 4132)	1971	?	10 x 6.5 x 4
 277	LEGOLAND / Vehicle / Traffic	610-5	Vintage Car {La Redoute Version} (054 4566)	1973	?	10 x 6.5 x 4
-771	Friends	562403-1	Kitten (Shadow) at Veterinary Station paper bag	2024	2.91	12 x 14 x 1.3
+771	Friends	562403-1	Shadow at Veterinary Station paper bag	2024	2.91	12 x 14 x 1.3
 768	Super Heroes / Batman The Animated Series	76271-1	Batman: The Animated Series Gotham City	2024	426	52.4 x 47.8 x 11.9
 983	Promotional	40683-1	Flower Trellis Display	2024	77.8	14 x 26 x 7
 390	Holiday & Event / Easter	40682-1	Spring Garden House	2024	72	26.2 x 14 x 7.2
@@ -19854,25 +19854,25 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars	912410-1	TIE Pilot paper bag	2024	?	11.5 x 16.5 x 1.2
 759	NINJAGO / Dragons Rising Season 2	892410-1	Zane paper bag #3	2024	?	12 x 15 x 1.6
 48	Belville / Recreation	5821-1	Pamela's Picnic Time blister pack	1997	27.99	19.1 x 19.1 x 3
-390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-2	Advent Calendar 2024, Harry Potter (Day  1) - Harry Potter and Gryffindor Tile	2024	?	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-2	Advent Calendar 2024, Harry Potter (Day  1) - Harry Potter and Gryffindor Tile	2024	?	11.25 x 9 x 1.5
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-3	Advent Calendar 2024, Harry Potter (Day  2) - Gryffindor Statue	2024	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-4	Advent Calendar 2024, Harry Potter (Day  3) - Food Table	2024	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-5	Advent Calendar 2024, Harry Potter (Day  4) - Tree	2024	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-6	Advent Calendar 2024, Harry Potter (Day  5) - Table with Book and Food	2024	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-7	Advent Calendar 2024, Harry Potter (Day  6) - Draco Malfoy and Slytherin Tile	2024	?	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-7	Advent Calendar 2024, Harry Potter (Day  6) - Draco Malfoy and Slytherin Tile	2024	?	11 x 9 x 1.5
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-8	Advent Calendar 2024, Harry Potter (Day  7) - Slytherin Statue	2024	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-9	Advent Calendar 2024, Harry Potter (Day  8) - Christmas Crackers	2024	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-10	Advent Calendar 2024, Harry Potter (Day  9) - Susan Bones and Hufflepuff Tile	2024	?	11 x 9.5 x 1.5
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-11	Advent Calendar 2024, Harry Potter (Day 10) - Hufflepuff Statue	2024	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-12	Advent Calendar 2024, Harry Potter (Day 11) - Table with Chess	2024	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-13	Advent Calendar 2024, Harry Potter (Day 12) - Hedwig and Presents	2024	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-14	Advent Calendar 2024, Harry Potter (Day 13) - Cho Chang and Ravenclaw Tile	2024	?	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-14	Advent Calendar 2024, Harry Potter (Day 13) - Cho Chang and Ravenclaw Tile	2024	?	11 x 9 x 1.5
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-15	Advent Calendar 2024, Harry Potter (Day 14) - Ravenclaw Statue	2024	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-16	Advent Calendar 2024, Harry Potter (Day 15) - Table with Drinks	2024	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-17	Advent Calendar 2024, Harry Potter (Day 16) - Choir Ghost	2024	?	11 x 9 x 1.5
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-18	Advent Calendar 2024, Harry Potter (Day 17) - Tree Base with Hogwarts Express	2024	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-19	Advent Calendar 2024, Harry Potter (Day 18) - Tree with Santa Hat	2024	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-20	Advent Calendar 2024, Harry Potter (Day 19) - Professor Flitwick and 1 Random Collectible Portrait	2024	?	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-20	Advent Calendar 2024, Harry Potter (Day 19) - Professor Flitwick and 1 Random Collectible Portrait	2024	?	11 x 8.25 x 1.5
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-21	Advent Calendar 2024, Harry Potter (Day 20) - Fireplace with 1 Random Collectible Portrait	2024	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-22	Advent Calendar 2024, Harry Potter (Day 21) - Wreath Decoration	2024	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-23	Advent Calendar 2024, Harry Potter (Day 22) - Table with Candle	2024	?	? x ? x ?
@@ -20949,7 +20949,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 842	SPEED CHAMPIONS / Cars	77255-1	Lightning McQueen	2026	59.4	26 x 14 x 6
 817	LEGO Ideas (CUUSOO)	21362-1	Mineral Collection	2025	140	38 x 26 x 7
 903	BrickHeadz / Fortnite	40884-1	Drift & Raven	2025	52	19 x 14 x 7
-1254	Braille Bricks	30711-1	Play with Braille Bricks paper bag / polybag	2025	?	20 x 19.5 x 2
+1254	Braille Bricks	30711-1	Play with Braille Bricks paper bag / polybag	2025	3.11	20 x 19.5 x 2
 976	LEGO Brand / Promotional	5009233-1	LEGO Masters Minifigure - LEGO Masters Academy Grand Opening Exclusive	2025	?	? x ? x ?
 878	Disney	40774-1	Classic Animation Scenes	2025	?	26 x 19 x 6
 143	(Other)	GearSet-2	Colors only in Gear (1999)	1999	?	? x ? x ?
@@ -21304,12 +21304,15 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1122	Botanicals	11510-1	Magnolia Branches	2026	100	28 x 26 x 6
 1122	Botanicals	11502-1	Sunflower Bouquet	2026	168	26.1 x 38.4 x 7
 878	Disney / Winnie The Pooh	43305-1	Piglet's Birthday Fun	2026	84.9	22.1 x 26 x 6.2
+167	DUPLO	10478-1	3 in 1 Creative Ramps with Vehicles	2026	482.7	55.2 x 37.5 x 12.7
 167	DUPLO / Peppa Pig	10468-1	Tractor and Market	2026	92	26.1 x 19 x 8.9
 167	DUPLO / Peppa Pig	10466-1	Train Ride with Grandpa Pig	2026	142	38 x 26 x 7
 167	DUPLO / Peppa Pig	10467-1	Family House	2026	343	35.1 x 37.5 x 11.3
+817	LEGO Ideas (CUUSOO)	21368-1	Peanuts: Snoopy's Doghouse	2026	179	26 x 38 x 9.4
 817	LEGO Ideas (CUUSOO)	21366-1	Floating Sea Otters	2026	170.9	38.5 x 26.2 x 11.7
 171	Creator / Creator Expert / Race	11375-1	Ferrari F2004 & Michael Schumacher	2026	135	37.5 x 26 x 7
 34	Space / Classic Space	40921-1	Up-Scaled Blue Astronaut Minifigure	2026	156	25.9 x 37.8 x 9
+759	NINJAGO / Legacy / Rebooted	71867-1	X-1 Ninja Charger	2026	140.3	38.1 x 26 x 7
 171	Creator / Model / Traffic	40953-1	London Bus	2026	64	26 x 13.9 x 7
 65	Star Wars / Sculptures / Star Wars The Mandalorian and Grogu	75446-1	Grogu (Mandalorian Apprentice)	2026	157	25.8 x 37.8 x 9.2
 65	Star Wars / Star Wars The Mandalorian and Grogu	75445-1	Anzellan Starship	2026	102	27.9 x 25.9 x 7.4
@@ -21352,7 +21355,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 759	NINJAGO / Dragons Rising Season 4	L0002201-1	Dragon Lloyd paper bag	2026	?	12 x 15 x 2
 988	Building Event	5010173-1	Barnes & Noble Exclusive Build - Happy Hummingbird	2026	?	18 x 28 x 6
 976	LEGO Brand / LEGO Brand Store / Grand Opening	5010172-1	LEGO Store Grand Opening	2026	?	? x ? x ?
-65	Star Wars / Mini / Star Wars The Mandalorian and Grogu	30728-1	The Razor Crest - Mini paper bag	2026	5.8	? x ? x ?
+768	Super Heroes / The Infinity Saga	76354-1	S.H.I.E.L.D. Helicarrier	2026	506.7	55 x 37.5 x 15.3
+65	Star Wars / Mini / Star Wars The Mandalorian and Grogu	30728-1	The Razor Crest - Mini paper bag	2026	5.8	17 x 18 x 3
 759	NINJAGO / Dragons Rising Season 3	L0002212-1	Zane-Mech paper bag	2026	?	15 x 19.5 x 2
 976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event	6611596-1	LEGO Brand Store Exclusive Build - Coffee Cup	2026	?	? x ? x ?
 976	LEGO Brand / Promotional	fdglobe2019-1	LEGO Familiedage 2019 Globe	2019	?	9.8 x 8.7 x 8.7
@@ -21374,9 +21378,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1359	Editions	43013-1	Kylian Mbappé - Soccer Highlights {Mbappe}	2026	91.6	26.1 x 22.1 x 7.6
 1359	Editions	43015-1	Lionel Messi - Soccer Legend	2026	159	38 x 26.2 x 9.4
 1359	Editions	43016-1	Cristiano Ronaldo - Soccer Legend	2026	150	25.8 x 38 x 9.2
+1359	Editions	43018-1	Lionel Messi - Celebration	2026	324.7	47.6 x 37.5 x 9
 1359	Editions	43027-1	Vini Jr. - Soccer Highlights	2026	90.6	26.1 x 22.1 x 7.6
 1359	Editions	43032-1	FIFA World Cup 2026 Official Emblem	2026	96.72	18.8 x 26 x 6.3
 1359	Editions	43033-1	2026 U.S. Soccer National Team Jersey	2026	95.78	26.5 x 18.9 x 9
+842	SPEED CHAMPIONS	77262-1	Ken Block's 1965 Ford Mustang Hoonicorn RTR V1	2026	61.5	26.2 x 14.1 x 6.2
+1332	Bluey	30713-1	Fancy Restaurant with Bingo paper bag	2026	5.7	17 x 18 x 2.3
+171	Creator / Basic Model / Holiday & Event / Halloween	30717-1	Fun Halloween Skeleton paper bag	2026	?	17 x 18 x 2.8
 746	Collectible Minifigures / Series 29 Minifigures	66814-1	Minifigure, Series 29 (Box of 6)	2026	52	15.4 x 8.8 x 9.3
 746	Collectible Minifigures / Series 29 Minifigures	71052-1	Minifigure, Series 29 (Complete Random Set of 1 Minifigure)	2026	8.86	9.4 x 10.7 x 2.6
 746	Collectible Minifigures / Series 29 Minifigures	71052-2	Minifigure, Series 29 (Complete Series of 12 Complete Minifigure Sets)	2026	?	? x ? x ?
@@ -21394,19 +21402,32 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 746	Collectible Minifigures / Series 29 Minifigures	col29-11	Mysterious Ronin, Series 29 (Complete Set with Stand and Accessories)	2026	8.86	9.4 x 10.7 x 2.6
 746	Collectible Minifigures / Series 29 Minifigures	col29-12	Unicorn Elf, Series 29 (Complete Set with Stand and Accessories)	2026	8.86	9.4 x 10.7 x 2.6
 422	Universal Building Set / Basic Model	11933-1	Parts for Book: Epic History polybag	2020	?	? x ? x ?
-850	Jurassic World / Jurassic Park	77984-1	Jurassic Park Jeep Wrangler	2026	?	? x ? x ?
+850	Jurassic World / Jurassic Park	77984-1	Jurassic Park Jeep Wrangler	2026	?	47.7 x 37.4 x 10.8
+850	Jurassic World / Dinosaur Fossils / Jurassic Park	77985-1	Dinosaur Fossils: Triceratops	2026	?	43.1 x 28 x 6
 988	Building Event / Star Wars / Mini / Star Wars Episode 4/5/6	TRUTIE-1	Toys &#34;R&#34; Us Exclusive Build - TIE Fighter	2014	?	? x ? x ?
 988	Building Event / Star Wars / Mini / Star Wars Episode 4/5/6	TRUXWING-1	Toys &#34;R&#34; Us Exclusive Build - X-Wing Fighter	2014	?	? x ? x ?
 983	Promotional	5010075-1	Dolphin	2026	?	15 x 15 x 4.5
 1166	Games	12006-1	Parts for Brick Like This! (Game GA23) paper bag	2025	3.3	13.8 x 12.5 x 3
+1384	Shrek	72423-1	Shrek, Donkey & Puss in Boots	2026	160	26 x 38 x 9.3
 850	Jurassic World	122506-1	Raptor Breakout paper bag	2026	?	12 x 15 x 1.5
 67	Town / City / Race	L0002222-1	Stunt Driver with Motorcycle paper bag	2026	?	? x ? x ?
+768	Super Heroes / Spider-Man Brand New Day	76346-1	Spider-Man Hero Figure	2026	140.3	38 x 26.2 x 7
+768	Super Heroes / Spider-Man Brand New Day	76350-1	Spider-Man vs. Hulk Epic Clash	2026	?	26 x 38 x 6.9
+768	Super Heroes / Spider-Man Brand New Day	76349-1	Spider-Man Prison Transport Chase	2026	94.7	26 x 22 x 7.4
 65	Star Wars / Promotional / Star Wars The Mandalorian	40917-1	The Darksaber	2026	70	25.8 x 18.8 x 4.6
-65	Star Wars / Ultimate Collector Series / Star Wars The Mandalorian	75442-1	The Mandalorian's N-1 Starfighter - UCS	2026	?	? x ? x ?
+65	Star Wars / Ultimate Collector Series / Star Wars The Mandalorian	75442-1	The Mandalorian's N-1 Starfighter - UCS	2026	385	55 x 37.6 x 8.3
+227	Harry Potter / Sculptures	76462-1	Hogwarts House Crest	2026	100.9	22 x 26 x 9.4
+227	Harry Potter / Sculptures	76469-1	Dobby the Free Elf	2026	76	19 x 26.2 x 6
+227	Harry Potter	76471-1	Knockturn Alley Wizarding Shops	2026	?	38 x 26 x 7
+227	Harry Potter / Prisoner of Azkaban	76475-1	Forbidden Forest: Expecto Patronum	2026	75	26.2 x 19.1 x 6
 65	Star Wars / Star Wars The Clone Wars	L0002235-1	Commando Droid paper bag	2026	?	12 x 15 x 1
 878	Disney / Toy Story / Toy Story 5	43304-1	Blaze's Horse Ranch	2026	101.6	28 x 26 x 5.7
 746	Collectible Minifigures / Series 29 Minifigures	71052-4	Minifigure, Series 29 (Box of 12)	2026	124	9.8 x 35.4 x 11.2
 771	Friends	66806-1	Friends Bundle Pack, 2 in 1 Adventure Gift Set (Sets 42603 and 42622) - Explore Outdoors Gift Set	2025	?	50 x 26.5 x 7.3
+227	Harry Potter / Chamber of Secrets	76473-1	Hogwarts Castle: East Wing	2026	440	37.4 x 55.2 x 11.6
+227	Harry Potter / Chamber of Secrets	76478-1	Book Nook: Dumbledore's Office	2026	174	43.1 x 28.3 x 8.8
+227	Harry Potter / Sculptures / Sorcerer's Stone	76477-1	Norbert: Hagrid's Baby Dragon	2026	97	35.2 x 18.9 x 5.7
+227	Harry Potter / Sculptures	76474-1	Hogwarts Herbology Plants	2026	?	38 x 26 x 6.8
 759	NINJAGO / Dragons Rising Season 4	L0002203-1	Dragon Nya paper bag	2026	?	? x ? x ?
 976	LEGO Brand / LEGO Brand Store / Building Event / Star Wars / Star Wars The Mandalorian and Grogu	6626049-1	LEGO Brand Store Exclusive Build - Star Wars N-1 Starfighter	2026	?	21.5 x 21.5 x 1.7
 988	Building Event / Star Wars / Star Wars The Mandalorian and Grogu	5010305-1	Barnes & Noble Exclusive Build - The Mandalorian & Grogu	2026	?	17 x 29 x 3
@@ -21414,11 +21435,117 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 801	Minecraft	L0002250-1	Blacksmith with Netherite Armor and Smithing Table paper bag	2026	?	12 x 15 x 1.5
 36	Technic / Model / Harbor	L0002290-1	Submarine paper bag	2025	?	? x ? x ?
 67	Town / City / Traffic	L0002223-1	Sweeper paper bag	2026	?	? x ? x ?
-988	Building Event	5009813-1	Toys &#34;R&#34; Us Exclusive Build - Giraffe Playtime	2025	?	? x ? x ?
+171	Creator / Basic Model / Holiday & Event / Christmas	30718-1	Cataclaws Snow Adventure paper bag	2026	?	17 x 18 x 2.5
+903	BrickHeadz / Shrek	40923-1	Shrek, Donkey & Gingy Figures	2026	?	19.4 x 14.2 x 7
+988	Building Event	5009813-1	Toys &#34;R&#34; Us Exclusive Build - Giraffe Playtime	2025	?	17.5 x 29.8 x 1.5
+390	Holiday & Event / Chinese Festivals	80121-1	Ancient Moon-Gazing Inn	2026	360	47.6 x 37.6 x 9.1
+390	Holiday & Event / Chinese Festivals	80120-1	Prosperity Carp Leaping	2026	175	38 x 25.8 x 6.8
 976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Birthday	6385444-1	LEGO Brand Store Exclusive Build - Birthday Cake	2018	?	? x ? x ?
 976	LEGO Brand / LEGO Brand Store / Promotional	6659862-1	LEGO Store 1st Anniversary Exclusive Set	2024	?	? x ? x ?
-65	Star Wars / Star Wars Episode 2	L0002245-2	Jango Fett metal box {Helmet Shaped Box Version}	2026	?	? x ? x ?
+65	Star Wars / Star Wars Episode 2	L0002245-2	Jango Fett metal box {Helmet Shaped Box Version}	2026	?	11.5 x 12.5 x 3
 65	Star Wars / Star Wars Episode 2	L0002245-1	Jango Fett metal box {Rectangular Box Version}	2026	?	9 x 12.5 x 2.1
+878	Disney	43302-1	Main Street, U.S.A.	2026	?	55.5 x 37.5 x 15.2
 65	Star Wars / Star Wars Episode 3	L0002238-1	327th Star Corps Clone Trooper paper bag	2026	?	12 x 15 x 1.6
-768	Super Heroes / Spider-Man	L0002284-1	Anti-Venom paper bag	2026	?	? x ? x ?
+768	Super Heroes / Spider-Man	L0002284-1	Anti-Venom paper bag	2026	?	12 x 15 x 1.5
 423	Classic / Supplemental	402-5	White Turntables and 4 x 8 Plates (The Building Toy)	1966	5.5	6.3 x 8.3 x 2.4
+171	Creator / Model	31383-1	Floral Perfume Bottle	2026	75	26 x 19 x 6.5
+171	Creator / Model / Creature	31386-1	Majestic Lion	2026	132	38 x 26 x 5.6
+171	Creator / Model / Pirates / Pirates IV	31387-1	Iconic Pirate Ship	2026	?	? x ? x ?
+171	Creator / Model / Creature	31388-1	Family of Koalas	2026	?	? x ? x ?
+171	Creator / Model / Recreation	31389-1	Iconic Ferris Wheel	2026	162	43 x 28 x 7
+171	Creator / Model / Creature	31393-1	Gray Wolf	2026	?	? x ? x ?
+1122	Botanicals	11505-1	Woodland Mushrooms	2026	158	38 x 26.2 x 7.1
+1122	Botanicals	11511-1	Water Lilies	2026	76	19 x 26.2 x 6
+1122	Botanicals	11514-1	Cosmos Flowers	2026	47.3	14.2 x 19.2 x 4.6
+67	Town / City / Construction	60494-1	Dump Truck & Front End Loader	2026	262	54 x 28 x 11.5
+67	Town / City / Food & Drink	60496-1	Pizza Delivery Experience	2026	124.1	38 x 26 x 5.4
+67	Town / City / Recreation	60501-1	Lava Land	2026	?	53.8 x 28 x 11.5
+67	Town / City / Traffic	60506-1	Classic Beach Streetcar	2026	157.3	38 x 26 x 9.2
+67	Town / City / Train / RC Train	60509-1	Harbor Freight Train	2026	?	? x ? x ?
+67	Town / City / Train / RC Train	60511-1	Vintage Steam Train	2026	?	43 x 28 x 7
+67	Town / City / Construction	60480-1	Backhoe Loader	2026	81.5	26 x 22 x 6
+67	Town / City / Airport	60492-1	Passenger Jet	2026	84	26 x 22 x 6
+67	Town / City / Traffic	60497-1	Drive-Through Car Wash	2026	?	38 x 26 x 7
+67	Town / City / Recreation	60512-1	Mountain Bike Adventure Van	2026	76	26 x 19 x 6
+903	BrickHeadz / Transformers	40924-1	Megatron Robot & Vehicle	2026	52	19.1 x 13.9 x 6.8
+36	Technic / Model / Race	42229-1	Fast & Furious Mitsubishi Eclipse	2026	142	38 x 26 x 6.9
+36	Technic / Model / Race	42231-1	Fast & Furious Dodge Charger R/T	2026	325	42.9 x 27.9 x 11.6
+36	Technic / Model / Race	42241-1	Bugatti Chiron Pur Sport	2026	140	38 x 26 x 6.8
+36	Technic / Model / Construction	42242-1	Mercedes-Benz Unimog U 5023 with Crane	2026	?	43.1 x 28.4 x 8.7
+771	Friends	42697-1	Creative Dollhouse Suitcase	2026	?	33 x 23.5 x 14
+771	Friends	42700-1	Candy & Cupcake Ferris Wheel	2026	?	38 x 26 x 5.5
+771	Friends	42703-1	Mermaid Roller Coaster Ride	2026	?	53.6 x 27.8 x 7.5
+771	Friends	42704-1	Heartlake City Grand Hotel	2026	?	47.7 x 37.4 x 9
+771	Friends	42705-1	Cozy Fall Forest Cabin	2026	?	47.7 x 37.5 x 6.6
+759	NINJAGO / NINJAGO Legends	71870-1	The Twin Titan Mechs	2026	356	47.8 x 37.4 x 9
+759	NINJAGO / NINJAGO Legends	71871-1	Battle at the Dragon's Blade	2026	166	43.1 x 28.4 x 7.1
+759	NINJAGO / NINJAGO Legends	71872-1	Ultra Dragon Battle	2026	438	51.8 x 47.4 x 9
+1309	Fortnite	77079-1	Tomatohead	2026	67.7	20.7 x 19.3 x 4.5
+1309	Fortnite	77080-1	Supply Drop	2026	?	22 x 26 x 6
+1309	Fortnite	77081-1	KIT	2026	?	28 x 43 x 8.7
+1309	Fortnite	77082-1	Rave Cave	2026	456	55.4 x 37.4 x 11.5
+801	Minecraft	21592-1	Chicken Jockey Desert Attack	2026	?	20.4 x 18.9 x 7.1
+801	Minecraft	21594-1	The Skeleton	2026	104	22 x 26 x 9.5
+801	Minecraft	21595-1	The Ender Dragon	2026	128.5	38 x 26 x 5.5
+801	Minecraft	21596-1	Evoker Village Attack	2026	153.8	43 x 28 x 6.1
+801	Minecraft	21597-1	Ghast Station	2026	?	28 x 43 x 7
+801	Minecraft	21598-1	Underwater Adventure	2026	?	? x ? x ?
+801	Minecraft	21593-1	First Night Adventure	2026	?	? x ? x ?
+878	Disney / Disney Princess / Moana	43292-1	Pua	2026	167.38	38 x 26 x 7
+878	Disney / Disney Princess / Moana	43293-1	Kakamora	2026	?	26 x 22 x 6
+878	Disney / Disney Princess / Moana	43282-1	Village House & Boat	2026	?	20.4 x 19 x 4.4
+878	Disney / Lilo & Stitch	43296-1	Stitch & Scrump	2026	?	38 x 26 x 5.5
+878	Disney / Lilo & Stitch	43280-1	Beach Fun with Lilo & Stitch	2026	66.5	26.1 x 19 x 4.5
+878	Disney / Disney Princess / Beauty and the Beast	43289-1	Belle & the Beast's Enchanted Castle	2026	?	22 x 26 x 6
+878	Disney / Disney Princess / Aladdin	43295-1	Jasmine's Jewelry Box	2026	100	28 x 26 x 5.8
+878	Disney / Disney Princess / Tangled	43297-1	Rapunzel's Castle	2026	?	37.4 x 36 x 9
+878	Disney / Disney Princess / Tangled	43294-1	Rapunzel's Mini Tower	2026	56.05	20.3 x 19 x 4.4
+878	Disney / Disney Princess / Cinderella	43283-1	Cinderella Animal Friends Castle	2026	?	26 x 22 x 6
+878	Disney / Disney Princess / The Little Mermaid	43299-1	Ariel's Royal Wedding Boat	2026	?	38.1 x 26.1 x 6.9
+903	BrickHeadz / Toy Story	40860-1	Toy Story	2026	127.2	35.7 x 19.2 x 7
+903	BrickHeadz / Disney / Alice in Wonderland	40925-1	Alice in Wonderland	2026	126.09	35.4 x 19.3 x 7
+1332	Bluey	11216-1	Grannies with Bingo and Bluey	2026	?	19 x 14 x 4.4
+1332	Bluey	11217-1	Brick-Built Bluey Family	2026	208.31	43 x 28 x 7
+1332	Bluey	11221-1	School with Rusty and Bluey	2026	?	26 x 19 x 4.4
+1203	Sonic the Hedgehog	40926-1	SEGA Genesis Console	2026	132	25.8 x 22 x 9.4
+842	SPEED CHAMPIONS	77260-1	Fast & Furious Toyota Supra MK4	2026	?	26 x 14 x 6
+842	SPEED CHAMPIONS	77261-1	Ferrari 499P	2026	?	26.2 x 14.1 x 6
+759	NINJAGO / Dragons Rising Season 4	71862-1	Lloyd's Dragon Mech Battle Pack	2026	29.84	12 x 14.3 x 4.3
+759	NINJAGO / Dragons Rising Season 4	71863-1	Zilvar and Grimtak	2026	55.5	26.3 x 14.1 x 4.6
+759	NINJAGO / Dragons Rising Season 4	71864-1	Kai and Cole's Combiner Vehicles	2026	91	26 x 19 x 9
+759	NINJAGO / Dragons Rising Season 4	71865-1	Zane's Ice Dragon Battle	2026	?	? x ? x ?
+759	NINJAGO / Dragons Rising Season 4	71868-1	Wyldfyre's Transforming Dragon Mech	2026	154	43.1 x 28.2 x 6
+759	NINJAGO / Dragons Rising Season 4	71869-1	Land Bounty	2026	290	37.5 x 35.4 x 9
+771	Friends	42676-1	Fun Water Park Day	2026	?	26 x 22 x 6
+771	Friends	42682-1	Nature Glamping Cabin	2026	?	? x ? x ?
+771	Friends	42690-1	Forest Tea Party	2026	?	? x ? x ?
+771	Friends	42693-1	Creative Flower Shop	2026	?	26 x 22 x 7.3
+771	Friends	42694-1	Pizza Truck	2026	?	19 x 14 x 6.9
+771	Friends	42701-1	Koala Habitat & Care Center	2026	?	43 x 28 x 6
+771	Friends	42702-1	Spinning Flower & Fairy Teacup Ride	2026	?	35.2 x 19 x 5.7
+171	Creator / Model	31390-1	Floral Art Painting	2026	66.5	26 x 19 x 4.5
+171	Creator / Model	31391-1	Fashion Bag with Storage	2026	74	26 x 19 x 6
+171	Creator / Model	31392-1	Music Decor Piano	2026	92.5	26 x 22 x 7.4
+65	Star Wars / Helmet Collection / Star Wars The Mandalorian and Grogu	75458-1	Imperial Remnant AT-RT Driver Helmet	2026	128	18.8 x 35.3 x 11.6
+65	Star Wars / Sculptures / Star Wars Episode 4/5/6	75461-1	Up-Scaled Darth Vader Minifigure	2026	160	26.2 x 38 x 9.2
+171	Creator / Creator Expert / Traffic	11380-1	Road Bike	2026	311	47.6 x 37.5 x 6.6
+629	Architecture	21066-1	New York City - The Big Apple	2026	286	35 x 37.5 x 9.5
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	11377-1	Minas Tirith	2026	1957	37.8 x 52 x 34.7
+789	The Hobbit and The Lord of the Rings / The Lord of the Rings	40893-1	Grond	2026	?	20.5 x 19 x 6
+167	DUPLO / Bluey	10469-1	Pizza Girls with Muffin and Bluey	2026	?	28 x 26 x 11.6
+423	Classic	11045-1	Creative Colorful Bricks	2026	174	38 x 26 x 11.5
+167	DUPLO / Super Heroes / Spidey and his Amazing Friends	10464-1	Team Spidey Webquarters	2026	?	42.9 x 27.9 x 8.4
+167	DUPLO	10480-1	Discovery Forest with Wild Animals	2026	?	55.2 x 37.5 x 11.3
+167	DUPLO	10472-1	Animal Building Game	2026	?	53.7 x 27.8 x 11.5
+167	DUPLO / Disney / Disney Princess / Frozen	10462-1	Frozen Creative Box with Elsa and Olaf	2026	?	? x ? x ?
+167	DUPLO / Basic Set	10479-1	My First Colorful Creative Box	2026	?	28.2 x 26 x 11.5
+768	Super Heroes / Iron Man and his Awesome Friends	11209-1	Ultron vs. Iron Man	2026	?	20.3 x 18.9 x 4.6
+768	Super Heroes / Iron Man and his Awesome Friends	11211-1	Loki vs. Team Iron Man	2026	?	26 x 22.2 x 6
+759	NINJAGO	L0002214-1	Jay vs. Mutation Monster metal box	2026	?	12.5 x 9 x 2
+801	Minecraft	L0002251-1	Cactus Knight with Breeze paper bag	2026	?	12 x 15 x 1.5
+1359	Editions	43017-1	McLaren Mastercard F1 Team Oscar Piastri Helmet	2026	?	38 x 26 x 7
+1359	Editions	43023-1	McLaren Mastercard F1 Team Lando Norris Helmet	2026	?	? x ? x ?
+768	Super Heroes / Batman II	L0002272-1	Bane with Prison Cell paper bag	2026	?	12 x 14.5 x 2
+36	Technic / Model / Riding Cycle	L0002292-1	Motorcycle paper bag	2026	?	? x ? x ?
+768	Super Heroes / Avengers	L0002278-1	Hulk vs. Red Hulk metal box	2026	?	12.5 x 9 x 2.3
+771	Friends	L0002265-1	Nugget at Veterinary Station paper bag	2026	?	? x ? x ?
