@@ -1,6 +1,6 @@
 package io.github.followsclosely.bricklink.dto;
 
-import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
+import tools.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 import lombok.Data;
 
 @Data
