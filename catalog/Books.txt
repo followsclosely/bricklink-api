@@ -1149,6 +1149,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1167	Magazine, LEGO Club	mag2008uk3	Lego Club Magazine UK 2008 Issue 3	2008	53	26.7 x 20.4 x 0.2
 462	Magazine	mag2006UK2	Lego Magazine UK 2006 Issue 2	2006	53	26.7 x 20.5 x 0.2
 331	Comic Book / BIONICLE	biocom10.11	Bionicle #10/11 March April 2003 The Coming Of The Kal! and A Matter of Time double issue	2003	64	16.9 x 26 x 0.2
+331	Comic Book / Racers	b02rac04uk	Racers Official Guide and Comic Book - Official Racing Programme 4 (419.5793-GB)	2002	17	? x ? x ?
+331	Comic Book / Racers	b02rac03uk	Racers Official Guide and Comic Book - Official Racing Programme 3 (419.0696-GB)	2002	18	? x ? x ?
 462	Magazine	mag2008uk1	Lego Magazine UK 2008 Issue 1	2008	52	20.4 x 26.7 x 0.2
 462	Magazine	mag2008uk2	Lego Magazine UK 2008 Issue 2	2008	53	20.4 x 26.7 x 0.2
 462	Magazine	mag2009janbm	Lego Magazine 2009 January-February (BrickMaster Edition)	2009	75	20.5 x 27 x 0.3
@@ -1643,7 +1645,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1167	Magazine, LEGO Club	mag2011juljr	Lego Club Jr. Magazine 2011 Jul - Aug	2011	30	20.5 x 26.5 x 0.4
 317	Idea Book / Train	b82train	Information Card - Ideas for Track Layout for Retail (93.147)	1982	?	? x ? x ?
 1102	Sticker Book / Adventurers	701274	Adventurers Stick-on Action Set	1999	130	30.5 x 37.7 x 0.3
-331	Comic Book / Racers	4179434	Racers Official Guide and Comic Book - Programa Oficial de Carreras 1 (417.9434-ES)	2002	30	14.5 x 21 x 0.1
+331	Comic Book / Racers	b02rac01es	Racers Official Guide and Comic Book - Programa Oficial de Carreras 1 (417.9434-ES)	2002	30	14.5 x 21 x 0.1
 766	Activity Book / NINJAGO / The Golden Weapons	b11njo02uk	NINJAGO - The Chosen Four (English - UK Edition)	2011	159	20 x 28.4 x 1
 594	Puzzle Book	OffAnn2012	Official Annual 2012	2011	460	22 x 29.5 x 0.8
 572	LEGOLAND Parks	b80llpg	LEGOLAND Denmark Park Guide 1980	1980	?	? x ? x ?
@@ -1696,7 +1698,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1167	Magazine, LEGO Club	mag2011jul	Lego Magazine 2011 Jul - Aug (Club Edition) (WO# 2733)	2011	150	20.3 x 26.5 x 0.2
 331	Comic Book / Hero Factory	hfcom03	Hero Factory Comic Book - Issue 3 2011 - Savage Planetz	2011	?	15 x 21 x 0
 1167	Magazine, LEGO Club	mag11wc04	Lego Club Magazine (Asia/Pacific) 2011 No.4	2011	?	20.5 x 26.5 x 0
-331	Comic Book / Racers	4184387	Racers Official Guide and Comic Book - Offizielles Racing-Programm 2 (418.4387-DE)	2002	18	14.8 x 21 x 0.1
+331	Comic Book / Racers	b02rac02de	Racers Official Guide and Comic Book - Offizielles Racing-Programm 2 (418.4387-DE)	2002	18	14.8 x 21 x 0.1
 332	Informational Book / Star Wars	b11sw06	Star Wars - The Visual Dictionary: Excerpted Edition	2011	230	15.1 x 18 x 1.1
 766	Activity Book / Town / City	AB102011NL	City - In De Grote Stad (Dutch Edition)	2011	126	20.6 x 29.2 x 1.8
 576	Curriculum Activity Book / Educational & Dacta / DUPLO	9651bc1	Set 9651 Activity Card - Parts Inventory	1995	23	29.8 x 21 x 0.1
@@ -2072,7 +2074,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1167	Magazine, LEGO Club	mag2013may	Lego Club Magazine 2013 May - June (WO# 5933)	2013	?	26.5 x 20.3 x 2
 332	Informational Book / Technic	6033794	Technic Pull Back Leaflet (6033794 / 6033795)	2013	15	12.6 x 17 x 0.1
 552	Coloring Book / Town / City / Fire	5000700	Coloring Book, City Fire	2013	48	10.5 x 12 x 0
-331	Comic Book / Racers	4179431	Racers Official Guide and Comic Book - Offizielles Racing-Programm 1 (417.9431-DE)	2002	18	? x ? x ?
+331	Comic Book / Racers	b02rac01de	Racers Official Guide and Comic Book - Offizielles Racing-Programm 1 (417.9431-DE)	2002	18	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta / eLAB	9684bc1	Set 9684 Cover and Upper Parts Tray Organizer Card (4.216.534)	2003	27	34 x 26 x 0
 576	Curriculum Activity Book / Educational & Dacta / eLAB	9684bc2	Set 9684 Activity Booklet 2 - Lower Parts Tray Organizer Card (4.180.643)	2003	30	34 x 26 x 0
 576	Curriculum Activity Book / Educational & Dacta / MINDSTORMS	9786bc1	Set 9786 Cover and Upper Parts Tray Organizer Card	2003	32	34 x 26 x 0
@@ -2211,7 +2213,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 766	Activity Book / Friends	9780723271222	Friends - Olivia's Rainbow	2013	179	20.4 x 28.9 x 0.3
 766	Activity Book / Town / City	AB012013NL	City - Waar is de pizzabezorger? (Dutch Edition)	2013	218	24.3 x 31.6 x 0.3
 1102	Sticker Book / NINJAGO	9781409314011	NINJAGO - Quest for the Silver Fangs	2012	191	20.5 x 29 x 0.2
-594	Puzzle Book / LEGENDS OF CHIMA	9780723275831	Official Legends of Chima Annual 2014	2013	448	22.1 x 29 x 1.2
+766	Activity Book / LEGENDS OF CHIMA	b13loc20uk	LEGENDS OF CHIMA - 2014 Official Annual (Hardcover) (English - UK Edition)	2013	448	22.1 x 29 x 1.2
 332	Informational Book	b82ff	Facts & Figures, 1982 - 2nd edition	1982	?	? x ? x ?
 332	Informational Book	b84ff	Facts & Figures, 1984 - 7th edition	1984	?	? x ? x ?
 332	Informational Book	b84ps	Product Safety, 1984	1984	?	? x ? x ?
@@ -5732,7 +5734,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 766	Activity Book / NINJAGO	b19njo04uk	NINJAGO - Way of the Ninja (Softcover) (English - UK Edition)	2019	120	20.3 x 28.5 x 2.8
 766	Activity Book / NEXO KNIGHTS	b19nex01uk	NEXO KNIGHTS - Digital Duel (Softcover) (English - UK Edition)	2019	120	20.3 x 28.5 x 2.8
 766	Activity Book / Super Heroes	b16sh01uk	DC Comics Super Heroes - The Otherworldly League (Softcover) (English - UK Version)	2016	171	20.6 x 28.8 x 1.5
-331	Comic Book / Racers	4193889	Racers Official Guide and Comic Book - Offizielles Racing-Programm 4 (419.3889-DE)	2002	?	15 x 21 x 0.1
+331	Comic Book / Racers	b02rac04de	Racers Official Guide and Comic Book - Offizielles Racing-Programm 4 (419.3889-DE)	2002	?	15 x 21 x 0.1
 576	Curriculum Activity Book / Educational & Dacta / DUPLO	4226800a	Set 9040 Activity Card 1	2004	?	21 x 30 x 0
 576	Curriculum Activity Book / Educational & Dacta / DUPLO	4226800b	Set 9040 Activity Card 2	2004	?	21 x 30 x 0
 576	Curriculum Activity Book / Educational & Dacta / DUPLO	4226801	Set 9040 Map - Multiple Languages	2004	?	23 x 30.5 x 0
@@ -6008,6 +6010,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1021	Magazine, City	mag2022cty02cz	City Magazine 2022 Issue 2 (Czech)	2022	109	21 x 28 x 0.13
 1063	Magazine, Super Heroes / Avengers	mag2022shav13de	Avengers Magazine 2022 Issue 13 (German)	2022	?	21 x 28 x 0.13
 1025	Magazine, Star Wars	mag2022sw86de	Star Wars Magazine 2022 Issue 86 (German)	2022	?	21 x 28 x 0.13
+331	Comic Book / Racers	b02rac04cz	Racers Official Guide and Comic Book - Závodní program (419.2769-CZ)	2002	20	14.8 x 21 x 0.1
 1021	Magazine, City	mag2022cty05nl	City Magazine 2022 Issue 5 (Dutch)	2022	104	21 x 28 x 0.2
 462	Magazine	dni81v1i1	Design News Innovations 1981 Volume 1 Issue 1	1981	?	? x ? x ?
 462	Magazine	dni78v1n2	Design News Innovations 1978 Volume 1 Number 2	1978	?	? x ? x ?
@@ -6188,6 +6191,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 572	LEGOLAND Parks	b10llukpg	LEGOLAND Windsor Park Guide 2010 with Map	2010	19	10 x 21 x 0.2
 572	LEGOLAND Parks	b13llukpg1	LEGOLAND Windsor Resort Guide 2013 (20 July - 2 September)	2013	29	10 x 21 x 0.2
 766	Activity Book / Harry Potter	b22hp09	Harry Potter - 5-Minute Harry Potter Builds - book only entry	2022	310	? x ? x ?
+331	Comic Book / Racers	b02rac04pl	Racers Official Guide and Comic Book - Część 4	2002	?	? x ? x ?
 331	Comic Book / Super Heroes / Avengers	com2022shav09de	Avengers Comic 2022 Issue 9 (German)	2022	?	17 x 26 x 0.3
 1025	Magazine, Star Wars	mag2022sw91de	Star Wars Magazine 2022 Issue 91 (German)	2022	?	21 x 28 x 0.5
 331	Comic Book / NINJAGO	com2022njo48de	NINJAGO Comic 2022 Issue 48 (German)	2022	?	17 x 26 x 1

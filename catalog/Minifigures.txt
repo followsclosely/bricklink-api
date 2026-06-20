@@ -14927,7 +14927,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Core	njo0795	Bone King - Large Bone, Cape	2023	4.18
 759	NINJAGO / Crystalized	njo0796	Lloyd (Golden Oni) - Hair	2022	4.3
 759	NINJAGO / Crystalized	njo0797	Jay (Golden Dragon) without Wings	2022	4.9
-771	Friends	frnd0588	Friends Olly - White Paisley Shirt, Lavender Shoulder Bag, Light Bluish Gray Trousers, Dark Blue Shoes	2023	2.7
+771	Friends	frnd0588	Friends Olly - White Paisley T-Shirt, Lavender Shoulder Bag, Light Bluish Gray Trousers, Dark Blue Shoes	2023	2.7
 771	Friends	frnd0589	Friends Paisley - Dark Pink Hoodie, Sand Blue Trousers Bell-Bottoms, Medium Lavender Shoes	2023	3.3
 771	Friends	frnd0590	Friends Nadia - Medium Azure and Yellow Vest, Medium Azure Skirt, Dark Pink Shoes	2023	3.8
 1100	Monkie Kid	mk113	Monkie Kid - Bright Light Orange Robe, Dark Turquoise Neck Bracket and Clip, Angry / Happy	2023	4.15
@@ -17907,7 +17907,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1347	One Piece	op022	Sanji Vinsmoke - Chef Overalls	2025	3.55
 1347	One Piece	op019	Roronoa Zoro - Dark Blue Shirt, Black Bandana	2025	3.45
 67	Town	twn531	Gamer - Male, Light Bluish Gray Hoodie, Blue Legs, Dark Orange Hair	2025	3.54
-65	Star Wars / Star Wars Episode 2	sw1433	Jango Fett - Nougat Head, Plain Arms	2025	4.2
+65	Star Wars / Star Wars Episode 2	sw1433	Jango Fett - Nougat Head, Plain Arms, Helmet with Black Detail Lines on Right Side	2025	4.2
 390	Holiday & Event / Halloween	hol375	Farmer - Male, Medium Nougat Overalls over Sand Green Shirt, Medium Nougat Legs, Dark Brown Fedora, Sweat	2025	3.66
 768	Super Heroes / Spider-Man	sh1061	Hobgoblin - Flexible Rubber Cape	2025	4.62
 768	Super Heroes / Spider-Man	sh1062	Mary Jane - Medium Nougat Jacket, Red Hair	2025	3.87
@@ -18690,7 +18690,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1197	BrickLink Designer Program	bdp302	Gold Mine Bandit - Female, Black Suit Jacket with White Button Up Shirt, Black Lower Body Skirt, Dark Red Side Swept Hair	2026	4.46
 1197	BrickLink Designer Program	bdp303	Gold Mine Miner - Male, Dark Tan Shirt with Reddish Brown Apron, Reddish Brown Legs, Flat Cap and Backpack	2026	4.21
 1197	BrickLink Designer Program	bdp304	Gold Mine Worker - Female, Dark Green Open Jacket, Sand Blue Legs, Dark Brown Coiled Hair with Bun	2026	4.1
-1197	BrickLink Designer Program	bdp305	Gold Mine Miner - Female, Medium Nougat Overalls over Sand Green Shirt, Dark Tan Legs with Molded Reddish Brown Boots, Dark Brown Fedora	2026	3.73
+1197	BrickLink Designer Program	bdp305	Gold Mine Miner - Female, Medium Nougat Overalls over Sand Green Shirt, Reddish Brown Boots, Dark Brown Fedora	2026	3.73
 1197	BrickLink Designer Program	bdp306	Gold Mine Miner - Male, White Shirt with Reddish Brown Vest, Reddish Brown Legs, Dark Brown Fedora, Dark Blue Bandana	2026	3.79
 67	Town / City / Construction	cty1998	Construction Worker - Male, Dark Bluish Gray Overalls over Reddish Orange Safety Jacket with Reflective Stripes, Dark Bluish Gray Legs, Red Construction Helmet, Lopsided Grin and Scuff	2026	3.35
 768	Super Heroes / Batman II	sh1123	Batman - Black Suit, Yellow Belt with Medium Nougat Details, Cowl with White Eyes, Flexible Rubber Cape	2026	4.74
@@ -18788,6 +18788,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Dragons Rising Season 4	njo1075	Ice Monster	2026	4.86
 67	Town / City / Traffic	cty2004	Street Sweeper - Male, Neon Yellow Safety Vest with Reflective Stripes, Olive Green Legs, Dark Blue Cap	2026	3.41
 67	Town	twn550	Taco Chef	2026	3.9
+65	Star Wars / Star Wars Episode 2	sw1433a	Jango Fett - Nougat Head, Plain Arms, Helmet with Black Detail Lines on Left Side	2025	4.2
 1359	Editions	edi008	Soccer Player - Female, US Team, Stripes Jersey	2026	4.3
 1359	Editions	edi009	Soccer Player - Female, US Team, Stars Jersey	2026	3.7
 227	Harry Potter / Chamber of Secrets	hp617	Hermione Granger - Gryffindor Robe Clasped, Black Skirt, Black Short Legs with Dark Bluish Gray Stripes, Grin / Cat Face	2026	4
@@ -18814,7 +18815,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City	cty2008	Passenger Plane Pilot - Female, Dark Blue Suit with Tie, Bright Light Yellow Ponytail	2026	3.64
 768	Super Heroes / The Infinity Saga	sh1128	Captain America - Dark Blue Suit, Printed Arms	2026	3.57
 759	NINJAGO / Tournament of Elements	njo1071	Elemental Master of Shadow (Dusk)	2026	3.84
-759	NINJAGO / Legacy	njo1069	General Cryptor - Legacy	2026	?
+759	NINJAGO / Legacy	njo1069	General Cryptor - Legacy	2026	4.33
 759	NINJAGO / Legacy	njo1070	Kai ZX - Legacy, Head Wrap	2026	3.82
 759	NINJAGO / NINJAGO Legends	njo1067	Nate	2026	4.79
 759	NINJAGO / NINJAGO Legends	njo1065	Jin	2026	4.44
@@ -18831,11 +18832,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 878	Disney	dis203	Main Street, U.S.A. Emporium Seller	2026	4.1
 878	Disney	dis204	Main Street, U.S.A. Park Guest - Female, Red Star Wars Sweater with Stormtrooper, Black Legs	2026	4.43
 878	Disney	dis205	Main Street, U.S.A. Park Guest - Female, Medium Azure Sweater with Ant, Lime Hoodie with Dark Pink Water Lily on Back, Dark Turquoise Legs	2026	4.59
-878	Disney	dis206	Main Street, U.S.A. Park Guest Child - Boy, Toy Story Sweater with Alien and Rocket on Back, Dark Green Short Legs	2026	3.24
+878	Disney	dis206	Main Street, U.S.A. Park Guest Child - Boy, Toy Story Shirt with Alien and Rocket on Back, Dark Green Short Legs	2026	3.24
 878	Disney	dis207	Main Street, U.S.A. Park Guest - Male, Red Spider-Man Top, Dark Blue Legs	2026	3.48
 878	Disney	dis208	Main Street, U.S.A. Park Guest Child - Girl, Blue Overalls with Flounder, Blue Short Legs	2026	4.06
 878	Disney	dis209	Main Street, U.S.A. Park Guest - Female, Dark Pink Mickey Mouse Sweater, Medium Azure Legs	2026	4.02
-878	Disney	dis210	Main Street, U.S.A. Park Guest - Male, Medium Azure Stitch Sweater with Surfboard on Back, Dark Blue Legs	2026	3.5
+878	Disney	dis210	Main Street, U.S.A. Park Guest - Male, Medium Azure Stitch Shirt with Surfboard on Back, Dark Blue Legs	2026	3.5
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor159	Peregrin Took (Pippin) - Black Surcoat, Dark Green Cape	2026	3.56
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor158	Denethor	2026	4.23
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	lor160	Faramir	2026	4.3
@@ -18854,6 +18855,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / Dragons Rising Season 4	njo1078	Sora - Headphones	?	3.92
 759	NINJAGO / Dragons Rising Season 4	njo1079	Acid Monster - Legs	?	4.55
 768	Super Heroes / The Infinity Saga	sh1129	Maria Hill - Dark Blue Suit, Printed Arms	2026	3.63
+759	NINJAGO / Dragons Rising Season 4	njo1081	Wyldfyre - Gold Chest Armor, Shoulder Armor, Belt Scabbard	?	?
 768	Super Heroes / The Infinity Saga	sh1130	Hawkeye - Black Suit, Quiver	2026	3.95
 1384	Shrek	shr001	Puss in Boots	2026	5.21
 1309	Fortnite	fort021	Funk Ops	2026	4.54
@@ -18862,6 +18864,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1309	Fortnite	fort024	Aura	2026	4.06
 1309	Fortnite	fort025	Evie	2026	3.5
 1309	Fortnite	fort026	KIT	?	3.79
+759	NINJAGO / NINJAGO Legends	njo1082	Oni Warrior - Sand Blue Torso, Black Legs	?	3.87
 390	Holiday & Event / Chinese Festivals	hol421	Teahouse Owner	2026	3.46
 390	Holiday & Event / Chinese Festivals	hol422	Businessman - Dark Red Vest, Dark Brown Hair and Legs	2026	3.63
 390	Holiday & Event / Chinese Festivals	hol423	Inn Owner	2026	3.97
@@ -18878,13 +18881,16 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1332	Bluey	blu008	Bingo - Chef Toque	2026	4.06
 759	NINJAGO / NINJAGO Legends	njo1084	Jin - Twin Titan Mech Suit	2026	4.08
 759	NINJAGO / NINJAGO Legends	njo1085	Mira - Twin Titan Mech Suit	2026	4.14
-227	Harry Potter / Half-Blood Prince	hp631	Harry Potter - Light Bluish Gray Hoodie Open, Sand Blue Legs	?	3.5
-227	Harry Potter / Half-Blood Prince	hp632	Hermione Granger - Warm Pink Jacket, Dark Tan Legs	?	4.59
-227	Harry Potter / Half-Blood Prince	hp633	Madam Potage	?	4.43
-227	Harry Potter / Half-Blood Prince	hp634	Mr. Borgin - Dark Bluish Gray Jacket, Light Bluish Gray Legs	?	3.6
-227	Harry Potter / Half-Blood Prince	hp635	Narcissa Malfoy - Dress with Dark Silver Highlights, Black Skirt, Smile	?	4.13
-227	Harry Potter / Half-Blood Prince	hp636	Fenrir Greyback - Dark Brown Long Hair	?	3.89
-759	NINJAGO / NINJAGO Legends	njo1087	Oni Warrior - Legends	2026	3.93
+842	SPEED CHAMPIONS	sc147	Ken Block	?	3.74
+842	SPEED CHAMPIONS	sc148	Brian O'Conner	?	3.5
+227	Harry Potter / Prisoner of Azkaban	hp630	Sirius Black - Dark Brown Hair, Sand Blue Jacket over Tattered Striped Shirt, Printed Legs	?	3.8
+227	Harry Potter / Half-Blood Prince	hp631	Harry Potter - Light Bluish Gray Hoodie Open, Sand Blue Legs	2026	3.5
+227	Harry Potter / Half-Blood Prince	hp632	Hermione Granger - Warm Pink Jacket, Dark Tan Legs	2026	4.59
+227	Harry Potter / Half-Blood Prince	hp633	Madam Potage	2026	4.43
+227	Harry Potter / Half-Blood Prince	hp634	Mr. Borgin - Dark Bluish Gray Jacket, Light Bluish Gray Legs	2026	3.6
+227	Harry Potter / Half-Blood Prince	hp635	Narcissa Malfoy - Dress with Dark Silver Highlights, Black Skirt, Smile	2026	4.13
+227	Harry Potter / Half-Blood Prince	hp636	Fenrir Greyback - Dark Brown Long Hair	2026	3.89
+759	NINJAGO / NINJAGO Legends	njo1087	Oni Warrior - Blue Violet Torso, Reddish Brown Legs	2026	3.93
 67	Town / City / Construction	cty2009	Construction Worker - Male, Dark Bluish Gray Overalls over Reddish Orange Safety Jacket with Reflective Stripes, Dark Bluish Gray Legs with Knee Pads, Red Construction Helmet, Goatee	2026	3.34
 67	Town / City / Construction	cty2010	Construction Worker - Female, Reddish Orange Safety Jacket with Reflective Stripes, Dark Bluish Gray Legs with Knee Pads, Red Construction Helmet with Dark Brown Ponytail Hair, Smirk	2026	3.62
 759	NINJAGO / Dragons Rising Season 4	njo1088	Zane - Dragons Rising, Tunic with Dragon Head, No Armor	2026	3.45
@@ -18893,13 +18899,23 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Traffic	cty2013	Fisherman - Dark Tan Vest over Orange Shirt, Olive Green Legs, Dark Blue Beanie, Dark Orange Hair	2026	3.78
 67	Town / City / Traffic	cty2014	Surfer - Female, White Tank Top Cropped, Dark Turquoise Shorts, Black Hair Short Tousled	2026	3.83
 67	Town / City / Traffic	cty2015	Ice Cream Vendor - Female, White Shirt with Dark Turquoise Stripes, Medium Nougat Legs, Dark Orange Hair, Green Glasses	2026	4.05
+227	Harry Potter / Chamber of Secrets	hp637	Albus Dumbledore - Dark Red Robe with Copper Leaves, White Hair, Printed Arms	?	4.8
+545	FIRST LEGO League	fst057	Mine Cart Driver - Female, Medium Nougat Overalls over Sand Green Shirt, Reddish Brown Boots, Dark Brown Fedora	2025	3.76
 67	Town / City / Food & Drink	cty2016	Pizza Delivery Driver - Female, Dark Red Legs, Dark Brown Hair Mid-Length	2026	3.68
 67	Town / City / Food & Drink	cty2017	Pizza Chef - Male, Tan Legs, Black Hair	2026	3.26
 67	Town / City / Food & Drink	cty2018	Pizza Delivery Driver - Male, Light Bluish Gray Legs, Dark Tan Hair	2026	3.49
 67	Town / City / Food & Drink	cty2019	Pizza Restaurant Patron - Female, Dark Pink Hoodie, Sand Blue Legs, Dark Orange Hair	2026	3.9
 67	Town / City / Food & Drink	cty2020	Child - Girl, Bright Green Sweater with Bright Light Yellow Zigzag Lines, Hearing Aid, Tan Short Legs, Dark Brown Hair with Pigtails	2026	3.32
-878	Disney / Disney Princess / Tangled	dp243	Rapunzel - Micro Doll, Lavender Dress	?	2.34
-878	Disney / Disney Princess / Tangled	dp244	Flynn Rider - Micro Doll, Dark Turquoise Jacket	?	1.85
+878	Disney / Disney Princess / Tangled	dp243	Rapunzel - Micro Doll, Lavender Dress	2026	2.34
+878	Disney / Disney Princess / Tangled	dp244	Flynn Rider - Micro Doll, Dark Turquoise Jacket	2026	1.85
 759	NINJAGO / Dragons Rising Season 4	njo1089	Nya - Dragons Rising, Tunic with Dragon Head, Hair, Belt Scabbard	2026	4.22
 67	Town / City / Recreation	cty2021	Mountain Bike Cyclist - Male, Blue Jacket with Dark Blue and Lime Diagonal Stripes, Dark Blue Legs, Reddish Brown Hair	2026	3.57
 67	Town / City / Recreation	cty2022	Mountain Bike Cyclist -  Female, Dark Turquoise Jacket, Dark Purple Legs, Dark Brown Ponytail	2026	3.63
+878	Disney / Disney Princess	dp245	Cinderella - Bright Light Blue and Metallic Light Blue Dress, Bright Light Orange Hair, Reddish Brown Eyebrows	2026	2.89
+768	Super Heroes / Spider-Man Brand New Day	sh1139	Hotdog Vendor	2026	4.3
+768	Super Heroes / Spider-Man Brand New Day	sh1134	Spider-Man - Suit with Dark Azure Highlights, Printed Dark Blue Arms, Red Boots	2026	3.1
+768	Super Heroes / Spider-Man Brand New Day	sh1138	Hulk - Giant, Reddish Brown Pants with Frayed Edges	2026	30.85
+771	Friends	frnd0897	Friends Aliya - Sand Blue Vest, Blue Skirt, Metallic Light Blue Shoes	2026	3.38
+771	Friends	frnd0898	Friends Olly - White T-Shirt Checkered with Pizza Slice, Dark Orange Shorts, Metallic Light Blue Shoes, Red Hat	2026	2.87
+771	Friends	frnd0899	Friends Liann - Reddish Orange and White Top, Medium Lavender Trousers Bell-Bottoms, Dark Turquoise Shoes	2026	3.12
+771	Friends	frnd0900	Friends Nova - Dark Turquoise Sleeveless Hoodie, Dark Blue Trousers Bell-Bottoms, Dark Tan Shoes, Sunglasses	2026	3.25

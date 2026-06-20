@@ -1232,7 +1232,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 160	Sticker Sheet / Town / Town Jr.	4322818	Sticker Sheet, Lego City Images Sheet	2000	5	14.9 x 21 x 0
 160	Sticker Sheet	TLC01	Sticker Sheet, The Lego Club Launch Command Sheet	1995	?	13 x 24 x 0
 503	Poster / Town	p94eut	Town Poster 1994 European (992583/992683-EU)	1994	27	60 x 42 x 0.02
-1113	Office Supplies	cal90usbc	Calendar, 1990 Official Builders Club (US)	1990	70	28.6 x 21 x 0.1
+1113	Office Supplies	cal90usbc	Calendar, 1990 - The Official Builders Club (US)	1990	70	28.6 x 21 x 0.1
 445	Patch & Pin	pa04	Patch, Iron-On from Brick Kicks Magazine	?	?	? x ? x ?
 399	Storage / DUPLO	Backpack3616	Duplo Storage Backpack On the Move Black with Police Station pattern	2002	325	10 x 5 x 11
 399	Storage / DUPLO	Backpack3617	Duplo Storage Backpack On the Move Red with Hospital Pattern	2002	325	27 x 27 x 13
@@ -1365,7 +1365,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 160	Sticker Sheet / BIONICLE	4255516	Sticker Sheet, Bionicle Vahki Nuurakh Promotional	2004	10	15 x 21 x 1
 334	Key Chain / Town	KCP04	Female with LEGO on Front and Nvidia sticker on Back Key Chain - E3 Expo 2005 Promo	2005	10	? x ? x ?
 334	Key Chain / (Other)	KCP05	Minifigure Male with LEGO on Front and Nvidia sticker on Back Key Chain - E3 Expo 2005 Promo	2005	10	? x ? x ?
-1113	Office Supplies	cal92usbc	Calendar, 1992 Official Builders Club (US)	1992	67	27 x 15 x 0.1
+1113	Office Supplies	cal92usbc	Calendar, 1992 - Official Builders Club, Time Travelers (US)	1992	67	27 x 15 x 0.1
 683	Glued Model / LEGOLAND Parks	4260544	Legoland Merlin Model (Glued)	2005	754	14 x 33.5 x 19
 683	Glued Model / LEGOLAND Parks	4260546	Captain Red Beard Model (Glued)	2005	690	? x ? x ?
 334	Key Chain / Holiday & Event / Christmas	4204330	Santa Key Chain with 2 x 2 Lego Logo Tile	?	?	? x ? x ?
@@ -1384,7 +1384,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1113	Office Supplies	o90bgpbc	Brick Graph Paper, Exclusive for LEGO Builders Club, 1990 - Pilgrims	1990	21.6	? x ? x ?
 175	Food & Drink	851502	Ice Cube Tray Bricks (Yellow)	2005	79.7	? x ? x ?
 334	Key Chain / Star Wars	850354	Yoda Key Chain with Lego Logo Tile, Modified 3 x 2 Curved with Hole	2005	14	? x ? x ?
-1113	Office Supplies	cal91usbc	Calendar, 1991 (Birthday Surprise - Exclusive for LEGO Builders Club)	1991	40.27	? x ? x ?
+1113	Office Supplies	cal91usbc	Calendar, 1991 - Official Builders Club, Birthday Surprise (US)	1991	40.27	? x ? x ?
 472	Card, Postcard / Space / Blacktron I	pc90bc1	Postcard - Space, Blacktron I Set 1875 (Exclusive for Lego Builders Club)	1990	4	14.8 x 10.5 x 0.02
 472	Card, Postcard / Castle / Forestmen	pc90bc2	Postcard - Castle Forestmen Set 1877-1 (Exclusive for Lego Builders Club)	1990	4	14.8 x 10.5 x 0.02
 472	Card, Postcard / Town	pc90bc3	Postcard - Town Set 1876 Postcard (Exclusive for Lego Builders Club)	1990	4	14.8 x 10.5 x 0.02
@@ -2242,6 +2242,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 14	Magnet / Town	magchef	Magnet, Minifigure Chef - Curly Moustache, Black Legs	2006	?	? x ? x ?
 14	Magnet / Racers	magrace	Magnet, Minifigure Racer Driver - Red with White Balaclava, Red Helmet Printed	2006	?	? x ? x ?
 14	Magnet / Sports / Soccer	magsoc086	Magnet, Minifigure Soccer Player Red/White Team with Shirt #2	2006	?	? x ? x ?
+252	Game / Town / Classic Town	93042d	Gewinn' ein Flugticket ins LEGOLAND nach Dänemark Board Game (93.042-D)	1981	?	? x ? x ?
 334	Key Chain	KC094	Lego Logo Both Sides on 5 x 5 Clear Plastic - Square Key Chain	?	?	? x ? x ?
 445	Patch & Pin	patch17	Patch, Sew-On Cloth Square, I'm a LEGO Builder	1980	3	7.7 x 7.7 x 0.3
 472	Card, Postcard / LEGOLAND Parks	pcK1209	Postcard - Legoland Parks, Birkenhead Point Lego Centre - Amsterdam	1984	4	14.5 x 10.3 x 0.02
@@ -6067,6 +6068,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 503	Poster / Space / Classic Space	p79spes	Space Poster Large 1979 Legoland Espacial (28.432-1978)	1979	10	42 x 29.7 x 0
 503	Poster / Town	p89est	Town Poster 1989 Spanish (921348-E) Catalog in back with Prices in Pesetas	1989	10	42 x 29.7 x 0
 503	Poster / Town	p91est	Town Poster 1991 Spanish with Contest on Reverse (921797-E)	1991	10	29.7 x 42 x 0
+252	Game / Town / Classic Town	93042e	El gran juego de la Ciudad LEGOLAND Board Game (93.042-E)	1981	25	594 x 42 x 0
 503	Poster / Town	p95est	Town Poster 1995 Spanish with Board Game on Reverse (924.017-E)	1995	35	42 x 59.4 x 0
 252	Game / Town	GA16	Town Board Game with Cards - Spanish (922529-E)	1993	80	21 x 29.7 x 0
 472	Card, Postcard	pc82sves	Postcard - Survey / Receive a Free Minifigure Key Chain (Encuesta)	1982	8	14.8 x 10.5 x 0
@@ -6901,7 +6903,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 996	Card, Greeting Card / Holiday & Event / Christmas	ccukbc2	Christmas Card - Year Unknown (Exclusive for UK Lego Builders Club)	?	?	? x ? x ?
 399	Storage / BIONICLE	bb0237pb01	Canister Lid, Bionicle Toa with Bionicle Game Pattern (Sticker) - Gear 00747	1999	23	? x ? x ?
 646	Electronics	DSicase	Armor Case for Nintendo DSi, without Tiles	2011	66	? x ? x ?
-646	Electronics	DSgamecase	Game Case for Nintendo DS Game with Studs in Same Color as Case	?	18	? x ? x ?
+646	Electronics	DSgamecase	Game Case for Nintendo DS Game with Studs in Same Color as Case	?	18	5 x 4 x 1.8
 517	Watch / Racers	9001772	Watch Set, Racers	2011	86	? x ? x ?
 333	Card, Game Card / NINJAGO	4643456	NINJAGO Masters of Spinjitzu Deck #2 Game Card 124 - Gate of Crowns! - International Version	2012	2	6.4 x 8.8 x 0.03
 333	Card, Game Card / NINJAGO	4643455	NINJAGO Masters of Spinjitzu Deck #2 Game Card 104 - Falcon Eye - International Version	2012	2	6.4 x 8.8 x 0.03
@@ -8883,7 +8885,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1008	Decoration / LEGOLAND Parks	76058LLFL	License Plate LEGOLAND Florida with 'BRICKFAN' Pattern	2013	66	12 x 6 x 0
 175	Food & Drink / LEGOLAND Parks	LLFCool1	Can & Bottle Cooler Legoland Florida	?	13	? x ? x ?
 175	Food & Drink / LEGOLAND Parks	TR132	Cup / Mug Travel Mug 'Legoland Florida ATH Dept'	?	212	? x ? x ?
-1008	Decoration	Crosstext	Cross, Plastic Glow In Dark with Text	1952	19	11 x 18 x 1
+1008	Decoration	crosstext	Cross, Plastic Glow In Dark with Embossed 'VED KORSET LIDELSENS SYMBOL, BLEV TÆNDT ET LYS, EN NAADESOL.'	1952	19	11 x 18 x 1
 241	Pen / Collectible Minifigures / Series  1 Minifigures	LGO2272	Super Wrestler Retractable Pen	2015	82	9.5 x 22 x 4
 512	Toy, Plush / LEGOLAND Parks	4202190	Snake Plush with Magnets	2003	34	? x ? x ?
 512	Toy, Plush / LEGOLAND Parks	4202186	Cow Plush with Magnets	2003	52	? x ? x ?
@@ -14200,7 +14202,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 648	Bedding / Town / City	LEG821	Bedding, Duvet Cover and Pillowcase (140 x 200 cm) - City Crook	2019	1009	29 x 24.2 x 4
 648	Bedding / Friends	LEG878	Bedding, Duvet Cover and Pillowcase (140 x 200 cm) - Friends Best Friends Beach	2019	1049	29 x 24.2 x 4
 175	Food & Drink	legolandmenu	Menu De Legoland Expresse 1976	1976	60	25.4 x 19.1 x 0
-399	Storage	bygglek01	Storage Box Bygglek 32 x 44	2020	1417.5	37 x 6.5 x 26.5
+399	Storage	34993c01	Storage Box Bygglek 32 x 44	2020	1417.5	37 x 6.5 x 26.5
 399	Storage	bygglek02	Storage Box Bygglek 22 x 32	2020	891	27.5 x 6.5 x 21
 399	Storage	bygglek03	Storage Box Bygglek - Set of 3	2020	552	19.5 x 13.5 x 12.5
 1003	Paper, Forms & Surveys / Architecture	124788-10fr	Survey Included with Set 21009 (French)	2011	3	12.5 x 19.8 x 0.5
@@ -14216,7 +14218,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 399	Storage	35015	Storage Box Bygglek 11 x 16, Side Walls	2020	66.45	8.8 x 5.3 x 12.8
 399	Storage	35016	Storage Box Bygglek 11 x 16, Top	2020	30.2	8.76 x 1.13 x 12.73
 399	Storage	35014c01	Storage Box Bygglek 11 x 16	2020	118.35	12.8 x 8.8 x 5.75
-543	Clothing, Adult / Classic	shoeclassic	Shoe - Classic Adidas ZX 8000 Sneaker Adult	2020	?	? x ? x ?
+543	Clothing, Adult / Classic	shoeclassic1	Shoe - Classic Adidas ZX 8000 Sneaker Adult (Multicolored)	2020	?	? x ? x ?
 1111	Clothing Accessories / LEGOLAND Parks	LLWin01	Lanyard with LEGOLAND Windsor Resort Pattern	2012	13	? x ? x ?
 445	Patch & Pin / LEGOLAND	Pin237	Pin, LEGOLAND Polar Bear 2 Piece Badge	2013	5	? x ? x ?
 445	Patch & Pin / LEGOLAND / Pharaoh's Quest	Pin238	Pin, LEGOLAND Pharaoh's Quest 2 Piece Badge	2013	5	? x ? x ?
@@ -21070,7 +21072,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 334	Key Chain	854305	Chrome Silver Minifigure Key Chain	2025	12.5	4.5 x 8 x 1.2
 334	Key Chain / Collectible Minifigures / Series 25 Minifigures	854306	Mushroom Sprite Key Chain	2025	?	? x ? x ?
 334	Key Chain / Jurassic World	854316	Baby Ankylosaurus Key Chain	2025	?	? x ? x ?
-1008	Decoration / Botanicals	109865	Vase, Trans-Clear with White Top	2025	?	? x ? x ?
+1008	Decoration / Botanicals	109865	Vase, Rectangular with White Top	2025	?	? x ? x ?
 380	Card, Trading Card / Jurassic World	jw3deLE01	Jurassic World Trading Card Game (German) Series 3 - # LE1 Power T. rex Limited Edition	2023	2.2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Jurassic World	jw3deXXL1	Jurassic World Trading Card Game (German) Series 3 - # XXL1 Dunkler Carnotaurus (Oversize XXL)	2023	4.5	9 x 12.8 x 0.02
 380	Card, Trading Card / Jurassic World	jw3depack3	Jurassic World Trading Card Game (German) Series 3 - Starterpack	2023	365	24 x 41 x 2.5
@@ -24100,7 +24102,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / NINJAGO	njo02de106	NINJAGO Trading Card Game (German) Series 2 - # 106 Elementar-Stärke	2017	3	6.2 x 8.8 x 0.02
 380	Card, Trading Card / NINJAGO	njo02de107	NINJAGO Trading Card Game (German) Series 2 - # 107 Auge des Falken	2017	3	6.2 x 8.8 x 0.02
 380	Card, Trading Card / NINJAGO	njo02de108	NINJAGO Trading Card Game (German) Series 2 - # 108 Mutprobe	2017	3	6.2 x 8.8 x 0.02
-998	Playmat / FIRST LEGO League	45829MAP	Playmat, FIRST LEGO League (FLL) - Set 45829 Unearthed	2025	408	202 x 113.7 x 0.02
+998	Playmat / FIRST LEGO League	45829MAP	Playmat, FIRST LEGO League (FLL) - Set 45829 Unearthed (6562303)	2025	408	202 x 113.7 x 0.02
 380	Card, Trading Card / NINJAGO	njo02de109	NINJAGO Trading Card Game (German) Series 2 - # 109 Feuerwirbel	2017	3	6.2 x 8.8 x 0.02
 380	Card, Trading Card / NINJAGO	njo02de110	NINJAGO Trading Card Game (German) Series 2 - # 110 Hypnose	2017	3	6.2 x 8.8 x 0.02
 380	Card, Trading Card / NINJAGO	njo02de111	NINJAGO Trading Card Game (German) Series 2 - # 111 Entspannung	2017	3	6.2 x 8.8 x 0.02
@@ -24188,3 +24190,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / NINJAGO	njo02de196	NINJAGO Trading Card Game (German) Series 2 - # 196 Puzzle Piece	2017	3	6.2 x 8.8 x 0.02
 380	Card, Trading Card / NINJAGO	njo02de197	NINJAGO Trading Card Game (German) Series 2 - # 197 Puzzle Piece	2017	3	6.2 x 8.8 x 0.02
 380	Card, Trading Card / NINJAGO	njo02de198	NINJAGO Trading Card Game (German) Series 2 - # 198 Zeitzwillinge	2017	3	6.2 x 8.8 x 0.02
+543	Clothing, Adult / Classic	shoeclassic2	Shoe - Classic Adidas ZX 8000 Sneaker Adult (Single Color)	2020	?	? x ? x ?
+1008	Decoration / Botanicals	5010393	Vase, Round with White Wildflowers Pattern	2026	?	? x ? x ?
+1008	Decoration / Botanicals	5010392	Vase, Round with White Bricks Pattern	2026	?	? x ? x ?

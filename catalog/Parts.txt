@@ -170,7 +170,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 3	Boat	2627	Boat, Bow Top 6 x 6 x 1		3	6 x 6 x 1
 113	Window	2634c02	Window 2 x 8 x 2 Boat with Fixed Trans-Light Blue Glass		5.52	2 x 8 x 2
 105	Support	2635	Support Crane Stand Double		21.5	16 x 4 x 16
-74	Crane	2636	Crane Harbor Derrick 16		3.16	? x ? x ?
+74	Crane	2636	Crane Harbor Derrick 16L with Single Attachment		3.16	? x ? x ?
 138	Technic, Link	2637	Technic, Link 1 x 16		1.77	1 x 16 x 0
 74	Crane	2638	Crane Harbor Derrick 10 (Top Part)		3.3	? x ? x ?
 26	Plate	2639	Plate 4 x 4 Corner		1.75	4 x 4 x 0
@@ -1027,7 +1027,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 102	Scala	33037	Scala Support L 18 Studs Long		17.3	? x ? x ?
 102	Scala	33036	Scala Support L 40 Studs Long		31.3	? x ? x ?
 102	Scala	6944	Scala Utensil Tray with Handles 5 x 4 x 1	71879	2.3	? x ? x ?
-37	Tile	6881	Tile 6 x 6		3.3	6 x 6 x 0
+37	Tile	6881	Tile 6 x 6 without Bottom Tubes		3.3	6 x 6 x 0
 102	Scala	6995	Scala Vase 3 x 3	06995	0.5	? x ? x ?
 102	Scala	6890c01pb01	Scala Wall, Vertical Grooved 40 x 2 x 22 2/3 with Door with White Tudor Frame on Light Salmon Background Pattern	75589pb01	260	40 x 2 x 22.67
 102	Scala	6906	Scala Wall, Arched 18 x 2 x 22 2/3		60	18 x 2 x 22.67
@@ -3533,7 +3533,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 102	Scala	6882	Scala Kitchen Sink 6 x 6		6	? x ? x ?
 102	Scala	33011	Scala Accessories - Complete Sprue - Table Containers (Wine, Milk, 2 Jars)		3.95	? x ? x ?
 107	Tap	6936	Tap 1 x 2 with Dual Handles, Large / Sink Faucet	71780	0.7	? x ? x ?
-39	Tile, Decorated	6881pb01	Tile 6 x 6 with Dark Gray Circles / Cooktop Burners Pattern		2.5	6 x 6 x 0
+39	Tile, Decorated	6881pb01	Tile 6 x 6 without Bottom Tubes with Dark Gray Circles / Cooktop Burners Pattern		2.5	6 x 6 x 0
 102	Scala	6992	Scala Utensil Frying Pan		1.56	? x ? x ?
 102	Scala	6969	Scala Towel Bar 1 x 5		0.4	1 x 5 x 1
 102	Scala	33088	Scala Table Top, 14 x 7 Half Round		13	14 x 7 x 0.67
@@ -4551,9 +4551,9 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 162	Cloth	sailbb15	Cloth Sail Triangular 15 x 22 with Black Thick Stripes Pattern on Both Sides		1.3	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c03pb02	Hips and Yellow Legs with Adventurers Jungle Blue/Red Squares Pattern (Achu)		1.16	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pabc01	Torso Adventurers Jungle Tank Top, Stains, Wrench, Anchor Tattoo Pattern / Yellow Arms / Yellow Hands		1.25	? x ? x ?
-1097	Minifigure, Torso Assembly, Decor.	973pb0042c01	Torso Adventurers Desert White Female Shirt, Jacket, Belt with Pouches Pattern / Light Gray Arms / Yellow Hands		1.24	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb0042c01	Torso Female Jacket Open over White Shirt with Buttons, Black and Brown Belt with Pouches and Buckle, Yellow Neck Pattern / Light Gray Arms / Yellow Hands		1.24	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pacc01	Torso Adventurers Jungle Necklace, Feathers, Navel Pattern (Achu) / Yellow Arms / Red Hands		1.25	? x ? x ?
-1097	Minifigure, Torso Assembly, Decor.	973pb0043c01	Torso Adventurers Desert Red and Silver Striped Undershirt and Navel Pattern / Dark Gray Arms / Yellow Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb0043c01	Torso Shirt Open over Red Tank Top with Silver Stripes, Yellow Neck and Stomach with Navel Pattern / Dark Gray Arms / Yellow Hands		1.3	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973px190c01	Torso Adventurers Desert Vest over White Shirt, Slingshot Pattern / White Arms / Yellow Hands		1.3	? x ? x ?
 638	Technic, Disk	32350pb01	Technic, Disk 5 x 5 - RoboRider Talisman Wheel, Twin Saw Mold with Robot Pattern		2.3	? x ? x ?
 638	Technic, Disk	32360pb01	Technic, Disk 5 x 5 - RoboRider Talisman Wheel, Laser Mold with Robot Pattern		2.61	? x ? x ?
@@ -5483,7 +5483,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 93	Aircraft	42608	Plate, Modified 2 x 4 Thin with Bottom Struts to Pins		3.05	4 x 4 x 3.6
 111	Wheel, Tire & Tread	x486	Tread with 30 Treads		3	? x ? x ?
 775	Slope, Curved, Decorated	30602pb006	Slope, Curved 2 x 2 Lip with Black and White Checkered Stripe Pattern		1	2 x 2 x 1
-438	Slope, Curved	44675	Slope, Curved 2 x 2 with Debossed Side Ports		1	2 x 2 x 1
+438	Slope, Curved	44675	Slope, Curved 2 x 2 with Debossed Side Ports	63277	1	2 x 2 x 1
 16	Minifigure, Headgear	2446pb04	Minifigure, Headgear Helmet Motorcycle (Standard) with Black and White Checkered Stripe and Fade Pattern		0.52	? x ? x ?
 243	Baseplate, Raised	45179	Baseplate, Raised Ramp 9 x 15 x 2 1/3		6.5	9 x 15 x 2.33
 535	Brick, Modified, Decorated	30603pb05	Brick, Modified 2 x 2 No Studs, Sloped with 6 Side Pistons Raised with Black Stylized Number 6 on White Triangle, Orange Curved Stripes Pattern		0.7	2 x 2 x 1
@@ -8356,14 +8356,14 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 119	Electric	bb1380c01	Electric RC Race Buggy Battery / Receiver Unit without Auxiliary Output		171.6	? x ? x ?
 119	Electric	bb1381c01	Electric RC Race Buggy Battery / Receiver Unit with Auxiliary Output		171	? x ? x ?
 150	Minifigure, Torso	973pa2	Torso Adventurers Desert Pharaoh Breastplate Pattern (Hotep)		0.82	? x ? x ?
-150	Minifigure, Torso	973pb0043	Torso Adventurers Desert Red and Silver Striped Undershirt and Navel Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb0043	Torso Shirt Open over Red Tank Top with Silver Stripes, Yellow Neck and Stomach with Navel Pattern		0.82	? x ? x ?
 150	Minifigure, Torso	973pb0281	Torso Safari Vest with Buttons and Pockets over White Shirt, Black Belt with Buckle, Red Neckerchief Scarf, Brown Pistol and Thin Ropes Pattern		0.82	? x ? x ?
 150	Minifigure, Torso	973pb0391	Torso Safari Shirt with Buttons and Pockets, Black Belt with Buckle, Red Neckerchief Scarf, Brown Pistol and Thin Ropes, Yellow Neck Pattern		0.82	? x ? x ?
 150	Minifigure, Torso	973pa7	Torso Shirt with Pockets, Dark Gray Buttons, and Black Collar, Belt with Buckle, Brown Strap with Pouch, Blue Cord Pattern		0.82	? x ? x ?
 150	Minifigure, Torso	973pa6	Torso Shirt with Buttons and Pockets over Blue Undershirt, Red Belt with Yellow Buckle, Neckerchief Scarf, Pen, Compass Pattern		0.82	? x ? x ?
 150	Minifigure, Torso	973pa1	Torso Shirt with Buttons, Black Belt with Yellow Buckle, Brown Suspenders, Red Bow Tie Pattern		0.82	? x ? x ?
 150	Minifigure, Torso	973px190	Torso Adventurers Desert Vest over White Shirt, Slingshot Pattern		0.82	? x ? x ?
-150	Minifigure, Torso	973pb0042	Torso Adventurers Desert White Female Shirt, Jacket, Belt with Pouches Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb0042	Torso Female Jacket Open over White Shirt with Buttons, Black and Brown Belt with Pouches and Buckle, Yellow Neck Pattern		0.82	? x ? x ?
 150	Minifigure, Torso	973pa8	Torso Jacket Open with Buttons over Tan Safari Shirt with Pockets, Black Belt with Silver Buckle and Loops, Necklace, Pen, Compass, Yellow Neck Pattern		0.82	? x ? x ?
 150	Minifigure, Torso	973paa	Torso Adventurers Jungle Two Pockets, Two Guns in Belt Pattern		0.82	? x ? x ?
 150	Minifigure, Torso	973pa4	Torso Adventurers Jungle Suit, Brown Vest, Black Tie Pattern		0.82	? x ? x ?
@@ -9589,7 +9589,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 420	DUPLO, Animal	2299c01pb01	Duplo Dog Scottish Terrier (Scottie) on Green Base		15.5	? x ? x ?
 420	DUPLO, Animal	2299c02pb01	Duplo Dog Scottish Terrier (Scottie) on Light Green Base		15.5	? x ? x ?
 3	Boat	71958	Boat, Hull Unitary 22 x 8 x 2 1/3, Base		56	? x ? x ?
-7	Brick, Modified	47976	Brick, Modified 12 x 12 with 3 Pin Holes on each Side and Peg at each Corner		30	12 x 12 x 1
+7	Brick, Modified	47976	Brick, Modified 12 x 12 with 3 Pin Holes on Each Side and Peg at Each Corner		30	12 x 12 x 1
 514	Throwing Disk	32171pb073	Throwing Disk with Bionicle Kanoka 199 Disk of Time Pattern	32533pb199	2.01	? x ? x ?
 738	Flag, Decorated	2335px21	Flag 2 x 2 Square with Flat Edge with Skull with Bandana and Cutlass on Black and Blue Background Pattern on Both Sides		0.5	? x ? x ?
 99	Rock	47991	Rock Skull 4 x 10 x 10 Panel		31	4 x 10 x 10
@@ -10052,7 +10052,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 3	Boat	50820	Boat, Hull Unitary 48 x 6 x 5 (Catamaran Half), Top		56	48 x 6 x 4
 3	Boat	50821c01	Boat, Hull Unitary 48 x 6 x 5 (Catamaran Half) with Black Top (50821 / 50820)		125.5	48 x 6 x 6
 135	Technic, Brick	32532c01	Technic, Brick 6 x 8 Open Center with 2 Fixed Rotatable Friction Pins on 3 Sides		9	? x ? x ?
-7	Brick, Modified	52040	Brick, Modified 12 x 12 with 3 Pin Holes on each Side and Axle Holes in Corners		29.6	12 x 12 x 1
+7	Brick, Modified	52040	Brick, Modified 12 x 12 with 3 Pin Holes on Each Side and Axle Hole at Each Corner		29.6	12 x 12 x 1
 461	Panel, Decorated	4215pb029	Panel 1 x 4 x 3 with SW Silver and Red Pattern Left (Sticker) - Set 4482		2.5	1 x 4 x 3
 506	DUPLO, Brick, Promotional	4066pb201	Duplo, Brick 1 x 2 x 2 with LEGO World Record Tower Pattern		8	1 x 2 x 2
 506	DUPLO, Brick, Promotional	4066pb202	Duplo, Brick 1 x 2 x 2 with Miniland New York 2005 Pattern		8	1 x 2 x 2
@@ -14821,7 +14821,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 461	Panel, Decorated	4215bpb03	Panel 1 x 4 x 3 - Hollow Studs with Fish, Coral and Crab Pattern (Sticker) - Set 1782		2.5	1 x 4 x 3
 461	Panel, Decorated	30080c01pb03	Panel 4 x 3 x 3 with Trans-Light Blue Porthole with White 'XR2' in Black Oval Pattern (Sticker) - Set 1782		3.11	4 x 3 x 3
 579	Windscreen, Decorated	2620pb02	Windscreen 4 x 4 x 3 Canopy with Yellow Submarine on Blue Triangle with Black Stripes Pattern (Sticker) - Set 1782		4.7	4 x 4 x 3
-74	Crane	2636pb01R	Crane Harbor Derrick 16 with White 'XR1' in Black Oval Pattern Model Right Side (Sticker) - Set 1782		3.3	? x ? x ?
+74	Crane	2636pb01R	Crane Harbor Derrick 16L with Single Attachment with White 'XR1' in Black Oval Pattern Model Right Side (Sticker) - Set 1782		3.3	? x ? x ?
 33	Slope, Decorated	4460pb007	Slope 75 2 x 1 x 3 with Two Fish Pattern (Stickers) - Set 1782		1.76	2 x 1 x 3
 778	Tile, Modified, Decorated	30350apb002	Tile, Modified 2 x 3 with 2 Clips Angled with Red Armor with White Triangle Pattern (Sticker) - Set 7701		1.08	2 x 3 x 0
 775	Slope, Curved, Decorated	6091pb001L	Slope, Curved 2 x 1 x 1 1/3 with Recessed Stud with White 'EJECT' on Dark Red Background Pattern Model Left Side (Sticker) - Set 7701		0.66	2 x 1 x 1.33
@@ -14853,7 +14853,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 39	Tile, Decorated	3068pb0145	Tile 2 x 2 with Vodafone, Bridgestone and Shell Logos Pattern (Sticker) - Sets 8362 / 8375	3068bpb0145	0.45	2 x 2 x 0
 118	Brick, Decorated	3003pb011	Brick 2 x 2 with Black Number 1 Narrow Font Pattern (Sticker) - Set 8389		1.17	2 x 2 x 1
 118	Brick, Decorated	3002pb11	Brick 2 x 3 with Black '2' Pattern (Sticker) - Set 8389		1.94	2 x 3 x 1
-118	Brick, Decorated	3002pb12	Brick 2 x 3 with Black '3' Pattern (Sticker) - Set 8389		1.94	2 x 3 x 1
+118	Brick, Decorated	3002pb12	Brick 2 x 3 with Black Number 3 Pattern (Sticker) - Set 8389		1.94	2 x 3 x 1
 506	DUPLO, Brick, Promotional	4066pb300	Duplo, Brick 1 x 2 x 2 with Star Wars Weekend 2007 Pattern		8	1 x 2 x 2
 150	Minifigure, Torso	973pb0440	Torso Harry Potter Professor Snape 7 Dark Purple Buttons Pattern		0.82	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb0440c01	Torso Harry Potter Professor Snape 7 Dark Purple Buttons Pattern / Black Arms / Light Nougat Hands		1.25	? x ? x ?
@@ -15262,7 +15262,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 150	Minifigure, Torso	973ps5a	Torso Black Vest and White Shirt with Light Nougat Neck Pattern		0.82	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973ps5ac01	Torso Black Vest and White Shirt with Light Nougat Neck Pattern / Tan Arms / Light Nougat Hands		1.25	? x ? x ?
 160	Sticker Sheet	8273stk01	Sticker Sheet for Set 8273 - (60402/4512009)	60402	1.34	? x ? x ?
-74	Crane	59807	Crane Harbor Derrick 16 with Double Attachment	28174	3.16	16 x 1 x 1
+74	Crane	59807	Crane Harbor Derrick 16L with Double Attachment	28174	3.16	16 x 1 x 1
 2	Baseplate	x1454px1	Baseplate 14 x 20 with Set 355 Dots Pattern		24	14 x 20 x 0
 160	Sticker Sheet	8144.1stk01	Sticker Sheet for Set 8144-1, Michael and Felipe - (57859/4496161)	57859	6	? x ? x ?
 142	Minifigure, Body Wear	60749	Minifigure Beard, Braided with Hair in Back		0.89	? x ? x ?
@@ -17927,7 +17927,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 238	Minifigure, Head	3626pb0373	Minifigure, Head Alien with SW Neimoidian Gray Facial Lines Pattern	3626bpb0373,3626cpb0373	0.54	? x ? x ?
 150	Minifigure, Torso	973pb0580	Torso Sweater Cropped with Dark Red Bow and Trim over White Shirt with Bright Light Orange Stars, Silver Heart Pendant Necklace, Yellow Neck Pattern		0.82	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb0585c01	Torso Alien Bare Chest with Skin Folds and Dark Blue Oval Pattern / Yellow Arms / Black Hands		1.3	? x ? x ?
-238	Minifigure, Head	3626pb0329	Minifigure, Head Alien with Single Eye, Spots, and Jagged Teeth Pattern		0.54	? x ? x ?
+238	Minifigure, Head	3626pb0329	Minifigure, Head Alien with Single Eye, Spots, and Jagged Teeth Pattern	3626bpb0329	0.54	? x ? x ?
 16	Minifigure, Headgear	85942	Minifigure, Headgear Helmet Spiked Top with Grille and Open Front and Back		0.64	? x ? x ?
 578	Wedge, Decorated	6153apb07	Wedge 6 x 4 Cutout without Stud Notches with Red Number 5 Print & Red '5' Pattern on Both Sides (Stickers) - Set 6334		5.4	6 x 4 x 1
 147	Animal, Land	64800pb01c02	Tauntaun, Star Wars with Rigid Tail		20	? x ? x ?
@@ -19531,7 +19531,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 118	Brick, Decorated	6111pb005L	Brick 1 x 10 with Red Line and 'Shell' Text and Logo Left Pattern (Sticker) - Set 1252		3.8	1 x 10 x 1
 118	Brick, Decorated	2465pb06	Brick 1 x 16 with Red Line and 'Shell' Right Pattern (Sticker) - Set 1256		6.5	1 x 16 x 1
 118	Brick, Decorated	2465pb07	Brick 1 x 16 with Red Line and 'Shell' Left Pattern (Sticker) - Set 1256		6.5	1 x 16 x 1
-115	Windscreen	89762	Windscreen 7 x 4 x 2 Round Extended Front Edge		4.48	7 x 4 x 2
+115	Windscreen	89762	Windscreen 7 x 4 x 2 Round with Extended Front Edge		4.48	7 x 4 x 2
 728	Modulex, Tile, Decorated	Mx1022Apb212	Modulex, Tile 2 x 2 (no Internal Supports) with Black Calendar Week Number 6 / 9 Pattern		0.26	2 x 2 x 1
 728	Modulex, Tile, Decorated	Mx1022Apb213	Modulex, Tile 2 x 2 (no Internal Supports) with Black Calendar Week Number 60 Pattern		0.26	2 x 2 x 1
 728	Modulex, Tile, Decorated	Mx1022Apb214	Modulex, Tile 2 x 2 (no Internal Supports) with Black Calendar Week Number 54 Pattern		0.26	2 x 2 x 1
@@ -19905,7 +19905,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 578	Wedge, Decorated	47753pb009	Wedge 4 x 4 Triple Curved No Studs with Agents Logo Pattern (Sticker) - Set 8967		2	4 x 4 x 1
 1097	Minifigure, Torso Assembly, Decor.	973pb0303c02	Torso Rescue Coast Guard Logo Jacket with Pockets and Radio Pattern / Orange Arms / Dark Bluish Gray Hands		1.25	? x ? x ?
 534	Brick, Promotional	30144pb070	Brick 2 x 4 x 3 with Legoland Discovery Centre Frohe Weihnachten and Santa Claus Pattern		6.73	2 x 4 x 3
-238	Minifigure, Head	3626pb0397	Minifigure, Head Alien with Large Black Eyes, Wide Mouth And Dark Blue Spots Pattern (Atlantis Manta Ray)		0.54	? x ? x ?
+238	Minifigure, Head	3626pb0397	Minifigure, Head Alien with Large Black Eyes, Wide Mouth And Dark Blue Spots Pattern (Atlantis Manta Ray)	3626bpb0397	0.54	? x ? x ?
 16	Minifigure, Headgear	87758pb01	Minifigure, Headgear Head Cover, Manta Ray with White Pattern		1.29	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb0620c01	Torso Atlantis Manta Ray Pattern / Dark Blue Arms / Black Hands		1.24	? x ? x ?
 736	Brick, Round, Decorated	87081pb001	Brick, Round 4 x 4 with Hole with Water Level Window Pattern on Both Sides (Stickers) - Set 8188		3.04	4 x 4 x 1
@@ -20339,7 +20339,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 102	Scala	6933cpb02	Scala Accessories Bottle Simple with Sun and Flowers Pattern (Sticker) - Set 3117		0.33	? x ? x ?
 38	Tile, Modified	88646	Tile, Modified 3 x 4 with 4 Studs in Center	7319,17836	1.52	3 x 4 x 0
 160	Sticker Sheet	7207stk01	Sticker Sheet for Set 7207 - (89167/4570667)	89167	1.12	8 x 14.5 x 0
-579	Windscreen, Decorated	89762pb01	Windscreen 7 x 4 x 2 Round Extended Front Edge with SW Republic Pattern (Sticker) - Set 8085		4.48	7 x 4 x 2
+579	Windscreen, Decorated	89762pb01	Windscreen 7 x 4 x 2 Round with Extended Front Edge with SW Republic Pattern (Sticker) - Set 8085		4.48	7 x 4 x 2
 926	Cylinder, Decorated	30360pb01L	Cylinder 3 x 6 x 2 2/3 Horizontal with Dark Red Stripes and Hexagon Pattern Model Left (Stickers) - Set 8085		7.6	3 x 6 x 2.67
 926	Cylinder, Decorated	30360pb01R	Cylinder 3 x 6 x 2 2/3 Horizontal with Dark Red Stripes and Hexagon Pattern Model Right (Stickers) - Set 8085		7.6	3 x 6 x 2.67
 578	Wedge, Decorated	48933pb005	Wedge 4 x 4 Triple with Stud Notches with Six Dark Red Pinstripes Pattern (Sticker) - Set 8085		2	4 x 4 x 1
@@ -20379,7 +20379,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 14	Magnet	388c01	Magnet Brick, Modified 4 x 4 Sealed Base	11380,49555	9	4 x 4 x 1
 775	Slope, Curved, Decorated	41766pb02	Slope, Curved 8 x 2 x 2 with 4 Recessed Studs with Island Xtreme Stunts Logo Pattern (Sticker) - Set 6738		5.63	8 x 2 x 2
 778	Tile, Modified, Decorated	6179pb022	Tile, Modified 4 x 4 with Studs on Edge with Prince and Princess Pattern (Sticker) - Set 5963		2	4 x 4 x 0
-39	Tile, Decorated	6881pb02	Tile 6 x 6 with Floral Doormat Pattern (Sticker) - Set 3118		3	6 x 6 x 0
+39	Tile, Decorated	6881pb02	Tile 6 x 6 without Bottom Tubes with Floral Doormat Pattern (Sticker) - Set 3118		3	6 x 6 x 0
 102	Scala	6953pb05	Scala Wall, Panel 6 x 10 with Funky Fashion 1998 Pattern (Sticker) - Set 3118		7	6 x 10 x 0
 160	Sticker Sheet	3222stk01	Sticker Sheet for Set 3222 - (89505/4578235)	89505	?	? x ? x ?
 160	Sticker Sheet	3181stk01	Sticker Sheet for Sets 3181 - (89504/4578234)	89504	0.75	? x ? x ?
@@ -20643,7 +20643,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 534	Brick, Promotional	30144pb077	Brick 2 x 4 x 3 with Legoland Feriendorf 2010 Pattern		6.73	2 x 4 x 3
 534	Brick, Promotional	30144pb078	Brick 2 x 4 x 3 with Factory Pattern		6.73	2 x 4 x 3
 738	Flag, Decorated	777pb03	Flag on Flagpole, Wave with Japan Pattern		1.2	? x ? x ?
-39	Tile, Decorated	6881pb03	Tile 6 x 6 with Cooktop with Red Border Pattern (Sticker) - Set 3149		3	6 x 6 x 0
+39	Tile, Decorated	6881pb03	Tile 6 x 6 without Bottom Tubes with Cooktop with Red Border Pattern (Sticker) - Set 3149		3	6 x 6 x 0
 534	Brick, Promotional	30144pb079	Brick 2 x 4 x 3 with Legoland Holidays 2010 Pattern		6.73	2 x 4 x 3
 128	Train, Track	3242e	Train, Track 12V Conducting Rail Straight for 12v Remote Controlled Decoupling		8	16 x 2 x 0
 39	Tile, Decorated	3068pb0307	Tile 2 x 2 with Ogel Skull with Red Features and Blue Crosshairs Pattern (Sticker) - Set 4748	3068bpb0307	0.45	2 x 2 x 0
@@ -20880,8 +20880,8 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 741	Tail, Decorated	3479pb03L	Tail 4 x 2 x 2 with White 'S' (Stena) on Red Background Pattern on Left Side (Sticker) - Set 1548		1.2	4 x 2 x 2
 461	Panel, Decorated	4865pb031	Panel 1 x 2 x 1 with Green Recycling Arrows Pattern (Sticker) - Set 7991		0.47	1 x 2 x 1
 461	Panel, Decorated	30413pb019	Panel 1 x 4 x 1 with White 'POLICE' on Black Background Pattern (Sticker) - Set 7236-1		1.05	1 x 4 x 1
-118	Brick, Decorated	3004pb039	Brick 1 x 2 with White '1' Pattern (Sticker) - Set 7715		0.85	1 x 2 x 1
-118	Brick, Decorated	3004pb040	Brick 1 x 2 with White '2' Pattern (Sticker) - Set 7715		0.85	1 x 2 x 1
+118	Brick, Decorated	3004pb039	Brick 1 x 2 with White Number 1 Pattern (Sticker) - Set 7715		0.85	1 x 2 x 1
+118	Brick, Decorated	3004pb040	Brick 1 x 2 with White Number 2 Pattern (Sticker) - Set 7715		0.85	1 x 2 x 1
 118	Brick, Decorated	3009pb128	Brick 1 x 6 with 'Brussell - Amsterdam' Pattern (Sticker) - Set 7715		2.42	1 x 6 x 1
 118	Brick, Decorated	3009pb129	Brick 1 x 6 with 'Paris - Roma' Pattern (Sticker) - Set 7715		2.42	1 x 6 x 1
 118	Brick, Decorated	3009pb130	Brick 1 x 6 with 'Wien - Zürich' Pattern (Sticker) - Set 7715		2.42	1 x 6 x 1
@@ -21623,8 +21623,8 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 150	Minifigure, Torso	973pb0719	Torso Karate Uniform with Twisted Snakes Logo, Black Belt with Knot, Yellow Neck Pattern		0.82	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb0719c01	Torso Karate Uniform with Twisted Snakes Logo, Black Belt with Knot, Yellow Neck Pattern / White Arms / Yellow Hands		1.26	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb0066	Hips and Legs with Martial Arts Black Belt Pattern		1.16	? x ? x ?
-150	Minifigure, Torso	973pb0723	Torso Safari Shirt with Red Scarf, Belt and Water Bottle Pattern		0.82	? x ? x ?
-1097	Minifigure, Torso Assembly, Decor.	973pb0723c01	Torso Safari Shirt with Red Scarf, Belt and Water Bottle Pattern / Tan Arms / Yellow Hands		1.26	? x ? x ?
+150	Minifigure, Torso	973pb0723	Torso Safari Shirt with Pockets, Black Belt with Silver Buckle, Crossbelt with Canteen, Red Neckerchief Scarf Pattern		0.82	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb0723c01	Torso Safari Shirt with Pockets, Black Belt with Silver Buckle, Crossbelt with Canteen, Red Neckerchief Scarf Pattern / Tan Arms / Yellow Hands		1.26	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb0067	Hips and Legs with Cargo Pockets Front and Yellow Stripes Pattern		1.16	? x ? x ?
 33	Slope, Decorated	3039pb030	Slope 45 2 x 2 with Alpha Team White Grid with Red Ring Logo Pattern (Sticker) - Set 6775		1.15	2 x 2 x 1
 485	Minifigure, Torso Assembly	973c052	Torso Plain / Dark Tan Arms / Yellow Hands		1.26	? x ? x ?
@@ -24495,8 +24495,8 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 167	DUPLO	94886c01	Duplo Cannon Shooting with Axle Hole, Red Firing Button and Matching Color Base		27.3	4 x 3 x 4
 532	Wheel & Tire Assembly	56902c04	Wheel 18mm D. x  8mm with Fake Bolts and Shallow Spokes with Black Tire 30 x 10.5 Offset Tread - Band Around Center of Tread (56902 / 56897)		4.64	? x ? x ?
 150	Minifigure, Torso	973pb0945	Torso PotC Uniform Jacket over Vest with Gold Trim Pattern		0.82	? x ? x ?
-39	Tile, Decorated	6881pb04	Tile 6 x 6 with Dark Red SW Semicircles Pattern (Sticker) - Set 8039		3	6 x 6 x 0
-39	Tile, Decorated	6881pb05	Tile 6 x 6 with Dark Red Rectangle with Dark Bluish Gray Edges Pattern (Sticker) - Set 8039		3	6 x 6 x 0
+39	Tile, Decorated	6881pb04	Tile 6 x 6 without Bottom Tubes with Dark Red SW Semicircles Pattern (Sticker) - Set 8039		3	6 x 6 x 0
+39	Tile, Decorated	6881pb05	Tile 6 x 6 without Bottom Tubes with Dark Red Rectangle with Dark Bluish Gray Edges Pattern (Sticker) - Set 8039		3	6 x 6 x 0
 606	Minifigure, Head, Modified	61286pb03	Minifigure, Head, Modified SpongeBob Ice Cream Vendor Pattern		0.72	? x ? x ?
 606	Minifigure, Head, Modified	54873pb04	Minifigure, Head, Modified Patrick with Dark Orange Ice Cream Splotches Pattern		0.4	? x ? x ?
 32	Slope, Inverted	72454	Slope, Inverted 45 4 x 4 Double with 2 Holes		3.38	4 x 4 x 1
@@ -25981,7 +25981,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 39	Tile, Decorated	3069pb0194	Tile 1 x 2 with 'HA 3648' Pattern (Sticker) - Set 3648	3069bpb0194	0.25	1 x 2 x 0
 39	Tile, Decorated	3069pb0195	Tile 1 x 2 with 2 '100' Banknotes Pattern (Sticker) - Set 3661	3069bpb0195	0.25	1 x 2 x 0
 39	Tile, Decorated	3069pb0196	Tile 1 x 2 with City Bank Logo and '81792354' Pattern (Sticker) - Set 3661	3069bpb0196	0.25	1 x 2 x 0
-39	Tile, Decorated	6881pb06	Tile 6 x 6 with White 'DM 3661' on Dark Blue Background Pattern (Sticker) - Set 3661		3	6 x 6 x 0
+39	Tile, Decorated	6881pb06	Tile 6 x 6 without Bottom Tubes with White 'DM 3661' on Dark Blue Background Pattern (Sticker) - Set 3661		3	6 x 6 x 0
 890	Plate, Modified, Decorated	92593pb002	Plate, Modified 1 x 4 with 2 Studs without Groove with 'DM 3661' Pattern (Sticker) - Set 3661		0.65	1 x 4 x 0
 890	Plate, Modified, Decorated	92593pb003	Plate, Modified 1 x 4 with 2 Studs without Groove with 'CM 3661' Pattern (Sticker) - Set 3661		0.65	1 x 4 x 0
 579	Windscreen, Decorated	64453pb004	Windscreen 1 x 6 x 3 with 3 '100' Banknotes on Gold Shield, 'SECURITY' and 'CITY BANK' Pattern (Sticker) - Set 3661		5.25	1 x 6 x 3
@@ -26077,8 +26077,8 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 33	Slope, Decorated	3684apb011	Slope 75 2 x 2 x 3 - Hollow Studs with Black 'BIKe' on Lime Background Pattern (Sticker) - Set 8961		2.83	2 x 2 x 3
 578	Wedge, Decorated	52031pb033	Wedge 4 x 6 x 2/3 Triple Curved with Black '6', Scratches and Rust Pattern (Sticker) - Set 8961		3.3	4 x 6 x 0.67
 578	Wedge, Decorated	52031pb034	Wedge 4 x 6 x 2/3 Triple Curved with Hatch, Splatters and Rust Pattern (Sticker) - Set 8961		3.3	4 x 6 x 0.67
-118	Brick, Decorated	3002pb19R	Brick 2 x 3 with Black '6' Pattern Model Right Side (Sticker) - Set 8961		1.92	2 x 3 x 1
-118	Brick, Decorated	3002pb19L	Brick 2 x 3 with Black '6' Pattern Model Left Side (Sticker) - Set 8961		1.92	2 x 3 x 1
+118	Brick, Decorated	3002pb19R	Brick 2 x 3 with Black Worn Number 6 Pattern Model Right Side (Sticker) - Set 8961		1.92	2 x 3 x 1
+118	Brick, Decorated	3002pb19L	Brick 2 x 3 with Black Worn Number 6 Pattern Model Left Side (Sticker) - Set 8961		1.92	2 x 3 x 1
 775	Slope, Curved, Decorated	44126pb028R	Slope, Curved 6 x 2 with Black Number 6, White Scratches, and Dark Bluish Gray Splatters Pattern Model Right Side (Sticker) - Set 8961		2.7	6 x 2 x 1
 775	Slope, Curved, Decorated	44126pb028L	Slope, Curved 6 x 2 with Black Number 6, White Scratches, and Dark Bluish Gray Splatters Pattern Model Left Side (Sticker) - Set 8961		2.7	6 x 2 x 1
 775	Slope, Curved, Decorated	61678pb025R	Slope, Curved 4 x 1 with Black and White Danger Stripes and Splatters Pattern Model Right Side (Sticker) - Set 8961		0.93	4 x 1 x 1
@@ -27509,7 +27509,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 118	Brick, Decorated	2454pb062	Brick 1 x 2 x 5 with Electricity Danger Sign Pattern (Sticker) - Set 8639		3.5	1 x 2 x 5
 105	Support	91176pb002L	Support 2 x 2 x 13 with 5 Pin Holes with Electricity Danger Sign Pattern on Left Side (Sticker) - Set 8639		7	2 x 2 x 13
 105	Support	91176pb002R	Support 2 x 2 x 13 with 5 Pin Holes with Electricity Danger Sign Pattern on Right Side (Sticker) - Set 8639		7	2 x 2 x 13
-39	Tile, Decorated	6881pb07	Tile 6 x 6 with Clock Pattern (Sticker) - Set 8639		3	6 x 6 x 0
+39	Tile, Decorated	6881pb07	Tile 6 x 6 without Bottom Tubes with Clock Pattern (Sticker) - Set 8639		3	6 x 6 x 0
 246	Paper	101583	Paper Information Note, Battery Waggon Leaflet - 101583		?	? x ? x ?
 749	Hero Factory	98588pb01	Hero Factory Weapon, Lightning with Marbled Trans-Light Blue and Yellow Pattern		1.6	? x ? x ?
 749	Hero Factory	98594	Hero Factory Mask (Nex)		4.2	? x ? x ?
@@ -27677,7 +27677,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 39	Tile, Decorated	87079pb0084	Tile 2 x 4 with Toys "R" Us Logo Pattern (Sticker) - Set 7848		0.9	2 x 4 x 0
 39	Tile, Decorated	3068pb0591	Tile 2 x 2 with Lego Fire Car and 'CITY' and '5-12' Set Box Pattern (Sticker) - Set 7848	3068bpb0591	0.45	2 x 2 x 0
 33	Slope, Decorated	58181pb05	Slope 33 3 x 6 without Inner Walls with Computer and Radar Pattern (Sticker) - Set 6869		2.66	3 x 6 x 1
-39	Tile, Decorated	6881pb08	Tile 6 x 6 with Dark Blue SHIELD Logo Pattern (Sticker) - Set 6869		3	6 x 6 x 0
+39	Tile, Decorated	6881pb08	Tile 6 x 6 without Bottom Tubes with Dark Blue SHIELD Logo Pattern (Sticker) - Set 6869		3	6 x 6 x 0
 160	Sticker Sheet	4204stk01	Sticker Sheet for Set 4204 - (10010493/6004804)	10493	5.16	? x ? x ?
 160	Sticker Sheet	4202stk01	Sticker Sheet for Set 4202 - (10010491/6004739)	10491	0.1	? x ? x ?
 39	Tile, Decorated	87079pb0085L	Tile 2 x 4 with Avengers Logo and 'FF 1° FW' Pattern Model Left Side (Sticker) - Set 6869		0.9	2 x 4 x 0
@@ -28546,8 +28546,8 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 160	Sticker Sheet	6570stk01	Sticker Sheet for Set 6570 - (72540/4116740)		1	5.5 x 2.8 x 0
 33	Slope, Decorated	58181pb06R	Slope 33 3 x 6 without Inner Walls with ARC-170 Starfighter Pattern Model Right Side (Sticker) - Set 8088		2.66	3 x 6 x 1
 33	Slope, Decorated	58181pb06L	Slope 33 3 x 6 without Inner Walls with ARC-170 Starfighter Pattern Model Left Side (Sticker) - Set 8088		2.66	3 x 6 x 1
-74	Crane	59807pb01L	Crane Harbor Derrick 16 with Double Attachment with Black and Yellow Danger Stripes Pattern Modell Left Side (Sticker) - Set 7685		3.16	16 x 1 x 1
-74	Crane	59807pb01R	Crane Harbor Derrick 16 with Double Attachment with Black and Yellow Danger Stripes Pattern Modell Right Side (Sticker) - Set 7685		3.16	16 x 1 x 1
+74	Crane	59807pb01L	Crane Harbor Derrick 16L with Double Attachment with Black and Yellow Danger Stripes Pattern Model Left Side (Sticker) - Set 7685		3.16	16 x 1 x 1
+74	Crane	59807pb01R	Crane Harbor Derrick 16L with Double Attachment with Black and Yellow Danger Stripes Pattern Model Right Side (Sticker) - Set 7685		3.16	16 x 1 x 1
 740	Technic, Panel, Decorated	61069pb006R	Technic, Panel Engine Block Half / Side Intake with White '7685', Black 'ELECTRICS', 'WATER', and Hexagons Pattern (Sticker) - Set 7685		4.05	? x ? x ?
 740	Technic, Panel, Decorated	61069pb006L	Technic, Panel Engine Block Half / Side Intake with White '7685', Black 'HYDRAULICS', 'OIL', and Hexagons Pattern (Sticker) - Set 7685		4.05	? x ? x ?
 778	Tile, Modified, Decorated	6179pb053	Tile, Modified 4 x 4 with Studs on Edge with 4 Black Rivets on Silver Tread Plate Pattern (Sticker) - Set 7685		1.94	4 x 4 x 0
@@ -31042,8 +31042,8 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 485	Minifigure, Torso Assembly	973c060	Torso Plain / Dark Bluish Gray Arms / Reddish Brown Hands		1.25	? x ? x ?
 606	Minifigure, Head, Modified	92750pb02	Minifigure, Head, Modified SW Ewok with Medium Nougat Skull Hat and Dark Brown Pouch Pattern		2.7	? x ? x ?
 606	Minifigure, Head, Modified	64805pb05	Minifigure, Head, Modified SW Ewok with Olive Green Hood Pattern		2.35	? x ? x ?
-579	Windscreen, Decorated	89762pb02	Windscreen 7 x 4 x 2 Round Extended Front Edge with SW ARC-170 Pattern Type 1 (Sticker) - Set 8088		4.5	7 x 4 x 2
-579	Windscreen, Decorated	89762pb03	Windscreen 7 x 4 x 2 Round Extended Front Edge with SW ARC-170 Pattern Type 2 (Sticker) - Set 8088		4.5	7 x 4 x 2
+579	Windscreen, Decorated	89762pb02	Windscreen 7 x 4 x 2 Round with Extended Front Edge with SW ARC-170 Pattern Type 1 (Sticker) - Set 8088		4.5	7 x 4 x 2
+579	Windscreen, Decorated	89762pb03	Windscreen 7 x 4 x 2 Round with Extended Front Edge with SW ARC-170 Pattern Type 2 (Sticker) - Set 8088		4.5	7 x 4 x 2
 142	Minifigure, Body Wear	2587pb32	Minifigure Armor Breastplate with Leg Protection with Lion Head Pattern		0.77	? x ? x ?
 142	Minifigure, Body Wear	2587pb33	Minifigure Armor Breastplate with Leg Protection with Dragon Head Pattern		0.77	? x ? x ?
 146	Animal, Air	98388pb02	Bird, Mini Doll Style with Bright Light Orange Beak and Black Eyes Pattern		0.94	? x ? x ?
@@ -34861,7 +34861,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 150	Minifigure, Torso	973pb1814	Torso Pixelated Green Neck Pattern (Minecraft Zombie)		0.82	? x ? x ?
 160	Sticker Sheet	40194stk01	Sticker Sheet for Set 40194 - (18480/6083448)	18480	1.4	? x ? x ?
 1116	Minifigure, Legs, Modified	19732	Legs Minecraft Enderman		3.02	? x ? x ?
-39	Tile, Decorated	3068pb0895	Tile 2 x 2 with Pixelated Bright Pink, Dark Pink and Magenta Tongue Pattern (Minecraft Dragon)	3068bpb0895	0.45	2 x 2 x 0
+39	Tile, Decorated	3068pb0895	Tile 2 x 2 with Pixelated Bright Pink, Dark Pink and Magenta Tongue Pattern (Minecraft Ender Dragon)	3068bpb0895	0.45	2 x 2 x 0
 606	Minifigure, Head, Modified	19729pb006	Minifigure, Head, Modified Cube with Pixelated Dark Pink and Bright Pink Eyes Pattern (Minecraft Enderman)		0.9	? x ? x ?
 488	DUPLO, Vehicle	11248c01	Duplo Car Base 2 x 6 with Open Hitch End and Yellow Wheels with Fake Bolts		32	? x ? x ?
 39	Tile, Decorated	3068pb0896	Tile 2 x 2 with Ferrari Logo with Black Border Pattern (Sticker) - Set 40194	3068bpb0896	0.45	2 x 2 x 0
@@ -35896,7 +35896,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 812	Tile, Round, Decorated	98138pb030	Tile, Round 1 x 1 with Elves Earth Power Symbol, White Leaf Pattern		0.11	1 x 1 x 0
 18	Minifigure, Utensil	19118	Minifigure, Utensil Key, Ornamented with 1 Stud		0.49	? x ? x ?
 147	Animal, Land	11568pb02	Squirrel, Mini Doll Style with Bright Light Orange Eyes, Black Eyelashes, Nose and Mouth, Reddish Brown Face Decorations Pattern (Elves Miss Spry)		1.36	? x ? x ?
-118	Brick, Decorated	crssprt02pb113	Brick 1 x 6 without Bottom Tubes with Cross Side Supports with Dark Gold 'POST' Serif Bold Pattern	crssprt02pb34c,crssprt02pb034c	25	1 x 6 x 1
+118	Brick, Decorated	crssprt02pb113	Brick 1 x 6 without Bottom Tubes with Cross Side Supports with Dark Gold 'POST' Serif Bold Pattern	crssprt02pb34c,crssprt02pb034c	2.42	1 x 6 x 1
 160	Sticker Sheet	41073stk01a	Sticker Sheet for Set 41073 - International Version - (20221/6103898)		0.77	? x ? x ?
 13	Fence	19121	Fence 1 x 4 x 2 Ornamental with 4 Studs		1.69	1 x 4 x 2
 812	Tile, Round, Decorated	98138pb031	Tile, Round 1 x 1 with Elves Water Power Symbol, White Wave Pattern		0.11	1 x 1 x 0
@@ -38088,7 +38088,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 16	Minifigure, Headgear	20603pb01	Minifigure, Headgear Extended Head with Eyebrows and Wrinkles, Black and Blue Goggles and Messy Light Bluish Gray Hair Pattern		0.86	? x ? x ?
 16	Minifigure, Headgear	20607pb01	Minifigure, Headgear Head Top, Gargoyle Horns and Ears with Dark Bluish Gray Crack and Dots Pattern		0.71	? x ? x ?
 142	Minifigure, Body Wear	20608	Minifigure Wings Webbed Extended with Neck Bracket	38997,76431	0.87	? x ? x ?
-1098	Minifigure, Legs, Decorated	970c00pb0444	Hips and Legs with 3 Black and Gray Clasps and Black Boots Pattern		1.18	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c00pb0444	Hips and Legs with Molded Black Lower Legs / Boots and Printed Light Bluish Gray Clasps on Lab Coat Ends Pattern		1.18	? x ? x ?
 150	Minifigure, Torso	973pb2116	Torso Lab Coat with 3 Black and Gray Clasps, Belt and Magenta Stains Pattern		0.82	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb2116c01	Torso Lab Coat with 3 Black and Gray Clasps, Belt and Magenta Stains Pattern / Black Arms with Molded White Short Sleeves Pattern / Black Hands		1.25	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb2117c01	Torso Bare Chest with Crack and Speckled Stone Pattern / Light Bluish Gray Arms with Speckled Stone Pattern / Light Bluish Gray Hands		1.25	? x ? x ?
@@ -41141,7 +41141,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 39	Tile, Decorated	3068pb0988	Tile 2 x 2 with Red Rectangle, Lines, 'P4', '-8.1', '-14.6' and L54' Pattern (Sticker) - Set 75911	3068bpb0988	0.49	2 x 2 x 0
 33	Slope, Decorated	3678bpb091	Slope 65 2 x 2 x 2 with Bottom Tube with Minifigure Dress / Skirt / Robe, Dark Purple Panel and Folds Pattern		2.1	2 x 2 x 2
 16	Minifigure, Headgear	24636u	Minifigure, Headgear Head Top with Widow's Peak and 2 Large Curved Segmented Horns (Maleficent) (Undetermined Type)		0.72	? x ? x ?
-39	Tile, Decorated	6881pb09	Tile 6 x 6 with White Triangle and Lamborghini Logo Pattern (Stickers) - Set 8214		3	6 x 6 x 0
+39	Tile, Decorated	6881pb09	Tile 6 x 6 without Bottom Tubes with White Triangle and Lamborghini Logo Pattern (Stickers) - Set 8214		3	6 x 6 x 0
 775	Slope, Curved, Decorated	15068pb066	Slope, Curved 2 x 2 x 2/3 with Green Geometric Dragon Scale and Green Swirls Pattern (Sticker) - Set 41176		0.57	2 x 2 x 0.67
 775	Slope, Curved, Decorated	15068pb067	Slope, Curved 2 x 2 x 2/3 with Lime and Green Geometric Dragon Scales Pattern (Sticker) - Set 41176		0.57	2 x 2 x 0.67
 775	Slope, Curved, Decorated	15068pb068	Slope, Curved 2 x 2 x 2/3 with Lime Geometric Dragon Scales Pattern (Sticker) - Set 41176		0.57	2 x 2 x 0.67
@@ -42094,8 +42094,8 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 150	Minifigure, Torso	973pb2419	Torso SW Dark Bluish Gray Jedi Robe with Black Belt Pattern (Naare)		0.82	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb0554	Hips and Legs with 2 Pockets and Silver and Orange Stripes Pattern		1.18	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb0555	Hips and Legs with 2 Cargo Pockets and Silver and Orange Stripes Pattern		1.18	? x ? x ?
-1098	Minifigure, Legs, Decorated	970c00pb0556	Hips and Legs with 2 Cargo Pockets, Silver and Orange Stripes and Black Boots Pattern		1.18	? x ? x ?
-1098	Minifigure, Legs, Decorated	970c00pb0557	Hips and Legs with 2 Pockets, Silver and Orange Stripes and Black Boots Pattern		1.18	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c00pb0556	Hips and Legs with Molded Black Lower Legs / Boots and Printed Cargo Pockets, Dark Bluish Gray Waistband Creases, Silver and Orange Reflective Stripes Pattern		1.18	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c00pb0557	Hips and Legs with Molded Black Lower Legs / Boots and Printed Pockets, Dark Bluish Gray Waistband Creases, Silver and Orange Reflective Stripes Pattern		1.18	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb2420c01	Torso Ghostbusters Jumpsuit Female with 'A.Y.' ID Badge Pattern / Dark Tan Arms with Ghostbusters Pattern / Black Hands		1.25	? x ? x ?
 150	Minifigure, Torso	973pb2420	Torso Ghostbusters Jumpsuit Female with 'A.Y.' ID Badge Pattern		0.82	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb2421c01	Torso Ghostbusters Jumpsuit Female with 'E.G.' ID Badge and Necklace Pattern / Dark Tan Arms with Ghostbusters Pattern / Black Hands		1.25	? x ? x ?
@@ -42174,8 +42174,8 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 1097	Minifigure, Torso Assembly, Decor.	973pb2429c01	Torso Shirt with Collar, Lavender Ruffles and Button Pattern / White Arms with Molded Dark Pink Short Sleeves Pattern / White Hands		1.25	? x ? x ?
 150	Minifigure, Torso	973pb2430	Torso Female Strapless Top with Light Nougat Neck, Curved Cut Across Back Pattern		0.82	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb2430c01	Torso Female Strapless Top with Light Nougat Neck, Curved Cut Across Back Pattern / Light Nougat Arms / Light Nougat Hands		1.25	? x ? x ?
-150	Minifigure, Torso	973pb2431	Torso Jacket Formal with White Vest, White Shirt and Large Yellow Bow Tie Pattern		0.82	? x ? x ?
-1097	Minifigure, Torso Assembly, Decor.	973pb2431c01	Torso Jacket Formal with White Vest, White Shirt and Large Yellow Bow Tie Pattern / Black Arms / White Hands		1.25	? x ? x ?
+150	Minifigure, Torso	973pb2431	Torso Tuxedo Jacket Open over White Vest with Buttons, Red Cummerbund, Large Yellow Bow Tie Pattern		0.82	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb2431c01	Torso Tuxedo Jacket Open over White Vest with Buttons, Red Cummerbund, Large Yellow Bow Tie Pattern / Black Arms  / White Hands		1.25	? x ? x ?
 142	Minifigure, Body Wear	26701	Minifigure Skirt Cloth Short, 7 Points		0.1	? x ? x ?
 142	Minifigure, Body Wear	26697	Minifigure Tuxedo Tails Cloth	100097	0.1	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb0559	Hips and Legs with Bright Light Orange Lower Legs and Medium Lavender Feet Pattern		1.18	? x ? x ?
@@ -45060,7 +45060,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 488	DUPLO, Vehicle	2318c03	Duplo Siren with Blue Lights		7	? x ? x ?
 238	Minifigure, Head	3626pb1793	Minifigure, Head Dual Sided PotC Jack Sparrow Black Moustache and Goatee, Cheek Lines, 'X' Shaped Scar, Smile / Scared Pattern		0.55	? x ? x ?
 238	Minifigure, Head	3626pb1794	Minifigure, Head Dual Sided Dark Brown Eyebrows, Open Mouth Smile / Scared with Top Teeth and Red Tongue Pattern		0.55	? x ? x ?
-238	Minifigure, Head	3626pb1795	Minifigure, Head Dual Sided Female Reddish Brown Eyebrows, Nougat Freckles and Lips, Slight Smile / Bared Teeth Angry Pattern		0.55	? x ? x ?
+238	Minifigure, Head	3626pb1795	Minifigure, Head Dual Sided Female Reddish Brown Eyebrows, Nougat Freckles and Lips, Slight Smile / Bared Teeth Angry Pattern	3626cpb1795	0.55	? x ? x ?
 238	Minifigure, Head	3626pb1796	Minifigure, Head Dual Sided Alien PotC Black Cracks, Light Bluish Gray Spots and Lips, Neutral / Bared Teeth Angry Pattern		0.55	? x ? x ?
 238	Minifigure, Head	3626pb1797	Minifigure, Head Alien with PotC White Face with Gray Cracks and Spots, Bushy Black Eyebrows, White Eyes, Bared Teeth Pattern		0.55	? x ? x ?
 238	Minifigure, Head	3626pb1798	Minifigure, Head Alien with PotC White Face with Gray Cracks and Spots, Thin Black Eyebrows, White Eyes, Thin Frown Pattern		0.55	? x ? x ?
@@ -47546,7 +47546,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 917	Mini Doll, Torso	FTGpb148c01	Torso Mini Doll Girl Black Strapless Top with White V-Stripes Pattern, Light Bluish Gray Arms with Hands with 2 Bright Light Orange Stripes		0.57	? x ? x ?
 913	Mini Doll, Hair	29595pb01	Mini Doll, Hair Friends Long Wavy, Parted Bangs with Silver Tiara Pattern		1.29	? x ? x ?
 916	Mini Doll, Legs	11244c00pb10	Mini Doll Hips and Skirt Wrap with Silver Long Boots with Black Soles and Chevrons Pattern - Thick Hinge		1.15	? x ? x ?
-1098	Minifigure, Legs, Decorated	970c00pb0745	Hips and Legs with Black Boots and Long Coattail Pattern		1.27	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c00pb0745	Hips and Legs with Molded Black Lower Legs / Boots and Printed Long Coattail Pattern		1.27	? x ? x ?
 150	Minifigure, Torso	973pb2903	Torso Coat with Light Blue Tie and Gold Buttons Pattern		0.78	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb2903c01	Torso Coat with Light Blue Tie and Gold Buttons Pattern / Dark Blue Arm Left / Dark Blue Arm Right with Gold Police Badge Pattern / Black Hands		1.26	? x ? x ?
 28	Plate, Round	24866	Plate, Round 1 x 1 with Flower Edge (5 Petals)		0.09	1 x 1 x 0
@@ -48003,7 +48003,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 1098	Minifigure, Legs, Decorated	970c00pb0752	Hips and Legs with Molded White Lower Legs / Boots and Printed Green Sandals Straps Pattern	20926c00pb0752,20932c00pb0752	1.26	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb0753	Hips and Legs with Swim Trunks, Yellow R in Black Circle, Light Nougat Boots Pattern		1.26	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb0754	Hips and Legs with Silver Sides and Medium Nougat Boots Pattern		1.28	? x ? x ?
-1098	Minifigure, Legs, Decorated	970c00pb0755	Hips and Legs with 5 Black Stripes, Light Nougat Boots Pattern		1.26	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c00pb0755	Hips and Legs with Molded Light Nougat Lower Legs / Boots and Printed Vintage Bathing Suit Bottom with Black Stripes Pattern		1.26	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb0756	Hips and Legs with Yellow Stripes and '#1 Batfan' Pattern		1.17	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb0757	Hips and Legs with Dark Purple Boots with Yellow Chevron Trim Pattern		1.27	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb0758	Hips and Legs with Loincloth, Medium Nougat Knees, Reddish Brown Shoes Pattern		1.18	? x ? x ?
@@ -48136,7 +48136,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 740	Technic, Panel, Decorated	64782pb020R	Technic, Panel Plate 5 x 11 x 1 with 'EGOR DESIGN' Pattern Model Right Side (Sticker) - Set 41999		8.8	5 x 11 x 1
 740	Technic, Panel, Decorated	64782pb020L	Technic, Panel Plate 5 x 11 x 1 with 'EGOR DESIGN' Pattern Model Left Side (Sticker) - Set 41999		8.8	5 x 11 x 1
 1098	Minifigure, Legs, Decorated	970c00pb0765	Hips and Legs with Silver and Gray Space Armor Pattern		1.2	? x ? x ?
-1098	Minifigure, Legs, Decorated	970c00pb0766	Hips and Legs with 8 Yellow Stripes, Red Boots Pattern		1.25	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c00pb0766	Hips and Legs with Molded Red Lower Legs / Boots and Printed Boot Tops and Yellow Pinstripes Pattern		1.25	? x ? x ?
 847	Minifigure, Hair	36853pb01	Minifigure, Hair Combo, Long Dreadlocks, Gold Batman Cowl, Large Floppy Hat with Bright Green Rim and Red Splotch Pattern		3.31	? x ? x ?
 150	Minifigure, Torso	973pb2962	Torso Shirt, Bright Light Orange Collar and 'R' and Belt, Unlaced Pattern		0.8	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb2962c01	Torso Shirt, Bright Light Orange Collar and 'R' and Belt, Unlaced Pattern / White Arms with Molded Bright Green Short Sleeves Pattern / Bright Green Hands		1.3	? x ? x ?
@@ -48211,7 +48211,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 812	Tile, Round, Decorated	14769pb210	Tile, Round 2 x 2 with Bottom Stud Holder with Egg Yolk Pattern		0.33	2 x 2 x 0
 238	Minifigure, Head	3626pb2008	Minifigure, Head Dark Orange Furrowed Brown, Black Eyebrows and Pencil Moustache, Sneer Pattern		0.55	? x ? x ?
 238	Minifigure, Head	3626pb2009	Minifigure, Head Dual Sided Balaclava, Light Nougat Face, Silver Round Sunglasses, Scowl / Eating Mustard Pattern		0.56	? x ? x ?
-1098	Minifigure, Legs, Decorated	970c153pb06	Hips and Dark Azure Legs with White Boots and Briefs Pattern		1.28	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c153pb06	Hips and Dark Azure Legs with Molded White Lower Legs / Boots and Printed Briefs Underwear Pattern		1.28	? x ? x ?
 150	Minifigure, Torso	973pb2973	Torso Tuxedo with Light Yellow and Light Orange Trim Pattern		0.83	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb2973c01	Torso Tuxedo with Light Yellow and Light Orange Trim Pattern / White Arms / Light Nougat Hands		1.31	? x ? x ?
 150	Minifigure, Torso	973pb2974	Torso Shirt with White Shoulder Straps, 'C' with Red and Yellow Lightning Pattern		0.83	? x ? x ?
@@ -48954,7 +48954,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 16	Minifigure, Headgear	98381pb02	Minifigure, Headgear Cap, Butcher / Food Service with White Boomerang Pattern		0.28	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb3050c01	Torso with White Sash and Boomerangs Pattern / Blue Arms / Black Hands		1.25	? x ? x ?
 150	Minifigure, Torso	973pb3050	Torso with White Sash and Boomerangs Pattern		0.82	? x ? x ?
-1098	Minifigure, Legs, Decorated	970c00pb0795	Hips and Legs with Black Boots and White Boomerangs Pattern		1.18	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c00pb0795	Hips and Legs with Molded Black Lower Legs / Boots and Printed White Boomerangs Pattern		1.18	? x ? x ?
 238	Minifigure, Head	3626pb2065	Minifigure, Head Orange Eyebrows, Freckles, Grin with Buck Teeth Pattern		0.55	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb3051c01	Torso Suit Jacket with Lime Striped Vest, Bow Tie and White Fur Midriff Pattern (Easter Bunny) / Bright Light Blue Arms / White Hands		1.25	? x ? x ?
 150	Minifigure, Torso	973pb3051	Torso Suit Jacket with Lime Striped Vest, Bow Tie and White Fur Midriff Pattern (Easter Bunny)		0.82	? x ? x ?
@@ -52992,7 +52992,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 39	Tile, Decorated	3069pb0696	Tile 1 x 2 with Audio Cassette with White Letter A, Bright Pink Stripe, and Blue Trim Pattern	3069bpb0696	0.28	1 x 2 x 0
 39	Tile, Decorated	3069pb0697	Tile 1 x 2 with Red and White Ribbon, Gold Cross Medal with Dark Azure Stripe Pattern	3069bpb0697	0.25	1 x 2 x 0
 39	Tile, Decorated	3069pb0698	Tile 1 x 2 with Cell Phone / Smartphone with Purple Screen, White 'AWESOME' Pattern	3069bpb0698	0.25	1 x 2 x 0
-116	Dish	35394	Dish 4 x 4 Inverted (Radar) with Open Stud		1.16	4 x 4 x 0.67
+116	Dish	35394	Dish 4 x 4 Inverted (Radar) with Open Stud	8157	1.2	4 x 4 x 0.67
 160	Sticker Sheet	70840stk01	Sticker Sheet for Set 70840 - (53482/6263756)	53482	4.9	? x ? x ?
 535	Brick, Modified, Decorated	32952pb001	Brick, Modified 1 x 1 x 1 2/3 with Studs on Side with SW Darth Vader's Castle Wall Lights Pattern (Sticker) - Set 75251		0.7	1 x 1 x 1.67
 776	Slope, Inverted, Decorated	2449pb011	Slope, Inverted 75 2 x 1 x 3 with SW Darth Vader's Castle Wall Lights Pattern (Sticker) - Set 75251		1.88	2 x 1 x 3
@@ -53047,14 +53047,14 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 238	Minifigure, Head	3626pb2320	Minifigure, Head Dual Sided Reddish Brown Eyebrows, Dark Brown Nose and Whiskers, Smiling / Scared Pattern		0.55	? x ? x ?
 238	Minifigure, Head	3626pb2321	Minifigure, Head Reddish Brown Eyebrows, Dark Red Nose, Dark Orange Contours Pattern		0.55	? x ? x ?
 238	Minifigure, Head	3626pb2322	Minifigure, Head Alien Robot Black Eyebrows, Silver Nose, Rivets and Chin Strap Pattern		0.54	? x ? x ?
-39	Tile, Decorated	3069pb0700	Tile 1 x 2 with Pixelated Bright Pink and Magenta Eyes Pattern (Minecraft Dragon)	3069bpb0700	0.26	1 x 2 x 0
-39	Tile, Decorated	3069pb0701	Tile 1 x 2 with Pixelated Bright Pink, Dark Pink and Magenta Tongue Pattern (Minecraft Dragon)	3069bpb0701	0.26	1 x 2 x 0
+39	Tile, Decorated	3069pb0700	Tile 1 x 2 with Pixelated Bright Pink and Magenta Eyes Pattern (Minecraft Ender Dragon)	3069bpb0700	0.26	1 x 2 x 0
+39	Tile, Decorated	3069pb0701	Tile 1 x 2 with Pixelated Bright Pink, Dark Pink and Magenta Tongue Pattern (Minecraft Ender Dragon)	3069bpb0701	0.26	1 x 2 x 0
 1098	Minifigure, Legs, Decorated	970c00pb0921	Hips and Legs with Reddish Brown Boots, Orange Giraffe Spots Pattern		1.25	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb0922	Hips and Legs with Molded Dark Purple Lower Legs / Boots  Pattern		1.28	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c120pb09	Hips and Dark Brown Legs with Silver Belt, Cingulum, Yellow Knees, Dark Brown Boots Pattern		1.2	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c03pb36	Hips and Yellow Legs with Magenta Leotard / Swimsuit Bottom and Green Sandals Pattern		1.18	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb0923	Hips and Legs with Dark Pink Boots, Green Triangles Pattern		1.27	? x ? x ?
-1098	Minifigure, Legs, Decorated	970c07pb12	Hips and Blue Legs with Magenta Boots, Silver Bubbles Pattern		1.27	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c07pb12	Hips and Blue Legs with Molded Magenta Lower Legs / Boots and Printed Silver Bubbles and Lavender Lines Pattern		1.27	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb0924	Hips and Legs with Molded Bright Green Lower Legs / Boots and Printed Silver Belt, Chain, Right Knee Armor, and Dark Brown Scuff Marks Pattern		1.26	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c01pb50	Hips and White Legs with Molded Dark Pink Lower Legs / Boots and Printed Bright Light Orange Stripes Pattern		1.27	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb0926	Hips and Legs with Molded Dark Green Lower Legs / Boots and Printed Black Belt and Shoes, Silver Buckle, and Light Bluish Gray Tartan Plaid Pants Pattern		1.25	? x ? x ?
@@ -54833,7 +54833,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 741	Tail, Decorated	87614pb010R	Tail 12 x 2 x 5 with Two Lime Stripes with Cut Out Edges Pattern Model Right Side (Sticker) - Set 70839		7	12 x 2 x 5
 33	Slope, Decorated	3040pb023L	Slope 45 2 x 1 with Dark Blue Stripe on Lime Background Pattern Model Left Side (Sticker) - Set 70839		0.69	2 x 1 x 1
 33	Slope, Decorated	3040pb023R	Slope 45 2 x 1 with Dark Blue Stripe on Lime Background Pattern Model Right Side (Sticker) - Set 70839		0.69	2 x 1 x 1
-238	Minifigure, Head	3626pb2412	Minifigure, Head Dual Sided Dark Orange Eyebrows, Medium Nougat Chin Dimple, Lopsided Open Mouth Smile with Teeth / Angry with Frown Pattern		0.55	? x ? x ?
+238	Minifigure, Head	3626pb2412	Minifigure, Head Dual Sided Dark Orange Eyebrows, Medium Nougat Chin Dimple, Lopsided Open Mouth Smile with Teeth / Lower Eyelids and Angry Frown Pattern	3626cpb2412	0.55	? x ? x ?
 238	Minifigure, Head	3626pb2413	Minifigure, Head Dual Sided Black Eyebrows, Round Glasses, Nougat Lightning Scar, Medium Nougat Chin Dimple and Lines, Slight Lopsided Grin / Frown Pattern	3626cpb2413	0.56	? x ? x ?
 238	Minifigure, Head	3626pb2414	Minifigure, Head Dual Sided Black Eyebrows, Dark Brown Beard, Neutral / Fierce Pattern		0.54	? x ? x ?
 238	Minifigure, Head	3626pb2416	Minifigure, Head Dual Sided Dark Orange Eyebrows, Mutton Chops and Horseshoe Moustache, Smile with Raised Eyebrow / Scared Pattern		0.55	? x ? x ?
@@ -57060,7 +57060,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 1098	Minifigure, Legs, Decorated	970c00pb1043	Hips and Legs with Molded Dark Purple Lower Legs / Boots and Printed White Angled Lines and Dark Purple Boot Tops Pattern		1.27	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1044	Hips and Legs with Black Coattails Line Pattern		1.17	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1045	Hips and Legs with Molded Red Lower Legs / Boots and Printed Black Belt, Silver Buckle, Gold Wings on Sides, and Curved Boot Tops Pattern		1.3	? x ? x ?
-1098	Minifigure, Legs, Decorated	970c06pb09	Hips and Green Legs with Black Boots, Black Scales Outlines and Front Panel Pattern		1.26	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c06pb09	Hips and Green Legs with Molded Black Lower Legs / Boots and Printed Scales Outlines and Front Panel Pattern		1.26	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c11pb46	Hips and Black Legs with Molded Blue Lower Legs / Boots and Printed Leotard and Chevron Boot Tops Pattern		1.29	? x ? x ?
 1098	Minifigure, Legs, Decorated	970d48pb01	Hips and 1 Trans-Clear Left Leg with Bright Light Blue Ice, 1 Dark Tan Right Leg with Reddish Brown Mud Lines, Medium Azure Belt, Black Leotard Pattern		1.2	? x ? x ?
 150	Minifigure, Torso	973pb3731	Torso SW Yuletide Squadron Pilot Pattern		0.82	? x ? x ?
@@ -57541,9 +57541,9 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 1098	Minifigure, Legs, Decorated	970c00pb1062	Hips and Legs with Dark Tan Sash and Knee Wrappings Pattern		1.18	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1063	Hips and Legs with Medium Blue Sash, Dark Bluish Gray Knee Wrappings Pattern		1.19	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1064	Hips and Legs with Sand Green Sash, Dark Green Knee Wrappings Pattern		1.19	? x ? x ?
-238	Minifigure, Head	3626pb2542	Minifigure, Head Dual Sided Dark Purple Highlights Red Eye, Gritted Teeth, Silver Armored Right Side / Silver Armored Left Side Pattern		0.55	? x ? x ?
-150	Minifigure, Torso	973pb3788	Torso Robe with Dark Purple Hem and Silver Robot Armor Pattern		0.82	? x ? x ?
-1097	Minifigure, Torso Assembly, Decor.	973pb3788c01	Torso Robe with Dark Purple Hem and Silver Robot Armor Pattern / Flat Silver Arm Left / Black Arm Right / Dark Purple Hand Left / Black Hand Right		1.29	? x ? x ?
+238	Minifigure, Head	3626pb2542	Minifigure, Head Dual Sided Alien Dark Purple Highlights Red Eye, Gritted Teeth, Silver Armored Right Side / Silver Armored Left Side Pattern		0.55	? x ? x ?
+150	Minifigure, Torso	973pb3788	Torso Robe with Dark Purple Hem and Silver Robot Armor, Hose and Red Circle in Center, Saw Blade on Back Pattern		0.82	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb3788c01	Torso Robe with Dark Purple Hem and Silver Robot Armor, Hose and Red Circle in Center, Saw Blade on Back Pattern / Flat Silver Arm Left / Black Arm Right / Dark Purple Hand Left / Black Hand Right		1.29	? x ? x ?
 150	Minifigure, Torso	973pb3789	Torso Tunic, Sand Green Shirt, Wide Black Hems with Gold Ninjago Logogram 'MANTER' and Dragon Pattern		0.8	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb3789c01	Torso Tunic, Sand Green Shirt, Wide Black Hems with Gold Ninjago Logogram 'MANTER' and Dragon Pattern / Yellow Arms / Black Hands		1.28	? x ? x ?
 150	Minifigure, Torso	973pb3790	Torso Tunic, Dark Bluish Gray Shirt, Orange Hem, Copper and Gold Ninjago Logogram 'MANTER' and Gorilla Pattern		0.81	? x ? x ?
@@ -60858,7 +60858,6 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 534	Brick, Promotional	3001pb163	Brick 2 x 4 with Legoland Deutschland Halloween 2004 Pumpkin Pattern 1 of 3		2.19	2 x 4 x 1
 534	Brick, Promotional	3001pb164	Brick 2 x 4 with Legoland Deutschland Halloween 2004 Pumpkin Pattern 2 of 3		2.19	2 x 4 x 1
 534	Brick, Promotional	3001pb165	Brick 2 x 4 with Legoland Deutschland Halloween 2004 Pumpkin Pattern 3 of 3		2.19	2 x 4 x 1
-534	Brick, Promotional	30144pb312	Brick 2 x 4 x 3 with Lego Logo Pattern on Both Sides		6.83	2 x 4 x 3
 534	Brick, Promotional	30144pb313	Brick 2 x 4 x 3 with Lego Logo and 'Sponsored by the LEGO Group' Pattern		7.11	2 x 4 x 3
 506	DUPLO, Brick, Promotional	4066pb760	Duplo, Brick 1 x 2 x 2 with LEGOLAND Discovery Centre FABRIK 2015 Pattern	76371pb218	8.01	1 x 2 x 2
 534	Brick, Promotional	30144pb314	Brick 2 x 4 x 3 with Piraten Golf LEGOLAND Feriendorf Pattern (2020 Version)		6.9	2 x 4 x 3
@@ -60998,7 +60997,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 578	Wedge, Decorated	93604pb008	Wedge 3 x 4 x 2/3 Triple Curved with Iron Man Hulkbuster Armor Pattern		1.55	3 x 4 x 0.67
 775	Slope, Curved, Decorated	15068pb282	Slope, Curved 2 x 2 x 2/3 with Two Gold Rings and Iron Man Hulkbuster Armor Pattern (Sticker) - Set 76164		0.57	2 x 2 x 0.67
 775	Slope, Curved, Decorated	15068pb283	Slope, Curved 2 x 2 x 2/3 with Gold and Dark Red Iron Man Hulkbuster Armor Pattern (Sticker) - Set 76164		0.57	2 x 2 x 0.67
-147	Animal, Land	93088pb11	Dog, Mini Doll Style, Puppy, Standing with Reddish Brown Eyes, Black Nose and Mouth, Tan Muzzle, and Bright Pink Tongue Pattern (Disney Bruno)		1.95	? x ? x ?
+147	Animal, Land	93088pb11	Dog, Mini Doll Style, Puppy, Standing with Reddish Brown Eyes, Black Nose and Mouth, Tan Muzzle, and Bright Pink Tongue Pattern (Disney Bruno)	34010pb11	1.95	? x ? x ?
 926	Cylinder, Decorated	87926pb013	Cylinder Half 3 x 6 x 6 with 1 x 2 Cutout with Curved Lattice Window and Bunting Pattern		10.2	3 x 6 x 6
 1118	Minifigure, Legs, Modified, Decorated	36036pb019	Lower Body, Skirt with Dark Purple Lines and Spider Web Pattern		1.52	? x ? x ?
 16	Minifigure, Headgear	68035	Minifigure, Headgear Mask with Six Spider Leg Horns	75875	1.5	? x ? x ?
@@ -61841,9 +61840,9 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 1098	Minifigure, Legs, Decorated	970c00pb1138	Hips and Legs with Black Lower Legs and Yellow Feet Pattern		1.29	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1139	Hips and Legs with Orange Patch and Dark Brown Feet Pattern		1.17	? x ? x ?
 606	Minifigure, Head, Modified	55641pb01	Minifigure, Head, Modified Dog with Light Nougat Muzzle, White Eyes, Buck Teeth and Lime Hat Pattern (Goofy)		1.99	? x ? x ?
-20	Minifigure, Body Part	981982pb244	Arm, (Matching Left and Right) Pair with Red Short Sleeves, White Dots and Cuffs Pattern		0.31	? x ? x ?
-20	Minifigure, Body Part	981pb244	Arm, Left with Red Short Sleeve, White Dots and Cuff Pattern		0.16	? x ? x ?
-20	Minifigure, Body Part	982pb244	Arm, Right with Red Short Sleeve, White Dots and Cuff Pattern		0.16	? x ? x ?
+20	Minifigure, Body Part	981982pb244	Arm, (Matching Left and Right) Pair with Molded Red Short Sleeves and Printed White Dots and Cuffs Pattern		0.31	? x ? x ?
+20	Minifigure, Body Part	981pb244	Arm, Left with Molded Red Short Sleeve and Printed White Dots and Cuff Pattern		0.16	? x ? x ?
+20	Minifigure, Body Part	982pb244	Arm, Right with Molded Red Short Sleeve and Printed White Dots and Cuff Pattern		0.16	? x ? x ?
 777	Technic, Liftarm, Decorated	32009pb034R	Technic, Liftarm, Modified Bent Thick 1 x 11.5 Double with White and Orange Checkered Pattern Model Right Side (Stickers) - Set 8162		3.5	? x ? x ?
 39	Tile, Decorated	3068pb1445	Tile 2 x 2 with Screen and Green Diagrams Pattern (Sticker) - Set 70901	3068bpb1445	0.48	2 x 2 x 0
 812	Tile, Round, Decorated	14769pb348	Tile, Round 2 x 2 with Bottom Stud Holder with Gauge and Letters 'GE' Pattern (Sticker) - Set 70901		0.33	2 x 2 x 0
@@ -61853,8 +61852,8 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 775	Slope, Curved, Decorated	93606pb116	Slope, Curved 4 x 2 with Gold Hull Plates and White Ninjago Logogram 'Energy' Pattern (Sticker) - Set 70605		1.4	4 x 2 x 1
 777	Technic, Liftarm, Decorated	32009pb034L	Technic, Liftarm, Modified Bent Thick 1 x 11.5 Double with White and Orange Checkered Pattern Model Left Side (Stickers) - Set 8162		3.46	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1140	Hips and Legs with Black Feet and Continuing on Sides Pattern		1.18	? x ? x ?
-150	Minifigure, Torso	973pb4066	Torso White Collar, Buttons and Belt Pattern		0.81	? x ? x ?
-1097	Minifigure, Torso Assembly, Decor.	973pb4066c01	Torso White Collar, Buttons and Belt Pattern / Black Arms with Red Short Sleeves, White Dots and Cuffs Pattern / White Hands		1.32	? x ? x ?
+150	Minifigure, Torso	973pb4066	Torso White Belt, Buttons and Scalloped Collar with 3 Sections, Black Neck Pattern		0.81	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb4066c01	Torso White Belt, Buttons and Scalloped Collar with 3 Sections, Black Neck Pattern / Black Arms with Molded Red Short Sleeves and Printed White Dots and Cuffs Pattern / White Hands		1.32	? x ? x ?
 150	Minifigure, Torso	973pb4067	Torso Turtleneck with Bright Light Orange Vest Pattern		0.84	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb4067c01	Torso Turtleneck with Bright Light Orange Vest Pattern / Orange Arms / White Hands		1.33	? x ? x ?
 150	Minifigure, Torso	973pb4068	Torso Suit Jacket Buttoned, Tie and Gold Chain Pattern		0.82	? x ? x ?
@@ -65506,7 +65505,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 3	Boat	62791c01pb07	Boat, Hull Unitary 51 x 12 x 6 with Side Bulges with Dark Bluish Gray Top with Blue 'COAST GUARD' and Logo Pattern on Both Sides (Stickers) - Set 60167		252	51 x 12 x 6
 39	Tile, Decorated	87079pb0925	Tile 2 x 4 with Coast Guard Rescue Controller and Minifigure with Life Raft on Screen Pattern (Sticker) - Set 60167		0.9	2 x 4 x 0
 39	Tile, Decorated	3069pb0920	Tile 1 x 2 with 'NEW YORK BULLETIN' Newspaper Tied with String Pattern (Sticker) - Set 76108	3069bpb0920	0.26	1 x 2 x 0
-118	Brick, Decorated	3004pb170	Brick 1 x 2 with Paw Print, Rabbit and Food Bowl Pattern (Sticker) - Set 41345		0.8	1 x 2 x 1
+118	Brick, Decorated	3004pb379	Brick 1 x 2 with Paw Print, Rabbit and Food Bowl Pattern (Sticker) - Set 41345		0.8	1 x 2 x 1
 1098	Minifigure, Legs, Decorated	970c00pb1204	Hips and Legs with White Paws Pattern		1.19	? x ? x ?
 1118	Minifigure, Legs, Modified, Decorated	970cm00pb009	Hips and Medium Legs with Black Gaps Between 6 Toes Pattern		1.08	? x ? x ?
 1118	Minifigure, Legs, Modified, Decorated	41879pb023	Legs Short with Black Gaps Between 4 Toes Pattern		0.8	? x ? x ?
@@ -73501,8 +73500,8 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 150	Minifigure, Torso	973pb4860	Torso Shirt and Lime Apron with Reddish Brown Pocket and Straps with Gold Buckles Pattern		0.82	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb4861c01	Torso Jumpsuit with Red Panels, Silver Zipper and Carabiner, Dark Azure Lines Pattern / Medium Azure Arms / Red Hands		1.3	? x ? x ?
 150	Minifigure, Torso	973pb4861	Torso Jumpsuit with Red Panels, Silver Zipper and Carabiner, Dark Azure Lines Pattern		0.82	? x ? x ?
-1097	Minifigure, Torso Assembly, Decor.	973pb4862c01	Torso Open Jacket with Silver Zipper over Red and Tan Striped Shirt, Sand Green Bandana, Shark on Back Pattern / Dark Brown Arms / Yellow Hands		1.3	? x ? x ?
-150	Minifigure, Torso	973pb4862	Torso Open Jacket with Silver Zipper over Red and Tan Striped Shirt, Sand Green Bandana, Shark on Back Pattern		0.82	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb4862c01	Torso Aviator Leather Jacket Open with Pockets and Silver Zipper over Shirt with Red and Tan Stripes, Sand Green Neckerchief Scarf, Shark Head and Clouds Logo on Back Pattern / Dark Brown Arms / Yellow Hands		1.3	? x ? x ?
+150	Minifigure, Torso	973pb4862	Torso Aviator Leather Jacket Open with Pockets and Silver Zipper over Shirt with Red and Tan Stripes, Sand Green Neckerchief Scarf, Shark Head and Clouds Logo on Back Pattern		0.82	? x ? x ?
 238	Minifigure, Head	3626pb3081	Minifigure, Head Black Eyebrows, Bright Light Blue Hearing Aid on Left, Lopsided Open Mouth Smile with Teeth Pattern		0.55	? x ? x ?
 238	Minifigure, Head	3626pb3082	Minifigure, Head Dual Sided Female Black Eyebrows, Dark Orange Glasses, Medium Nougat Lips, Lopsided Grin / Frown Pattern		0.55	? x ? x ?
 238	Minifigure, Head	3626pb3083	Minifigure, Head Dual Sided Child, Black Eyebrows, Open Mouth Smile with Teeth, with / without Dark Turquoise Glasses Pattern		0.55	? x ? x ?
@@ -75312,7 +75311,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 914	Mini Doll, Head	101116	Mini Doll, Head Friends with Thick Dark Red Eyebrows, Medium Azure Eyes, Nougat Lips, and Open Mouth with Top Teeth Pattern		0.61	? x ? x ?
 914	Mini Doll, Head	101121	Mini Doll, Head Friends with Reddish Brown Eyebrows, Green Eyes, Dark Orange Lips, and Open Mouth Smile with Teeth Pattern		0.61	? x ? x ?
 917	Mini Doll, Torso	FTGpb397c01	Torso Mini Doll Girl Dark Azure and Yellow Vest over White Shirt, Necklace, Scissors and Comb in Silver Belt Pattern, Nougat Arms with Hands		0.61	? x ? x ?
-917	Mini Doll, Torso	FTBpb082c01	Torso Mini Doll Boy White Shirt, Gold Symbols, Lavender Shoulder Bag Pattern, Medium Tan Arms with Hands with Dark Turquoise Short Sleeves		0.61	? x ? x ?
+917	Mini Doll, Torso	FTBpb082c01	Torso Mini Doll Boy White T-Shirt, Gold Symbols, Lavender Shoulder Bag Pattern, Medium Tan Arms with Hands with Dark Turquoise Short Sleeves		0.61	? x ? x ?
 812	Tile, Round, Decorated	98138pb356	Tile, Round 1 x 1 with White Head with Dark Blue Eyes and Mouth Pattern	35381pb356	0.11	1 x 1 x 0
 39	Tile, Decorated	2431pb0819	Tile 1 x 4 with Dark Blue Japanese Logogram '北斎改爲一筆' ((Painting) from the Brush of Hokusai, who changed his Name to Iitsu) Pattern		0.52	1 x 4 x 0
 39	Tile, Decorated	69729pb068	Tile 2 x 6 with Dark Blue Japanese Logogram '冨嶽三十六景/神奈川沖/浪裏' (36 Views of Mount Fuji / On the High Seas in Kanagawa / Under the Wave) and Frame Pattern		1.35	2 x 6 x 0
@@ -80148,7 +80147,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 150	Minifigure, Torso	973pb5435	Torso Dark Red Overalls with Tools, Chain, Medium Nougat Belt with Silver Buckle, Helmet and Crossed Hammers on Back Pattern		0.82	? x ? x ?
 150	Minifigure, Torso	973pb5436	Torso Viking Tunic with Tan Collar, Reddish Brown Belts and Pouches, Silver Buttons, Deer Head on Back Pattern		0.82	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb5436c01	Torso Viking Tunic with Tan Collar, Reddish Brown Belts and Pouches, Silver Buttons, Deer Head on Back Pattern / Dark Green Arms / Yellow Hands		1.3	? x ? x ?
-74	Crane	2636pb01L	Crane Harbor Derrick 16 with White 'XR1' in Black Oval Pattern Model Left Side (Sticker) - Set 1782		3.3	? x ? x ?
+74	Crane	2636pb01L	Crane Harbor Derrick 16L with Single Attachment with White 'XR1' in Black Oval Pattern Model Left Side (Sticker) - Set 1782		3.3	? x ? x ?
 775	Slope, Curved, Decorated	15068pb512	Slope, Curved 2 x 2 x 2/3 with Gold Armor Plates with Black and Dark Orange Lines and White Ninjago Logogram Letter R Pattern (Sticker) - Set 71768		0.57	2 x 2 x 0.67
 160	Sticker Sheet	75367stk01	Sticker Sheet for Set 75367 - (10104927/6454800)	104927	2.75	? x ? x ?
 124	Train	2924bpb02	Train Front 2 x 6 x 5 1/3 with 1 x 4 x 2 Cutout and Window with Molded Trans-Brown Glass Pattern		7.97	2 x 6 x 5.33
@@ -80466,7 +80465,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 18	Minifigure, Utensil	35809	Minifigure, Utensil Pen		0.15	? x ? x ?
 115	Windscreen	3383	Windscreen 6 x 6 x 1 1/3 Curved	5475	4.25	6 x 6 x 1.33
 4	Bracket	4585	Bracket 1 x 2 - 2 x 1 Centered		0.61	? x ? x ?
-138	Technic, Link	4586	Technic, Link 1 x 9 with 3 Holes		1.04	1 x 9 x 0
+138	Technic, Link	4586	Technic, Link 1 x 9 with 3 Holes (Train Coupling / Side Rod)		1.04	1 x 9 x 0
 13	Fence	5103	Fence 1 x 4 x 2 Ornamental Asian Lattice with Circle and 4 Studs		1.68	1 x 4 x 2
 160	Sticker Sheet	80054stk01	Sticker Sheet for Set 80054, Sheet 1 - (10106701/6471934)	106701	3.7	? x ? x ?
 160	Sticker Sheet	80054stk02	Sticker Sheet for Set 80054, Sheet 2 - (10106702/6471939)	106702	1	? x ? x ?
@@ -80640,7 +80639,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 150	Minifigure, Torso	973pb5497	Torso Blue Overalls, Pocket, Gold Buckles, and Red Bandana Pattern		0.82	? x ? x ?
 150	Minifigure, Torso	973pb5498	Torso Dark Brown Armor, Copper Emblems and Dark Tan Fur Collar Pattern		0.82	? x ? x ?
 150	Minifigure, Torso	973pb5499	Torso Black Apron with Gold Pentagon and Paw Print over Shirt with White Collar Pattern		0.82	? x ? x ?
-1098	Minifigure, Legs, Decorated	970c00pb1568	Hips and Legs with Molded Black Lower Legs / Boots and Printed Dark Bluish Gray Line (Trench Coat Trim) Pattern		1.18	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c00pb1568	Hips and Legs with Molded Black Lower Legs / Boots and Printed Dark Bluish Gray Line on Trench Coat Ends Pattern		1.18	? x ? x ?
 1116	Minifigure, Legs, Modified	970d56	Hips and Pearl Dark Gray Prosthetic Legs		1.06	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1569	Hips and Legs with Molded Yellow Lower Legs / Boots and Printed Dark Bluish Gray Waistband and Mountains Logo Pattern		1.18	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1570	Hips and Legs with Reddish Brown Knees and Tan Claws / Toes Pattern		1.18	? x ? x ?
@@ -91019,7 +91018,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 142	Minifigure, Body Wear	24782pb09	Minifigure Skirt Plastic with Dark Silver Bats, Metallic Light Blue Stars and Stripe Pattern (BAM)		0.82	? x ? x ?
 847	Minifigure, Hair	104255pb03	Minifigure, Hair Combo, Hair with Hat, Long Hair with 2 Braids over Shoulders with Molded Black Witch Hat Pattern (BAM)		2.08	? x ? x ?
 238	Minifigure, Head	3626pb3980	Minifigure, Head Mummy Wrappings with Dark Bluish Gray Outline over Yellow Face with Black Eyebrows and Grin Pattern (BAM)		0.55	? x ? x ?
-238	Minifigure, Head	3626pb3981	Minifigure, Head Dual Sided Alien Female Ghost with Dark Bluish Gray Eyebrows, Light Bluish Gray Lips and Wrinkles, Lopsided Grin and Wink / Scared Open Mouth with Top Teeth Pattern (BAM)		0.57	? x ? x ?
+238	Minifigure, Head	3626pb3981	Minifigure, Head Dual Sided Female Dark Bluish Gray Eyebrows, Light Bluish Gray Lips and Wrinkles, Lopsided Grin and Wink / Scared Open Mouth with Top Teeth Pattern (BAM)		0.57	? x ? x ?
 534	Brick, Promotional	30144pb499	Brick 2 x 4 x 3 with 2025 LEGOLAND Deutschland Resort and Mushroom Sprite Minifigure with Butterfly Pattern		6.9	2 x 4 x 3
 146	Animal, Air	112409pb01	Flying Monkey with Molded Green Armor and Printed Light Nougat Eyebrows and Muzzle, Dark Orange Eyes and Nostrils, White Beard Pattern		2.19	? x ? x ?
 146	Animal, Air	112409pb01c01	Flying Monkey with Green Armor with Dark Azure Wings		3	? x ? x ?
@@ -94516,6 +94515,11 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 160	Sticker Sheet	76354stk01	Sticker Sheet for Set 76354 - (10117052/6600892)	117052	5.36	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1937	Hips and Legs with Molded Reddish Brown Lower Legs / Boots and Printed Black Armor Suit, Knee Pads, and Shoe Tips Pattern		1.26	? x ? x ?
 16	Minifigure, Headgear	49556pb07	Minifigure, Headgear Helmet Mask, Hole on Top with Silver and Black Letter A and Wings on Sides Pattern (Captain America)		0.46	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6660c01	Torso Armor with Silver Star, Stripes, and Buckles, Reddish Brown Straps and Belt, and Black Muscle Highlights Pattern / Dark Blue Arms with Silver Armor, Black Outlines, and Sand Blue SHIELD Logo Pattern / Reddish Brown Hands		1.29	? x ? x ?
+150	Minifigure, Torso	973pb6660	Torso Armor with Silver Star, Stripes, and Buckles, Reddish Brown Straps and Belt, and Black Muscle Highlights Pattern		0.82	? x ? x ?
+20	Minifigure, Body Part	981982pb452	Arm, (Matching Left and Right) Pair with Silver Armor Plates, Dark Bluish Gray Rectangle, Sand Blue SHIELD Logo, and Black Outlines Pattern		0.31	? x ? x ?
+20	Minifigure, Body Part	981pb452	Arm, Left with Silver Armor Plates, Dark Bluish Gray Rectangle, and Black Outlines Pattern		0.15	? x ? x ?
+20	Minifigure, Body Part	982pb452	Arm, Right with Silver Armor Plates, Sand Blue SHIELD Logo, and Black Outlines Pattern		0.15	? x ? x ?
 21	Cone	8034	Cone Quarter 6 x 6 x 2/3		1.3	6 x 6 x 0.67
 39	Tile, Decorated	69729pb250	Tile 2 x 6 with LEGO Marvel Logo and White 'HELICARRIER' Pattern		1.35	2 x 6 x 0
 238	Minifigure, Head	3626pb4152	Minifigure, Head Dual Sided Female Dark Brown Eyebrows, Nougat Lips, Dark Bluish Gray Headset, Grin / Determined with Dimple and Scuff Marks Pattern		0.55	? x ? x ?
@@ -94546,8 +94550,15 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 16	Minifigure, Headgear	5648pb01	Minifigure, Headgear Helmet Dome, Smooth with Hole on Top with 2 Black Ovals Pattern (Woodstock Eyes)		0.7	? x ? x ?
 39	Tile, Decorated	87079pb1684	Tile 2 x 4 with Black 'June 30 It was a dark and stormy night.' Pattern		0.9	2 x 4 x 0
 39	Tile, Decorated	69729pb255	Tile 2 x 6 with Black 'SNOOPY' Pattern		1.35	2 x 6 x 0
+1097	Minifigure, Torso Assembly, Decor.	973pb6619c01	Torso Armor Female Suit with Silver Zipper, Highlights, and Belt Buckle, Black Shirt and Side Panels, Light Nougat Neck Pattern / Dark Blue Arms with Black Cuffs, Sand Blue SHIELD Logos, and Insignia with White Arrow Pattern / Light Nougat Hands		1.29	? x ? x ?
+150	Minifigure, Torso	973pb6619	Torso Armor Female Suit with Silver Zipper, Highlights, and Belt Buckle, Black Shirt and Side Panels, Light Nougat Neck Pattern		0.82	? x ? x ?
+20	Minifigure, Body Part	981982pb453	Arm, (Matching Left and Right) Pair with Black Cuffs, Sand Blue SHIELD Logos, and Insignia with White Arrow Pattern		0.31	? x ? x ?
+20	Minifigure, Body Part	981pb453	Arm, Left with Black Cuff, Sand Blue SHIELD Logo, and Insignia with White Arrow Pattern		0.15	? x ? x ?
+20	Minifigure, Body Part	982pb453	Arm, Right with Black Cuff and Sand Blue SHIELD Logo		0.15	? x ? x ?
 160	Sticker Sheet	76473stk01	Sticker Sheet for Set 76473, Mirrored - (10116708/6597997)	116708	1.55	? x ? x ?
 238	Minifigure, Head	3626pb4153	Minifigure, Head Dual Sided Dark Tan Eyebrows, Medium Nougat Cheek Lines and Dimples, Grin / Frown with Metallic Light Blue Eyes with Eyeshadow Pattern		0.55	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6620c01	Torso Jacket with Silver Zipper and Buckle, Pockets, Strap and Belt, Dark Bluish Gray Folds and Seams Pattern / Light Nougat Arms with Molded Black Short Sleeves Pattern / Black Hand Left / Light Nougat Hand Right		1.31	? x ? x ?
+150	Minifigure, Torso	973pb6620	Torso Jacket with Silver Zipper and Buckle, Pockets, Strap and Belt, Dark Bluish Gray Folds and Seams Pattern		0.82	? x ? x ?
 146	Animal, Air	8068pb01	Phoenix, Spread Wings with Marbled Trans-Orange Feathers and Printed Black Beak, Eyes and Stripes, Bright Light Orange Face Pattern (HP Fawkes)		2.76	? x ? x ?
 147	Animal, Land	bb1422c01	Deer Doe	116407	6.33	? x ? x ?
 1128	Animal, Body Part, Decorated	78514pb02	Serpent Basilisk Head with Gold Eyes, Black Wrinkles and Nostrils, Tan Teeth Pattern		2.83	? x ? x ?
@@ -94571,6 +94582,8 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 16	Minifigure, Headgear	7977pb01	Minifigure, Headgear Ninjago Wrap with Molded Red Bandana and Armor Plate with Horns Pattern		0.89	? x ? x ?
 25	Plant	8098	Plant Grass Tuft / Feathers		0.41	? x ? x ?
 238	Minifigure, Head	3626pb4154	Minifigure, Head Dual Sided Dark Brown Eyebrows, Medium Nougat Dimples, Grin with Dark Bluish Gray Headset / Frown with Sunglasses with Silver Frames Pattern		0.55	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6621c01	Torso Suit Jacket Open over White Shirt with Tie, Belt with Buckle, ID Badge with Yellow Top and Dark Bluish Gray Clip and Creases Pattern / Black Arms / Light Nougat Hands		1.29	? x ? x ?
+150	Minifigure, Torso	973pb6621	Torso Suit Jacket Open over White Shirt with Tie, Belt with Buckle, ID Badge with Yellow Top and Dark Bluish Gray Clip and Creases Pattern		0.82	? x ? x ?
 148	Animal, Body Part	8254	Dinosaur Tail End Section / Horn, Large		1.08	? x ? x ?
 146	Animal, Air	8068	Phoenix, Spread Wings		2.79	? x ? x ?
 147	Animal, Land	basilisk04	Snake, Harry Potter (Basilisk Sand Green) - Brick Built		26.53	? x ? x ?
@@ -94578,6 +94591,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 160	Sticker Sheet	42231stk01	Sticker Sheet for Set 42231 - (10115257/6580437)	115257	1.93	? x ? x ?
 99	Rock	8080	Rock 2 x 2 Boulder, Bottom		0.75	2 x 2 x 1.33
 99	Rock	8079	Rock 2 x 2 Boulder, Top		0.43	2 x 2 x 1
+106	Tail	8193	Tail 1 1/2 x 1 x 1		0.35	1.5 x 1 x 1
 736	Brick, Round, Decorated	7871pb03	Brick, Round 4 x 6 x 2/3 Oval with Curved Top with Black, Blue and Yellow Eyes and Mouth with Dark Pink Stitching Pattern (Scrump Face)		2.76	4 x 6 x 0.67
 117	Tile, Round	7853	Tile, Round 2 x 3 Oval		0.58	2 x 3 x 0
 943	Minifigure, Utensil, Decorated	5608pb03	Minifigure, Utensil Bottle, Florence Flask with Molded Trans-Bright Green Fluid Pattern		1.25	? x ? x ?
@@ -94587,9 +94601,14 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 238	Minifigure, Head	3626pb4158	Minifigure, Head Dual Sided Black Eyebrows, Medium Nougat Cheek Lines, Wrinkles and Chin Dimple, Bright Light Blue Water Drops, Open Mouth Grin with Teeth / Scared with Dark Blue Splotches Pattern		0.55	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb6622c01	Torso Vest Open with Orange Marks and Creases over Sand Blue Shirt and Dark Blue Undershirt, ID Badge, Jurassic Park Logo Pattern / Yellow Arms / Light Nougat Hands		1.3	? x ? x ?
 150	Minifigure, Torso	973pb6622	Torso Vest Open with Orange Marks and Creases over Sand Blue Shirt and Dark Blue Undershirt, ID Badge, Jurassic Park Logo Pattern		0.82	? x ? x ?
+20	Minifigure, Body Part	981pb454	Arm, Left with Silver Armor Plates, Dark Bluish Gray and Dark Silver Outlines, Red and Dark Red Star Pattern		0.15	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6623c01	Torso Armor Panels, Straps and Belts with Dark Bluish Gray Outlines, Silver Buckles and Highlights Pattern / Flat Silver Arm Left with Armor Plates and Red Star Pattern / Black Arm Right / Black Hand Left / Light Nougat Hand Right		1.31	? x ? x ?
+150	Minifigure, Torso	973pb6623	Torso Armor Panels, Straps and Belts with Dark Bluish Gray Outlines, Silver Buckles and Highlights Pattern		0.82	? x ? x ?
 238	Minifigure, Head	3626pb4155	Minifigure, Head Dual Sided Black Face Paint Around Eyes, Dark Tan Beard Stubble, Medium Nougat Chin Dimple, Frown / Breathing Mask and Goggles with Dark Silver Lenses Pattern		0.55	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1938	Hips and Legs with Dark Bluish Gray, Dark Silver and Silver Knee Pads, Pocket, Zipper, Holster, and Shoe Tips Pattern		1.2	? x ? x ?
 238	Minifigure, Head	3626pb4156	Minifigure, Head Black Eyebrows, Eyepatch, Moustache, Soul Patch, and Goatee, Dark Brown Cheek Lines and Scars, Stern, Strap on Back Pattern		0.55	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6624c01	Torso Trench Coat Open with Buttons over Dark Bluish Gray Vest, Silver Zipper, Belt with Buckle, Reddish Brown Neck Pattern / Black Arms / Reddish Brown Hands		1.29	? x ? x ?
+150	Minifigure, Torso	973pb6624	Torso Trench Coat Open with Buttons over Dark Bluish Gray Vest, Silver Zipper, Belt with Buckle, Reddish Brown Neck Pattern		0.82	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1939	Hips and Legs with Coattails with Silver Buttons, Dark Bluish Gray Pants and Shoe Tips Pattern		1.2	? x ? x ?
 736	Brick, Round, Decorated	3062pb091	Brick, Round 1 x 1 with Orange Jelly Beans with Dark Orange Outlines on Bright Light Yellow Label with Reddish Brown Outline Pattern		0.26	1 x 1 x 1
 238	Minifigure, Head	3626pb4159	Minifigure, Head Dual Sided Reddish Brown Small Eyebrows, Dark Orange Scar on Cheek, Open Mouth Smile with Top Teeth and Red Tongue / Angry Scowl Pattern		0.55	? x ? x ?
@@ -94620,6 +94639,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 142	Minifigure, Body Wear	8094	Minifigure Mask, Large Lower Jaw and Horns		0.31	? x ? x ?
 438	Slope, Curved	8236	Slope, Curved 8 x 4 x 1 2/3		6.58	8 x 4 x 1.67
 847	Minifigure, Hair	117243	Minifigure, Hair Mid-Length, Wavy with Crown		0.77	? x ? x ?
+16	Minifigure, Headgear	7875	Minifigure, Headgear Helmet Castle with Pointed Top, Cheek Protection and Wings		?	? x ? x ?
 31	Slope	8005	Slope 45 6 x 4 Double without Side Walls		3.99	6 x 4 x 1
 28	Plate, Round	8003	Plate, Round 6 x 8 Rounded End with Cutout		3.05	6 x 8 x 0.33
 93	Aircraft	7703	Aircraft Fuselage Forward Bottom Curved 6 x 22 x 1 with 4 x 17 Recessed Center and 10 x 8 Wings, 10 Holes		33.97	26 x 22 x 1
@@ -94653,6 +94673,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 150	Minifigure, Torso	973pb6633	Torso Bare Chest, Dark Red Collar, Dark Purple Tattoos, Reddish Brown Belt with Silver Trim Pattern		0.82	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb6633c01	Torso Bare Chest, Dark Red Collar, Dark Purple Tattoos, Reddish Brown Belt with Silver Trim Pattern / Blue Violet Arms / Dark Bluish Gray Hands		1.3	? x ? x ?
 812	Tile, Round, Decorated	67095pb142	Tile, Round 3 x 3 with Dark Bluish Gray and Light Bluish Gray Game Controller Directional Pad (D-pad) and Compass Points Pattern		0.76	3 x 3 x 0
+162	Cloth	118223	Cloth Cape with 2 Large Holes, Large Buildable Figures - Spongy Stretchable Fabric		6.23	? x ? x ?
 147	Animal, Land	7972	Dog, Jack Russell Terrier		1.3	? x ? x ?
 569	Large Figure Part	7870	Large Figure Hand / Foot with Center Stud and Pin Hole		1.83	? x ? x ?
 91	Panel	7855	Panel 2 x 8 x 3 with 2 x 2 Cutout with 2 Studs on Each Side		4.61	2 x 8 x 3
@@ -94661,11 +94682,15 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 154	Technic, Panel	7978	Technic, Panel Wheel Segment 30 degrees		5.32	7 x 5 x 0
 138	Technic, Link	7967	Technic, Link 1 x 11 x 1 1/3 Angled		0.56	1 x 11 x 1.33
 111	Wheel, Tire & Tread	7970	Tire 241 x 12		37.92	? x ? x ?
+77	Vehicle, Mudguard	7957	Vehicle, Mudguard 4 x 3 x 1 1/3 with Arch Round		1.05	4 x 3 x 1.33
+1027	Wheel, Accessory	8188	Wheel Cover 5 Spoke - for Wheel 110100		0.3	? x ? x ?
 39	Tile, Decorated	26603pb609	Tile 2 x 3 with Dark Tan Wood Grain, Red 'BEWARE', 'OGRE', Dark Green and Lime Shrek Face Pattern		0.7	2 x 3 x 0
 160	Sticker Sheet	76471stk01	Sticker Sheet for Set 76471, Sheet 1 - (10116690/6597979)		1.7	? x ? x ?
 160	Sticker Sheet	76471stk02	Sticker Sheet for Set 76471, Sheet 2 - (10116691/6597981)		1.95	? x ? x ?
 39	Tile, Decorated	6320pb003	Tile 6 x 8 with Construction Site Sign with Worker Minifigure, Nougat and Reddish Orange Buildings, Black and Bright Light Orange Danger Stripes, Red Warning Signs Pattern		5.04	6 x 8 x 0
 39	Tile, Decorated	90498pb65	Tile 8 x 16 with Bottom Tubes, Textured Surface with Dark Bluish Gray Background and Black Round Outlines, Magenta, Lime, Medium Azure and White Dance Floor Pattern		13.6	8 x 16 x 0
+238	Minifigure, Head	3626pb4163	Minifigure, Head with Black Eyebrows, Beard and Moustache, Medium Nougat Crow's Feet, Lopsided Grin Pattern		0.55	? x ? x ?
+16	Minifigure, Headgear	4485bpb01	Minifigure, Headgear Cap - Short Curved Bill with '43' on Silver Skull and Crossbones Pattern	86035pb01	0.33	? x ? x ?
 150	Minifigure, Torso	973pb6634	Torso Tunic, Dark Bluish Gray Scarf Outline, Reddish Brown Hem, Gold Sash and Trim Pattern		0.82	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb6634c01	Torso Tunic, Dark Bluish Gray Scarf Outline, Reddish Brown Hem, Gold Sash and Trim Pattern / Black Arms / Reddish Brown Hands		1.27	? x ? x ?
 150	Minifigure, Torso	973pb6635	Torso Armor over Red Mesh, Gold '01' and Markings Pattern		0.82	? x ? x ?
@@ -94698,7 +94723,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 847	Minifigure, Hair	7993	Minifigure, Hair Long Twisted Dreadlocks Swept Back with Knot		0.82	? x ? x ?
 39	Tile, Decorated	3068pb2821	Tile 2 x 2 with 'UNEARTHED' and Black and Reddish Orange Triangles in Bright Light Orange Square Pattern		0.5	2 x 2 x 0
 578	Wedge, Decorated	45677pb178	Wedge 4 x 4 x 2/3 Triple Curved with 'UNEARTHED' and Black and Reddish Orange Triangles in Bright Light Orange Square Pattern		2.67	4 x 4 x 0.67
-39	Tile, Decorated	2413pb0944	Tile 1 x 4 with Tan Pointing Hand and 'Knockturn Alley' Sign Pattern		0.54	1 x 4 x 0
+39	Tile, Decorated	2431pb0945	Tile 1 x 4 with Tan Pointing Hand and 'Knockturn Alley' Sign Pattern		0.54	1 x 4 x 0
 39	Tile, Decorated	3069pb1500	Tile 1 x 2 with Silver and Metallic Light Blue Ornate Gem Necklace Pattern		0.25	1 x 2 x 0
 39	Tile, Decorated	3069pb1501	Tile 1 x 2 with Book Page with Black Text and 'Herpo the Foul' and Gold and Copper Arcane Symbols Pattern		0.25	1 x 2 x 0
 113	Window	60592c12	Window 1 x 2 x 2 Flat Front with Trans-Green Glass (60592 / 60601)		1.3	1 x 2 x 2
@@ -94735,7 +94760,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 39	Tile, Decorated	1751pb064	Tile 4 x 4 with 'LOVE' on Bright Light Orange, Orange, Coral and Medium Lavender Diagonal Bands Pattern		1.79	4 x 4 x 0
 39	Tile, Decorated	1751pb065	Tile 4 x 4 with Medium Lavender Outlined 'Flower Spark', Coral Flower on Warm Pink Background Pattern		1.79	4 x 4 x 0
 39	Tile, Decorated	1751pb066	Tile 4 x 4 with Warm Pink 'Sweet', Dark Pink and Green Strawberry, Bright Light Blue Diagonal Stripes Pattern		1.79	4 x 4 x 0
-8	Brick, Round	8289	Brick, Round 4 x 8 with 1 x 4 Cutout on 1 Long side, 1 x 1 and 2 x 1 1/3 Cutouts on Both Short Sides		8.83	4 x 8 x 1.33
+8	Brick, Round	8289	Brick, Round 4 x 8 x 1 1/3 with 2 Curved Corners, 1 x 4 Cutout on Side, 2 x 1 Cutouts on Ends		8.83	4 x 8 x 1.33
 847	Minifigure, Hair	117243pb01	Minifigure, Hair Mid-Length, Wavy with Molded Flat Silver Crown Pattern		0.77	? x ? x ?
 238	Minifigure, Head	3626pb4169	Minifigure, Head Dual Side, Black Eyebrows and Fu Manchu, Lopsided Grin / Confused Pattern		0.56	? x ? x ?
 1118	Minifigure, Legs, Modified, Decorated	36036pb107	Lower Body, Skirt with Silver Tassels, Black Hems, White Inner Robe with Dark Blue Ends Pattern		1.5	? x ? x ?
@@ -94814,6 +94839,7 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 1118	Minifigure, Legs, Modified, Decorated	970cm00pb026	Hips and Medium Legs with Gold Scaly Belt with Pendant, Red Claws and Markings Pattern		1.05	? x ? x ?
 778	Tile, Modified, Decorated	6180pb212	Tile, Modified 4 x 6 with Studs on Edges with LEGO Star Wars Logo and White 'IMPERIAL REMNANT AT-RT DRIVER' Pattern		2.91	4 x 6 x 0
 16	Minifigure, Headgear	11303pb02	Minifigure, Headgear Cap - Short Curved Bill with Seams and Hole on Top with Jurassic Park Logo Pattern		0.36	? x ? x ?
+142	Minifigure, Body Wear	522cpb07	Minifigure Cape Cloth, Standard - Traditional Starched Fabric - 3.9cm Height with Black and Dark Red Sides	40460pb07	0.17	? x ? x ?
 160	Sticker Sheet	77082stk01	Sticker Sheet for Set 77082 - (10117307/6603631)	117307	5.3	? x ? x ?
 812	Tile, Round, Decorated	14769pb863	Tile, Round 2 x 2 with Bottom Stud Holder with Vinyl Record with Metallic Light Blue Label and Highlights, Magenta and Lime Square and Splotches Pattern		0.31	2 x 2 x 0
 1098	Minifigure, Legs, Decorated	970c00pb1948	Hips and Legs with Dark Turquoise Coattails, Magenta Kneepads and Toes, Yellow Trim Pattern		1.17	? x ? x ?
@@ -94827,9 +94853,142 @@ Category ID	Category Name	Number	Name	Alternate Item Number	Weight (in Grams)	Di
 1098	Minifigure, Legs, Decorated	970c00pb1951	Hips and Legs with White Belt with Tassel and Light Bluish Gray Stripes, Black Skull, Dark Azure Striped Toes Pattern		1.17	? x ? x ?
 1098	Minifigure, Legs, Decorated	970c00pb1952	Hips and Legs with Light Bluish Gray Circle Pockets and Kneepads, Bright Light Orange Toes with Medium Nougat Mud Pattern		1.17	? x ? x ?
 847	Minifigure, Hair	113600pb01	Minifigure, Hair Combo, Hair with Hat, 2 Braids over Shoulders with Molded Bright Light Orange Ball Cap Pattern		1.03	? x ? x ?
+39	Tile, Decorated	26603pb612	Tile 2 x 3 with White Soap Bubbles on Sponge with Dark Azure Holes Pattern		0.7	2 x 3 x 0
 238	Minifigure, Head	3626pb4175	Minifigure, Head Dual Sided Female, Black Tattoo Dots, Reddish Brown Eyebrows, Lavender Eyeshadow, Red Lips, Grin / Wink Pattern		0.55	? x ? x ?
 238	Minifigure, Head	3626pb4176	Minifigure, Head Dual Side Female, Black Eyebrows, Red Sunglasses with Black Lenses, Blue Highlights, Red Lips, Grin / Open Smile Pattern		0.55	? x ? x ?
 20	Minifigure, Body Part	981pb456	Arm, Left with Black Tattoo, Gold Band and Bracelets, Dark Turquoise Circles Pattern		0.15	? x ? x ?
 46	Bar	7768pb02	Bar 1L with Rounded End (Dome Top) with Black Circle Pattern		0.13	? x ? x ?
+812	Tile, Round, Decorated	25269pb038	Tile, Round 1 x 1 Quarter with Black Circle Segment Pattern		0.1	1 x 1 x 0
 150	Minifigure, Torso	973pb6657	Torso Blue Outline Skeleton, Coral Heart, Dark Purple Trim Pattern		0.82	? x ? x ?
 1097	Minifigure, Torso Assembly, Decor.	973pb6657c01	Torso Blue Outline Skeleton, Coral Heart, Dark Purple Trim Pattern / Black Arms / Black Hands		1.29	? x ? x ?
+147	Animal, Land	75498pb04	Horse, Mini Doll Style, Pony with 1 x 1 Cutout with Molded Tan Mane and Tail and Printed Black Eyebrows and Dark Azure Eyes Pattern	76516pb04	3.55	? x ? x ?
+150	Minifigure, Torso	973pb6658	Torso Hoodie, Yellow Zippers, Lime, Magenta, and Medium Azure Stripes Pattern		0.82	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6658c01	Torso Hoodie, Yellow Zippers, Lime, Magenta, and Medium Azure Stripes Pattern / Dark Turquoise Arms / Dark Blue Hands		1.28	? x ? x ?
+150	Minifigure, Torso	973pb6659	Torso Umber Neck, Black Suspenders and Belt, Gold and Dark Orange Squares, Dark Bluish Gray 'DANCE' on Back Pattern		0.82	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6659c01	Torso Umber Neck, Black Suspenders and Belt, Gold and Dark Orange Squares, Dark Bluish Gray 'DANCE' on Back Pattern / Umber Arms / Dark Red Hands		1.29	? x ? x ?
+16	Minifigure, Headgear	8107	Minifigure, Headgear Hat, Straw Boater with Bow		0.54	? x ? x ?
+142	Minifigure, Body Wear	2587pb38	Minifigure Armor Breastplate with Leg Protection with Dark Silver Rivets and Tree with Roots (White Tree of Gondor) Pattern		0.8	? x ? x ?
+142	Minifigure, Body Wear	2587pb39	Minifigure Armor Breastplate with Leg Protection with Gold Sparkles, Lines, Hem and Rivets with Black Outlines Pattern		0.8	? x ? x ?
+39	Tile, Decorated	87079pb1685	Tile 2 x 4 with '317' on Black Plaque with Gold and Dark Orange Border Pattern		0.9	2 x 4 x 0
+160	Sticker Sheet	77081stk01	Sticker Sheet for Set 77081 - (10119703/6644346)	119703	1.95	? x ? x ?
+160	Sticker Sheet	77260stk01	Sticker Sheet for Set 77260 - (10118461/6614346)	118461	0.82	? x ? x ?
+160	Sticker Sheet	76474stk01	Sticker Sheet for Set 76474 - (10116681/6597952)	116681	0.74	? x ? x ?
+160	Sticker Sheet	76469stk01	Sticker Sheet for Set 76469 - (10116673/6597902)	116673	0.56	? x ? x ?
+160	Sticker Sheet	77262stk01	Sticker Sheet for Set 77262 - (10118463/6614348)	118463	1.71	? x ? x ?
+150	Minifigure, Torso	973pb6661	Torso Female Tube Top, Light Nougat Neck and Midriff, Bright Pink Trim, Black Choker and X Pattern		0.82	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6661c01	Torso Female Tube Top, Light Nougat Neck and Midriff, Bright Pink Trim, Black Choker and X Pattern / Light Nougat Arms / Light Nougat Hands		1.3	? x ? x ?
+150	Minifigure, Torso	973pb6662	Torso Female Gold Chain Red Stripe, Dark Bluish Gray Pinstripes, Black Belt Pattern		0.82	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6662c01	Torso Female Gold Chain Red Stripe, Dark Bluish Gray Pinstripes, Black Belt Pattern / Medium Tan Arm Left with Black Tattoo, Gold Band and Bracelets, Dark Turquoise Circles Pattern / Medium Tan Arm Right / Black Hands		1.3	? x ? x ?
+914	Mini Doll, Head	118269	Mini Doll, Head Friends with Reddish Brown Eyebrows and Mouth, Black Eyelashes, Dark Azure Eyes, Coral Lips, Open Mouth Smile with Teeth Pattern		0.6	? x ? x ?
+461	Panel, Decorated	59349pb441	Panel 1 x 6 x 5 with Fireplace, Portrait of Cinderella, Bruno,  Gus and Lucifer, Orange Pumpkin and Bright Light Blue Clock Pattern		6.1	1 x 6 x 5
+461	Panel, Decorated	59349pb442	Panel 1 x 6 x 5 with Bright Light Blue and Bright Pink Headboards, Medium Azure Pumpkins and Oval Frame Portraits of Lucifer, Gus and Bruno Pattern		6.1	1 x 6 x 5
+1097	Minifigure, Torso Assembly, Decor.	973pb6663c01	Torso Black Armor with Straps and Silver Buckles, Light Bluish Gray Trim Pattern / Dark Red Arms / Black Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6664c01	Torso Flight Suit with Wide White Straps and Arrows, Light Bluish Gray Trim and Buckles, Black Belt Pattern / Dark Blue Arms / White Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6665c01	Torso Hoodie Open, Pockets over Reddish Orange and Bright Pink Striped Shirt, Dark Turquoise Fanny Pack with Gold Zipper and Clip Pattern / Medium Lavender Arms / Medium Brown Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6666c01	Torso T-shirt with Pocket, Kangaroo, Medium Tan Neck Pattern / Medium Tan Arms with Molded Dark Blue Short Sleeves / Medium Tan Hands		1.3	? x ? x ?
+150	Minifigure, Torso	973pb6665	Torso Hoodie Open, Pockets over Reddish Orange and Bright Pink Striped Shirt, Dark Turquoise Fanny Pack with Gold Zipper and Clip Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6664	Torso Flight Suit with Wide White Straps and Arrows, Light Bluish Gray Trim and Buckles, Black Belt Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6663	Torso Black Armor with Straps and Silver Buckles, Light Bluish Gray Trim Pattern		0.82	? x ? x ?
+160	Sticker Sheet	76350stk01	Sticker Sheet for Set 76350 - (10118257/6612584)	118257	1.3	? x ? x ?
+20	Minifigure, Body Part	981pb457	Arm, Left with Molded Light Aqua Short Sleeve and Printed Jurassic Park Logo Pattern		0.15	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6667c01	Torso Shirt with 2 Black Pockets with Buttons over White Undershirt, Dark Turquoise Creases, Jurassic Park Logo Pattern / Light Nougat Arm Left with Molded Light Aqua Short Sleeve and Printed Jurassic Park Logo Pattern / Light Nougat Arm Right with Molded Light Aqua Short Sleeve Pattern / Light Nougat Hands		1.31	? x ? x ?
+150	Minifigure, Torso	973pb6667	Torso Shirt with 2 Black Pockets with Buttons over White Undershirt, Dark Turquoise Creases, Jurassic Park Logo Pattern		0.8	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c00pb1953	Hips and Legs with Dark Brown Belt with Silver Buckle and Black and White ID Badge Pattern		1.17	? x ? x ?
+238	Minifigure, Head	3626pb4177	Minifigure, Head Dark Bluish Gray Eyebrows and Moustache, Medium Nougat Forehead Crease, Cheek Lines and Chin Dimple, Gold Sunglasses with Black Lenses and Silver Reflections Pattern		0.56	? x ? x ?
+160	Sticker Sheet	42694stk01	Sticker Sheet for Set 42694 - (10116508/6594729)	116508	0.55	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c00pb1954	Hips and Legs with Dark Purple Robe Ends, Black Creases and Apron Outline Pattern		1.18	? x ? x ?
+238	Minifigure, Head	3626pb4178	Minifigure, Head Dual Sided Female, Black Eyebrows and Single Eyelashes, Magenta Lips, Medium Nougat Cheek Lines, Smile / Frown Pattern		0.55	? x ? x ?
+238	Minifigure, Head	3626pb4179	Minifigure, Head Alien Dark Purple Highlights, Red Eye, Gritted Teeth, Silver Armored Right Side and Plates on Back Pattern		0.55	? x ? x ?
+225	Riding Cycle	5554c03	Bicycle Heavy Mountain Bike with Clip for Handlebars with Flat Silver Wheels, Black Tires and Dark Tan Angular Handlebars (5554 / 50862 / 50861 / 98397)		4.68	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6668c01	Torso Robe over Medium Lavender Shirt, Copper Winged Scarab Chest Emblem and Collar with Oval Insets, Black Folds, Reddish Brown Rope Belt and Pouches, Dark Bluish Gray Apron Pattern / Dark Purple Arms / Yellow Hands		1.29	? x ? x ?
+150	Minifigure, Torso	973pb6668	Torso Robe over Medium Lavender Shirt, Copper Winged Scarab Chest Emblem and Collar with Oval Insets, Black Folds, Reddish Brown Rope Belt and Pouches, Dark Bluish Gray Apron Pattern		0.82	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6669c01	Torso Robe with Dark Purple Hem and Silver Robot Armor, Hoses and Red Circle on Left, Saw Blade on Back Pattern / Flat Silver Arm Left / Black Arm Right / Black Hands		1.29	? x ? x ?
+150	Minifigure, Torso	973pb6669	Torso Robe with Dark Purple Hem and Silver Robot Armor, Hoses and Red Circle on Left, Saw Blade on Back Pattern		0.82	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c00pb1955	Hips and Legs with Dark Turquoise Sash Pattern		1.18	? x ? x ?
+16	Minifigure, Headgear	2528pb19	Minifigure, Headgear Hat, Pirate Bicorne with White Minifigure Skull and Crossed Cutlasses Pattern		0.54	? x ? x ?
+238	Minifigure, Head	3626pb4180	Minifigure, Head Dual Sided Female, Black Eyebrows, Medium Nougat Lips and Cheek Lines, Scowl / Scared Open Mouth with Teeth and Tongue Pattern		0.54	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6670c01	Torso Pirate Tank Top with Tattered Hem and Blue Horizontal Stripes, Black Compass and Anchor Tattoo, Dark Red Octopus on Back Pattern / Yellow Arms / Yellow Hands		1.31	? x ? x ?
+150	Minifigure, Torso	973pb6670	Torso Pirate Tank Top with Tattered Hem and Blue Horizontal Stripes, Black Compass and Anchor Tattoo, Dark Red Octopus on Back Pattern		0.82	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6671c01	Torso Pirate with Red and White Striped Bandana, Medium Nougat Belt, Silver Rings, Chain, and Buckle with Skull Pattern / Yellow Arms / Yellow Hands		1.31	? x ? x ?
+150	Minifigure, Torso	973pb6671	Torso Pirate with Red and White Striped Bandana, Medium Nougat Belt, Silver Rings, Chain, and Buckle with Skull Pattern		0.82	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6672c01	Torso Female Pirate Vest Closed over White Shirt, Gold Buckles and Compass Necklace, Yellow Neck Pattern / White Arms / Yellow Hands		1.31	? x ? x ?
+150	Minifigure, Torso	973pb6672	Torso Female Pirate Vest Closed over White Shirt, Gold Buckles and Compass Necklace, Yellow Neck Pattern		0.82	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6673c01	Torso Pirate Captain, White Ruffled Collar, Reddish Brown Shoulder Belt, Gold Buckles, Buttons, and Key on Back Pattern / Red Arms / Yellow Hands		1.31	? x ? x ?
+150	Minifigure, Torso	973pb6673	Torso Pirate Captain, White Ruffled Collar, Reddish Brown Shoulder Belt, Gold Buckles, Buttons, and Key on Back Pattern		0.82	? x ? x ?
+160	Sticker Sheet	42700stk01	Sticker Sheet for Set 42700 - (10116515/6594736)	116515	1.04	? x ? x ?
+775	Slope, Curved, Decorated	5852pb02L	Slope, Curved 2 x 2 x 2/3 Corner Round with White Circle on Black Oval Pattern Model Left Side (Fortnite KIT Cat Eye)		0.42	2 x 2 x 0.67
+775	Slope, Curved, Decorated	5852pb02R	Slope, Curved 2 x 2 x 2/3 Corner Round with White Circle on Black Oval Pattern Model Right Side (Fortnite KIT Cat Eye)		0.42	2 x 2 x 0.67
+778	Tile, Modified, Decorated	6180pb213	Tile, Modified 4 x 6 with Studs on Edges with LEGO Fortnite Logo and White 'KIT' Pattern		2.91	4 x 6 x 0
+812	Tile, Round, Decorated	1748pb011	Tile, Round 1 x 2 Half with Black Curved Line Pattern (Fortnite KIT Cat Whiskers)		0.21	1 x 2 x 0
+917	Mini Doll, Torso	FTGpb574c01	Torso Mini Doll Girl with Sand Blue Sleeveless Vest with Metallic Pink Trim, Dark Pink Bows, Bright Pink and Lime Flowers, Butterfly on Back over White Shirt Pattern, Medium Brown Arms with Hands		0.62	? x ? x ?
+917	Mini Doll, Torso	FTBpb160c01	Torso Mini Doll Boy White T-Shirt with Red Collar and Pizza Slice Outline with Smiley Face, Bright Pink Checkered Pattern, Medium Tan Arms with Hands with Red Short Sleeves		0.6	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6674c01	Torso Plaid Vest, Tan with Dark Tan Hems, Silver Brooch Pattern / White Arms / Light Nougat Hands		1.3	? x ? x ?
+150	Minifigure, Torso	973pb6674	Torso Plaid Vest, Tan with Dark Tan Hems, Silver Brooch Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6675	Torso Armor with Silver Hem, Stars and Tree with Roots (White Tree of Gondor), Dark Bluish Gray Belt with Rivets and Gold Buckle Emblem Pattern		0.82	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6675c01	Torso Armor with Silver Hem, Stars and Tree with Roots (White Tree of Gondor), Dark Bluish Gray Belt with Rivets and Gold Buckle Emblem Pattern / Flat Silver Arms / Black Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6676c01	Torso Coat with Dark Bluish Gray Fur Trim, Silver Chain Mail, Reddish Brown Belt with Gold Buckle Pattern / Black Arms / Light Nougat Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6677c01	Torso Leather Armor with Reddish Brown Panels, Silver Stars and Tree with Roots (White Tree of Gondor), Dark Orange Strap and Dark Green Belt with Buckles Pattern / Dark Tan Arms / Dark Brown Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6678c01	Torso Armor with Gold Highlights, Silver Stars and Tree with Roots (White Tree of Gondor), Dark Bluish Gray Belt with Buckle Pattern / Flat Silver Arms with Chain Mail and Armor Plates Pattern / Light Nougat Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6679c01	Torso Female Vest with Silver Filigree and Dark Silver Hem, Olive Green Sides and Creases, Light Nougat Neck Pattern / Yellowish Green Arms with Silver Filigree and Dark Silver Hems Pattern / Light Nougat Hands		1.3	? x ? x ?
+150	Minifigure, Torso	973pb6676	Torso Coat with Dark Bluish Gray Fur Trim, Silver Chain Mail, Reddish Brown Belt with Gold Buckle Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6677	Torso Leather Armor with Reddish Brown Panels, Silver Stars and Tree with Roots (White Tree of Gondor), Dark Orange Strap and Dark Green Belt with Buckles Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6678	Torso Armor with Gold Highlights, Silver Stars and Tree with Roots (White Tree of Gondor), Dark Bluish Gray Belt with Buckle Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6679	Torso Female Vest with Silver Filigree and Dark Silver Hem, Olive Green Sides and Creases, Light Nougat Neck Pattern		0.82	? x ? x ?
+20	Minifigure, Body Part	981982pb458	Arm, (Matching Left and Right) Pair with Chain Mail, Armor Plates with Black Outlines, Dark Red, Gold and Dark Silver Highlights Pattern		0.3	? x ? x ?
+20	Minifigure, Body Part	981pb458	Arm, Left with Chain Mail, Armor Plates with Black Outlines, Dark Red, Gold and Dark Silver Highlights Pattern		0.15	? x ? x ?
+20	Minifigure, Body Part	982pb458	Arm, Right with Chain Mail, Armor Plates with Black Outlines, Dark Red, Gold and Dark Silver Highlights Pattern		0.15	? x ? x ?
+20	Minifigure, Body Part	981982pb459	Arm, (Matching Left and Right) Pair with Silver Filigree and Dark Silver Hems Pattern		0.3	? x ? x ?
+20	Minifigure, Body Part	981pb459	Arm, Left with Silver Filigree and Dark Silver Hem Pattern		0.15	? x ? x ?
+20	Minifigure, Body Part	982pb459	Arm, Right with Silver Filigree and Dark Silver Hem Pattern		0.15	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6680c01	Torso Female Medium Azure and Dark Pink Plaid Shirt, Ascot and Mickey Mouse Clasp, White Collar and Badge Pattern / Bright Pink Arms / Sienna Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6681c01	Torso Dark Blue Vest and Tie, White Badge, Gold Pin, Buttons and Chain over Shirt with Collar Pattern / White Arms / Medium Tan Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6682c01	Torso Tuxedo Jacket Open over White Vest with Dark Bluish Gray Buttons, Red Cummerbund, Large Yellow Bow Tie Pattern / Black Arms / White Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6683c01	Torso Vest with Bright Light Orange Vertical Stripes, Black Trim and Pockets, Orange Bow Tie Pattern / White Arms / Medium Tan Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6684c01	Torso Vest with Dark Purple Vertical Stripes and Bow Tie, Black Trim and Pockets Pattern / White Arms / Nougat Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6685c01	Torso Vest with Dark Azure Vertical Stripes, Black Trim and Pockets, Blue Bow Tie Pattern / White Arms / Reddish Brown Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6686c01	Torso Vest with Red Vertical Stripes and Bow Tie, Black Trim and Pockets Pattern / White Arms / Light Nougat Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6687c01	Torso White Belt, Buttons and Scalloped Collar with 5 Sections, Black Neck Pattern / Black Arms with Molded Red Short Sleeves / White Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6688c01	Torso Female Shirt with Collar and Dark Turquoise Vertical Stripes, Dark Red Tie, White Badge Pattern / Light Aqua Arms / Light Nougat Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6689c01	Torso Sweater with Orange Stripes and White Star Wars Stormtrooper Helmet, Black and Silver Darth Vader on Back Pattern / Red Arms / Nougat Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6690c01	Torso Sweater with Ant, Hoodie Open with Medium Azure and White Striped Trim and Dark Pink Water Lily on Back Pattern  / Lime Arms / Medium Nougat Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6691c01	Torso Shirt with Dark Blue Trim and Dark Azure Circle, Stars and Toy Story Alien, Red Rocket on Back Pattern / Lime Arms / Medium Brown Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6692c01	Torso Blue Overalls with Little Mermaid Flounder and White Buttons and Collar Pattern / Bright Light Yellow Arms / Light Nougat Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6693c01	Torso Sweater with Hood and Black Trim, Dark Azure and Bright Light Orange Circles and Mickey Mouse Pattern / Dark Pink Arms / Medium Tan Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6694c01	Torso Shirt with Dark Blue and Coral Trim, Circle, Stitch and Surfboard and Palm Tree on Back Pattern / Medium Azure Arms / Light Nougat Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6498c02	Torso Black Spider, Dark Red Webbing, Dark Azure Side Panels, Dark Orange Belt, Silver Buckle, Red Spider on Back Pattern / Blue Arms / Light Nougat Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6695c01	Torso Female Jacket with Black Trim and Pockets over Dark Pink and Bright Pink Striped Shirt Pattern / Warm Pink Arms / Light Nougat Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6073c02	Torso Female Bodice with Dark Green Trim, Buttons and Contours, White Blouse, Tan Sash Pattern / White Arms / Medium Brown Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6697c01	Torso Suit Jacket Open, Copper Skull Buttons and Chain, Ascot, Dark Blue Vest over Medium Blue Shirt Pattern / Dark Bluish Gray Arms / Light Nougat Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6698c01	Torso Jacket and Vest, Light Bluish Gray Trim and Texture, Medium Tan Bare Chest, Black Hair, Medium Nougat Scar and Muscle Contours Pattern / Black Arms / Medium Tan Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6699c01	Torso Armor with Bright Green Plates, Dark Bluish Gray Trim and Silver Clasps and Scratches Pattern / Dark Green Arms / Black Hands		1.3	? x ? x ?
+1097	Minifigure, Torso Assembly, Decor.	973pb6700c01	Torso Spider-Man Costume with Black Webbing, Dark Blue Side Panels and Waist with Dark Azure Highlights Pattern / Dark Blue Arms with Red and Black Webbing Pattern / Red Hands		1.3	? x ? x ?
+150	Minifigure, Torso	973pb6680	Torso Female Medium Azure and Dark Pink Plaid Shirt, Ascot and Mickey Mouse Clasp, White Collar and Badge Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6681	Torso Dark Blue Vest and Tie, White Badge, Gold Pin, Buttons and Chain over Shirt with Collar Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6682	Torso Tuxedo Jacket Open over White Vest with Dark Bluish Gray Buttons, Red Cummerbund, Large Yellow Bow Tie Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6683	Torso Vest with Bright Light Orange Vertical Stripes, Black Trim and Pockets, Orange Bow Tie Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6684	Torso Vest with Dark Purple Vertical Stripes and Bow Tie, Black Trim and Pockets Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6685	Torso Vest with Dark Azure Vertical Stripes, Black Trim and Pockets, Blue Bow Tie Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6686	Torso Vest with Red Vertical Stripes and Bow Tie, Black Trim and Pockets Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6687	Torso White Belt, Buttons and Scalloped Collar with 5 Sections, Black Neck Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6688	Torso Female Shirt with Collar and Dark Turquoise Vertical Stripes, Dark Red Tie, White Badge Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6689	Torso Sweater with Orange Stripes and White Star Wars Stormtrooper Helmet, Black and Silver Darth Vader on Back Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6690	Torso Sweater with Ant, Hoodie Open with Medium Azure and White Striped Trim and Dark Pink Water Lily on Back Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6691	Torso Shirt with Dark Blue Trim and Dark Azure Circle, Stars and Toy Story Alien, Red Rocket on Back Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6692	Torso Blue Overalls with Little Mermaid Flounder and White Buttons and Collar Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6693	Torso Sweater with Hood and Black Trim, Dark Azure and Bright Light Orange Circles and Mickey Mouse Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6694	Torso Shirt with Dark Blue and Coral Trim, Circle, Stitch and Surfboard and Palm Tree on Back Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6695	Torso Female Jacket with Black Trim and Pockets over Dark Pink and Bright Pink Striped Shirt Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6697	Torso Suit Jacket Open, Copper Skull Buttons and Chain, Ascot, Dark Blue Vest over Medium Blue Shirt Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6698	Torso Jacket and Vest, Light Bluish Gray Trim and Texture, Medium Tan Bare Chest, Black Hair, Medium Nougat Scar and Muscle Contours Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6699	Torso Armor with Bright Green Plates, Dark Bluish Gray Trim and Silver Clasps and Scratches Pattern		0.82	? x ? x ?
+150	Minifigure, Torso	973pb6700	Torso Spider-Man Costume with Black Webbing, Dark Blue Side Panels and Waist with Dark Azure Highlights Pattern		0.82	? x ? x ?
+160	Sticker Sheet	42682stk01	Sticker Sheet for Set 42682 - (10117703/6608373)	117703	1.05	? x ? x ?
+238	Minifigure, Head	3626pb4181	Minifigure, Head Dual Sided Dark Brown Bushy Eyebrows, Sideburns and Stubble, Nougat Cheek Lines and Wrinkles, Furrowed Brow and Lopsided Open Mouth Smirk with Teeth / Sad Frown Pattern		0.55	? x ? x ?
+238	Minifigure, Head	3626pb4182	Minifigure, Head Dual Sided Black Hair, Stubble and Whiskers, Metallic Light Blue Eyes, Nougat Wrinkles, Lopsided Open Mouth Smile with Teeth / Angry with Fangs Parted Pattern		0.55	? x ? x ?
+238	Minifigure, Head	3626pb4183	Minifigure, Head Dual Sided Female Black Eyebrows and Triple Eyelashes, Dark Red Lips, Open Mouth Smile with Top Teeth and Red Tongue / Smirk Pattern		0.55	? x ? x ?
+238	Minifigure, Head	3626pb4184	Minifigure, Head Reddish Brown Eyebrows and Moustache, Dark Orange Laugh Lines and Chin Dimple, Open Mouth Smile with Top Teeth Pattern		0.55	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c00pb1957	Hips and Legs with 2 White Buttons with Black Outlines and Shoe Tips Pattern		1.18	? x ? x ?
+1098	Minifigure, Legs, Decorated	970c00pb1958	Hips and Legs with Molded Black Lower Legs / Boots and Printed Skirt with Scalloped Ruffles, Yellow Shoe Tips Pattern		1.18	? x ? x ?
+1118	Minifigure, Legs, Modified, Decorated	36036pb108	Lower Body, Skirt with Light Nougat Panels, Medium Nougat Stars and Vertical Stripes, Black Trim and Dark Turquoise Straps Pattern		1.5	? x ? x ?
+917	Mini Doll, Torso	FTGpb575c01	Torso Mini Doll Girl Reddish Orange Sleeveless Top with White '98' and Stripes Pattern, Medium Tan Arms with Hands		0.61	? x ? x ?
+916	Mini Doll, Legs	2125c00pb016	Mini Doll Hips and Trousers Bell-Bottoms with Dark Turquoise Shoes with Dark Blue Soles, Pockets Outlines and Seams Pattern - Thin Hinge		0.96	? x ? x ?
