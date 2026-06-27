@@ -710,12 +710,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 102	Scala / Jewelry	4336-1	Mirror	1980	80	19.2 x 10.3 x 3.2
 34	Space / Classic Space	442-1	Space Shuttle	1979	85	17 x 9 x 4
 124	Train / Supplemental / 9V	4515-1	Straight Rails	1991	166	19.1 x 9.6 x 7.1
-124	Train / Supplemental / 9V	4519-1	Rail Crossing	1999	56.3	14.2 x 14.2 x 3.3
+124	Train / Supplemental / 9V	4519-1	Cross Track / Rail Crossing	1999	56.3	14.2 x 14.2 x 3.3
 34	Space / Classic Space	452-1	Mobile Ground Tracking Station	1979	96	19 x 9.2 x 3.8
 124	Train / Supplemental / 9V	4520-1	Curved Rails	1991	148	19.1 x 9.5 x 7
 124	Train / 9V	4525-1	Road and Rail Repair	1994	100	19.2 x 9.5 x 4.7
 34	Space / Supplemental	453-1	Two Crater Plates	1979	310	? x ? x ?
-124	Train / Supplemental / 9V	4531-1	Manual Points	1991	324	28.6 x 23.6 x 4.7
+124	Train / Supplemental / 9V	4531-1	Switching Rails (Manual Points)	1991	324	28.6 x 23.6 x 4.7
 124	Train / 9V	4532-1	Manual Level Crossing	1996	495	28.8 x 28.8 x 4.7
 124	Train / 9V	4533-1	Train Track Snow Remover	1999	142	19.1 x 9.5 x 5.9
 124	Train / 9V	4536-1	Blue Hopper Car	1991	265	19 x 14.3 x 7
@@ -3652,7 +3652,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 63	Service Packs	760-1	Storage Cabinet	1985	5730	? x ? x ?
 422	Universal Building Set / Supplemental	781-1	Storage Case	1980	?	? x ? x ?
 422	Universal Building Set / Supplemental	783-1	Storage Case	1985	?	? x ? x ?
-422	Universal Building Set / Supplemental	785-1	Red Box	1973	?	? x ? x ?
+422	Universal Building Set / Supplemental	785-1	Red Box	1972	?	? x ? x ?
 422	Universal Building Set / Supplemental	791-1	Storage Box - Red	1972	350	? x ? x ?
 422	Universal Building Set / Supplemental	793-1	Storage Box - Blue	1972	350	? x ? x ?
 422	Universal Building Set / Supplemental	794-1	Storage Box - Yellow	1972	?	? x ? x ?
@@ -4739,8 +4739,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 166	Educational & Dacta / DUPLO / Basic Set	9051-1	Large DUPLO Basic Set Giant	1992	?	? x ? x ?
 166	Educational & Dacta / DUPLO / Basic Set	9053-1	Duplo Basic Set Vehicles - 70 el.	1992	?	? x ? x ?
 166	Educational & Dacta / DUPLO / Basic Set	9055-1	DUPLO Basic Set - Animals	1991	?	? x ? x ?
-166	Educational & Dacta / DUPLO / Supplemental	9057-1	Duplo Basic Set - 2 pullback motors	1992	?	? x ? x ?
-166	Educational & Dacta / DUPLO / Supplemental	9060-1	Small Duplo Building Plates	1986	?	? x ? x ?
+166	Educational & Dacta / DUPLO / Supplemental	9057-1	Duplo Basic Set - 2 pullback motors	1992	150	14.5 x 11.5 x 3.5
+166	Educational & Dacta / DUPLO / Supplemental	9060-1	Small Duplo Building Plates	1986	380	29 x 19.5 x 3
 166	Educational & Dacta / DUPLO / Basic Set	9061-1	Duplo Basic Green Bucket - 66 elements	1994	?	? x ? x ?
 166	Educational & Dacta / DUPLO / Toolo	9101-1	Large Duplo Toolo Set	1992	?	? x ? x ?
 166	Educational & Dacta / DUPLO / Toolo	9102-1	Small Duplo Toolo Set	1992	?	? x ? x ?
@@ -4831,9 +4831,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Mini	K4487-1	Star Wars Miniatures Kit I	2003	?	? x ? x ?
 124	Train / Supplemental / 9V	K4515-1	Ultimate Track Kit	1992	?	? x ? x ?
 124	Train / Supplemental / 9V	K4516-1	Oval Track Kit	1992	?	? x ? x ?
-124	Train / Supplemental / 9V	K4519-1	Cross Track Kit	1992	1030	? x ? x ?
-124	Train / Supplemental / 9V	K4520-1	Special Track Kit	1992	?	? x ? x ?
-124	Train / Supplemental / 9V	K4531-1	Deluxe Track Kit	1992	1345	? x ? x ?
+124	Train / Supplemental / 9V	K4519-1	Cross Track Kit	1999	1030	? x ? x ?
+124	Train / Supplemental / 9V	K4520-1	Special Track Kit	1995	?	? x ? x ?
+124	Train / Supplemental / 9V	K4531-1	Deluxe Track Kit	1995	1345	? x ? x ?
 437	Explore / Explore Imagination / DUPLO / Basic Set	3515-1	African Adventures	2003	822	48 x 28.5 x 5.8
 437	Explore / Explore Imagination / DUPLO / Basic Set	3514-1	Rhino and Lion	2003	?	? x ? x ?
 65	Star Wars / Star Wars Episode 4/5/6	4483-1	AT-AT, black box	2003	2081	57.5 x 38.3 x 9
@@ -5247,7 +5247,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Christmas	10080-1	Angel polybag	2003	24	14 x 13.7 x 1.2
 390	Holiday & Event / Christmas	10079-1	Snowman polybag	2003	32.432	? x ? x ?
 390	Holiday & Event / Thanksgiving	10090-1	Turkey polybag	2003	48	17 x 16 x 1
-166	Educational & Dacta / Technic	9700-1	Technic Control Center (Technic Control 0 Set)	1987	1928	? x ? x ?
+166	Educational & Dacta / Technic	9700-1	Technic Control Center (Technic Control 0 Set)	1987	2254	46.5 x 37.8 x 6.3
 179	Racers / Radio Control	8376-1	Hot Flame	2003	1860	48 x 38 x 7
 171	Creator / Basic Set	4405-1	Large Creator Bucket	2003	?	? x ? x ?
 171	Creator / Basic Set	7836-1	Halloween Bucket	2003	?	? x ? x ?
@@ -5640,7 +5640,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE / Titans	10202-1	Ultimate Dume Limited Edition with Exclusive Mask Of Power	2004	1443	47.94 x 38.1 x 9.52
 48	Belville / Fairy-Tale	5877-1	Wedding Coach	2004	433	33.3 x 28.7 x 7
 976	LEGO Brand / LEGOLAND Parks	LLCA10-1	Dragon Sculpture (LEGOLAND California)	2000	51	? x ? x ?
-976	LEGO Brand / LEGOLAND Parks	LLCA11-1	Lion Sculpture (LEGOLAND California)	1999	?	? x ? x ?
+976	LEGO Brand / LEGOLAND Parks	LLCA11-1	Lionel the Lion Sculpture (LEGOLAND California)	1999	?	? x ? x ?
 486	Designer Sets / Creature	7209-1	Pteranodon polybag	2004	21	14 x 14 x 0
 486	Designer Sets / Creature	7210-1	Apatosaurus polybag	2004	19	14 x 14 x 0
 9	Castle / Knights Kingdom II	8774-1	Vladek (European version without Cards)	2004	210	10 x 6.5 x 17
@@ -8133,7 +8133,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE / Promotional	6937-1	Give Away	2006	?	? x ? x ?
 422	Universal Building Set / Basic Model	lmg003-2	Japan Ostrich Yellow Label Version	2006	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	7724-2	Advent Calendar 2008, City (Day  1) - Minifigure and Drumstick	2008	4.3	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / City	7724-3	Advent Calendar 2008, City (Day  2) - Barbecue	2008	8.8	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / City	7724-3	Advent Calendar 2008, City (Day  2) - Barbecue / Barbeque	2008	8.8	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	7724-4	Advent Calendar 2008, City (Day  3) - Table, Cup and Frying Pan	2008	2.7	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	7724-5	Advent Calendar 2008, City (Day  4) - Female with Ice Cream	2008	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / City	7724-6	Advent Calendar 2008, City (Day  5) - Freezer Chest and Umbrella	2008	?	? x ? x ?
@@ -8247,7 +8247,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 545	FIRST LEGO League	9699-1	FIRST LEGO League (FLL) Challenge 2008 - Climate Connections	2008	1720	39 x 30 x 15
 976	LEGO Brand / LEGO Brand Store / Grand Opening	MINNEAPOLIS-1	LEGO Store Grand Opening Exclusive Set, Mall of America, Bloomington, MN	1992	?	? x ? x ?
 61	Pirates / Pirates II / Imperial Guards	8396-1	Soldier's Arsenal	2009	29.95	9.3 x 3.8 x 9
-61	Pirates / Pirates II	8397-1	Pirate Survival	2009	29.79	9.3 x 3.8 x 9
+61	Pirates / Pirates II	8397-1	Pirate Survival	2009	29.79	9.3 x 9 x 3.8
 179	Racers / Power Racers	8162-1	Race Rig	2009	217.7	26 x 14 x 6
 179	Racers / Power Racers	8163-1	Blue Sprinter	2009	228	26 x 14 x 6
 179	Racers / Power Racers	8164-1	Extreme Wheelie	2009	190	26 x 14 x 6
@@ -8483,7 +8483,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 34	Space / Space Police III	5970-1	Freeze Ray Frenzy	2009	122	26 x 14 x 4.5
 34	Space / Space Police III	5969-1	Squidman Escape	2009	71	14 x 12.1 x 4.5
 34	Space / Space Police III	5971-1	Gold Heist	2009	403.1	28 x 26 x 6.5
-67	Town / Classic Town / Traffic	2148-2	LEGO Truck (Lego Toy Fair 1998 25th Anniversary Edition)	1998	212.1	16.8 x 11 x 8.5
+67	Town / Classic Town / Traffic	2148-2	LEGO Truck (LEGO Toy Fair 1998 25th Anniversary Edition)	1998	212.1	16.8 x 11 x 8.5
 629	Architecture	21004-1	Solomon R. Guggenheim Museum	2009	402	26 x 19.1 x 6
 179	Racers / Tiny Turbos	8186-1	Street Extreme	2009	1400.5	47.7 x 37.5 x 9
 473	Sports / Soccer	3305-3	World Team Player - Limited Edition (Netherlands) polybag	1998	4	9 x 8.7 x 1.05
@@ -14230,7 +14230,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Advent Sub-Set / Friends	41326-10	Advent Calendar 2017, Friends (Day  9) - Tweeter Tower	2017	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Friends	41326-11	Advent Calendar 2017, Friends (Day 10) - Starmaker Machine	2017	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Friends	41326-12	Advent Calendar 2017, Friends (Day 11) - Mysterious Stand	2017	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Friends	41326-13	Advent Calendar 2017, Friends (Day 12) - Hot Chocolate Stand	2017	?	? x ? x ?
+390	Holiday & Event / Advent Sub-Set / Friends	41326-13	Advent Calendar 2017, Friends (Day 12) - Hot Chocolate Stand	2017	6	8 x 8 x 2.54
 390	Holiday & Event / Advent Sub-Set / Friends	41326-14	Advent Calendar 2017, Friends (Day 13) - Confection Cooker	2017	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Friends	41326-15	Advent Calendar 2017, Friends (Day 14) - Tweeter Tourer	2017	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Friends	41326-16	Advent Calendar 2017, Friends (Day 15) - Rodent Retreat	2017	?	? x ? x ?
@@ -16240,7 +16240,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE / Toa Metru	8602-2	Toa Nokama with Mini CD-ROM	2004	?	? x ? x ?
 273	BIONICLE / Toa Metru	8603-2	Toa Whenua with Mini CD-ROM	2004	?	? x ? x ?
 273	BIONICLE / Toa Metru	8604-2	Toa Onewa with Mini CD-ROM	2004	?	? x ? x ?
-273	BIONICLE / Toa Metru	8605-2	Toa Matau with Mini CD-ROM	2004	?	? x ? x ?
+273	BIONICLE / Toa Metru	8605-2	Toa Matau with Mini CD-ROM	2004	?	9.5 x 9.5 x 18.9
 273	BIONICLE / Toa Metru	8606-2	Toa Nuju with Mini CD-ROM	2004	?	? x ? x ?
 166	Educational & Dacta / MINDSTORMS / RCX	9794-2	ROBOLAB Team Challenge Set USB (2005 Version)	2005	2802	38 x 30.5 x 11
 65	Star Wars / Mini / Star Wars Episode 4/5/6	912061-1	AT-AT - Mini foil pack #2	2020	24.7	12 x 15 x 1
@@ -21069,7 +21069,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 171	Creator / Model / Holiday & Event / Christmas	40777-1	Celebration Series: 4. Gingerbread Train Ornament	2025	200	18.9 x 13.8 x 4.4
 759	NINJAGO / Legacy	71861-1	The Old Town	2026	6238	51.9 x 47.4 x 17.5
 983	Promotional	40913-1	Vintage Parade Car	2026	269	20.3 x 19 x 4.5
-1043	Stranger Things	40891-1	WSQK Radio Station	2026	272	? x ? x ?
+1043	Stranger Things	40891-1	WSQK Radio Station	2026	272	20.3 x 18.9 x 5.9
 1043	Stranger Things	11370-1	The Creel House	2026	3445	55 x 37 x 11.2
 903	BrickHeadz / Stranger Things	40879-1	Eleven, Max, Demogorgon and Holly Figures	2026	577	35.5 x 19.2 x 5.8
 903	BrickHeadz / Disney / Lilo & Stitch	40922-1	Angel	2026	151.3	12.1 x 14.3 x 6
@@ -21451,7 +21451,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 171	Creator / Model	31383-1	Floral Perfume Bottle	2026	395	26 x 19 x 6.5
 171	Creator / Model / Creature	31386-1	Majestic Lion	2026	1057	38 x 26 x 5.6
 171	Creator / Model / Pirates / Pirates IV	31387-1	Iconic Pirate Ship	2026	1793	37.5 x 35.2 x 9.1
-171	Creator / Model / Creature	31388-1	Family of Koalas	2026	?	? x ? x ?
+171	Creator / Model / Creature	31388-1	Family of Koalas	2026	1976	47.9 x 37.5 x 6.9
 171	Creator / Model / Recreation	31389-1	Iconic Ferris Wheel	2026	1324	43 x 28 x 7
 171	Creator / Model / Creature	31393-1	Gray Wolf	2026	834	28.3 x 26.3 x 7.5
 1122	Botanicals	11505-1	Woodland Mushrooms	2026	1059	38 x 26.2 x 7.1
@@ -21461,7 +21461,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Food & Drink	60496-1	Pizza Delivery Experience	2026	826	38 x 26 x 5.4
 67	Town / City / Recreation	60501-1	Lava Land	2026	2091	53.8 x 28 x 11.5
 67	Town / City / Traffic	60506-1	Classic Beach Streetcar	2026	1129	38 x 26 x 9.2
-67	Town / City / Train / RC Train	60509-1	Harbor Freight Train	2026	?	? x ? x ?
+67	Town / City / Train / RC Train	60509-1	Harbor Freight Train	2026	1408	53.8 x 28 x 7.5
 67	Town / City / Train / RC Train	60511-1	Vintage Steam Train	2026	1098	43 x 28 x 7
 67	Town / City / Construction	60480-1	Backhoe Loader	2026	489	26 x 22 x 6
 67	Town / City / Airport	60492-1	Passenger Jet	2026	368	26 x 22 x 6
@@ -21474,8 +21474,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Model / Construction	42242-1	Mercedes-Benz Unimog U 5023 with Crane	2026	1716	43.1 x 28.4 x 8.7
 771	Friends	42697-1	Creative Dollhouse Suitcase	2026	1087	33 x 23.5 x 14
 771	Friends	42700-1	Candy & Cupcake Ferris Wheel	2026	845	38 x 26 x 5.5
-771	Friends	42703-1	Mermaid Roller Coaster Ride	2026	1546	53.6 x 27.8 x 7.5
-771	Friends	42704-1	Heartlake City Grand Hotel	2026	2360	47.7 x 37.4 x 9
+771	Friends	42703-1	Mermaid Roller Coaster Ride	2026	1554	53.6 x 27.8 x 7.5
+771	Friends	42704-1	Heartlake City Grand Hotel	2026	2394	47.7 x 37.4 x 9
 771	Friends	42705-1	Cozy Fall Forest Cabin	2026	1888	47.7 x 37.5 x 6.6
 759	NINJAGO / NINJAGO Legends	71870-1	The Twin Titan Mechs	2026	2084	47.8 x 37.4 x 9
 759	NINJAGO / NINJAGO Legends	71871-1	Battle at the Dragon's Blade	2026	1170	43.1 x 28.4 x 7.1
@@ -21522,7 +21522,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 771	Friends	42693-1	Creative Flower Shop	2026	542	26 x 22 x 7.3
 771	Friends	42694-1	Pizza Truck	2026	260	19 x 14 x 6.9
 771	Friends	42701-1	Koala Habitat & Care Center	2026	907	43 x 28 x 6
-771	Friends	42702-1	Spinning Flower & Fairy Teacup Ride	2026	518	35.2 x 19 x 5.7
+771	Friends	42702-1	Spinning Flower & Fairy Teacup Ride	2026	520	35.2 x 19 x 5.7
 171	Creator / Model	31390-1	Floral Art Painting	2026	413	26 x 19 x 4.5
 171	Creator / Model	31391-1	Fashion Bag with Storage	2026	443	26 x 19 x 6
 171	Creator / Model	31392-1	Music Decor Piano	2026	685	26 x 22 x 7.4
@@ -21541,6 +21541,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO / Basic Set	10479-1	My First Colorful Creative Box	2026	882	28.2 x 26 x 11.5
 768	Super Heroes / Iron Man and his Awesome Friends	11209-1	Ultron vs. Iron Man	2026	235	20.3 x 18.9 x 4.6
 768	Super Heroes / Iron Man and his Awesome Friends	11211-1	Loki vs. Team Iron Man	2026	496	26 x 22.2 x 6
+1197	BrickLink Designer Program / BDP Series 7	910059-1	Privateer Frigate Fortuna	2026	3454	55.4 x 37.5 x 15.4
+1197	BrickLink Designer Program / BDP Series 7	910060-1	Sushi Restaurant	2026	3605	55.4 x 37.5 x 15.4
+1197	BrickLink Designer Program / BDP Series 7	910061-1	Antique Collection	2026	?	? x ? x ?
+1197	BrickLink Designer Program / BDP Series 7	910062-1	Alchemist's Shop	2026	?	? x ? x ?
+1197	BrickLink Designer Program / BDP Series 7	910063-1	W.A.L.T.	2026	?	? x ? x ?
 759	NINJAGO	L0002214-1	Jay vs. Mutation Monster metal box	2026	71	12.5 x 9 x 2
 801	Minecraft	L0002251-1	Cactus Knight with Breeze paper bag	2026	15	12 x 15 x 1.5
 1359	Editions	43017-1	McLaren Mastercard F1 Team Oscar Piastri Helmet	2026	958	38 x 26 x 7
@@ -21550,4 +21555,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 768	Super Heroes / Avengers	L0002278-1	Hulk vs. Red Hulk metal box	2026	67	12.5 x 9 x 2.3
 771	Friends	L0002265-1	Nugget at Veterinary Station paper bag	2026	?	? x ? x ?
 983	Promotional	5010224-1	Sports Stadium	2026	?	? x ? x ?
-983	Promotional	40902-1	Tribute to Leonardo da Vinci	2026	?	? x ? x ?
+983	Promotional	40902-1	Tribute to Leonardo da Vinci	2026	?	26 x 19 x 4.5
+759	NINJAGO / Dragons Rising Season 4	L0002204-1	Dragon Kai paper bag	2026	?	? x ? x ?
+65	Star Wars / Star Wars The Clone Wars	L0002237-1	Galactic Marine paper bag	2026	8.3	12 x 14 x 1.5
+850	Jurassic World	122507-1	Raptor Feeding paper bag	2026	18.5	12 x 15 x 1.5

@@ -1110,7 +1110,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 576	Curriculum Activity Book / Educational & Dacta / MINDSTORMS	900065	Using ROBOLAB Teacher's Guide	2003	?	? x ? x ?
 332	Informational Book / Technic	4128089	Technic Guide to Axle Lengths Single Sheet Brochure  (4128089/4128243)	?	2	14 x 14 x 0
 332	Informational Book / Educational & Dacta / Technic	9771	Computer Interface Card Unit Manual (199.009.080)	1987	127	21 x 14.5 x 0.45
-332	Informational Book / Educational & Dacta / Technic	9700	Computer Interface Unit Manual	1987	45	21 x 14.5 x 0.15
+332	Informational Book / Educational & Dacta / Technic	9700	Set 9700 Directions for Use	1987	45	21 x 14.5 x 0.15
 331	Comic Book / BIONICLE	biocom09igncn	Bionicle Ignition # 9 - Chinese Language	2007	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta / Technic	959	Technic Control I Resource Guide	1991	?	? x ? x ?
 552	Coloring Book / DUPLO / Dino	b08col01	Coloring Book, DUPLO Dino Abenteuer	2008	23.5	14.9 x 21 x 0.1
@@ -1837,14 +1837,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 331	Comic Book / Super Heroes / Avengers	6013291	Super Heroes Comic Book, Marvel, Issue 4 (6013291 / 6013293)	2012	22	20.5 x 25.5 x 0.05
 331	Comic Book / Super Heroes / Ultimate Spider-Man	6013294	Super Heroes Comic Book, Marvel, Issue 5 (6013294 / 6013295)	2012	9	12.5 x 17 x 0
 332	Informational Book	b73albdk	En lille bog om børn og leg (A Little Book About Children and Play - Danish) (97515-Da)	1973	30	9 x 18.5 x 0
-576	Curriculum Activity Book / Educational & Dacta / Technic	9700b1	Set 9700 Activity Card 1 - General	1987	?	? x ? x ?
-576	Curriculum Activity Book / Educational & Dacta / Technic	9700b2	Set 9700 Activity Card 2 - Traffic Light	1987	?	? x ? x ?
-576	Curriculum Activity Book / Educational & Dacta / Technic	9700b3	Set 9700 Activity Card 3 - Motorized Car	1987	?	? x ? x ?
-576	Curriculum Activity Book / Educational & Dacta / Technic	9700b4	Set 9700 Activity Card 4 - Starting Gate	1987	?	? x ? x ?
-576	Curriculum Activity Book / Educational & Dacta / Technic	9700b5	Set 9700 Activity Card 5 - Conveyor Belt	1987	?	? x ? x ?
-576	Curriculum Activity Book / Educational & Dacta / Technic	9700b6	Set 9700 Activity Card 6 - Carousel/Merry-Go-Round	1987	?	? x ? x ?
-576	Curriculum Activity Book / Educational & Dacta / Technic	9700b7	Set 9700 Activity Card 7 - Washing Machine	1987	?	? x ? x ?
-576	Curriculum Activity Book / Educational & Dacta / Technic	9700b8	Set 9700 Activity Card 8 - Robot Turtle	1987	?	? x ? x ?
+576	Curriculum Activity Book / Educational & Dacta / Technic	9700b1	Set 9700 Activity Card 1 - General	1987	16	14.8 x 21 x 0.5
+576	Curriculum Activity Book / Educational & Dacta / Technic	9700b2	Set 9700 Activity Card 2 - Traffic Light	1987	12	14.8 x 21 x 0.35
+576	Curriculum Activity Book / Educational & Dacta / Technic	9700b3	Set 9700 Activity Card 3 - Motorized Car	1987	16	14.8 x 21 x 0.4
+576	Curriculum Activity Book / Educational & Dacta / Technic	9700b4	Set 9700 Activity Card 4 - Starting Gate	1987	32	14.8 x 21 x 0.9
+576	Curriculum Activity Book / Educational & Dacta / Technic	9700b5	Set 9700 Activity Card 5 - Conveyor Belt	1987	12	14.8 x 21 x 0.35
+576	Curriculum Activity Book / Educational & Dacta / Technic	9700b6	Set 9700 Activity Card 6 - Carousel/Merry-Go-Round	1987	16	14.8 x 21 x 0.65
+576	Curriculum Activity Book / Educational & Dacta / Technic	9700b7	Set 9700 Activity Card 7 - Washing Machine	1987	24.5	14.8 x 21 x 0.65
+576	Curriculum Activity Book / Educational & Dacta / Technic	9700b8	Set 9700 Activity Card 8 - Robot Turtle	1987	24	14.8 x 21 x 0.65
 1167	Magazine, LEGO Club	mag2012fr4	Lego Club Magazine 2012 Issue 9 September - October (French)	2012	53	20.4 x 26.7 x 0.1
 766	Activity Book / Town / City	9782351006696	City - Pluie de météores (French Edition)	2012	275	20.5 x 24.8 x 1.7
 576	Curriculum Activity Book / Educational & Dacta	9616bc1	Set 9616 Cover & Inventory Card (4181972)	1993	15	27 x 15.5 x 0.1
@@ -2278,7 +2278,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 331	Comic Book / Super Heroes / Ultimate Spider-Man	6079399	Super Heroes Comic Book, Marvel, Ultimate Spider-Man (6079399 / 6079400)	2014	8.82	12.6 x 17 x 0.1
 331	Comic Book / Super Heroes / Batman II	6070951	Super Heroes Comic Book, DC Comics, Batman (6070951 / 6070954)	2014	8.75	12.5 x 17.1 x 0.1
 331	Comic Book / Super Heroes / Batman II	6078153	Super Heroes Comic Book, DC Comics, Batman (6078153 / 6078156)	2014	8.75	13 x 17 x 0.02
-1167	Magazine, LEGO Club	mag2014jan	Lego Club Magazine 2014 January - February	2014	?	? x ? x ?
+1167	Magazine, LEGO Club	mag2014jan	Lego Club Magazine 2014 January - February	2014	52	21.3 x 26.6 x 0.1
 766	Activity Book / Friends	b13frnd01	Friends - Special Edition	2013	137	20.5 x 29.5 x 0.25
 331	Comic Book / Super Heroes / Batman II	6070937	Super Heroes Comic Book, DC Comics, Batman (6070937 / 6070939)	2014	9	12.5 x 17.1 x 0.1
 332	Informational Book / Technic	6075281	Technic Pull Back Leaflet (6075281 / 6075283)	2014	6	12.6 x 17.1 x 0.1
@@ -7123,7 +7123,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 766	Activity Book / Star Wars / Star Wars The Mandalorian	b24sw02uk	Star Wars - Mandalorian Warriors (Softcover) (English - UK Edition)	2024	158	? x ? x ?
 766	Activity Book / Harry Potter	b24hp05uk	Harry Potter - Official Yearbook 2025 (Hardcover) (English - UK Edition)	2024	?	21.6 x 28.5 x 1
 766	Activity Book / Super Heroes	b23sh05uk	DC Super Heroes - Beware, Villains (Softcover) (English - UK Edition)	2023	?	20.64 x 28.73 x 2
-766	Activity Book / Harry Potter	b22hp08uk	Harry Potter - Magical Adventures (Softcover) (English - UK Edition)	2022	?	? x ? x ?
+766	Activity Book / Harry Potter	b23hp15uk	Harry Potter - Magical Adventures (Softcover) (English - UK Edition)	2023	?	? x ? x ?
 1024	Magazine, NINJAGO	mag2024njo119de	NINJAGO Magazine 2024 Issue 119 (German)	2024	?	? x ? x ?
 1025	Magazine, Star Wars	mag2024sw09pl	Star Wars Magazine 2024 Issue 9 (Polish)	2024	95	21 x 27.5 x 0.13
 331	Comic Book / Star Wars	com2023sw15de	Star Wars Comic 2023 Issue 15 (German)	2023	69	17 x 26 x 0.2
@@ -7899,3 +7899,4 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1021	Magazine, City	mag2026cty88de	City Magazine 2026 Issue 88 (German)	2026	?	? x ? x ?
 766	Activity Book / Star Wars	b26sw03	Star Wars - Grogu's Adventures	2026	160	20.5 x 28.8 x 2.7
 1024	Magazine, NINJAGO / Legacy	mag2026njol44de	NINJAGO Legacy Magazine 2026 Issue 44 (German)	2026	?	? x ? x ?
+1024	Magazine, NINJAGO	mag2026njo142de	NINJAGO Magazine 2026 Issue 142 (German)	2026	?	? x ? x ?
