@@ -549,6 +549,7 @@ Category ID	Category Name
 1211	Knight Rider
 283	Knights Kingdom I
 536	Knights Kingdom II
+1390	KPop Demon Hunters
 90	Ladder
 723	Lamborghini
 569	Large Figure Part
@@ -657,7 +658,7 @@ Category ID	Category Name
 915	Mini Doll, Headgear
 916	Mini Doll, Legs
 917	Mini Doll, Torso
-1252	Mini Doll, Utensil 
+1252	Mini Doll, Utensil
 20	Minifigure, Body Part
 142	Minifigure, Body Wear
 847	Minifigure, Hair
