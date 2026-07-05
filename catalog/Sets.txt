@@ -14845,9 +14845,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-8	Dean Thomas, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	10.75	8.7 x 11.8 x 1.5
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-9	Lord Voldemort, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	10.5	8.7 x 11.8 x 1.5
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-10	Dobby, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	11.15	8.7 x 11.8 x 1.5
-746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-11	Professor Trelawney, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	12.23	8.7 x 11.8 x 1.5
+746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-11	Professor Sybill Trelawney, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	12.23	8.7 x 11.8 x 1.5
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-12	Cedric Diggory, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	11.82	8.7 x 11.8 x 1.5
-746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-13	Professor Flitwick, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	10.14	8.7 x 11.8 x 1.5
+746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-13	Professor Filius Flitwick, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	10.14	8.7 x 11.8 x 1.5
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-14	Mad-Eye Moody (Barty Crouch Jr. Transformation), Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	11.42	8.7 x 11.8 x 1.5
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-15	Harry Potter in Pajamas, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	10.21	8.7 x 11.8 x 1.5
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-16	Albus Dumbledore, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	12.15	8.7 x 11.8 x 1.5
@@ -15160,7 +15160,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Promotional	5005704-1	Star Wars Box	2018	190	20.5 x 20.3 x 7.7
 971	The LEGO Movie 2	30340-1	Emmet's 'Piece' Offering polybag	2019	42.7	17.2 x 19.4 x 1.5
 976	LEGO Brand / LEGO Brand Store / Grand Opening / BrickHeadz	SHIMAO-1	LEGO Store Grand Opening Exclusive Set, Shanghai, China - Shimao BrickHeadz	2018	?	? x ? x ?
-759	NINJAGO / (Other)	853899-1	Lloyd's Kendo Training Pod blister pack	2019	99	23.5 x 10.5 x 4
+759	NINJAGO / Legacy	853899-1	Lloyd's Kendo Training Pod blister pack	2019	99	23.5 x 10.5 x 4
 971	The LEGO Movie 2	30529-1	Mini Master-Building Emmet polybag	2019	32	17 x 17 x 1.5
 971	The LEGO Movie 2	30527-1	Lucy vs. Alien Invader polybag	2019	39.8	17.2 x 19.5 x 1.5
 171	Creator / Basic Model / Creature	30571-1	Pelican polybag	2019	39	17.4 x 16.9 x 1.7
@@ -15670,7 +15670,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Advent Sub-Set / Harry Potter	75964-16	Advent Calendar 2019, Harry Potter (Day 15) - Snow Wizard	2019	6	11 x 8.8 x 1.7
 390	Holiday & Event / Advent Sub-Set / Harry Potter	75964-17	Advent Calendar 2019, Harry Potter (Day 16) - Chess Set	2019	9	11 x 8.2 x 0.8
 390	Holiday & Event / Advent Sub-Set / Harry Potter	75964-18	Advent Calendar 2019, Harry Potter (Day 17) - Hufflepuff Flagstand	2019	3	11 x 9 x 0.6
-390	Holiday & Event / Advent Sub-Set / Harry Potter	75964-19	Advent Calendar 2019, Harry Potter (Day 18) - Professor Flitwick	2019	4	11 x 8.6 x 1
+390	Holiday & Event / Advent Sub-Set / Harry Potter	75964-19	Advent Calendar 2019, Harry Potter (Day 18) - Professor Filius Flitwick	2019	4	11 x 8.6 x 1
 390	Holiday & Event / Advent Sub-Set / Harry Potter	75964-20	Advent Calendar 2019, Harry Potter (Day 19) - Fireplace with Christmas Decoration	2019	12	9 x 8.8 x 0.8
 390	Holiday & Event / Advent Sub-Set / Harry Potter	75964-21	Advent Calendar 2019, Harry Potter (Day 20) - Statue Pedestal with House Crests	2019	13	11 x 9.8 x 1
 390	Holiday & Event / Advent Sub-Set / Harry Potter	75964-22	Advent Calendar 2019, Harry Potter (Day 21) - Hogwarts Architect Statue	2019	7	11 x 9 x 1.1
@@ -19400,7 +19400,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 768	Super Heroes / Spider-Man	682401-1	Doc Ock paper bag	2024	16.8	12 x 14.5 x 1
 771	Friends	562401-1	Pizza Bakery (Baking Set) paper bag	2024	22.15	12 x 14 x 1
 983	Promotional	6422232-1	Wooden Duck	2022	?	? x ? x ?
-36	Technic / Model / Riding Cycle	42170-1	Kawasaki Ninja H2R Motorcycle	2024	870	38 x 26 x 7
+36	Technic / Model / Riding Cycle	42170-1	Kawasaki Ninja H2R	2024	870	38 x 26 x 7
 817	LEGO Ideas (CUUSOO)	21347-1	Red London Telephone Box	2024	1488	28 x 45.6 x 8.8
 768	Super Heroes / Spider-Man	30679-1	Venom Street Bike polybag	2024	42	16.8 x 18.5 x 2
 759	NINJAGO / Dragons Rising Season 2	892402-1	Wolf Mask Warrior paper bag	2024	8	11.5 x 15 x 1.5
@@ -19891,7 +19891,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-17	Advent Calendar 2024, Harry Potter (Day 16) - Choir Ghost	2024	7	11 x 9 x 1.5
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-18	Advent Calendar 2024, Harry Potter (Day 17) - Tree Base with Hogwarts Express	2024	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-19	Advent Calendar 2024, Harry Potter (Day 18) - Tree with Santa Hat	2024	?	? x ? x ?
-390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-20	Advent Calendar 2024, Harry Potter (Day 19) - Professor Flitwick and 1 Random Collectible Portrait	2024	4.54	11 x 8.25 x 1.5
+390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-20	Advent Calendar 2024, Harry Potter (Day 19) - Professor Filius Flitwick and Random Collectible Portrait	2024	4.54	11 x 8.25 x 1.5
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-21	Advent Calendar 2024, Harry Potter (Day 20) - Fireplace with 1 Random Collectible Portrait	2024	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-22	Advent Calendar 2024, Harry Potter (Day 21) - Wreath Decoration	2024	?	? x ? x ?
 390	Holiday & Event / Advent Sub-Set / Harry Potter	76438-23	Advent Calendar 2024, Harry Potter (Day 22) - Table with Candle	2024	?	? x ? x ?
@@ -20215,7 +20215,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Farm	60461-1	Tractor with Trailer	2025	251	20.5 x 19.1 x 4.6
 67	Town / City	60462-1	Helicopter, Fire Truck & Submarine Remix	2025	1068	38.2 x 26.2 x 9.4
 67	Town / City / Fire	60463-1	Fire Truck	2025	318	26 x 18.9 x 4.4
-36	Technic / Model / Riding Cycle	42202-1	Ducati Panigale V4 S Motorcycle	2025	2460	55.5 x 37.5 x 10
+36	Technic / Model / Riding Cycle	42202-1	Ducati Panigale V4 S	2025	2460	55.5 x 37.5 x 10
 759	NINJAGO / Dragons Rising Season 2	112501-1	Zane vs. Temple Guard metal box	2025	66	12.5 x 9 x 2
 801	Minecraft	662501-1	Hero with Elytra and Phantom paper bag	2025	16	12 x 15 x 1.5
 423	Classic	11039-1	Creative Food Friends	2025	164	16 x 14 x 6
@@ -20938,7 +20938,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 171	Creator / Creator Expert / Winter Village Collection / Holiday & Event / Christmas / Train	10361-1	Holiday Express Train	2025	1360	45.4 x 28.2 x 8.7
 390	Holiday & Event / Christmas	41843-1	Family Christmas Tree	2025	3744	36.9 x 47.9 x 21.4
 976	LEGO Brand / Promotional	6206253-1	LEGO World Denmark Promotional 2020 - Puzzle and Minifigures	2020	?	? x ? x ?
-67	Town / City / Farm	952509-1	Farmer with Tractor paper bag	2025	?	? x ? x ?
+67	Town / City / Farm	952509-1	Farmer with Tractor paper bag	2025	22.5	12 x 14.6 x 1.5
 976	LEGO Brand / LEGO Employee Gift	6586965-1	LEGO Play Day 2025 - Duck Marionette	2025	?	? x ? x ?
 768	Super Heroes / Spider-Man	682505-1	Green Goblin paper bag #2	2025	13	12 x 15 x 2
 976	LEGO Brand / Promotional	6386184-1	LEGO Masters Gift, White and Light Bluish Gray	2021	180	14.5 x 14.5 x 4.5
@@ -21343,7 +21343,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Building Event / Star Wars	6626053-1	LEGO Brand Store Exclusive Build - Star Wars Lightsaber	2026	55	21.5 x 21.5 x 1.5
 65	Star Wars / Promotional / Star Wars Episode 4/5/6	SWGCNO-1	Star Wars Galactic Challenge Contest Promotional Set (Norwegian Version)	1999	11	14 x 18.5 x 1.5
 801	Minecraft	L0002248-1	Hero with Blaze paper bag	2026	15	12 x 15 x 1.5
-67	Town / City / Construction	L0002221-1	Construction Worker with Bulldozer paper bag	2026	?	? x ? x ?
+67	Town / City / Construction	L0002221-1	Construction Worker with Bulldozer paper bag	2026	21.1	? x ? x ?
 976	LEGO Brand / Promotional	5009189-1	2025 Store Manager's Summit - New Orleans Alligator Float	2025	?	14.5 x 14.5 x 4.5
 1095	Super Mario / Sculptures / Mario Kart	72050-1	Mario Kart - Luigi & Mach 8	2026	2957	55.5 x 37.7 x 10.1
 817	LEGO Ideas (CUUSOO)	21367-1	Tintin Moon Rocket	2026	1494	28 x 45.4 x 8.3
@@ -21433,11 +21433,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 988	Building Event / Star Wars / Star Wars The Mandalorian and Grogu	5010305-1	Barnes & Noble Exclusive Build - The Mandalorian & Grogu	2026	152	17 x 29 x 3
 759	NINJAGO / Dragons Rising Season 4	L0002202-1	Earth Monster paper bag	2026	12	12 x 15 x 1.5
 801	Minecraft	L0002250-1	Blacksmith with Netherite Armor and Smithing Table paper bag	2026	17.3	12 x 15 x 1.5
-36	Technic / Model / Harbor	L0002290-1	Submarine paper bag	2025	?	? x ? x ?
-67	Town / City / Traffic	L0002223-1	Sweeper paper bag	2026	?	? x ? x ?
+36	Technic / Model / Harbor	L0002290-1	Submarine paper bag	2025	46	? x ? x ?
+67	Town / City / Traffic	L0002223-1	Sweeper paper bag	2026	20.7	? x ? x ?
 171	Creator / Basic Model / Holiday & Event / Christmas	30718-1	Cataclaws Snow Adventure paper bag	2026	55	17 x 18 x 2.5
 903	BrickHeadz / Shrek	40923-1	Shrek, Donkey & Gingy Figures	2026	268.2	19.4 x 14.2 x 7
 988	Building Event	5009813-1	Toys &#34;R&#34; Us Exclusive Build - Giraffe Playtime	2025	?	17.5 x 29.8 x 1.5
+988	Building Event / Star Wars / Star Wars Episode 4/5/6	6626051-1	The Entertainer / Bricktastic Exclusive Build - Bantha	2026	?	? x ? x ?
 390	Holiday & Event / Chinese Festivals	80121-1	Ancient Moon-Gazing Inn	2026	2212	47.6 x 37.6 x 9.1
 390	Holiday & Event / Chinese Festivals	80120-1	Prosperity Carp Leaping	2026	975	38 x 25.8 x 6.8
 976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Birthday	6385444-1	LEGO Brand Store Exclusive Build - Birthday Cake	2018	?	? x ? x ?
@@ -21528,6 +21529,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 171	Creator / Model	31392-1	Music Decor Piano	2026	685	26 x 22 x 7.4
 65	Star Wars / Helmet Collection / Star Wars The Mandalorian and Grogu	75458-1	Imperial Remnant AT-RT Driver Helmet	2026	955	18.8 x 35.3 x 11.6
 65	Star Wars / Sculptures / Star Wars Episode 4/5/6	75461-1	Up-Scaled Darth Vader Minifigure	2026	1312	26.2 x 38 x 9.2
+65	Star Wars / Star Wars The Mandalorian	75459-1	Imperial Lambda-Class Shuttle	2026	?	? x ? x ?
 171	Creator / Creator Expert / Traffic	11380-1	Road Bike	2026	1575	47.6 x 37.5 x 6.6
 629	Architecture	21066-1	New York City - The Big Apple	2026	1750	35 x 37.5 x 9.5
 789	The Hobbit and The Lord of the Rings / The Lord of the Rings	11377-1	Minas Tirith	2026	10944	37.8 x 52 x 34.7
@@ -21543,9 +21545,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 768	Super Heroes / Iron Man and his Awesome Friends	11211-1	Loki vs. Team Iron Man	2026	496	26 x 22.2 x 6
 1197	BrickLink Designer Program / BDP Series 7	910059-1	Privateer Frigate Fortuna	2026	3454	55.4 x 37.5 x 15.4
 1197	BrickLink Designer Program / BDP Series 7	910060-1	Sushi Restaurant	2026	3605	55.4 x 37.5 x 15.4
-1197	BrickLink Designer Program / BDP Series 7	910061-1	Antique Collection	2026	?	? x ? x ?
-1197	BrickLink Designer Program / BDP Series 7	910062-1	Alchemist's Shop	2026	?	? x ? x ?
-1197	BrickLink Designer Program / BDP Series 7	910063-1	W.A.L.T.	2026	?	? x ? x ?
+1197	BrickLink Designer Program / BDP Series 7	910061-1	Antique Collection	2026	1466	53.5 x 27.9 x 8.6
+1197	BrickLink Designer Program / BDP Series 7	910062-1	Alchemist's Shop	2026	2118	48 x 37.5 x 11
+1197	BrickLink Designer Program / BDP Series 7	910063-1	W.A.L.T.	2026	633	26 x 19 x 12
 759	NINJAGO	L0002214-1	Jay vs. Mutation Monster metal box	2026	71	12.5 x 9 x 2
 801	Minecraft	L0002251-1	Cactus Knight with Breeze paper bag	2026	15	12 x 15 x 1.5
 1359	Editions	43017-1	McLaren Mastercard F1 Team Oscar Piastri Helmet	2026	958	38 x 26 x 7
@@ -21554,8 +21556,21 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Model / Riding Cycle	L0002292-1	Motorcycle paper bag	2026	?	? x ? x ?
 768	Super Heroes / Avengers	L0002278-1	Hulk vs. Red Hulk metal box	2026	67	12.5 x 9 x 2.3
 771	Friends	L0002265-1	Nugget at Veterinary Station paper bag	2026	?	? x ? x ?
+801	Minecraft	L0002260-1	Magma Cube paper bag	2026	?	? x ? x ?
 983	Promotional	5010224-1	Sports Stadium	2026	?	? x ? x ?
-983	Promotional	40902-1	Tribute to Leonardo da Vinci	2026	?	26 x 19 x 4.5
-759	NINJAGO / Dragons Rising Season 4	L0002204-1	Dragon Kai paper bag	2026	?	? x ? x ?
+983	Promotional	40902-1	Tribute to Leonardo da Vinci	2026	295	26 x 19 x 4.5
+983	Promotional	5702014965133-1	KNVB Promotional Box	2026	?	8.2 x 8.2 x 8.2
+759	NINJAGO / Dragons Rising Season 4	L0002204-1	Dragon Kai paper bag	2026	10.7	12 x 14.5 x 1.5
 65	Star Wars / Star Wars The Clone Wars	L0002237-1	Galactic Marine paper bag	2026	8.3	12 x 14 x 1.5
 850	Jurassic World	122507-1	Raptor Feeding paper bag	2026	18.5	12 x 15 x 1.5
+67	Town / City / Fire	L0002224-1	Firefighter with Fire Quad paper bag	2026	21	11.8 x 16.7 x 1.5
+988	Building Event / Star Wars / Star Wars The Mandalorian	5010391-1	Best Buy Exclusive Build - Bo Katan	2026	110	16 x 14 x 2.5
+768	Super Heroes / Spider-Man	L0002285-1	Spider-Man metal box {Rectangular Box Version}	2026	?	? x ? x ?
+768	Super Heroes / Spider-Man	L0002285-2	Spider-Man metal box {Mask Shaped Box Version}	2026	?	? x ? x ?
+36	Technic / Model	40894-1	Koenigsegg Sadair's Spear Steering Wheel	2026	?	? x ? x ?
+36	Technic / Model / Race	42232-1	Koenigsegg Sadair's Spear	2026	?	? x ? x ?
+36	Technic / Model / Race	42240-1	Aston Martin Aramco AMR25 F1 Car	2026	?	? x ? x ?
+768	Super Heroes / Bust Collection	76356-1	Venom Bust	2026	?	? x ? x ?
+171	Creator / Creator Expert	11374-1	Arcade Pinball Machine	2026	?	? x ? x ?
+801	Minecraft	L0002252-1	Space Sentinel with Enderman and Endermite metal box	2026	75.3	6.5 x 20 x 2.5
+983	Promotional	5010053-1	Airplane	2026	?	? x ? x ?

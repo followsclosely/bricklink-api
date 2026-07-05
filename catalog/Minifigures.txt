@@ -10464,7 +10464,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp08	Dean Thomas, Harry Potter, Series 1 (Minifigure Only without Stand and Accessories)	2018	3.37
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp10	Dobby, Harry Potter, Series 1 (Minifigure Only without Stand and Accessories)	2018	3.37
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp04	Draco Malfoy, Harry Potter, Series 1 (Minifigure Only without Stand and Accessories)	2018	3.17
-746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp13	Professor Flitwick, Harry Potter, Series 1 (Minifigure Only without Stand and Accessories)	2018	3.2
+746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp13	Professor Filius Flitwick, Harry Potter, Series 1 (Minifigure Only without Stand and Accessories)	2018	3.2
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp15	Harry Potter in Pajamas, Harry Potter, Series 1 (Minifigure Only without Stand and Accessories)	2018	3.82
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp01	Harry Potter in School Robes, Harry Potter, Series 1 (Minifigure Only without Stand and Accessories)	2018	3.48
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp02	Hermione Granger in School Robes, Harry Potter, Series 1 (Minifigure Only without Stand and Accessories)	2018	3.98
@@ -10476,7 +10476,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1 / Fantastic Beasts	colhp22	Percival Graves, Harry Potter, Series 1 (Minifigure Only without Stand and Accessories)	2018	3.39
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1 / Fantastic Beasts	colhp20	Queenie Goldstein, Harry Potter, Series 1 (Minifigure Only without Stand and Accessories)	2018	3.9
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp03	Ron Weasley in School Robes, Harry Potter, Series 1 (Minifigure Only without Stand and Accessories)	2018	3.55
-746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp11	Professor Trelawney, Harry Potter, Series 1 (Minifigure Only without Stand and Accessories)	2018	5.41
+746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp11	Professor Sybill Trelawney, Harry Potter, Series 1 (Minifigure Only without Stand and Accessories)	2018	5.41
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1 / Fantastic Beasts	colhp18	Tina Goldstein, Harry Potter, Series 1 (Minifigure Only without Stand and Accessories)	2018	4.07
 759	NINJAGO / Sons of Garmadon	njo0455	Cole - Sons of Garmadon	2018	3.5
 227	Harry Potter / Fantastic Beasts	hp163	Tina Goldstein	2018	3.92
@@ -13197,7 +13197,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars The Mandalorian	sw1157	Imperial Artillery Stormtrooper - Male, Light Nougat Head, Cheek Lines	2021	6
 65	Star Wars / Star Wars The Mandalorian	sw1158	Boba Fett - Repainted Beskar Armor, Jet Pack, Rangefinder	2021	4
 65	Star Wars / Star Wars The Mandalorian	sw1159	Fennec Shand - Helmet	2021	4
-65	Star Wars / Star Wars The Mandalorian	sw1160	Moff Gideon - Cape	2021	3.59
+65	Star Wars / Star Wars The Mandalorian	sw1160	Moff Gideon - Cape, Reddish Brown Head	2021	3.59
 65	Star Wars / Star Wars The Mandalorian	sw1161	Dark Trooper	2021	4
 65	Star Wars / Star Wars The Clone Wars	sw1162	Gar Saxon	2021	4.35
 65	Star Wars / Star Wars The Clone Wars	sw1163	Bo-Katan Kryze - Plain Arms, Jet Pack, Helmet	2021	4.21
@@ -17401,7 +17401,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 817	LEGO Ideas (CUUSOO)	idea224	Sir Isaac Newton	2025	4.1
 817	LEGO Ideas (CUUSOO)	idea225	Marie Skłodowska-Curie	2025	3.9
 878	Disney / Lilo & Stitch	dis174	Stitch - Dark Azure	2025	4.55
-878	Disney / Lilo & Stitch	dis175	Lilo - Short Legs	2025	3.55
+878	Disney / Lilo & Stitch	dis175	Lilo - Short Legs, Light Aqua Flower	2025	3.55
 878	Disney / Lilo & Stitch	dis177	Nani	2025	4.41
 878	Disney / Lilo & Stitch	dis179	David	2025	3.35
 878	Disney / Lilo & Stitch	dis178	Mr. Bubbles	2025	3.03
@@ -18443,7 +18443,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0872	Friends Liann - Dark Azure and Bright Light Blue Vest  over White Top, Sand Green Trousers, Dark Brown Boots, Bright Light Orange Horse Riding Helmet	2026	3
 801	Minecraft	min248	Hero - Sand Blue Torso, Bright Green Legs and Helmet	2025	4.19
 801	Minecraft	min249	Hero - Dark Green Torso, Dark Tan Legs, Bright Light Orange Goggles	2025	4.16
-1203	Sonic the Hedgehog	son032	Silver the Hedgehog	2026	?
+1203	Sonic the Hedgehog	son032	Silver the Hedgehog	2026	6.49
 67	Town	twn539	Vintage Car Show Driver - Tricorne Propeller Hat	2026	3.88
 67	Town	twn540	Vintage Car Show Passenger - Cheeseburger Hat	2026	5.76
 768	Super Heroes / Spidey and his Amazing Friends	sh1105	Spider-Man (Peter 'Spidey' Parker) - Medium Legs, Black Spider Logo, Dark Orange Belt	2026	2.9
@@ -18781,7 +18781,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 850	Jurassic World / Jurassic Park	jw143	Dennis Nedry - Jurassic Park Logo on Back, Hood	2026	3.65
 65	Star Wars / Star Wars The Mandalorian	sw1528	The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape, Printed Head, Reddish Brown and Dark Silver Knee Pads	2026	3.8
 759	NINJAGO / Dragons Rising Season 4	njo1074	Zilvar	2026	4.66
-759	NINJAGO / Dragons Rising Season 4	njo1076	Empress Beatrix - Gold Chest and Leg Armor	?	?
+759	NINJAGO / Dragons Rising Season 4	njo1076	Empress Beatrix - Gold Chest and Leg Armor	?	3.8
 1359	Editions	edi007	Charles Leclerc	2026	3.64
 67	Town	twn549	Italian Market Van Driver - Male, Blue Torso, Dark Blue Legs and Cap	2025	3.4
 759	NINJAGO / Dragons Rising Season 4	njo1077	Fire Monster	2026	4.86
@@ -18804,9 +18804,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 227	Harry Potter / Chamber of Secrets	hp627	Ginny Weasley - Gryffindor Robe Open, Black Short Legs, Skirt	2026	3.95
 227	Harry Potter / Chamber of Secrets	hp628	Ron Weasley - Gryffindor Robe Clasped, Sweater, Shirt and Tie, Black Short Legs, Lopsided Grin / Scared Open Mouth, Cheek Lines	2026	3.15
 227	Harry Potter / Chamber of Secrets	hp629	Statue - Hogwarts, Printed Torso, Helmet Castle	2026	3.77
-1309	Fortnite	fort018	Fishstick	?	4.06
-1309	Fortnite	fort019	Leviathan	?	4.24
-1309	Fortnite	fort020	Ginger Gunner	?	3.62
+1309	Fortnite	fort018	Fishstick	2026	4.06
+1309	Fortnite	fort019	Leviathan	2026	4.24
+1309	Fortnite	fort020	Ginger Gunner	2026	3.66
 759	NINJAGO / Dragons Rising Season 4	njo1072	Lloyd - Dragons Rising, Tunic with Dragon Head, Helmet	2026	4.09
 759	NINJAGO / Dragons Rising Season 4	njo1073	Jay - Dragons Rising, Tunic with Dragon Head, Hair, Wide Pearl Gold Shoulder Armor	2026	4.38
 67	Town / City	cty2005	Child - Boy, Dark Purple Tracksuit, Black Medium Legs, Coiled Hair	2026	3.43
@@ -18881,7 +18881,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1332	Bluey	blu008	Bingo - Chef Toque	2026	4.06
 759	NINJAGO / NINJAGO Legends	njo1084	Jin - Twin Titan Mech Suit	2026	4.08
 759	NINJAGO / NINJAGO Legends	njo1085	Mira - Twin Titan Mech Suit	2026	4.14
-842	SPEED CHAMPIONS	sc147	Ken Block	?	3.74
+842	SPEED CHAMPIONS	sc147	Ken Block	2026	3.74
 842	SPEED CHAMPIONS	sc148	Brian O'Conner	?	3.5
 227	Harry Potter / Prisoner of Azkaban	hp630	Sirius Black - Dark Brown Hair, Sand Blue Jacket over Tattered Striped Shirt, Printed Legs	2026	3.8
 227	Harry Potter / Half-Blood Prince	hp631	Harry Potter - Light Bluish Gray Hoodie Open, Sand Blue Legs	2026	3.5
@@ -18917,7 +18917,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Spider-Man Brand New Day	sh1139	Hotdog Vendor	2026	4.3
 768	Super Heroes / Spider-Man Brand New Day	sh1134	Spider-Man - Suit with Dark Azure Highlights, Printed Dark Blue Arms, Red Boots	2026	3.1
 768	Super Heroes / Spider-Man Brand New Day	sh1138	Hulk - Giant, Reddish Brown Pants with Frayed Edges	2026	30.85
+759	NINJAGO / NINJAGO Legends	njo1083	Master Ivo	?	3.55
 771	Friends	frnd0897	Friends Aliya - Sand Blue Vest, Blue Skirt, Metallic Light Blue Shoes	2026	3.38
+768	Super Heroes / Batman II	sh1140	Bane - Prison Jumpsuit	?	3.05
 771	Friends	frnd0898	Friends Olly - White T-Shirt Checkered with Pizza Slice, Dark Orange Shorts, Metallic Light Blue Shoes, Red Hat	2026	2.87
 771	Friends	frnd0899	Friends Liann - Reddish Orange and White Top, Medium Lavender Trousers Bell-Bottoms, Dark Turquoise Shoes	2026	3.12
 771	Friends	frnd0900	Friends Nova - Dark Turquoise Sleeveless Hoodie, Dark Blue Trousers Bell-Bottoms, Dark Tan Shoes, Sunglasses	2026	3.25
@@ -18940,6 +18942,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0901	Friends Nova - White Hoodie with Warm Pink Hood, Dark Turquoise Shorts, Black Boots	2026	3.18
 771	Friends	frnd0902	Friends Zac - Yellow Overalls with Cropped Trousers, Dark Green Sandals	2026	2.94
 771	Friends	frnd0903	Friends Liann - Coral and Dark Turquoise Vest, Medium Lavender Trousers Bell-Bottoms, Dark Turquoise Shoes, Terrified	2026	3.12
+983	Promotional	gen198	Leonardo da Vinci - Black Beret, Neck Bracket	2026	3.86
 771	Friends	frnd0904	Friends Nova - Dark Turquoise Sleeveless Hoodie, Dark Blue Trousers Bell-Bottoms, Dark Tan Shoes	2026	3.23
 771	Friends	frnd0905	Friends Leo - Blue Sleeveless Shirt with Spiral, Reddish Orange Shorts, Dark Turquoise Shoes	2026	2.85
 768	Super Heroes / Spider-Man Brand New Day	sh1136	Boomerang (Fred Myers)	2026	3.42
@@ -18962,3 +18965,30 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Recreation	cty2033	Lava Land Patron - Child, Male, White Shirt with Mountains Logo, Dark Bluish Gray Short Legs, Lanyard, Medium Azure Cap	2026	3.18
 67	Town / City / Recreation	cty2034	Lava Land Worker - Male, Blue Overalls and Legs, Lime Mining Helmet	2026	3.6
 67	Town / City / Recreation	cty2035	Lava Land Patron - Female, Lavender Sleeveless Top, Dark Purple Legs, Black Hair	2026	3.78
+768	Super Heroes / Spider-Man Brand New Day	sh1141	Tombstone	2026	3.51
+768	Super Heroes / Spider-Man Brand New Day	sh1142	Prison DODC Guard	2026	3.38
+771	Friends	frnd0909	Friends Azurea	2026	3.93
+771	Friends	frnd0910	Friends Serina	2026	4.26
+771	Friends	frnd0911	Friends Autumn - Blue Tied Flannel Vest, Medium Lavender Shorts Folded Hem, Dark Blue Sandals	2026	2.86
+771	Friends	frnd0914	Friends Liann - White Tank Top, Medium Lavender Trousers Bell-Bottoms, Dark Turquoise Shoes	?	3.12
+771	Friends	frnd0916	Friends Paisley - Medium Blue Vest, Coral Skirt Full Length	?	3.41
+67	Town / City / Traffic	cty2038	Car Wash Human Billboard	2026	6.6
+67	Town / City / Traffic	cty2036	Car Wash Patron - Male, Dark Brown Jacket over Red Hawaiian Shirt, Sand Blue Legs, Dark Brown Hair	2026	3.5
+67	Town / City / Traffic	cty2037	Car Wash Patron - Female, Dark Turquoise Track Suit, Black Legs, Dark Brown Hair	2026	3.42
+67	Town / City / Train	cty2040	Mobile Crane Operator - Female, Red Plaid Flannel Shirt, Dark Bluish Gray Legs, Red Construction Helmet with Dark Brown Ponytail Hair, Safety Glasses	2026	3.62
+67	Town / City / Train	cty2039	Truck Driver - Female, Blue Overalls over V-Neck Shirt, Blue Legs, Dark Brown Bob Cut Hair, Glasses	2026	3.52
+67	Town / City / Train	cty2041	Train Worker - Male, Neon Yellow Safety Vest with Reflective Stripes, Dark Green Legs with Reflective Stripes, White Construction Helmet, Sunglasses	2026	3.37
+67	Town / City / Train	cty2042	Train Worker - Male, Neon Yellow Safety Vest with Reflective Stripes, Dark Green Legs with Reflective Stripes, White Construction Helmet, Sweat Drops	2026	3.37
+67	Town / City / Fire	cty2043	Fire - Male, Black Jacket and Legs with Reflective Stripes and Red Collar, Neon Yellow Flight Helmet, Trans-Clear Visor	2026	3.65
+67	Town / City / Traffic	cty2044	Car Wash Worker - Female, Blue Overalls and Legs, Medium Azure Hat	2026	3.4
+65	Star Wars / Star Wars The Mandalorian	sw1530	Dr. Penn Pershing	?	3.52
+65	Star Wars / Star Wars The Mandalorian	sw1529	Imperial Shuttle Pilot - Light Nougat Head, Black Aviator Cap	?	3.56
+65	Star Wars / Star Wars The Mandalorian	sw1531	Moff Gideon - Cape, Medium Brown Head	?	3.59
+34	Space / Classic Space	sp149	Classic Space - Bright Light Blue with Air Tanks	?	4.03
+34	Space / Classic Space	sp150	Spacebaby - Classic Space, Bright Light Blue	?	1.1
+878	Disney / Lilo & Stitch	dis211	Lilo - Short Legs, Bright Pink Flower	?	3.55
+1197	BrickLink Designer Program	bdp310	Plain White Torso, White Legs, Trans-Clear Head	2026	3.08
+1197	BrickLink Designer Program	bdp311	Plain Orange Torso, Orange Legs, Trans-Yellow Head	2026	3.04
+1197	BrickLink Designer Program	bdp312	Plain Bright Green Torso, Bright Green Legs, Trans-Bright Green Head	2026	3.05
+1197	BrickLink Designer Program	bdp313	Plain Dark Brown Torso, Dark Brown Legs, Trans-Black Head	2026	3.05
+1197	BrickLink Designer Program	bdp314	Plain Black Torso, Black Legs, Trans-Black Head	2026	3.02
