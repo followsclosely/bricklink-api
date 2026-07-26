@@ -248,6 +248,9 @@ Category ID	Category Name
 1172	Cars 2
 1171	Cars 3
 9	Castle
+593	Castle &#40;2007 Relaunch&#41; {Fantasy Era}
+1391	Castle &#40;2013 Relaunch&#41;
+279	Castle Other
 991	Chain
 696	Chamber of Secrets
 1302	Chaos Theory
@@ -290,11 +293,12 @@ Category ID	Category Name
 1200	Core
 275	Cowboys
 74	Crane
+1392	Creative Building & Bricks and More
 171	Creator
 1068	Creator Expert
 726	Creature
 1371	Crocs
-279	Crusaders
+291	Crusaders & Lion Knights
 1228	Crystalized
 576	Curriculum Activity Book
 11	Cylinder
@@ -311,9 +315,9 @@ Category ID	Category Name
 855	Deep Sea Explorers
 247	Desert
 486	Designer Sets
+1070	Despicable Me & Minions
 1301	Despicable Me 4
-1070	Despicable Me and Minions
-879	Deutscher Fussball-Bund / DFB
+879	Deutscher Fussball-Bund &#40;DFB&#41;
 860	Dimensions
 862	Dimensions Wave 1
 864	Dimensions Wave 2
@@ -354,8 +358,8 @@ Category ID	Category Name
 540	Door, Frame
 523	Dora the Explorer
 1076	Dots
-281	Dragon Knights
 964	Dragon Masters
+281	Dragon Masters & Dragon Knights
 1264	Dragons Rising Season 1
 1291	Dragons Rising Season 2
 1316	Dragons Rising Season 3
@@ -427,7 +431,6 @@ Category ID	Category Name
 266	Fairy-Tale
 1324	Fallen Kingdom
 972	Fantastic Beasts
-593	Fantasy Era
 685	Farm
 1078	Felt
 13	Fence
@@ -439,7 +442,7 @@ Category ID	Category Name
 738	Flag, Decorated
 234	Foam
 175	Food & Drink
-288	Forestmen
+288	Forestmen & Forest People
 1041	FORMA
 1309	Fortnite
 78	FreeStyle
@@ -547,8 +550,8 @@ Category ID	Category Name
 700	Kingdom of the Crystal Skull
 744	Kingdoms
 1211	Knight Rider
-283	Knights Kingdom I
-536	Knights Kingdom II
+283	Knights&#39; Kingdom
+536	Knights&#39; Kingdom II
 1390	KPop Demon Hunters
 90	Ladder
 723	Lamborghini
@@ -579,7 +582,6 @@ Category ID	Category Name
 172	Life on Mars
 1221	Lightyear
 1293	Lilo & Stitch
-291	Lion Knights
 292	Little Forest Friends
 507	Little Robots
 1144	Looney Tunes
@@ -982,7 +984,7 @@ Category ID	Category Name
 505	Story Book
 1043	Stranger Things
 231	String & Net
-88	String Reel / Winch
+88	String Reel & Winch
 174	Studios
 1160	Stuntz
 768	Super Heroes
@@ -1042,7 +1044,7 @@ Category ID	Category Name
 1210	The Goonies
 952	The Hands of Time
 788	The Hobbit
-789	The Hobbit and The Lord of the Rings
+789	The Hobbit & The Lord of the Rings
 957	The Incredibles
 1245	The Infinity Saga
 1136	The Island
@@ -1071,7 +1073,7 @@ Category ID	Category Name
 562	Thomas & Friends
 1225	Thor Love and Thunder
 909	Thor Ragnarok
-385	Throwbot / Slizer
+385	Throwbot & Slizer
 514	Throwing Disk
 37	Tile
 39	Tile, Decorated
@@ -1081,7 +1083,7 @@ Category ID	Category Name
 117	Tile, Round
 812	Tile, Round, Decorated
 1072	Tim Burton&#39;s Batman
-157	Time Cruisers / Twisters
+157	Time Cruisers & Time Twisters
 571	Tiny Turbos
 665	Titans
 668	Toa

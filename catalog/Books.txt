@@ -36,7 +36,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 576	Curriculum Activity Book / Educational & Dacta / Technic	9663	Mechanical Toy Shop Teacher Guide	1995	?	? x ? x ?
 332	Informational Book	b99other01	The Ultimate LEGO Book (Hardcover)	1999	962	24 x 31 x 1.6
 317	Idea Book	B502	Build Amazing Animals	1999	160	21.5 x 28 x 0.3
-505	Story Book / Castle / Knights Kingdom I	B5460	DK Readers Level 2 - Castle Under Attack	2000	130	23 x 15 x 0.4
+505	Story Book / Castle / Knights' Kingdom	B5460	DK Readers Level 2 - Castle Under Attack	2000	130	23 x 15 x 0.4
 505	Story Book / Town / Town Jr.	B5461	DK Readers Level 1 - Secret At Dolphin Bay (Beginning to Read)	2000	130	23 x 15 x 0.4
 505	Story Book / Town / Space Port	B5462	DK Readers Level 2 - Rocket Rescue (Beginning to Read Alone)	2000	130	23 x 15 x 0.4
 505	Story Book / Town / Town Jr.	B5457	DK Readers Level 1 - Trouble at the Bridge	2000	130	23 x 15 x 0.4
@@ -332,9 +332,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 462	Magazine	mn1995novca	Mania Magazine 1995 Nov-Dec (Canadian)	1995	?	? x ? x ?
 462	Magazine	in94v5i3	Innovations 1994 Volume 5 Issue 3	1994	25	21.6 x 28.1 x 0.03
 462	Magazine	in94v5i2	Innovations 1994 Volume 5 Issue 2	1994	28	21.6 x 27.9 x 0.04
-462	Magazine	bp89aut	Bricks n' Pieces 1989 Autumn	1989	10	21 x 30 x 0.1
-462	Magazine	bp90spr	Bricks n' Pieces 1990 Spring	1990	10	21 x 30 x 0.1
-462	Magazine	bp90sum	Bricks n' Pieces 1990 Summer	1990	10	21 x 30 x 0.1
+462	Magazine	bp89aut	Bricks 'n Pieces 1989 Autumn	1989	10	21 x 30 x 0.1
+462	Magazine	bp90spr	Bricks 'n Pieces 1990 Spring	1990	10	21 x 30 x 0.1
+462	Magazine	bp90sum	Bricks 'n Pieces 1990 Summer	1990	10	21 x 30 x 0.1
 462	Magazine	mn1995sepca	Mania Magazine 1995 Sept-Oct (Canadian)	1995	?	? x ? x ?
 462	Magazine	mn1995julca	Mania Magazine 1995 July-August (Canadian)	1995	?	? x ? x ?
 462	Magazine	mn1995mayca	Mania Magazine 1995 May-June (Canadian)	1995	?	? x ? x ?
@@ -342,8 +342,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 331	Comic Book / BIONICLE	4234992	Bionicle Mini Comic Book, Metru Nui (4234992)	2004	?	? x ? x ?
 332	Informational Book	b80onlybest	Only the Best is Good Enough for Our Children	1980	101	20.9 x 29.6 x 0.2
 317	Idea Book	b65de	Rocket Launch Ideas Leaflet	1965	3	23.5 x 16 x 0
-462	Magazine	bp79sum	Bricks n' Pieces No. 2 - 1979 Summer	1979	12	21 x 30 x 0.1
-462	Magazine	bp79aut	Bricks n' Pieces No. 3 - 1979 Autumn	1979	11	21 x 30 x 0.1
+462	Magazine	bp79sum	Bricks 'n Pieces 1979 Summer (No. 2)	1979	12	21 x 30 x 0.1
+462	Magazine	bp79aut	Bricks 'n Pieces 1979 Autumn (No. 3)	1979	11	21 x 30 x 0.1
 332	Informational Book	b97playwell	Play Well 1916 - 1954 (LEGO Idea House publication)	1997	?	? x ? x ?
 332	Informational Book	b97systemplay	The LEGO System of Play 1955 - 1964 (LEGO Idea House publication)	1997	?	? x ? x ?
 332	Informational Book	b97systemgrows	The LEGO System grows with the Child 1965 - 1978 (LEGO Idea House publication)	1997	?	? x ? x ?
@@ -395,20 +395,20 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 572	LEGOLAND Parks	b81llpg	LEGOLAND Denmark Park Guide 1981	1981	?	? x ? x ?
 332	Informational Book / Primo	b98primo	It's Playtime! - From birth to 24 months (926.247-UK)	1998	?	? x ? x ?
 317	Idea Book / Technic	b78tech	Technic Idea Booklet (European)	1978	64.5	29.7 x 21 x 0.1
-462	Magazine	bp80aut	Bricks n' Pieces 1980 Autumn	1980	11	21 x 30 x 0.1
+462	Magazine	bp80aut	Bricks 'n Pieces 1980 Autumn	1980	11	21 x 30 x 0.1
 462	Magazine	mn1996mayca	Mania Magazine 1996 May-June (Canadian)	1996	25.67	? x ? x ?
 462	Magazine	mn1996mar	Mania Magazine 1996 Mar-Apr	1996	25.67	? x ? x ?
 462	Magazine	mn1996janca	Mania Magazine 1996 Jan-Feb (Canadian)	1996	25.67	? x ? x ?
 462	Magazine	in94v5i1	Innovations 1994 Volume 5 Issue 1	1994	24.6	21.3 x 27.7 x 0
-462	Magazine	bp90aut	Bricks n' Pieces 1990 Autumn	1990	10	21 x 30 x 0.1
-462	Magazine	bp91spr	Bricks n' Pieces 1991 Spring	1991	10	21 x 30 x 0.1
-462	Magazine	bp91sum	Bricks n' Pieces 1991 Summer	1991	10	21 x 30 x 0.1
-462	Magazine	bp91aut	Bricks n' Pieces 1991 Autumn	1991	10	21 x 30 x 0.1
-462	Magazine	bp89spr	Bricks n' Pieces 1989 Spring	1989	10	21 x 30 x 0.1
-462	Magazine	bp88aut	Bricks n' Pieces 1988 Autumn	1988	11	21 x 30 x 0.1
+462	Magazine	bp90aut	Bricks 'n Pieces 1990 Autumn	1990	10	21 x 30 x 0.1
+462	Magazine	bp91spr	Bricks 'n Pieces 1991 Spring	1991	10	21 x 30 x 0.1
+462	Magazine	bp91sum	Bricks 'n Pieces 1991 Summer	1991	10	21 x 30 x 0.1
+462	Magazine	bp91aut	Bricks 'n Pieces 1991 Autumn	1991	10	21 x 30 x 0.1
+462	Magazine	bp89spr	Bricks 'n Pieces 1989 Spring	1989	10	21 x 30 x 0.1
+462	Magazine	bp88aut	Bricks 'n Pieces 1988 Autumn	1988	11	21 x 30 x 0.1
 462	Magazine	mn1996jul	Mania Magazine 1996 Jul-Aug	1996	25.67	? x ? x ?
 332	Informational Book	b63ilsys	1963 Information Leaflet - System in Play (in 10 languages)	1963	3	? x ? x ?
-505	Story Book / Castle / Knights Kingdom II	221216	Knights' Kingdom II: The Search for the Stolen Amulet	2005	?	? x ? x ?
+505	Story Book / Castle / Knights' Kingdom II	221216	Knights' Kingdom II: The Search for the Stolen Amulet	2005	?	? x ? x ?
 505	Story Book / BIONICLE	B194	BIONICLE Adventures  #7: Web of the Visorak	2005	93	13.4 x 19.2 x 0.8
 505	Story Book / Fabuland	fablb02	Large Book - Morty's New Job	1983	152	15.5 x 0.8 x 22
 505	Story Book / Fabuland	fablb03	Large Book - Edward's Skyscraper	1983	152	15.5 x 0.8 x 22
@@ -420,51 +420,51 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 594	Puzzle Book / Town	PuzSpy	Spy Catcher an Action Maze Book	1998	175	28 x 21.5 x 0.3
 594	Puzzle Book / Town	PuzSmuggler	Treasure Smuggler an Action Maze Book	1998	175	28 x 21.5 x 0.3
 317	Idea Book / Samsonite	b65samca	Idea Book Samsonite Canadian	1965	9	16.8 x 12.6 x 0
-462	Magazine	bp83spr	Bricks n' Pieces 1983 Spring	1983	12	21 x 30 x 0.1
-462	Magazine	bp83sum	Bricks n' Pieces 1983 Summer	1983	13	21 x 30 x 0.1
+462	Magazine	bp83spr	Bricks 'n Pieces 1983 Spring	1983	12	21 x 30 x 0.1
+462	Magazine	bp83sum	Bricks 'n Pieces 1983 Summer	1983	13	21 x 30 x 0.1
 317	Idea Book	239a	Idea Book 239 - Das große Lego-Buch	1969	760	21.8 x 30 x 1.7
 332	Informational Book	b98dls	Die LEGO Story - Der Stein der Weisen by Margret Uhle (Hardcover)	1998	500	21 x 15 x 2
-462	Magazine	bp79spr	Bricks n' Pieces No. 1 - 1979 Spring	1979	11	21 x 30 x 0.1
-462	Magazine	bp80spr	Bricks n' Pieces 1980 Spring	1980	11	21 x 30 x 0.1
-462	Magazine	bp80sum	Bricks n' Pieces 1980 Summer	1980	11	21 x 30 x 0.1
-462	Magazine	bp81spr	Bricks n' Pieces 1981 Spring	1981	10	21 x 30 x 0.1
-462	Magazine	bp81sum	Bricks n' Pieces 1981 Summer	1981	10	21 x 30 x 0.1
-462	Magazine	bp81aut	Bricks n' Pieces 1981 Autumn	1981	10	21 x 30 x 0.1
-462	Magazine	bp82spr	Bricks n' Pieces 1982 Spring	1982	11	21 x 30 x 0.1
-462	Magazine	bp82sum	Bricks n' Pieces 1982 Summer	1982	12	21 x 30 x 0.1
-462	Magazine	bp82aut	Bricks n' Pieces 1982 Autumn	1982	11	21 x 30 x 0.1
-462	Magazine	bp83aut	Bricks n' Pieces 1983 Autumn	1983	11	21 x 30 x 0.1
-462	Magazine	bp84spr	Bricks n' Pieces 1984 Spring	1984	12	21 x 30 x 0.1
-462	Magazine	bp84sum	Bricks n' Pieces 1984 Summer	1984	11	21 x 30 x 0.1
-462	Magazine	bp84aut	Bricks n' Pieces 1984 Autumn	1984	14	21 x 30 x 0.1
-462	Magazine	bp85spr	Bricks n' Pieces 1985 Spring	1985	15	21 x 30 x 0.1
-462	Magazine	bp85sum	Bricks n' Pieces 1985 Summer	1985	12	21 x 30 x 0.1
-462	Magazine	bp85aut	Bricks n' Pieces 1985 Autumn	1985	13	21 x 30 x 0.1
-462	Magazine	bp86spr	Bricks n' Pieces 1986 Spring	1986	12	21 x 30 x 0.1
-462	Magazine	bp86sum	Bricks n' Pieces 1986 Summer	1986	11	21 x 30 x 0.1
-462	Magazine	bp86aut	Bricks n' Pieces 1986 Autumn	1986	10	21 x 30 x 0.2
-462	Magazine	bp87spr	Bricks n' Pieces 1987 Spring	1987	14	21 x 30 x 0.2
-462	Magazine	bp87sum	Bricks n' Pieces 1987 Summer	1987	11	21 x 30 x 0.1
-462	Magazine	bp87aut	Bricks n' Pieces 1987 Autumn	1987	13	21 x 30 x 0.1
-462	Magazine	bp88spr	Bricks n' Pieces 1988 Spring	1988	12	21 x 30 x 21
-462	Magazine	bp88sum	Bricks n' Pieces 1988 Summer	1988	10	21 x 30 x 0.1
-462	Magazine	bp89sum	Bricks n' Pieces 1989 Summer	1989	10	21 x 30 x 0.1
-462	Magazine	bp92spr	Bricks n' Pieces 1992 Spring	1992	10	21 x 30 x 0.1
-462	Magazine	bp93spr	Bricks n' Pieces 1993 Spring	1993	15	21 x 30 x 0.2
-462	Magazine	bp94spr	Bricks n' Pieces 1994 Spring	1994	?	? x ? x ?
-462	Magazine	bp92sum	Bricks n' Pieces 1992 Summer	1992	10	21 x 30 x 0.1
-462	Magazine	bp93sum	Bricks n' Pieces 1993 Summer	1993	15	21 x 30 x 0.2
-462	Magazine	bp94sum	Bricks n' Pieces 1994 Summer	1994	?	? x ? x ?
-462	Magazine	bp92aut	Bricks n' Pieces 1992 Autumn	1992	10	21 x 30 x 0.1
-462	Magazine	bp93aut	Bricks n' Pieces 1993 Autumn	1993	15	21 x 30 x 0.2
-462	Magazine	bp94aut	Bricks n' Pieces 1994 Autumn	1994	?	? x ? x ?
-331	Comic Book / Castle / Knights Kingdom II	8000076	Knights Kingdom, Find the Shield Save the Kingdom - Jayko's Quest	2005	?	? x ? x ?
+462	Magazine	bp79spr	Bricks 'n Pieces 1979 Spring (No. 1)	1979	11	21 x 30 x 0.1
+462	Magazine	bp80spr	Bricks 'n Pieces 1980 Spring	1980	11	21 x 30 x 0.1
+462	Magazine	bp80sum	Bricks 'n Pieces 1980 Summer	1980	11	21 x 30 x 0.1
+462	Magazine	bp81spr	Bricks 'n Pieces 1981 Spring	1981	10	21 x 30 x 0.1
+462	Magazine	bp81sum	Bricks 'n Pieces 1981 Summer	1981	10	21 x 30 x 0.1
+462	Magazine	bp81aut	Bricks 'n Pieces 1981 Autumn	1981	10	21 x 30 x 0.1
+462	Magazine	bp82spr	Bricks 'n Pieces 1982 Spring	1982	11	21 x 30 x 0.1
+462	Magazine	bp82sum	Bricks 'n Pieces 1982 Summer	1982	12	21 x 30 x 0.1
+462	Magazine	bp82aut	Bricks 'n Pieces 1982 Autumn	1982	11	21 x 30 x 0.1
+462	Magazine	bp83aut	Bricks 'n Pieces 1983 Autumn	1983	11	21 x 30 x 0.1
+462	Magazine	bp84spr	Bricks 'n Pieces 1984 Spring	1984	12	21 x 30 x 0.1
+462	Magazine	bp84sum	Bricks 'n Pieces 1984 Summer	1984	11	21 x 30 x 0.1
+462	Magazine	bp84aut	Bricks 'n Pieces 1984 Autumn	1984	14	21 x 30 x 0.1
+462	Magazine	bp85spr	Bricks 'n Pieces 1985 Spring	1985	15	21 x 30 x 0.1
+462	Magazine	bp85sum	Bricks 'n Pieces 1985 Summer	1985	12	21 x 30 x 0.1
+462	Magazine	bp85aut	Bricks 'n Pieces 1985 Autumn	1985	13	21 x 30 x 0.1
+462	Magazine	bp86spr	Bricks 'n Pieces 1986 Spring	1986	12	21 x 30 x 0.1
+462	Magazine	bp86sum	Bricks 'n Pieces 1986 Summer	1986	11	21 x 30 x 0.1
+462	Magazine	bp86aut	Bricks 'n Pieces 1986 Autumn	1986	10	21 x 30 x 0.2
+462	Magazine	bp87spr	Bricks 'n Pieces 1987 Spring	1987	14	21 x 30 x 0.2
+462	Magazine	bp87sum	Bricks 'n Pieces 1987 Summer	1987	11	21 x 30 x 0.1
+462	Magazine	bp87aut	Bricks 'n Pieces 1987 Autumn	1987	13	21 x 30 x 0.1
+462	Magazine	bp88spr	Bricks 'n Pieces 1988 Spring	1988	12	21 x 30 x 21
+462	Magazine	bp88sum	Bricks 'n Pieces 1988 Summer	1988	10	21 x 30 x 0.1
+462	Magazine	bp89sum	Bricks 'n Pieces 1989 Summer	1989	10	21 x 30 x 0.1
+462	Magazine	bp92spr	Bricks 'n Pieces 1992 Spring	1992	10	21 x 30 x 0.1
+462	Magazine	bp93spr	Bricks 'n Pieces 1993 Spring	1993	15	21 x 30 x 0.2
+462	Magazine	bp94spr	Bricks 'n Pieces 1994 Spring	1994	?	? x ? x ?
+462	Magazine	bp92sum	Bricks 'n Pieces 1992 Summer	1992	10	21 x 30 x 0.1
+462	Magazine	bp93sum	Bricks 'n Pieces 1993 Summer	1993	15	21 x 30 x 0.2
+462	Magazine	bp94sum	Bricks 'n Pieces 1994 Summer	1994	?	? x ? x ?
+462	Magazine	bp92aut	Bricks 'n Pieces 1992 Autumn	1992	10	21 x 30 x 0.1
+462	Magazine	bp93aut	Bricks 'n Pieces 1993 Autumn	1993	15	21 x 30 x 0.2
+462	Magazine	bp94aut	Bricks 'n Pieces 1994 Autumn	1994	?	? x ? x ?
+331	Comic Book / Castle / Knights' Kingdom II	8000076	Knights' Kingdom, Find the Shield Save the Kingdom - Jayko's Quest	2005	?	? x ? x ?
 332	Informational Book	b00babys	Wie Babys spielend lernen (As babies easily learn) (4323966-de)	2000	188	21.4 x 20 x 0.7
 254	Learning Book / DUPLO	b98wid	Duplo - WAS IST DAS (What is That) illustrated by Michael Smollin	1998	206	21 x 20 x 0.6
 332	Informational Book	b02sb	Spybotics Instructions for Controller / Battery (English, French version) (4181069)	2002	12	21 x 29.7 x 0.04
 317	Idea Book / Train / 12V	b76train1	12V Train Idea Leaflet (98560-l-ty/fr/ho.)	1976	12	27 x 27 x 0
 332	Informational Book	b82play	50 Years of Play (Hardcover)	1982	700	21.59 x 30.48 x 0
-505	Story Book / Castle / Knights Kingdom II	79790g	Knights' Kingdom II: The Quest for the Heart	2005	50.1	? x ? x ?
+505	Story Book / Castle / Knights' Kingdom II	79790g	Knights' Kingdom II: The Quest for the Heart	2005	50.1	? x ? x ?
 317	Idea Book / Train / 12V	97930	The electric LEGO 12V speed train, Foldout (97930)	1974	13	27 x 54 x 0
 462	Magazine / LEGOLAND Parks	pnFal05	Brick by Brick Legoland California Passholders' Newsletter - 2005 Fall	2005	14.2	14 x 21.6 x 0.2
 332	Informational Book	b80it	Il Mondo Dei Giochi LEGO by Martine Daru & Philippe Julien	1980	?	? x ? x ?
@@ -474,7 +474,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 462	Magazine / Classic	b59de02	Lego Post 1959 No.2	1959	?	? x ? x ?
 332	Informational Book	b86lb	Brick - Where does it come from?	1986	?	? x ? x ?
 317	Idea Book / Architecture	b62	System Idea Booklet	1962	18	24 x 16 x 0.1
-331	Comic Book / BIONICLE	biocom27bm	Bionicle #27 November 2005 Fractures (Brickmaster Edition)	2005	?	? x ? x ?
+331	Comic Book / BIONICLE	biocom27bm	Bionicle #27 November 2005 Fractures (Brickmaster Edition) (WORK#U-3184)	2005	?	? x ? x ?
 331	Comic Book / BIONICLE	biocom27	Bionicle #27 November 2005 Fractures	2005	37	17 x 26 x 0.1
 462	Magazine	mn1994win	Mania Magazine 1994 Winter Premiere	1994	?	? x ? x ?
 505	Story Book / Fabuland	9780812027525	Small Book - Boris Bulldog (English)	1983	?	? x ? x ?
@@ -487,14 +487,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 331	Comic Book / Castle	b87cas01de	Burg Donnerstein 1: Der Hinterhältige Graf (German Edition)	1987	?	? x ? x ?
 331	Comic Book / Space	5909de	Space Comic - Die Unbekannte Galaxis (Jim Spaceborn)	1986	214	22 x 29.5 x 0.4
 332	Informational Book	b02ws	World Show 2 Souvenir Brochure	1982	?	? x ? x ?
-462	Magazine	bp99jan	Bricks n' Pieces 1999 January	1999	?	? x ? x ?
-462	Magazine	bp99mar	Bricks n' Pieces 1999 March/April (Darth Vader)	1999	?	? x ? x ?
-462	Magazine	bp99jun	Bricks n' Pieces 1999 June (Darth Maul)	1999	?	? x ? x ?
-462	Magazine	bp99aug	Bricks n' Pieces 1999 August	1999	?	? x ? x ?
-462	Magazine	bp99xmas	Bricks n' Pieces 1999 Christmas	1999	?	? x ? x ?
-462	Magazine	bp00jan	Bricks n' Pieces 2000 January	2000	61	? x ? x ?
-462	Magazine	bp98may	Bricks n' Pieces 1998 May/June	1998	?	? x ? x ?
-462	Magazine	bp98aug	Bricks n' Pieces 1998 August	1998	?	? x ? x ?
+462	Magazine	bp99jan	Bricks 'n' Pieces 1999 January	1999	?	? x ? x ?
+462	Magazine	bp99mar	Bricks 'n' Pieces 1999 March/April	1999	?	? x ? x ?
+462	Magazine	bp99jun	Bricks 'n' Pieces 1999 June	1999	?	? x ? x ?
+462	Magazine	bp99aug	Bricks 'n' Pieces 1999 August	1999	?	? x ? x ?
+462	Magazine	bp99xmas	Bricks 'n' Pieces 1999 Christmas	1999	?	? x ? x ?
+462	Magazine	bp00jan	Bricks 'n' Pieces 2000 January	2000	61	? x ? x ?
+462	Magazine	bp98may	Bricks 'n Pieces 1998 May/June	1998	?	? x ? x ?
+462	Magazine	bp98aug	Bricks 'n Pieces 1998 August	1998	?	? x ? x ?
 462	Magazine	wc00UKmar	World Club Magazine (UK) 2000 March/April	2000	63.64	21 x 29.7 x 0.2
 462	Magazine	wc00UKmay	World Club Magazine (UK) 2000 May/June	2000	?	? x ? x ?
 462	Magazine	wc00UKjul	World Club Magazine (UK) 2000 July/August	2000	75.66	21.3 x 26.5 x 0.2
@@ -532,16 +532,16 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 462	Magazine	wc02UKjan	World Club Magazine (UK) 2002 January/February	2002	52.62	21.4 x 26.7 x 0.2
 462	Magazine	amUK99sep	Adventures! Magazine UK - Issue  6 - September 1999	1999	?	? x ? x ?
 462	Magazine	amUS99oct	Adventures! Magazine US - October 1999	1999	?	? x ? x ?
-462	Magazine	bp95is1	Bricks n' Pieces 1995 Issue 1	1995	?	? x ? x ?
-462	Magazine	bp95is2	Bricks n' Pieces 1995 Issue 2	1995	?	? x ? x ?
-462	Magazine	bp95is3	Bricks n' Pieces 1995 Issue 3	1995	?	? x ? x ?
-462	Magazine	bp95is4	Bricks n' Pieces 1995 Issue 4	1995	?	? x ? x ?
-462	Magazine	bp96mar	Bricks n' Pieces 1996 March	1996	?	? x ? x ?
-462	Magazine	bp96may	Bricks n' Pieces 1996 May/June	1996	?	? x ? x ?
-462	Magazine	bp96aug	Bricks n' Pieces 1996 August	1996	?	? x ? x ?
-462	Magazine	bp96oct	Bricks n' Pieces 1996 October/November	1996	?	? x ? x ?
-462	Magazine	bp97jan	Bricks n' Pieces 1997 January	1997	?	? x ? x ?
-462	Magazine	bp97mar	Bricks n' Pieces 1997 March	1997	?	? x ? x ?
+462	Magazine	bp95is1	Bricks 'n Pieces 1995 Issue 1	1995	?	? x ? x ?
+462	Magazine	bp95is2	Bricks 'n Pieces 1995 Issue 2	1995	?	? x ? x ?
+462	Magazine	bp95is3	Bricks 'n Pieces 1995 Issue 3	1995	?	? x ? x ?
+462	Magazine	bp95is4	Bricks 'n Pieces 1995 Issue 4	1995	?	? x ? x ?
+462	Magazine	bp96mar	Bricks 'n Pieces 1996 March	1996	?	? x ? x ?
+462	Magazine	bp96may	Bricks 'n Pieces 1996 May/June	1996	?	? x ? x ?
+462	Magazine	bp96aug	Bricks 'n Pieces 1996 August	1996	?	? x ? x ?
+462	Magazine	bp96oct	Bricks 'n Pieces 1996 October/November	1996	?	? x ? x ?
+462	Magazine	bp97jan	Bricks 'n Pieces 1997 January	1997	?	? x ? x ?
+462	Magazine	bp97mar	Bricks 'n Pieces 1997 March	1997	?	? x ? x ?
 462	Magazine	bp96octin	1996 Insert - Bricks n' Pieces Magazine Oct/Nov	1996	?	? x ? x ?
 462	Magazine	b96lcuk	1996 UK Lego Club Fun Book	1996	?	? x ? x ?
 462	Magazine	lc95UKFun	1995 UK Lego Club Fun Book	1995	?	? x ? x ?
@@ -551,12 +551,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 332	Informational Book / Primo	b98primo2	Das Spiel kann beginnen ...  0-24 Monate (Hardcover)	1998	224	21.5 x 20.3 x 0.6
 332	Informational Book	b80dslb	Den store LEGObog	1980	675	20.5 x 28.4 x 1.7
 332	Informational Book / BIONICLE	60734	BIONICLE - Metru Nui: City of Legends	2004	148	15.3 x 22.8 x 0.5
-505	Story Book / Castle / Knights Kingdom II	70230	Knights Kingdom - Search for the King (Scholastic)	2005	64	15.2 x 22.7 x 0.3
-505	Story Book / Castle / Knights Kingdom II	70231	Knights Kingdom - The Grand Tournament	2005	64	15.2 x 22.7 x 0.3
+505	Story Book / Castle / Knights' Kingdom II	70230	Knights' Kingdom - Search for the King (Scholastic)	2005	64	15.2 x 22.7 x 0.3
+505	Story Book / Castle / Knights' Kingdom II	70231	Knights' Kingdom - The Grand Tournament	2005	64	15.2 x 22.7 x 0.3
 331	Comic Book / BIONICLE	biocom00ign	Bionicle Ignition # 0 January 2006 (Foldout Poster)	2006	28	? x ? x ?
 331	Comic Book / BIONICLE	biocom01ign	Bionicle Ignition # 1 March 2006	2006	56	17 x 26.1 x 0.1
 331	Comic Book / Rock Raiders	4124823	Rock Raiders Mini Comic Book from Set 4990	1999	16	17 x 9.6 x 0.2
-505	Story Book / Castle / Knights Kingdom II	50399	Knights Kingdom - The Lost Kingdom	2005	?	? x ? x ?
+505	Story Book / Castle / Knights' Kingdom II	50399	Knights' Kingdom - The Lost Kingdom	2005	?	? x ? x ?
 332	Informational Book	b83wsde	World Show Insert - Germany - Brochure 1983	1983	?	? x ? x ?
 317	Idea Book	220-nl	Wij spelen met Lego (1971-72)	1971	184	21 x 29.7 x 0.3
 317	Idea Book	5919de	Lustige Spiele mit deinen Steinen (ISBN 3-551-59164-4)	1987	175	20 x 26 x 0.5
@@ -568,7 +568,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 505	Story Book / BIONICLE	b06bio01	BIONICLE - Legends  #1: Island of Doom (Softcover)	2006	90	13.33 x 19.05 x 0.56
 462	Magazine	mag2006mar	Lego Magazine 2006 Mar - Apr	2006	46	20.4 x 26.7 x 0.2
 331	Comic Book / Rock Raiders	2200945	Rock Raiders - High Adventure Deep Underground	2000	144.67	16 x 26 x 0.4
-331	Comic Book / Castle / Knights Kingdom I	2200946	Knights' Kingdom - Medieval Mischief and Mayhem	2000	144.83	16 x 26 x 0.4
+331	Comic Book / Castle / Knights' Kingdom	2200946	Knights' Kingdom - Medieval Mischief and Mayhem	2000	144.83	16 x 26 x 0.4
 331	Comic Book / BIONICLE	biocom01a	Bionicle # 1 April 2001 Six Heroes One Destiny	2001	40	17 x 26.1 x 0.1
 462	Magazine	mag2005nov	Lego Magazine 2005 Nov - Dec	2005	82	20.4 x 26.7 x 0.2
 462	Magazine	mag2006jan	Lego Magazine 2006 Jan - Feb	2006	55	20.4 x 26.7 x 0.2
@@ -582,7 +582,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 505	Story Book / BIONICLE	BioAdv8	BIONICLE Adventures  #8: Challenge of the Hordika	2005	104	13.4 x 19.2 x 0.9
 505	Story Book / BIONICLE	B586	BIONICLE Adventures  #9: Web of Shadows	2005	106	13.3 x 19.3 x 1
 505	Story Book / BIONICLE	B594	BIONICLE Adventures #10: Time Trap	2006	104	13.4 x 19.2 x 0.9
-505	Story Book / Castle / Knights Kingdom II	B321	Knights Kingdom - Welcome to the Kingdom of Morcia (Sticker Storybook)	2005	?	? x ? x ?
+505	Story Book / Castle / Knights' Kingdom II	B321	Knights' Kingdom - Welcome to the Kingdom of Morcia (Sticker Storybook)	2005	?	? x ? x ?
 552	Coloring Book / Explore	4189640DE	Coloring Book, Die LEGO Explore Reise	2002	52	21.1 x 14.7 x 0.2
 505	Story Book / Fabuland	59066	Fabuland - Der rote Ball	1987	40	15 x 15 x 0.2
 505	Story Book / Fabuland	59067	Fabuland - Abenteuer im Dunkeln	1987	40	15 x 15 x 0.2
@@ -797,7 +797,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 505	Story Book / Exo-Force	b07exf01	Exo-Force - Search for the Golden City (Softcover)	2007	85.73	13.33 x 19.05 x 0.56
 552	Coloring Book / DUPLO	B998	Coloring Book, DUPLO: My Town - A Color and Activity Book with Stickers	2007	86.46	? x ? x ?
 505	Story Book / Exo-Force	b06exf03	Exo-Force - Play-Along Sticker Storybook (Softcover)	2006	93.91	21.7 x 0.2 x 27.9
-594	Puzzle Book / Castle / Knights Kingdom II	4397880	Knights' Kingdom II: Punch-Out Play Set - Adventures in Morcia	2006	137.83	21.5 x 0.3 x 27.8
+594	Puzzle Book / Castle / Knights' Kingdom II	4397880	Knights' Kingdom II: Punch-Out Play Set - Adventures in Morcia	2006	137.83	21.5 x 0.3 x 27.8
 332	Informational Book / BIONICLE	b06bio06	BIONICLE - Dark Hunters (Softcover)	2006	147	15.1 x 22.7 x 0.5
 576	Curriculum Activity Book / Educational & Dacta / MINDSTORMS	900052	ROBOLAB Teacher's Guide Part I	1998	355	? x ? x ?
 1102	Sticker Book / Clikits	4398040	Clikits: Friends, Fun & Fashion! - An Activity Book (with Stickers)	2006	76.99	20.5 x 0.4 x 20.3
@@ -882,9 +882,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 552	Coloring Book / DUPLO / Princess Castle	EL416	Coloring Book, DUPLO Princesses Coloring Pack	2007	?	? x ? x ?
 552	Coloring Book / DUPLO	EL986	Coloring Book, DUPLO Castle Coloring Pack	2007	265	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta / MINDSTORMS	4227031	ROBOLAB Team Challenge Instructions	2002	378	21 x 29.6 x 0.65
-462	Magazine	bp75spr	Bricks and Pieces Issue 2 - 1975 Spring	1975	10	29.7 x 21 x 0.01
-462	Magazine	bp76chr	Bricks and Pieces Issue 3 - 1976 Christmas	1976	10	29.7 x 21 x 0.01
-462	Magazine	bp77sep	Bricks and Pieces Special Issue - 1977 September	1977	10	29.7 x 21 x 0.01
+462	Magazine	bp75spr	Bricks  and Pieces 1975 Spring (No. 2)	1975	10	29.7 x 21 x 0.01
+462	Magazine	bp76chr	Bricks  and Pieces 1976 Christmas (No. 3)	1976	10	29.7 x 21 x 0.01
+462	Magazine	bp77sep	Bricks  and Pieces 1977 September (Special Issue)	1977	10	29.7 x 21 x 0.01
 572	LEGOLAND Parks	b05lldepg	LEGOLAND Deutschland Park Guide 2005	2005	20	29.7 x 21 x 0.02
 572	LEGOLAND Parks	b02lldepg	LEGOLAND Deutschland Park Guide 2002	2002	25	21 x 20 x 0.02
 576	Curriculum Activity Book / Educational & Dacta / Technic	1032b9	Set 1032 Activity Booklet  9 - Winches	1985	10	21 x 15 x 0.02
@@ -908,8 +908,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 572	LEGOLAND Parks	b97llukpg	LEGOLAND Windsor Park Guide 1997 with Map	1997	17	21 x 10 x 0.1
 572	LEGOLAND Parks	b04llukpg	LEGOLAND Windsor Park Guide 2004 with Map	2004	24	10 x 21 x 0.2
 505	Story Book / Space / Classic Space	b81avventura	Diario di vita e avventura by Gruppo Editoriale Fabbri	1981	480	15.5 x 19.8 x 2
-462	Magazine	bp98jan	Bricks n' Pieces 1998 January	1998	?	? x ? x ?
-462	Magazine	bp98mar	Bricks n' Pieces 1998 March/April	1998	?	? x ? x ?
+462	Magazine	bp98jan	Bricks 'n Pieces 1998 January	1998	?	? x ? x ?
+462	Magazine	bp98mar	Bricks 'n Pieces 1998 March/April	1998	?	? x ? x ?
 552	Coloring Book / DUPLO	B398	Coloring Book, DUPLO: In The Zoo - A Color and Activity Book with Stickers	2006	?	? x ? x ?
 572	LEGOLAND Parks	b07lldkpg	LEGOLAND Denmark Park Guide 2007	2007	18	10 x 21 x 0.15
 572	LEGOLAND Parks	b04lldepg	LEGOLAND Deutschland Park Guide 2004	2004	28	10 x 21 x 0.15
@@ -932,7 +932,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 332	Informational Book / Exo-Force	7804398	Exo-Force Collector's Guide	2007	133.68	15.4 x 22.8 x 0.45
 505	Story Book / Exo-Force	b07exf04de	Exo-Force - Angriff der Roboter (Softcover) (German Edition)	2007	113.19	? x ? x ?
 505	Story Book / Exo-Force	b07exf03de	Exo-Force - Flucht vom Sentai Berg (Softcover) (German Edition)	2007	112.89	? x ? x ?
-505	Story Book / Castle / Knights Kingdom II	70232	Knights Kingdom - The Dark Fortress	2005	?	? x ? x ?
+505	Story Book / Castle / Knights' Kingdom II	70232	Knights' Kingdom - The Dark Fortress	2005	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta	2010books	Beginner Math Skill Books 1 & 2	1980	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta	2020books	Beginner Reading Skill Books 1 & 2	1980	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta / Technic	9617b01	Set 9617 Activity Booklet 1 - Pneumatic Press	1997	?	? x ? x ?
@@ -1181,10 +1181,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 462	Magazine / Technic	tec1999jul	Lego Technic Club 1999 July/August Magazine	1999	?	? x ? x ?
 462	Magazine / Technic	tec1999sep	Lego Technic Club 1999 September/October Magazine	1999	?	? x ? x ?
 462	Magazine / Technic	tec2000jan	Lego Technic Club 2000 January Magazine	2000	?	? x ? x ?
-462	Magazine	bp98oct	Bricks n' Pieces 1998 October/November	1998	?	? x ? x ?
-462	Magazine	bp97aug	Bricks n' Pieces 1997 August	1997	?	? x ? x ?
-462	Magazine	bp97oct	Bricks n' Pieces 1997 October/November	1997	?	? x ? x ?
-462	Magazine	bp97jun	Bricks n' Pieces 1997 June	1997	?	? x ? x ?
+462	Magazine	bp98oct	Bricks 'n Pieces 1998 October/November	1998	?	? x ? x ?
+462	Magazine	bp97aug	Bricks 'n Pieces 1997 August	1997	?	? x ? x ?
+462	Magazine	bp97oct	Bricks 'n Pieces 1997 October/November	1997	?	? x ? x ?
+462	Magazine	bp97jun	Bricks 'n Pieces 1997 June	1997	?	? x ? x ?
 462	Magazine	amUK01oct	Adventures! Magazine UK - Issue 31 - October 2001	2001	?	? x ? x ?
 462	Magazine	amUK01nov	Adventures! Magazine UK - Issue 32 - November 2001	2001	?	? x ? x ?
 462	Magazine	amUK01dec	Adventures! Magazine UK - Issue 33 - December 2001	2001	?	? x ? x ?
@@ -1244,9 +1244,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 576	Curriculum Activity Book / Educational & Dacta / Technic	9614bc	Set 9614 Cover and Inventory Card (1998 Version)	1998	14.3	27 x 15.5 x 0
 576	Curriculum Activity Book / Educational & Dacta / Technic	9610bc	Set 9610 Cover and Inventory Card (1995 Version)	1995	?	27.1 x 15.6 x 0
 462	Magazine / LEGOLAND Parks	pnSum09	Brick by Brick Legoland California Passholders' Newsletter - 2009 Summer	2009	17	21.6 x 14.6 x 0.1
-505	Story Book / Castle / Knights Kingdom II	b50399	Knights Kingdom - Quest for the Tower	2006	?	? x ? x ?
+505	Story Book / Castle / Knights' Kingdom II	b50399	Knights' Kingdom - Quest for the Tower	2006	?	? x ? x ?
 552	Coloring Book / DUPLO	b07col02	Coloring Book, DUPLO: Farm - A Color and Activity Book with Stickers	2007	?	? x ? x ?
-505	Story Book / Castle / Fantasy Era	b09cas01	Medieval Adventures - Troll Attack (Softcover)	2009	67	15.4 x 22.8 x 0.2
+505	Story Book / Castle / Castle (2007 Relaunch) {Fantasy Era}	b09cas01	Medieval Adventures - Troll Attack (Softcover)	2009	67	15.4 x 22.8 x 0.2
 505	Story Book / Town / City / Fire	b09cty01	City - Fire Truck to the Rescue! (Softcover)	2009	72.7	15.3 x 22.5 x 0.3
 505	Story Book / Space / Mars Mission	b08mm01	Space Adventures - Mars Alien Attack! (Softcover)	2008	64	15 x 22.8 x 0.3
 1167	Magazine, LEGO Club	mag09wc02	Lego Club Magazine (Asia/Pacific) 2009 No.2	2009	52	20.4 x 26.7 x 0.2
@@ -1260,7 +1260,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 254	Learning Book / DUPLO / DUPLO, Town	b09dup3	Duplo - Rescue (LEGO Ville)	2009	?	? x ? x ?
 254	Learning Book / DUPLO / DUPLO, Town	b09dup2	Duplo - Farm (LEGO Ville)	2009	?	? x ? x ?
 505	Story Book / DUPLO / DUPLO, Town	b09dup1	DUPLO DK Readers Pre-Level 1 - On the Farm	2009	?	? x ? x ?
-505	Story Book / Castle / Knights Kingdom II	50999	Knights Kingdom - Battle for Morcia Magnetic Adventure Book	?	?	? x ? x ?
+505	Story Book / Castle / Knights' Kingdom II	50999	Knights' Kingdom - Battle for Morcia Magnetic Adventure Book	?	?	? x ? x ?
 462	Magazine	mag2009julbm	Lego Magazine 2009 July-August (BrickMaster Edition)	2009	460	21 x 27 x 0.3
 331	Comic Book / BIONICLE	biocom03gla	Bionicle Glatorian #3 July 2009	2009	33	16.9 x 24.2 x 0.06
 505	Story Book / BIONICLE	bioraid	BIONICLE - Raid on Vulcanus Super Chapter Book	2009	110	13.4 x 19.2 x 1
@@ -1289,7 +1289,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 332	Informational Book	8650	Virtual LEGO: The official LDraw.org guide to LDraw tools for Windows (1-886411-94-8)	2003	964	20.4 x 25.3 x 2.4
 576	Curriculum Activity Book / Educational & Dacta / Technic	1035fr	Teacher's Guide to TECHNIC I (Set 1030) (French)	1983	?	21 x 15 x 0.3
 317	Idea Book / Pirates / Pirates II	b10pi01	Pirates - Brickmaster (Hardcover)	2010	707.3	24 x 28.4 x 3.5
-317	Idea Book / Castle / Fantasy Era	b10cas01	Castle - Brickmaster (Hardcover)	2010	701.2	28.4 x 24 x 3.5
+317	Idea Book / Castle / Castle (2007 Relaunch) {Fantasy Era}	b10cas01	Castle - Brickmaster (Hardcover)	2010	701.2	28.4 x 24 x 3.5
 331	Comic Book / BIONICLE	4210608	Bionicle Mini Comic Book (4210608-IN)	2003	8	11.5 x 8.5 x 0.1
 576	Curriculum Activity Book / Educational & Dacta / DUPLO	9660b01	Set 9660 Activity Card  1 - {Green Creature}	1997	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta / DUPLO	9660b02	Set 9660 Activity Card  2 - {Falling Towers}	1997	?	? x ? x ?
@@ -1350,7 +1350,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 317	Idea Book	5907nl	Nieuwe ideeën met je stenen (Hardcover) (Dutch Edition)	1986	334	? x ? x ?
 317	Idea Book	5908nl	Hocus Pocus met je stenen (ISBN: 90-359-03382)	1986	331	? x ? x ?
 1167	Magazine, LEGO Club	mag09wc04	Lego Club Magazine (Asia/Pacific) 2009 No.4	2009	41	20.4 x 26.7 x 0.2
-317	Idea Book / Castle / Fantasy Era	DKCastleNL	Bouwmeester Castle	2009	723	28.4 x 23.7 x 3.8
+317	Idea Book / Castle / Castle (2007 Relaunch) {Fantasy Era}	DKCastleNL	Bouwmeester Castle	2009	723	28.4 x 23.7 x 3.8
 317	Idea Book / Pirates / Pirates II	b09pi01nl	Pirates - Bouwmeester (Hardcover) (Dutch Edition)	2009	717	24.5 x 28.4 x 4.2
 1167	Magazine, LEGO Club	mag2010jan	Lego Magazine 2010 Jan - Feb (Club Edition) (WO# 5966)	2010	50.1	20.4 x 26.7 x 0.2
 462	Magazine	mag2010janbm	Lego Magazine 2010 January-February (BrickMaster Edition)	2010	59	20.5 x 26.7 x 0.2
@@ -1384,7 +1384,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1167	Magazine, LEGO Club	mag2010marjr	Lego Club Jr. Magazine 2010 Mar - Apr (WOR 6665)	2010	54	20.4 x 26.7 x 0.2
 1167	Magazine, LEGO Club	mag2010Mar	Lego Magazine 2010 Mar - Apr (Club Edition)	2010	52	20.3 x 26.5 x 0.2
 1167	Magazine, LEGO Club	mag10wc01	Lego Club Magazine (Asia/Pacific) 2010 No.1	2010	37	20.4 x 26.7 x 0.2
-462	Magazine	bp74dec	Bricks and Pieces Issue 1 - December 1974	1974	10	21 x 29.7 x 0.1
+462	Magazine	bp74dec	Bricks  and Pieces 1974 December (No. 1)	1974	10	21 x 29.7 x 0.1
 572	LEGOLAND Parks	b93lldkpg2	LEGOLAND Denmark Guide Book with Map 1993	1993	125	21 x 29.7 x 0
 572	LEGOLAND Parks	b95lldkpg	LEGOLAND Denmark Park Guide 1995	1995	?	21 x 9.5 x 1.5
 462	Magazine / DUPLO	DUPLOMag04	DUPLO Spiel & Spass Magazin 2010 04 'Ein Tag auf dem Campingplatz'	2010	?	? x ? x ?
@@ -1797,7 +1797,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 332	Informational Book	b01LCEInfo	Central Europe Info mit Marketingplan Saison 2001	2001	?	? x ? x ?
 332	Informational Book / Friends	b12frnd03pt	Friends - Informational Booklet (Portuguese Edition)	2012	43	15 x 21 x 0.03
 317	Idea Book / NINJAGO / The Golden Weapons	b11njo05de	NINJAGO - Buch & Steine-Set (Hardcover) (German Edition)	2011	623	23.5 x 28 x 3.3
-317	Idea Book / Castle / Fantasy Era	DKCastleDE	Buch & Steine-Set Castle (Hardcover)	2011	700	23.5 x 28 x 3.3
+317	Idea Book / Castle / Castle (2007 Relaunch) {Fantasy Era}	DKCastleDE	Buch & Steine-Set Castle (Hardcover)	2011	700	23.5 x 28 x 3.3
 331	Comic Book / Hero Factory	hfcom06	Hero Factory Comic Book - Issue 6 2011 - Savage Planet	2011	?	17 x 24 x 0.01
 331	Comic Book / Hero Factory	hfcom07	Hero Factory Comic Book - Issue 7 2011 - Savage Planet	2011	?	17 x 24 x 0.01
 317	Idea Book	b61samca	Idea Brochure Samsonite Canadian (V 1869)	1961	8.03	32.8 x 23.2 x 0.01
@@ -2688,7 +2688,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 254	Learning Book / DUPLO	103283	Duplo - Who can spot? (Wimmelbuch)	1988	?	21 x 21 x 0.3
 331	Comic Book / Hero Factory	hfcomcz	Hero Factory Comic Book - Czech edition	?	?	? x ? x ?
 317	Idea Book / Train	101581	Information Leaflet: From Push Train to Battery Train 4.5V to Electric Train 12V (101581-D/F/NL)	1978	6.4	18.5 x 19 x 0.02
-505	Story Book / Castle / Dragon Knights	922942D	Dragon Knights Story Book (922942-D)	1993	?	? x ? x ?
+505	Story Book / Castle / Dragon Masters & Dragon Knights	922942D	Dragon Knights Story Book (922942-D)	1993	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta / Technic	bedutech	Bouwstenen voor Techniek	?	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta	113906	Basic Set 1050 Teacher's Guide (Handleiding voor de Leerkracht) (Dutch Edition)	1987	?	17 x 30.1 x 0.3
 766	Activity Book / NINJAGO / Tournament of Elements	b15njo05nl	NINJAGO - De Verdedigers van NINJAGO Vakantieboek (Dutch Edition)	2015	?	? x ? x ?
@@ -3518,7 +3518,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 576	Curriculum Activity Book / Educational & Dacta	9311b02	Set 9311 Activity Card 2 (4582311)	2010	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta	9311b03	Set 9311 Activity Card 3 (4582312)	2010	?	? x ? x ?
 317	Idea Book / Town / City / Police	9781465416407	City - Build an Adventure	2013	?	? x ? x ?
-317	Idea Book / Castle / Fantasy Era	9781465416384	Castle - Build an Adventure	2013	?	23.2 x 27.8 x 3.9
+317	Idea Book / Castle / Castle (2007 Relaunch) {Fantasy Era}	9781465416384	Castle - Build an Adventure	2013	?	23.2 x 27.8 x 3.9
 576	Curriculum Activity Book / Educational & Dacta / DUPLO	9161b1	Set 9161 Activity Card 1 (120247)	1991	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta / DUPLO	9161b2	Set 9161 Activity Card 2 (120247)	1991	?	? x ? x ?
 576	Curriculum Activity Book / Educational & Dacta / DUPLO	9161b3	Set 9161 Activity Card 3 (120247)	1991	?	? x ? x ?
@@ -5596,7 +5596,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1024	Magazine, NINJAGO / Legacy	mag2021njol04nl	NINJAGO Legacy Magazine 2021 Issue 4 (Dutch)	2021	151	22.8 x 29.7 x 0.13
 1109	Magazine, Explorer	mag2021ex09de	Explorer Magazine 2021 Issue 9 (German)	2021	89	21 x 28 x 0.2
 1109	Magazine, Explorer	mag2021ex10de	Explorer Magazine 2021 Issue 10 (German)	2021	89	21 x 28 x 0.2
-462	Magazine	bp77spr	Bricks and Pieces Issue 4 - 1977 Spring	1977	14	21 x 29.6 x 0.01
+462	Magazine	bp77spr	Bricks  and Pieces 1977 Spring (No. 4)	1977	14	21 x 29.6 x 0.01
 1021	Magazine, City	mag2021cty33de	City Magazine 2021 Issue 33 (German)	2021	?	? x ? x ?
 1022	Magazine, Friends	mag2021frnd05nl	Friends Magazine 2021 Issue 5 (Dutch)	2021	110	21 x 28 x 2
 1024	Magazine, NINJAGO	mag2021njo06nl	NINJAGO Magazine 2021 Issue 6 (Dutch)	2021	97	21 x 28 x 0.13
@@ -6444,7 +6444,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1063	Magazine, Super Heroes / Batman II	mag2023shba02nl	Batman Magazine 2023 Issue 2 (Dutch)	2023	96	21 x 28 x 2
 1165	Magazine, Minecraft	mag2023min05nl	Minecraft Magazine 2023 Issue 5 (Dutch)	2023	103	21 x 28 x 3
 1024	Magazine, NINJAGO / Legacy	mag2023njol04nl	NINJAGO Legacy Magazine 2023 Issue 4 (Dutch)	2023	183	23 x 30 x 3
-317	Idea Book / Castle / Fantasy Era	b10cas01se	Castle - Brickmaster (Hardcover) (Swedish Edition)	2010	701.2	28.4 x 24 x 3.5
+317	Idea Book / Castle / Castle (2007 Relaunch) {Fantasy Era}	b10cas01se	Castle - Brickmaster (Hardcover) (Swedish Edition)	2010	701.2	28.4 x 24 x 3.5
 766	Activity Book / Holiday & Event / Christmas	b21hol03nl	Bouw & Vier Kerstmis (Softcover) (Dutch Edition)	2021	268	20.5 x 28.7 x 0.5
 1063	Magazine, Super Heroes / Avengers	mag2023shav03cz	Avengers Magazine 2023 Issue 3 (Czech)	2023	82	21 x 28 x 0.2
 1109	Magazine, Explorer	mag2023ex04cz	Explorer Magazine 2023 Issue 4 (Czech)	2023	82	21 x 28 x 0.2
@@ -6818,7 +6818,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1063	Magazine, Super Heroes / Avengers	mag2024shav21uk	Avengers Magazine 2024 Issue 21 (English - UK)	2024	85	20.8 x 27.8 x 0.2
 1021	Magazine, City	mag2024cty63de	City Magazine 2024 Issue 63 (German)	2024	?	? x ? x ?
 1063	Magazine, Super Heroes / Spider-Man	mag2024shsp15fr	Spider-Man Magazine 2024 Issue 15 (French)	2024	80	21 x 28 x 0.2
-317	Idea Book / Castle / Fantasy Era	b10cas01fi	Castle - Linna (Hardcover) (Finnish Edition)	2010	701.2	28.4 x 24 x 3.5
+317	Idea Book / Castle / Castle (2007 Relaunch) {Fantasy Era}	b10cas01fi	Castle - Linna (Hardcover) (Finnish Edition)	2010	701.2	28.4 x 24 x 3.5
 1022	Magazine, Friends	mag2024frnd02de	Friends Magazine 2024 Issue 2 (German)	2024	?	? x ? x ?
 1024	Magazine, NINJAGO / Legacy	mag2024njol01nl	NINJAGO Legacy Magazine 2024 Issue 1 (Dutch)	2024	186	23 x 30 x 1.5
 1063	Magazine, Super Heroes / Avengers	mag2024shav01nl	Avengers Magazine 2024 Issue 1 (Dutch)	2024	99	21 x 28 x 2
@@ -7900,3 +7900,5 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 766	Activity Book / Star Wars	b26sw03	Star Wars - Grogu's Adventures	2026	160	20.5 x 28.8 x 2.7
 1024	Magazine, NINJAGO / Legacy	mag2026njol44de	NINJAGO Legacy Magazine 2026 Issue 44 (German)	2026	?	? x ? x ?
 1024	Magazine, NINJAGO	mag2026njo142de	NINJAGO Magazine 2026 Issue 142 (German)	2026	?	? x ? x ?
+1021	Magazine, City	mag2026cty89de	City Magazine 2026 Issue 89 (German)	2026	?	? x ? x ?
+1024	Magazine, NINJAGO	mag2026njo143de	NINJAGO Magazine 2026 Issue 143 (German)	2026	?	? x ? x ?

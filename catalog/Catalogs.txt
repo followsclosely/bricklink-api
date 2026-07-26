@@ -154,7 +154,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 378	2002	c02sah1	2002 Shop at Home - January	2002	128
 378	2002	c02sah2	2002 Shop at Home - Spring	2002	97
 378	2002	c02sah2a	2002 Shop at Home - Late Spring	2002	?
-378	2002	c02sah3	2002 Shop at Home - Summer	2002	115
+378	2002	c02sah3	2002 Shop at Home - Summer (WOR 4146)	2002	115
 378	2002	c02sah4	2002 Shop at Home - Fall (WOR 4270)	2002	169
 378	2002	c02sah5	2002 Shop at Home - Holiday	2002	177
 491	2003	c03sah1	2003 Shop at Home - January (WOR U-0275)	2003	133
@@ -640,7 +640,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 375	2000 / Star Wars	m00sw	2000 Mini Technic Star Wars (4130240/4130222-IN)	2000	4.5
 375	2000 / Universal Building Set / Classic Basic	m00bas	2000 Mini Basic (4130229/4124599-IN)	2000	4.5
 375	2000	m00multi	2000 Mini Multi Theme (4130232/4130220)	2000	4.4
-375	2000 / Castle / Knights Kingdom I	m00kk1	2000 Mini Knights' Kingdom (4130235/4130201-IN)	2000	4.5
+375	2000 / Castle / Knights' Kingdom	m00kk1	2000 Mini Knights' Kingdom (4130235/4130201-IN)	2000	4.5
 375	2000 / Town / Town Jr.	m00city	2000 Mini City (4130230/4130200-IN)	2000	4.5
 375	2000 / Star Wars	m00sw2	2000 Mini Star Wars (4130236/4130203-IN)	2000	4.5
 374	1999 / MINDSTORMS	c99mind	1999 Medium Mindstorms (4124580/4124581-IN)	1999	4.38
@@ -652,10 +652,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 374	1999 / Train	m99train	1999 Mini Train (4124531-IN)	1999	4
 374	1999 / Universal Building Set / Classic Basic	c99basic	1999 Medium Basic (4112695/4112696-IN)	1999	10.3
 374	1999 / Universal Building Set / Classic Basic	m99basic2	1999 Mini Basic (4124558-IN)	1999	4.5
-374	1999 / Technic / Throwbot / Slizer	c99techsliz	1999 Medium Technic Throwbot / Slizer Foldout (4124569-IN)	1999	9
+374	1999 / Technic / Throwbot & Slizer	c99techsliz	1999 Medium Technic Throwbot / Slizer Foldout (4124569-IN)	1999	9
 374	1999 / Ninja	m99ninja	1999 Mini Ninja (4124527-IN)	1999	4.5
 374	1999 / Technic	m99tech	1999 Mini Technic (4124533-IN)	1999	4.5
-374	1999 / Technic / Throwbot / Slizer	m99techsliz	1999 Mini Technic Throwbot / Slizer (4124536-IN)	1999	4.5
+374	1999 / Technic / Throwbot & Slizer	m99techsliz	1999 Mini Technic Throwbot / Slizer (4124536-IN)	1999	4.5
 374	1999 / Town / Space Port	c99spp	1999 Medium Space Port (4124501/4125502-IN)	1999	10.1
 374	1999	c99resq	1999 Medium Res-Q / Extreme Team (4112699/4112700-IN)	1999	10.2
 374	1999 / Town / Town Jr.	c99city	1999 Medium City (4112697/4112698-IN)	1999	10.3
@@ -1080,7 +1080,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 343	1968	c68uk2	1968 Large UK (3250-Eng)	1968	15
 565	2006	c06au2	2006 Large Australian August - December	2006	97
 354	1979 / Space / Classic Space	c79desp	1979 Large German LEGOLAND Raumfahrt-Gewinnspiel 24 x 17 cm (99.615-D)	1979	18
-356	1981 / Town / Classic Town	g81detown	1981 Gewinn' ein Flugticket ins Legoland nach Dänemark (93.042-D)	1981	?
 342	1967	c67de3	1967 German Bauen und spielen... (3218)	1967	4
 348	1973	c73degem	1973 German Drei Namen für gutes Spielzeug FLEISCHMANN LEGO fischertechnik. Qualitaetsgemeinschaft fuer Praezision und Service	1973	?
 367	1992 / Town / Paradisa	c92depar	1992 Paradisa German (922203-D)	1992	5
@@ -1279,7 +1278,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 375	2000 / Technic / RoboRiders	m00tech2	2000 Mini RoboRiders (4132667)	2000	4.4
 375	2000 / Technic	c00tech2	2000 Medium Technic - Speed Slammers (4130223-IN)	2000	10.4
 377	2001	m01multi	2001 Mini Multi Theme (4162763)	2001	4.7
-377	2001 / Castle / Knights Kingdom I	m01cas	2001 Mini Knights' Kingdom (4155645/4155644)	2001	4.6
+377	2001 / Castle / Knights' Kingdom	m01cas	2001 Mini Knights' Kingdom (4155645/4155644)	2001	4.6
 378	2002 / Racers	m02race3	2002 Mini Racers (4172465/4172466)	2002	4
 378	2002	m02multi	2002 Mini Multi Theme (4172448/4172449)	2002	4.5
 378	2002 / Belville	m02belv	2002 Mini Belville (4172454/4172455)	2002	5
@@ -1354,7 +1353,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 348	1973 / Homemaker	c73dedc	1973 Dealer German - Introducing Lego Sets for Girls (Homemaker)	1973	?
 350	1975	c75fr2	1975 Large French (98200-Fr)	1975	26.6
 368	1993 / DUPLO	c93ITdup	1993 Medium Duplo Italian (922.713-I)	1993	21
-491	2003 / Castle / Knights Kingdom II	c03ITdc3	2003 Dealer Italian Knights' Kingdom II Launch Folder (4229499-IT)	2003	39
+491	2003 / Castle / Knights' Kingdom II	c03ITdc3	2003 Dealer Italian Knights' Kingdom II Launch Folder (4229499-IT)	2003	39
 515	2004	c04ITdc1	2004 Dealer Italian Novelties January - May 4227982-IT	2004	129
 515	2004	c04ITdc2	2004 Dealer Italian Novelties June - December 4242949-IT	2004	148
 515	2004	c04ITdc	2004 Dealer Italian 424.0910-IT	2004	331
@@ -1808,8 +1807,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 601	2008	c08sah2UK	2008 Shop at Home - Spring UK (WOR U-5410)	2008	87
 565	2006	c06sah1UK	2006 Shop at Home - January UK (WOR U-3177)	2006	112
 581	2007	c07uk3	2007 Large UK January - July (452.5133-UK)	2007	62
-378	2002 / Racers	c02uk4	2002 Medium Racers UK, Comic format (419.5793-GB)	2002	17
-378	2002 / Racers	c02uk3	2002 Medium Racers UK, Comic format (419.0696-GB)	2002	18
 601	2008	c08sah4UK	2008 Shop at Home - Summer UK	2008	87
 544	2005	c05sah4UK	2005 Shop at Home - Autumn UK	2005	112
 544	2005 / Holiday & Event / Christmas	c05sah8UK	2005 Shop at Home - Christmas 2 UK	2005	111
@@ -1963,7 +1960,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 352	1977	c77fr	1977 Large French Pour les Experts LEGO 57 (98761-F)	1977	31.8
 349	1974	c74eu2	1974 Large European (97820-EU-tysk)	1974	25.1
 377	2001 / Creator	m01jacre	2001 Mini Creator Japanese (4329083)	2001	4
-377	2001 / Castle / Knights Kingdom I	m01jacas	2001 Mini Knights' Kingdom Japanese (4322831)	2001	?
+377	2001 / Castle / Knights' Kingdom	m01jacas	2001 Mini Knights' Kingdom Japanese (4322831)	2001	?
 367	1992	m92elec	1992 Mini Electric, Light and Sound (120448)	1992	5.9
 372	1997 / Aquazone	m97euaq	1997 Mini Aquazone (4108488-EU/LO)	1997	4.5
 342	1967	c67it	1967 Large Italian (3240-it)	1967	13.5
@@ -2321,7 +2318,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 378	2002	4172392	2002 Insert - Shop at Home - Bionicle (4172392)	2002	4.4
 364	1989	c89bcin	1989 Insert - Builders Club	1989	7.1
 367	1992	c92bcspin2	1992 Insert - Member Special Birthday Offers Builders Club (01-202)	1992	7.9
-515	2004 / Castle / Knights Kingdom II	m04cas	2004 Mini Knights' Kingdom II (4241906/4241908)	2004	4.5
+515	2004 / Castle / Knights' Kingdom II	m04cas	2004 Mini Knights' Kingdom II (4241906/4241908)	2004	4.5
 372	1997 / Technic	c97ust	1997 Medium Technic US (4110787)	1997	13.7
 373	1998	4117163	1998 Insert - LEGO Club - US (4117163)	1998	2.7
 491	2003	c03am1	2003 Medium Americas Yellow Border (4200116)	2003	27.5
@@ -2491,7 +2488,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 647	2009	c09es2	2009 Large Spanish / Portuguese 2nd Half (456.8097-ES/PT)	2009	85
 743	2010	c10es2	2010 Large Spanish / Portuguese July - December (461.1809-ES/PT)	2010	85
 365	1990	c90es	1990 Medium Spanish (IB (E) 115719) prices in pesetas - precios en pesetas	1990	35.9
-743	2010	c10sah4	2010 Shop at Home - Fall	2010	100
+743	2010	c10sah4	2010 Shop at Home - Fall (WOR 8752)	2010	100
 356	1981 / Fabuland	m81usf	1981 Mini Fabuland US (111917-US)	1981	3.3
 743	2010	c10sah4de	2010 Shop at Home - Autumn German	2010	78
 353	1978	c78it	1978 Medium Italian Foldout (99250-I)	1978	13
@@ -2788,7 +2785,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 356	1981 / Fabuland	c81euf2	1981 Medium Fabuland European (109578/109678-EU III (UK/F/B))	1981	10
 364	1989	c89de3	1989 Large German (921159-D)	1989	77
 357	1982	c82ibpg	1982 Para los Padres / Aos Pais / For Parents (Parents Guide) (114784/114884-IB)	1982	20
-356	1981 / Town / Classic Town	c81estown	1981 El gran juego de la Ciudad Legoland (93.042-E) with Board Game inside	1981	25
 375	2000 / Sports / Soccer	c00esfb	2000 Large Football / Soccer Spanish (432.4028-E)	2000	9
 360	1985	c85es	1985 Medium Spanish (42484-1984) (Sólo para niños)	1985	16
 353	1978	c78es	1978 Large Spanish (100319/100419-E)	1978	15
@@ -3013,7 +3009,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 372	1997 / DUPLO	m97dup	1997 Mini Duplo (4108482-EU)	1997	4.4
 378	2002 / Creator	m02cre	2002 Mini Creator (4172452/4172453)	2002	45
 491	2003	m03chu	2003 Mini Chupa Chups Promotion (4225485)	2003	4.5
-515	2004 / Castle / Knights Kingdom II	m04cas2	2004 Mini Knights' Kingdom II (4263987)	2004	4.5
+515	2004 / Castle / Knights' Kingdom II	m04cas2	2004 Mini Knights' Kingdom II (4263987)	2004	4.5
 378	2002 / Star Wars	m02sw4	2002 Mini Star Wars (4177986/4177987)	2002	4.5
 370	1995 / Holiday & Event / Christmas	c95it2	1995 Large Italian Christmas Edition	1995	?
 559	1957	c57nl	1957 Dutch	1957	?
@@ -3765,7 +3761,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 901	2017	c17no2	2017 Large Norwegian July - December (620.7860-NO)	2017	195
 901	2017	c17dk2	2017 Large Danish July - December (620.7854-DK)	2017	195
 901	2017	c17no1	2017 Large Norwegian Januar - June (619.1797-NO)	2017	195
-901	2017	c17dk1	2017 Large Danish Januar - June (619.1794-DK)	2017	195
+901	2017	c17dk1	2017 Large Danish January - June (619.1794-DK)	2017	195
 901	2017	c17ee2	2017 Large Estonian July - December (620.7874-ET)	2017	187
 786	2013 / Educational & Dacta	c13irdac	2013 Large Irish Education Preschool (Learnit)	2013	?
 901	2017 / Educational & Dacta	c17esdac	2017 Large Spanish Education (RO-BOTICA)	2017	?
@@ -4511,7 +4507,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 372	1997	c97fi1	1997 Large Finnish (925.375-SF)	1997	?
 373	1998	c98blx3	1998 Large Benelux (926.100-BLX (French))	1998	?
 1213	2022	c22se2	2022 Large Swedish June - December (SE f/Brand Retail - 6415125, SE 6415150)	2022	188
-378	2002 / Racers	c02cz4	2002 Medium Czech Racers, Comic format (419.2769-CZ)	2002	20
 348	1973	c73dk3	1973 Medium Legoland Danish (97525-Da)	1973	6.5
 1213	2022	c22pl2	2022 Large Polish June - December (PL f/Brand Retail - 6415127, PL - 6415166)	2022	?
 351	1976	c76fr3	1976 Medium French Foldout (98405-Fr)	1976	13.3
@@ -4561,7 +4556,6 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 378	2002	c02pl1	2002 Large Polish January - July (417.4532-PL)	2002	?
 378	2002	c02pl2	2002 Large Polish August - December (419.2913-PL)	2002	?
 378	2002 / Explore	c02pl2exp	2002 Large Polish Explore June - September (419.0372-PL)	2002	?
-378	2002 / Racers	c02pl4	2002 Medium Racer Polish, Comic format	2002	?
 491	2003	c03pl1	2003 Large Polish January - July (420.8492-PL)	2003	?
 364	1989	c89se2	1989 Large Swedish (921159-S)	1989	?
 1213	2022	c22es1	2022 Large Spanish / Portuguese September - December (ES-PT 6415160)	2022	120
@@ -5084,3 +5078,4 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 901	2017	c17it2	2017 Large Italian / Swiss June - December (620.7846 CH/I 620.7876-IT)	2017	?
 1287	2024	c24it1	2024 Large Italian / Swiss January - June (IT-TC - 6488897, IT - 6488860, CH/I - 6488846)	2024	?
 1360	2026	c26it1	2026 Large Italian / Swiss January - June (Italy - 6605853, CH/I - 6605839)	2026	?
+1119	2021	c21aw1	2021 Adults Welcome - Summer (WOR 1667)	2021	?

@@ -215,7 +215,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 423	Classic / HO 1:87 Vehicles	264-2	1:87 Mercedes 220 with Garage	1961	?	6.4 x 3.1 x 3.2
 388	Building Set with People / Recreation	211-1	Mother and Baby with Dog	1976	3.4	10 x 10 x 4.2
 388	Building Set with People / Recreation	254-1	Family	1975	6.6	20 x 10 x 5
-422	Universal Building Set / Classic Basic	2744-1	Propeller Man polybag	1999	4.44	17 x 16.5 x 1.7
+422	Universal Building Set / Classic Basic	2744-1	Windy (Propeller Man) polybag	1999	4.44	17 x 16.5 x 1.7
 422	Universal Building Set / Basic Model	2841-1	Danone Promotional Set: Boy polybag	1998	?	? x ? x ?
 422	Universal Building Set / Basic Model	3081-1	Kellogg's Promotional Set: Helicopter	1998	?	10.3 x 7.2 x 4
 423	Classic / Supplemental	281-1	1 x 2 and 3 x 2 Sloping Bricks, Red	1959	2	8.6 x 6.2 x 2.5
@@ -308,10 +308,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / Race	1282-1	Blue Racer	2000	?	? x ? x ?
 67	Town / Race	1283-1	Red Scorpion	2000	?	? x ? x ?
 67	Town / Race	1284-1	Green Buggy	2000	?	? x ? x ?
-9	Castle / Knights Kingdom I	1286-1	King Leo's Cart	2000	?	9.9 x 13.4 x 3.5
-9	Castle / Knights Kingdom I	1287-1	Crossbows	2000	?	? x ? x ?
-9	Castle / Knights Kingdom I	1288-1	Fire Cart	2000	?	? x ? x ?
-9	Castle / Knights Kingdom I	1289-1	Catapult	2000	?	? x ? x ?
+9	Castle / Knights' Kingdom	1286-1	King Leo's Cart	2000	?	9.9 x 13.4 x 3.5
+9	Castle / Knights' Kingdom	1287-1	Crossbows	2000	?	? x ? x ?
+9	Castle / Knights' Kingdom	1288-1	Fire Cart	2000	?	? x ? x ?
+9	Castle / Knights' Kingdom	1289-1	Catapult	2000	?	? x ? x ?
 124	Train / 4.5V	128-2	Mobile Crane (Train Base)	1972	3.3	? x ? x ?
 124	Train / 4.5V	130-1	Wagon with Double Tippers	1972	3.3	? x ? x ?
 124	Train / 4.5V	131-1	Passenger Coach	1972	3.3	20.1 x 10 x 5
@@ -328,13 +328,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 153	Fabuland	140-1	Town Hall	1979	?	? x ? x ?
 422	Universal Building Set / Basic Model	2133-1	Danone Promotional Set: Impala polybag	1998	?	? x ? x ?
 422	Universal Building Set / Basic Model	2167-1	Sabah Promotional Set: Penguin polybag	1997	?	8.5 x 8 x 0
-422	Universal Building Set / Classic Basic	2719-1	Heli Monster polybag	1999	?	17.3 x 16.8 x 1.7
-422	Universal Building Set / Classic Basic	2728-1	The Chopper polybag	1999	4.43	? x ? x ?
+422	Universal Building Set / Classic Basic	2719-1	Shady (Heli Monster) polybag	1999	?	17.3 x 16.8 x 1.7
+422	Universal Building Set / Classic Basic	2728-1	Robot (The Chopper) polybag	1999	4.43	? x ? x ?
 67	Town / Space Port	3059-1	Mars Mission - Master Builders (Masterbuilders)	2000	223	30.4 x 28.8 x 4.5
 124	Train / 4.5V	146-1	Level Crossing	1976	6.6	22 x 11.5 x 4.2
 67	Town / Classic Town / Race	1461-1	Turbo Force polybag	1992	1.4	13.8 x 14.5 x 1.5
 34	Space / Blacktron II	1462-1	Galactic Scout polybag	1992	?	14 x 15 x 2.08
-9	Castle / Crusaders	1463-1	Treasure Cart polybag	1992	2	14.5 x 14 x 1.5
+9	Castle / Crusaders & Lion Knights	1463-1	Treasure Cart polybag	1992	2	14.5 x 14 x 1.5
 61	Pirates / Pirates I	1464-1	Pirate Lookout polybag	1992	1.42	14 x 14.5 x 1.5
 67	Town / Classic Town / Race	1467-1	Shell Race Car polybag	1986	?	? x ? x ?
 422	Universal Building Set / Airport	1469-1	Helicopter polybag	1986	?	? x ? x ?
@@ -344,7 +344,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 34	Space / M:Tron	1478-1	Mobile Satellite Up-Link	1991	2.75	? x ? x ?
 34	Space / Blacktron II	1479-1	2-Pilot Craft	1991	3	? x ? x ?
 124	Train / 4.5V	148-1	Central Station	1975	15	36.5 x 24 x 5
-9	Castle / Crusaders	1480-1	King's Catapult	1991	2.74	? x ? x ?
+9	Castle / Crusaders & Lion Knights	1480-1	King's Catapult	1991	2.74	? x ? x ?
 61	Pirates / Pirates I	1481-1	Desert Island	1991	3	? x ? x ?
 67	Town / Classic Town / Building	1484-1	Weetabix Town House	1987	18	28.7 x 19 x 4.5
 67	Town / Classic Town / Wrecker	1489-1	Mobile Car Crane	1989	?	25 x 16 x 5
@@ -380,7 +380,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 124	Train / Supplemental / 4.5V	157-2	Automatic Direction Changer	1969	3.3	20 x 10 x 2.5
 124	Train / Supplemental / 4.5V	158-1	Railroad Crossing Gate	1969	?	17 x 12 x 2.5
 34	Space / Classic Space	1580-1	Lunar Scout	1986	7	19.5 x 9.3 x 3.8
-9	Castle / Lion Knights	1584-1	Knights Challenge	1988	11	? x ? x ?
+9	Castle / Crusaders & Lion Knights	1584-1	Knights Challenge	1988	11	? x ? x ?
 124	Train / Supplemental / 4.5V	159-1	Crossover, Straight Rails	1976	3.3	15 x 13.3 x 4.3
 67	Town / Classic Town / Traffic	1590-2	ANWB Breakdown Assistance	1982	20	31.5 x 29 x 4.5
 67	Town / Classic Town / Food & Drink	1591-1	Danone Truck	1980	?	11 x 7 x 4
@@ -408,23 +408,23 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 124	Train / 4.5V	166-1	Flat Wagon	1978	3.3	19.4 x 10.3 x 4.1
 422	Universal Building Set / Basic Set	3025-1	25th Anniversary Silver Bucket	1998	?	? x ? x ?
 422	Universal Building Set / Basic Model	2132-1	Danone Promotional Set: Cow polybag	1998	?	? x ? x ?
-422	Universal Building Set / Classic Basic	2759-1	Rotor Head polybag	1999	?	17.3 x 16.7 x 1.7
+422	Universal Building Set / Classic Basic	2759-1	Dizzy (Rotor Head) polybag	1999	?	17.3 x 16.7 x 1.7
 422	Universal Building Set / Gears	802-1	Gear Supplementary Set	1970	32	9.7 x 9.7 x 7.6
 423	Classic / Supplemental	283-1	Sloping Ridge and Valley Bricks, Red	1957	2	? x ? x ?
 67	Town / Classic Town / Race	1665-1	Dual FX Racers	1990	11	19.2 x 14.3 x 4.7
 124	Train / 4.5V	167-1	Loading Ramp and Car Transport Wagon	1978	10	? x ? x ?
-9	Castle / Forestmen	1680-1	Hay Cart with Smugglers	1990	5	? x ? x ?
+9	Castle / Forestmen & Forest People	1680-1	Hay Cart with Smugglers	1990	5	? x ? x ?
 67	Town / Classic Town / Airport	1682-1	Space Shuttle	1990	62	38 x 29 x 6
 67	Town / Classic Town / Airport	1687-1	Midnight Transport	1993	?	28.5 x 23.6 x 4.6
 67	Town / Classic Town / Race	1693-1	Turbo Force	1992	2	7 x 7 x 4.5
 34	Space / Blacktron II	1694-1	Galactic Scout	1992	?	7 x 7 x 4.6
-9	Castle / Crusaders	1695-1	Treasure Chest	1992	?	? x ? x ?
+9	Castle / Crusaders & Lion Knights	1695-1	Treasure Chest	1992	?	? x ? x ?
 61	Pirates / Pirates I	1696-1	Pirate Lookout	1992	0.5	7 x 7 x 4.6
 124	Train / 4.5V	170-1	Push Along Play Train	1972	6.6	? x ? x ?
 124	Train / 4.5V	171-1	Complete Train Set Without Motor	1972	6.6	35 x 20 x 6
 67	Town / Classic Town / Off-Road	1710-1	Snowmobile polybag	1994	2.8	13.8 x 15 x 1.6
 34	Space / Ice Planet 2002	1711-1	Ice Planet Scooter polybag	1994	2.85	13.8 x 14.5 x 1.3
-9	Castle / Dragon Knights	1712-1	Crossbow Cart polybag	1994	2.8	? x ? x ?
+9	Castle / Dragon Masters & Dragon Knights	1712-1	Crossbow Cart polybag	1994	2.8	? x ? x ?
 61	Pirates / Pirates I	1713-1	Shipwrecked Pirate polybag	1994	2.75	13.8 x 15 x 1
 34	Space / Spyrius	1714-1	Surveillance Scooter polybag	1995	?	13.7 x 14.7 x 1.5
 67	Town / Classic Town / Recreation	1720-1	Cactus Canyon Value Pack	1994	9	? x ? x ?
@@ -435,11 +435,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 61	Pirates / Pirates I	1729-1	Barnacle Bay Value Pack	1994	13.5	29 x 19 x 5
 67	Town / Classic Town / Off-Road	1730-1	Snow Scooter	1994	?	7 x 7 x 4.5
 34	Space / Ice Planet 2002	1731-1	Ice Planet Scooter	1994	1	7 x 7 x 4.6
-9	Castle / Dragon Knights	1732-1	Crossbow Cart	1994	1	7 x 7 x 4.5
+9	Castle / Dragon Masters & Dragon Knights	1732-1	Crossbow Cart	1994	1	7 x 7 x 4.5
 61	Pirates / Pirates I	1733-1	Shipwrecked Pirate	1994	1.4	7 x 7 x 4.8
-9	Castle / Dragon Knights	1736-1	Wizard's Cart	1995	1	7 x 7 x 4.8
+9	Castle / Dragon Masters & Dragon Knights	1736-1	Wizard's Cart	1995	1	7 x 7 x 4.8
 34	Space / Exploriens	1737-1	Scorpion Detector	1996	27	? x ? x ?
-9	Castle / Dragon Knights	1746-1	Wiz the Wizard polybag	1995	2.8	7 x 7 x 4.8
+9	Castle / Dragon Masters & Dragon Knights	1746-1	Wiz the Wizard polybag	1995	2.8	7 x 7 x 4.8
 61	Pirates / Pirates I	1747-1	Treasure Surprise	1996	2	7 x 7 x 4.6
 54	Aquazone / Aquanauts	1749-1	Paravane	1996	2	7 x 7 x 4.5
 9	Castle / Royal Knights	1752-1	Boat with Armor	1996	2	7 x 7 x 4.7
@@ -473,12 +473,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 124	Train / 4.5V	183-1	Complete Train Set with Motor and Signal	1976	13	40 x 26 x 6.3
 67	Town / Classic Town / Cargo	1831-1	Maersk Line Container Lorry	1995	23	28.6 x 19 x 4.5
 290	Value Packs	1843-1	Space / Castle Value Pack	1996	12	14.3 x 23.7 x 4.4
-157	Time Cruisers / Twisters	1853-1	Navigator	1996	22	? x ? x ?
+157	Time Cruisers & Time Twisters	1853-1	Navigator	1996	22	? x ? x ?
 67	Town / Classic Town / Building	1854-1	House with Roof-Windows ( Velux )	1996	22	24 x 19 x 4.5
 34	Space / Exploriens	1858-1	Droid Scout	1996	2.5	7 x 7 x 4.5
 34	Space / Blacktron I	1875-1	Meteor Monitor	1990	3	9.5 x 7 x 4.6
 67	Town / Classic Town / Traffic	1876-1	Soil Scooper	1990	6	14.4 x 9.5 x 4.6
-9	Castle / Forestmen	1877-1	Crusader's Cart	1990	5.9	? x ? x ?
+9	Castle / Forestmen & Forest People	1877-1	Crusader's Cart	1990	5.9	? x ? x ?
 34	Space / Blacktron II	1887-1	Scout Patrol Ship	1992	?	? x ? x ?
 9	Castle / Black Knights	1888-1	Black Knights Guardshack	1992	?	? x ? x ?
 61	Pirates / Pirates I	1889-1	Pirate's Treasure Hold	1992	?	? x ? x ?
@@ -488,7 +488,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / Classic Town / Hospital	1896-1	Trauma Team	1992	21	28.5 x 28.5 x 4.5
 67	Town / Classic Town / Race	1898-1	Weetabix Dragster polybag	1989	4	17 x 17 x 1.2
 67	Town / Classic Town / Race	1899-1	Weetabix Racer polybag	1989	?	17 x 16.5 x 1.5
-9	Castle / Dragon Knights	1906-1	Majisto's Tower	1994	28	29 x 19 x 9.5
+9	Castle / Dragon Masters & Dragon Knights	1906-1	Majisto's Tower	1994	28	29 x 19 x 9.5
 34	Space / Space Police II	1916-1	Starion Patrol	1993	3	7 x 7 x 4.6
 9	Castle / Black Knights	1917-1	King's Catapult	1993	?	7.1 x 7.1 x 4.6
 36	Technic / Expert Builder	1924-1	Motorcycle	1983	11	? x ? x ?
@@ -503,7 +503,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 9	Castle / Black Knights	1971-1	Black Knight's Battering Ram	1993	3.5	? x ? x ?
 36	Technic / Model / Race	1972-1	Go-Kart	1985	11	19.3 x 11.5 x 3.6
 67	Town / Classic Town / Airport	1973-1	Emirates Airliner	1989	17.4	? x ? x ?
-9	Castle / Forestmen	1974-3	Smuggler's Hayride	1989	6	? x ? x ?
+9	Castle / Forestmen & Forest People	1974-3	Smuggler's Hayride	1989	6	? x ? x ?
 67	Town / Classic Town / Airport	1974-2	Flyercracker USA	1989	5	? x ? x ?
 34	Space / Futuron	1974-4	Star Quest	1989	3	? x ? x ?
 67	Town / Classic Town / Race	1990-1	F1 Race Car	1993	2.81	4.5 x 7 x 9.5
@@ -568,9 +568,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / Classic Town / Food & Drink	2885-1	Ice Cream Seller	1997	1	7.1 x 7.1 x 4.7
 67	Town / Classic Town / Race	2886-1	Formula 1 Racing Car	1997	2	7 x 7 x 4.6
 67	Town / Classic Town / Gas Station	2887-1	Petrol Station Attendant and Pump	1997	1	7 x 7 x 4.5
-9	Castle / Crusaders	2889-1	Treasure Cart	1997	?	10 x 13.5 x 3.5
+9	Castle / Crusaders & Lion Knights	2889-1	Treasure Cart	1997	?	10 x 13.5 x 3.5
 9	Castle / Black Knights	2890-1	Stone Bomber	1997	?	10 x 13.5 x 3.5
-9	Castle / Dragon Knights	2891-1	Wizard Trader	1997	?	10 x 13.5 x 3.5
+9	Castle / Dragon Masters & Dragon Knights	2891-1	Wizard Trader	1997	?	10 x 13.5 x 3.5
 9	Castle / Royal Knights	2892-1	Thunder Arrow Boat	1997	?	10 x 13.5 x 3.5
 67	Town / Res-Q	2962-1	Res-Q Lifeguard (Life Guard Res-Q)	1998	8	14 x 9.4 x 4.5
 67	Town / Extreme Team	2963-1	Extreme Racer	1998	9.45	19 x 9.4 x 4.7
@@ -625,7 +625,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE / Bohrok Va	8552-1	Lehvak Va	2002	5	9.5 x 14 x 3.8
 273	BIONICLE / Bohrok Va	8553-1	Pahrak Va	2002	5	9.5 x 14 x 3.8
 422	Universal Building Set / Basic Model	2722-1	Ship polybag	2000	?	? x ? x ?
-422	Universal Building Set / Classic Basic	2757-1	Bad Monkey polybag	1999	?	17.3 x 16.7 x 1.61
+422	Universal Building Set / Classic Basic	2757-1	Big Mouth (Bad Monkey) polybag	1999	?	17.3 x 16.7 x 1.61
 273	BIONICLE / Supplemental	8546-1	Power Pack	2001	18	14.3 x 14.3 x 5.8
 423	Classic / Supplemental	220-1	2 x 2 Bricks	1958	?	15 x 10 x 5
 102	Scala	3142-1	Marie's Room	1999	64	53 x 38 x 9
@@ -786,11 +786,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 422	Universal Building Set / Classic Basic	4225-1	Challenger Set 350	1998	11	? x ? x ?
 34	Space / Classic Space	442-1	Space Shuttle	1979	6	17 x 9 x 4
 124	Train / Supplemental / 9V	4515-1	Straight Rails	1991	4.42	19.1 x 9.6 x 7.1
-124	Train / Supplemental / 9V	4519-1	Rail Crossing	1999	4.42	14.2 x 14.2 x 3.3
+124	Train / Supplemental / 9V	4519-1	Cross Track / Rail Crossing	1999	4.42	14.2 x 14.2 x 3.3
 34	Space / Classic Space	452-1	Mobile Ground Tracking Station	1979	7	19 x 9.2 x 3.8
 124	Train / Supplemental / 9V	4520-1	Curved Rails	1991	4.42	19.1 x 9.5 x 7
 124	Train / 9V	4525-1	Road and Rail Repair	1994	9	19.2 x 9.5 x 4.7
-124	Train / Supplemental / 9V	4531-1	Manual Points	1991	4.56	28.6 x 23.6 x 4.7
+124	Train / Supplemental / 9V	4531-1	Switching Rails (Manual Points)	1991	4.56	28.6 x 23.6 x 4.7
 124	Train / 9V	4532-1	Manual Level Crossing	1996	26	28.8 x 28.8 x 4.7
 124	Train / 9V	4533-1	Train Track Snow Remover	1999	11.61	19.1 x 9.5 x 5.9
 124	Train / 9V	4536-1	Blue Hopper Car	1991	13.5	19 x 14.3 x 7
@@ -818,10 +818,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 124	Train / 9V	4564-1	Freight Rail Runner	1994	133	48 x 38 x 9.6
 124	Train / 9V	4565-1	Freight and Crane Railway	1996	126	53 x 38.5 x 9.5
 34	Space / Classic Space	462-1	Mobile Rocket Launcher	1979	9	20 x 11.5 x 3.5
-9	Castle / Knights Kingdom I	4801-1	Defense Archer	2000	2	? x ? x ?
-9	Castle / Knights Kingdom I	4806-1	Axe Cart	2000	5	9.4 x 9.4 x 4.6
-9	Castle / Knights Kingdom I	4807-1	Fire Attack	2000	4	9.5 x 7 x 4.6
-9	Castle / Knights Kingdom I	4811-1	Defense Archer polybag	2000	2	14.4 x 13.7 x 1.1
+9	Castle / Knights' Kingdom	4801-1	Defense Archer	2000	2	? x ? x ?
+9	Castle / Knights' Kingdom	4806-1	Axe Cart	2000	5	9.4 x 9.4 x 4.6
+9	Castle / Knights' Kingdom	4807-1	Fire Attack	2000	4	9.5 x 7 x 4.6
+9	Castle / Knights' Kingdom	4811-1	Defense Archer polybag	2000	2	14.4 x 13.7 x 1.1
 34	Space / Classic Space	483-1	Alpha-1 Rocket Base	1979	22	? x ? x ?
 34	Space / Classic Space	487-1	Space Cruiser	1979	23	? x ? x ?
 62	Rock Raiders	4910-1	Hover Scout	1999	5.02	9.4 x 7 x 4.7
@@ -931,70 +931,70 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 9	Castle / Fright Knights	6007-1	Bat Lord	1997	2.81	14 x 7 x 4.5
 9	Castle / Black Knights	6009-1	Black Knight	1992	2.85	9.5 x 7 x 4.7
 67	Town / Classic Town / Gas Station	601-1	Shell Gas Pump	1978	3.4	10 x 6 x 4
-9	Castle / Lion Knights	6010-1	Supply Wagon	1984	4	11.5 x 7.1 x 3.7
+9	Castle / Crusaders & Lion Knights	6010-1	Supply Wagon	1984	4	11.5 x 7.1 x 3.7
 9	Castle / Black Falcons	6011-1	Black Knight's Treasure	1985	3	11.5 x 7.1 x 3.7
-9	Castle / Lion Knights	6012-1	Siege Cart	1986	3	11.55 x 7.15 x 3.7
-9	Castle / Lion Knights	6016-1	Knights' Arsenal	1987	3.4	14.2 x 7.1 x 4.8
-9	Castle / Lion Knights	6017-1	King's Oarsmen	1987	3	11.4 x 7.2 x 3.7
+9	Castle / Crusaders & Lion Knights	6012-1	Siege Cart	1986	3	11.55 x 7.15 x 3.7
+9	Castle / Crusaders & Lion Knights	6016-1	Knights' Arsenal	1987	3.4	14.2 x 7.1 x 4.8
+9	Castle / Crusaders & Lion Knights	6017-1	King's Oarsmen	1987	3	11.4 x 7.2 x 3.7
 9	Castle / Black Falcons	6018-1	Battle Dragon	1990	5.9	14.2 x 7 x 4.6
 67	Town / Classic Town / Fire	602-1	Fire Chief's Car	1978	3.4	9.9 x 6.4 x 4
-9	Castle / Dragon Knights	6020-1	Magic Shop	1993	5	14 x 7 x 4.5
-9	Castle / Lion Knights	6021-1	Jousting Knights	1984	6	15.5 x 8.2 x 3.7
-9	Castle / Lion Knights	6022-1	Horse Cart	1984	6	15.4 x 8 x 3.5
-9	Castle / Lion Knights	6023-1	Maiden's Cart	1986	7	15.7 x 8.2 x 3.7
+9	Castle / Dragon Masters & Dragon Knights	6020-1	Magic Shop	1993	5	14 x 7 x 4.5
+9	Castle / Crusaders & Lion Knights	6021-1	Jousting Knights	1984	6	15.5 x 8.2 x 3.7
+9	Castle / Crusaders & Lion Knights	6022-1	Horse Cart	1984	6	15.4 x 8 x 3.5
+9	Castle / Crusaders & Lion Knights	6023-1	Maiden's Cart	1986	7	15.7 x 8.2 x 3.7
 9	Castle / Dark Forest	6024-1	Bandit Ambush	1996	8.7	19 x 9.4 x 4.6
 9	Castle / Fright Knights	6027-1	Bat Lord's Catapult	1997	6.5	14.1 x 9.4 x 4.6
 9	Castle / Fright Knights	6028-1	Treasure Cart	1998	2.84	7 x 7 x 4.5
 9	Castle / Fright Knights	6029-1	Treasure Guard polybag	1998	2	14.2 x 14.6 x 1.7
 67	Town / Classic Town / Traffic	603-1	Motor bike	1978	3.4	? x ? x ?
 9	Castle / Black Falcons	6030-1	Catapult	1984	9.8	19.3 x 9.2 x 3.7
-9	Castle / Knights Kingdom I	6032-1	Catapult Crusher	2000	10	18.5 x 9.5 x 4.5
+9	Castle / Knights' Kingdom	6032-1	Catapult Crusher	2000	10	18.5 x 9.5 x 4.5
 284	Ninja	6033-1	Treasure Transport	1998	6.3	14.2 x 9.4 x 4.6
 9	Castle / Black Knights	6034-1	Black Monarch's Ghost	1990	5.9	14.2 x 9.5 x 4.6
 9	Castle / Black Falcons	6035-1	Castle Guard	1987	5	15.8 x 8.2 x 3.7
 9	Castle / Royal Knights	6036-1	Skeleton Surprise	1995	10	? x ? x ?
 9	Castle / Fright Knights	6037-1	Witch's Windship	1997	12	14.2 x 19.2 x 4.7
 9	Castle / Wolfpack	6038-1	Wolfpack Renegades	1992	6	19 x 9.5 x 4.5
-9	Castle / Lion Knights	6039-1	Twin Arm Launcher	1988	8	19 x 9.5 x 4.7
+9	Castle / Crusaders & Lion Knights	6039-1	Twin Arm Launcher	1988	8	19 x 9.5 x 4.7
 67	Town / Classic Town / Gas Station	604-1	Shell Service Car	1978	3.4	? x ? x ?
-9	Castle / Lion Knights	6040-1	Blacksmith Shop	1984	12.5	19.2 x 11.4 x 3.7
-9	Castle / Lion Knights	6041-1	Armor Shop	1986	9.9	19.3 x 11.55 x 3.7
-9	Castle / Crusaders	6042-1	Dungeon Hunters	1990	11.8	19 x 14.2 x 4.6
-9	Castle / Dragon Knights	6043-1	Dragon Defender	1993	13	19.1 x 14.2 x 4.7
+9	Castle / Crusaders & Lion Knights	6040-1	Blacksmith Shop	1984	12.5	19.2 x 11.4 x 3.7
+9	Castle / Crusaders & Lion Knights	6041-1	Armor Shop	1986	9.9	19.3 x 11.55 x 3.7
+9	Castle / Crusaders & Lion Knights	6042-1	Dungeon Hunters	1990	11.8	19 x 14.2 x 4.6
+9	Castle / Dragon Masters & Dragon Knights	6043-1	Dragon Defender	1993	13	19.1 x 14.2 x 4.7
 9	Castle / Royal Knights	6044-1	King's Carriage	1995	16	? x ? x ?
 284	Ninja	6045-1	Ninja Surprise	1998	23	19.2 x 14.3 x 4.7
 9	Castle / Dark Forest	6046-1	Hemlock Stronghold	1996	44	28.7 x 19 x 5.8
 9	Castle / Fright Knights	6047-1	Traitor Transport	1997	16	28.6 x 19 x 4.7
-9	Castle / Dragon Knights	6048-1	Majisto's Magical Workshop	1993	24	28.7 x 19 x 5.8
-9	Castle / Lion Knights	6049-1	Viking Voyager	1987	7	19.3 x 11.55 x 3.7
+9	Castle / Dragon Masters & Dragon Knights	6048-1	Majisto's Magical Workshop	1993	24	28.7 x 19 x 5.8
+9	Castle / Crusaders & Lion Knights	6049-1	Viking Voyager	1987	7	19.3 x 11.55 x 3.7
 67	Town / Classic Town / Traffic	605-1	Street Sweeper	1978	3.4	? x ? x ?
-9	Castle / Forestmen	6054-1	Forestmen's Hideout	1988	23	24 x 19 x 6
-9	Castle / Lion Knights	6055-1	Prisoner Convoy	1985	17	25.1 x 15.6 x 4.7
+9	Castle / Forestmen & Forest People	6054-1	Forestmen's Hideout	1988	23	24 x 19 x 6
+9	Castle / Crusaders & Lion Knights	6055-1	Prisoner Convoy	1985	17	25.1 x 15.6 x 4.7
 179	Racers / Drome Racers	4595-1	Zero Tornado & Hot Rock	2002	13.5	? x ? x ?
 422	Universal Building Set / Basic Model	2137-1	Sabah Promotional Set: Swamp Boat polybag	1997	?	? x ? x ?
 422	Universal Building Set / Basic Model	2166-1	Animal polybag	1998	157	8.5 x 8 x 0
 422	Universal Building Set / Basic Model	3333-1	Helicopter polybag	1998	?	? x ? x ?
-9	Castle / Dragon Knights	6056-1	Dragon Wagon	1993	19.2	24 x 19 x 4.5
+9	Castle / Dragon Masters & Dragon Knights	6056-1	Dragon Wagon	1993	19.2	24 x 19 x 4.5
 9	Castle / Black Knights	6057-1	Sea Serpent	1992	12	23.9 x 14.3 x 5.8
 9	Castle / Black Knights	6059-1	Knight's Stronghold	1990	25	28.5 x 19 x 6
 67	Town / Classic Town / Hospital	606-1	Ambulance	1978	3.4	? x ? x ?
-9	Castle / Lion Knights	6060-1	Knight's Challenge	1989	15	28.5 x 19 x 4.5
-9	Castle / Lion Knights	6061-1	Siege Tower	1984	16.5	31.7 x 19.2 x 4.7
+9	Castle / Crusaders & Lion Knights	6060-1	Knight's Challenge	1989	15	28.5 x 19 x 4.5
+9	Castle / Crusaders & Lion Knights	6061-1	Siege Tower	1984	16.5	31.7 x 19.2 x 4.7
 9	Castle / Black Falcons	6062-1	Battering Ram	1987	17	31.5 x 19 x 4.75
-9	Castle / Forestmen	6066-1	Camouflaged Outpost	1987	36	33.4 x 23.8 x 4.8
+9	Castle / Forestmen & Forest People	6066-1	Camouflaged Outpost	1987	36	33.4 x 23.8 x 4.8
 67	Town / Classic Town / Construction	607-1	Mini Loader	1979	3.4	9.6 x 5.7 x 3.7
-9	Castle / Forestmen	6071-1	Forestmen's Crossing	1990	41	33.5 x 24 x 6
+9	Castle / Forestmen & Forest People	6071-1	Forestmen's Crossing	1990	41	33.5 x 24 x 6
 9	Castle / Black Falcons	6073-1	Knight's Castle	1984	48	? x ? x ?
 9	Castle / Black Falcons	6074-1	Black Falcon's Fortress	1986	45	31.5 x 29 x 7.5
 9	Castle / Wolfpack	6075-1	Wolfpack Tower	1992	31	47 x 29 x 7
-9	Castle / Dragon Knights	6076-1	Dark Dragon's Den	1993	40	33.5 x 28.5 x 7
-9	Castle / Forestmen	6077-2	Forestmen's River Fortress	1989	58	28.5 x 28.5 x 7
+9	Castle / Dragon Masters & Dragon Knights	6076-1	Dark Dragon's Den	1993	40	33.5 x 28.5 x 7
+9	Castle / Forestmen & Forest People	6077-2	Forestmen's River Fortress	1989	58	28.5 x 28.5 x 7
 9	Castle / Royal Knights	6078-1	Royal Drawbridge	1995	48	28.5 x 28.5 x 6
 9	Castle / Dark Forest	6079-1	Dark Forest Fortress	1996	95	43.2 x 28.7 x 9.6
 67	Town / Classic Town / Traffic	608-2	Taxi	1979	3.4	9.5 x 5.7 x 3.7
-9	Castle / Lion Knights	6080-1	King's Castle	1984	70	46.5 x 29 x 6.25
-9	Castle / Crusaders	6081-1	King's Mountain Fortress	1990	40	43 x 28.6 x 9.5
-9	Castle / Dragon Knights	6082-1	Fire Breathing Fortress	1993	68	43 x 28.5 x 9.5
+9	Castle / Crusaders & Lion Knights	6080-1	King's Castle	1984	70	46.5 x 29 x 6.25
+9	Castle / Crusaders & Lion Knights	6081-1	King's Mountain Fortress	1990	40	43 x 28.6 x 9.5
+9	Castle / Dragon Masters & Dragon Knights	6082-1	Fire Breathing Fortress	1993	68	43 x 28.5 x 9.5
 284	Ninja	6083-2	Samurai Stronghold	1998	37	18.8 x 23.8 x 5.9
 9	Castle / Black Knights	6085-1	Black Monarch's Castle	1988	68	48 x 29 x 7.5
 9	Castle / Black Knights	6086-1	Black Knight's Castle	1992	83	48 x 28.5 x 10
@@ -1047,7 +1047,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 422	Universal Building Set / Ferries	1955-1	Color Line Ferry	1993	?	33.5 x 24 x 5
 422	Universal Building Set / Ferries	2998-1	Stena Line Ferry	1998	44.5	23.7 x 19 x 5.9
 422	Universal Building Set / Ferries	1054-1	Stena Line Ferry	1999	35	28.5 x 19 x 5.8
-9	Castle	2586-1	King & Throne (Chess King)	1998	2	9.5 x 7 x 4.5
+9	Castle / Castle Other	2586-1	King & Throne (Chess King)	1998	2	9.5 x 7 x 4.5
 422	Universal Building Set / Ferries	1554-1	Silja Line Ferry	1986	?	? x ? x ?
 422	Universal Building Set / Ferries	1581-1	Silja Line Ferry	1981	?	? x ? x ?
 422	Universal Building Set / Ferries	1660-1	Kronprins Frederik Ferry	1996	?	? x ? x ?
@@ -1068,13 +1068,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 124	Train / 9V	2585-1	Handcar	1998	5.65	9.5 x 7.2 x 4.6
 422	Universal Building Set / Airport	1607-1	Helicopter polybag	1987	5.5	17.5 x 16.5 x 2.3
 9	Castle / Royal Knights	6090-1	Royal Knight's Castle	1995	168	53 x 43 x 9
-9	Castle / Knights Kingdom I	6091-1	King Leo's Castle	2000	140	53.3 x 38.1 x 9
+9	Castle / Knights' Kingdom	6091-1	King Leo's Castle	2000	140	53.3 x 38.1 x 9
 284	Ninja	6093-1	Flying Ninja's Fortress	1998	126	53 x 38 x 7
-9	Castle / Knights Kingdom I	6094-1	Guarded Treasury	2000	26	23.9 x 14.3 x 7.1
-9	Castle / Knights Kingdom I	6095-1	Royal Joust	2000	27	29 x 19 x 6
-9	Castle / Knights Kingdom I	6096-1	Bull's Attack	2000	71.9	38.5 x 28.5 x 7.1
+9	Castle / Knights' Kingdom	6094-1	Guarded Treasury	2000	26	23.9 x 14.3 x 7.1
+9	Castle / Knights' Kingdom	6095-1	Royal Joust	2000	27	29 x 19 x 6
+9	Castle / Knights' Kingdom	6096-1	Bull's Attack	2000	71.9	38.5 x 28.5 x 7.1
 9	Castle / Fright Knights	6097-1	Night Lord's Castle	1997	122	38 x 47.5 x 7.2
-9	Castle / Knights Kingdom I	6098-1	King Leo's Castle	2000	140	52 x 42.5 x 11
+9	Castle / Knights' Kingdom	6098-1	King Leo's Castle	2000	140	52 x 42.5 x 11
 9	Castle / Fright Knights	6099-1	Traitor Transport {with Dragon Cave}	1997	?	40 x 37.5 x 9
 422	Universal Building Set / Airport	610-2	Rescue Helicopter	1987	?	16 x 8.5 x 3.8
 54	Aquazone / Aquasharks	6100-1	Aquashark Dart	1998	2.7	7 x 7 x 4.6
@@ -1140,7 +1140,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 61	Pirates / Pirates I	6289-1	Red Beard Runner	1996	104	53 x 43 x 7
 61	Pirates / Pirates I	6296-1	Shipwreck Island	1996	36	? x ? x ?
 423	Classic / Vehicle / Traffic	317-1	Truck	1963	5	22 x 10 x 5
-422	Universal Building Set / Classic Basic	2743-1	Pendulum Nose polybag	1999	4.5	17 x 16.9 x 1.7
+422	Universal Building Set / Classic Basic	2743-1	Nosy (Pendulum Nose) polybag	1999	4.5	17 x 16.9 x 1.7
 422	Universal Building Set / Basic Model	3079-1	Kellogg's Promotional Set: Duck	1998	?	10.3 x 7.1 x 4
 78	FreeStyle	3233-1	Fantasy Bird polybag	1998	5	? x ? x ?
 423	Classic / Supplemental	237-1	Number Bricks	1960	?	? x ? x ?
@@ -1300,16 +1300,16 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / Outback	6487-1	Mountain Rescue	1997	8.38	14.4 x 9.5 x 4.7
 67	Town / Paradisa	6489-1	Seaside Holiday Cottage	1997	?	19 x 14.2 x 5.8
 67	Town / Outback	6490-1	Amazon Crossing	1997	16	24 x 14.5 x 6
-157	Time Cruisers / Twisters	6491-1	Rocket Racer	1996	5	14.3 x 9.4 x 4.7
-157	Time Cruisers / Twisters	6492-1	Hypno Cruiser	1996	22	? x ? x ?
+157	Time Cruisers & Time Twisters	6491-1	Rocket Racer	1996	5	14.3 x 9.4 x 4.7
+157	Time Cruisers & Time Twisters	6492-1	Hypno Cruiser	1996	22	? x ? x ?
 124	Train / Supplemental / 12V	742-1	12V Transformer for 110V Pack	1969	?	? x ? x ?
-157	Time Cruisers / Twisters	6493-1	Flying Time Vessel	1996	44	38 x 38 x 7
-157	Time Cruisers / Twisters	6494-1	Mystic Mountain Time Lab	1996	70	47.5 x 38.2 x 6.8
-157	Time Cruisers / Twisters	6495-1	Time Tunnelator	1997	16	19 x 14 x 4.5
-157	Time Cruisers / Twisters	6496-1	Whirling Time Warper	1997	24	28.6 x 19.1 x 4.5
-157	Time Cruisers / Twisters	6497-1	Twisted Time Train	1997	46	34 x 29 x 6
+157	Time Cruisers & Time Twisters	6493-1	Flying Time Vessel	1996	44	38 x 38 x 7
+157	Time Cruisers & Time Twisters	6494-1	Mystic Mountain Time Lab	1996	70	47.5 x 38.2 x 6.8
+157	Time Cruisers & Time Twisters	6495-1	Time Tunnelator	1997	16	19 x 14 x 4.5
+157	Time Cruisers & Time Twisters	6496-1	Whirling Time Warper	1997	24	28.6 x 19.1 x 4.5
+157	Time Cruisers & Time Twisters	6497-1	Twisted Time Train	1997	46	34 x 29 x 6
 67	Town / Classic Town / Race	6498-1	Go-Kart polybag	1999	?	? x ? x ?
-157	Time Cruisers / Twisters	6499-1	Time Tunnelator	1997	16	33.3 x 27.9 x 7.6
+157	Time Cruisers & Time Twisters	6499-1	Time Tunnelator	1997	16	33.3 x 27.9 x 7.6
 67	Town / Classic Town / Traffic	6501-1	Sport Convertible	1987	5	9.5 x 5.5 x 3.7
 67	Town / Classic Town / Race	6502-1	Turbo Racer	1987	3	9.5 x 7.1 x 4.7
 67	Town / Classic Town / Race	6503-1	Sprint Racer	1988	3	9.4 x 7 x 4.5
@@ -1483,7 +1483,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / Classic Town / Wrecker	6674-1	Crane Truck	1988	7	19.3 x 9.2 x 4.7
 67	Town / Classic Town / Off-Road	6675-1	Road & Trail 4x4	1988	3.3	19 x 9.5 x 4.5
 67	Town / Classic Town / Police	6676-1	Mobile Command Unit	1986	6.84	19.2 x 9.6 x 4.7
-422	Universal Building Set / Classic Basic	2742-1	Loudspeaker  polybag	1999	5.83	17.3 x 16.7 x 1.6
+422	Universal Building Set / Classic Basic	2742-1	Screamer (Loudspeaker) polybag	1999	5.83	17.3 x 16.7 x 1.6
 67	Town / Town Jr. / Construction	3058-1	Busy City - Master Builders (Masterbuilders)	2000	?	30 x 28.7 x 4.4
 67	Town / Classic Town / Race	6677-1	Motocross Racing	1986	6.6	19.3 x 9.2 x 3.7
 67	Town / Classic Town / Construction	6678-1	Pneumatic Crane	1980	5	19.3 x 9.2 x 3.7
@@ -1862,14 +1862,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Competition	8482-1	CyberMaster	1998	39	38 x 37.5 x 12.5
 36	Technic / Universal Building Set	8485-1	Control Center II	1995	317	59 x 43 x 10
 36	Technic / Expert Builder	850-1	Fork Lift	1977	91	29.9 x 19.8 x 5
-36	Technic / Throwbot / Slizer	8500-1	Torch / Fire	1999	25	17.25 x 10.75 x 7.25
-36	Technic / Throwbot / Slizer	8501-1	Ski / Ice	1999	25	10.9 x 17.3 x 7.4
-36	Technic / Throwbot / Slizer	8502-1	Turbo / City	1999	21	10.9 x 17.3 x 7.4
-36	Technic / Throwbot / Slizer	8503-1	Scuba / Sub	1999	25	10.9 x 17.3 x 7.4
-36	Technic / Throwbot / Slizer	8504-1	Jet / Judge	1999	25	10.9 x 17.3 x 7.4
-36	Technic / Throwbot / Slizer	8505-1	Amazon / Jungle	1999	20.5	10.9 x 17.3 x 7.4
-36	Technic / Throwbot / Slizer	8506-1	Granite / Rock	1999	25	10.9 x 17.3 x 7.5
-36	Technic / Throwbot / Slizer	8507-1	Electro / Energy	1999	25	10.9 x 17.3 x 7.4
+36	Technic / Throwbot & Slizer	8500-1	Torch / Fire	1999	25	17.25 x 10.75 x 7.25
+36	Technic / Throwbot & Slizer	8501-1	Ski / Ice	1999	25	10.9 x 17.3 x 7.4
+36	Technic / Throwbot & Slizer	8502-1	Turbo / City	1999	21	10.9 x 17.3 x 7.4
+36	Technic / Throwbot & Slizer	8503-1	Scuba / Sub	1999	25	10.9 x 17.3 x 7.4
+36	Technic / Throwbot & Slizer	8504-1	Jet / Judge	1999	25	10.9 x 17.3 x 7.4
+36	Technic / Throwbot & Slizer	8505-1	Amazon / Jungle	1999	20.5	10.9 x 17.3 x 7.4
+36	Technic / Throwbot & Slizer	8506-1	Granite / Rock	1999	25	10.9 x 17.3 x 7.5
+36	Technic / Throwbot & Slizer	8507-1	Electro / Energy	1999	25	10.9 x 17.3 x 7.4
 36	Technic / RoboRiders	8509-1	Swamp	2000	26.4	8.6 x 8.6 x 17.3
 36	Technic / Expert Builder	851-1	Tractor	1977	89	33 x 23 x 5
 36	Technic / RoboRiders	8510-1	Lava	2000	27.5	8.6 x 8.6 x 17.3
@@ -1879,10 +1879,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / RoboRiders	8514-1	Power	2000	27.28	8.6 x 8.6 x 17.3
 36	Technic / RoboRiders	8516-1	The Boss	2000	82	28.7 x 19.1 x 5.8
 36	Technic / Expert Builder	852-1	Helicopter	1977	3.9	40 x 29 x 5
-36	Technic / Throwbot / Slizer	8520-1	Millennia / Millennium	2000	74	28.4 x 19.2 x 6
-36	Technic / Throwbot / Slizer	8521-1	Flare	2000	13	10.5 x 17.5 x 7.5
-36	Technic / Throwbot / Slizer	8522-1	Spark	2000	14	11 x 17.3 x 7.5
-36	Technic / Throwbot / Slizer	8523-1	Blaster	2000	47	15 x 25 x 5
+36	Technic / Throwbot & Slizer	8520-1	Millennia / Millennium	2000	74	28.4 x 19.2 x 6
+36	Technic / Throwbot & Slizer	8521-1	Flare	2000	13	10.5 x 17.5 x 7.5
+36	Technic / Throwbot & Slizer	8522-1	Spark	2000	14	11 x 17.3 x 7.5
+36	Technic / Throwbot & Slizer	8523-1	Blaster	2000	47	15 x 25 x 5
 36	Technic / Expert Builder	853-1	Auto Chassis	1977	90	50 x 30 x 6
 36	Technic / Expert Builder	854-1	Go-Kart	1978	86	31.5 x 19 x 5.6
 36	Technic / Expert Builder	855-1	Mobile Crane	1978	101	38 x 29 x 5.5
@@ -1965,7 +1965,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 166	Educational & Dacta / Supplemental	9251-1	Basic Just Bricks	2000	?	38 x 26 x 15
 273	BIONICLE / Bohrok Va	8551-1	Kohrak Va	2002	5	9.5 x 14 x 3.8
 277	LEGOLAND / Airport	1550-1	Sterling Super Caravelle	1972	?	? x ? x ?
-34	Space / Classic Space	926-1	Command Centre (Center)	1979	22	31.5 x 29 x 5.3
+34	Space / Classic Space	926-1	Command Centre {Center}	1979	22	31.5 x 29 x 5.3
 166	Educational & Dacta / Supplemental	9265-1	Roof Tiles	1998	?	? x ? x ?
 166	Educational & Dacta / Supplemental	9269-1	Wheels	1998	?	24.5 x 23.8 x 5.5
 166	Educational & Dacta / Universal Building Set	9271-1	Large Lego Dacta Basic Set	1997	?	? x ? x ?
@@ -2032,7 +2032,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 277	LEGOLAND / Western / Cowboys	372-1	Texas Rangers	1977	10	? x ? x ?
 422	Universal Building Set / Basic	725-1	Basic Building Set	1990	75	33.6 x 28.7 x 7
 36	Technic / Model / Robot	1237-1	Honda Asimo Robot	2001	?	10 x 16 x 5
-9	Castle / Lion Knights	6067-1	Guarded Inn	1986	22	34.2 x 19 x 5.2
+9	Castle / Crusaders & Lion Knights	6067-1	Guarded Inn	1986	22	34.2 x 19 x 5.2
 59	MINDSTORMS / RCX	3804-1	Robotics Invention System, Version 2.0	2001	335	55 x 32 x 11.5
 36	Technic / Star Wars / Star Wars Episode 4/5/6	8008-1	Stormtrooper	2001	209	23.8 x 33.5 x 5.8
 36	Technic / Speed Slammers	8241-1	Battle Cars	2001	39.6	24 x 14.5 x 4.6
@@ -2048,7 +2048,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Supplemental	5223-1	Windup Motor 2001	2001	10.82	23.8 x 9.5 x 4.6
 36	Technic / Supplemental	5222-1	Chassis Pack	2000	50	24 x 14.5 x 4.8
 174	Studios / Jurassic Park III	1370-1	Raptor Rumble Studio	2001	14	28 x 19 x 4
-9	Castle / Lion Knights / Legends	10000-1	Guarded Inn	2001	20	28.7 x 19 x 5.8
+9	Castle / Crusaders & Lion Knights / Legends	10000-1	Guarded Inn	2001	20	28.7 x 19 x 5.8
 3	Boat	311-1	Ferry	1973	5	? x ? x ?
 3	Boat	315-2	Container Transport	1976	5	35 x 12.5 x 5
 65	Star Wars / Star Wars Episode 4/5/6	7146-1	TIE Fighter	2001	37	19.1 x 28.6 x 7
@@ -2123,10 +2123,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 422	Universal Building Set / Classic Basic	2047-1	Plane polybag	1999	4.57	17 x 16.5 x 1.5
 422	Universal Building Set / Classic Basic	1841-1	Plane polybag	1999	4.5	17.5 x 17.5 x 2
 422	Universal Building Set / Classic Basic	2025-1	Boat polybag	1999	4.46	17.2 x 16.2 x 1.7
-9	Castle / Knights Kingdom I	4819-1	Rebel Chariot	2000	5	14.2 x 14.2 x 3.7
-9	Castle / Knights Kingdom I	4816-1	Knight's Catapult	2000	5	14.3 x 14.3 x 3.8
-9	Castle / Knights Kingdom I	4817-1	Dungeon	2000	4.4	14.3 x 14.3 x 3.8
-9	Castle / Knights Kingdom I	4818-1	Dragon Rider	2000	5	14.3 x 14.3 x 3.8
+9	Castle / Knights' Kingdom	4819-1	Rebel Chariot	2000	5	14.2 x 14.2 x 3.7
+9	Castle / Knights' Kingdom	4816-1	Knight's Catapult	2000	5	14.3 x 14.3 x 3.8
+9	Castle / Knights' Kingdom	4817-1	Dungeon	2000	4.4	14.3 x 14.3 x 3.8
+9	Castle / Knights' Kingdom	4818-1	Dragon Rider	2000	5	14.3 x 14.3 x 3.8
 67	Town / Classic Town / Traffic	2584-1	Biker Bob	1998	5.09	9.4 x 7.2 x 4.6
 67	Town / Classic Town / Traffic	1589-1	Town Square	1978	33	38 x 28 x 5
 78	FreeStyle	1839-1	FreeStyle Fish	1995	?	9.4 x 7.1 x 4.5
@@ -2443,7 +2443,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 277	LEGOLAND / Construction	383-1	Truck with Excavator	1973	5	? x ? x ?
 277	LEGOLAND / Vehicle / Off-Road	385-1	Jeep CJ-5	1976	6.6	? x ? x ?
 277	LEGOLAND / Airport	456-1	Spirit of St. Louis	1977	3.4	15 x 6.5 x 4
-277	LEGOLAND / Vehicle / Race	491-1	Formula 1 Racer	1977	3.4	? x ? x ?
+277	LEGOLAND / Vehicle / Race	491-1	Formula 1 Racer	1977	3.4	20 x 6.5 x 4.2
 277	LEGOLAND / Construction	614-1	Excavator	1974	3.4	10 x 6.5 x 4
 277	LEGOLAND / Construction	642-2	Double Excavator	1971	3.4	15 x 6.5 x 4
 277	LEGOLAND / Airport	661-1	Spirit of St. Louis	1976	3.4	? x ? x ?
@@ -2945,7 +2945,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 486	Designer Sets / Off-Road	4404-1	Land Busters	2003	360	47.8 x 38.2 x 9
 486	Designer Sets / Airport	4403-1	Air Blazers	2003	302	48 x 28.5 x 7
 473	Sports / Gravity Games	5015-1	Skateboard Bill polybag	2003	2.5	13.7 x 13.7 x 1.2
-179	Racers / Drome Racers	4301-1	Blue Racer polybag	2003	2	? x ? x ?
+179	Racers / Drome Racers	4301-1	Blue Racer polybag	2003	2	13.6 x 13.6 x 1.3
 473	Sports / Hockey	10127-1	NHL Action Set with Stickers	2003	32	19 x 14.3 x 7
 179	Racers / Williams F1	8374-1	Williams F1 Team Racer 1:27	2003	18	28.7 x 19.2 x 4.6
 497	Inventor	4095-1	Record and Play	2003	449	47.8 x 28.7 x 5.8
@@ -2965,7 +2965,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 53	Adventurers / Orient Expedition	7423-2	Mountain Sleigh {Kabaya Version}	2003	2	10 x 18 x 4
 53	Adventurers / Orient Expedition	7422-2	Red Eagle {Kabaya Version}	2003	2	10 x 18 x 4
 486	Designer Sets / Airport	7222-1	Small Red Helicopter polybag	2003	?	14 x 14 x 0
-179	Racers / Drome Racers	4300-1	Green Racer polybag	2003	2	? x ? x ?
+179	Racers / Drome Racers	4300-1	Green Racer polybag	2003	2	14 x 14 x 1
 473	Sports / Hockey	5014-1	Slammer polybag	2003	2.49	14 x 14 x 1
 183	Dinosaurs	5950-1	Baby Ankylosaurus polybag	2001	2	? x ? x ?
 183	Dinosaurs	5951-1	Baby Iguanodon polybag	2001	3	? x ? x ?
@@ -3003,7 +3003,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Christmas	10080-1	Angel polybag	2003	?	14 x 13.7 x 1.2
 390	Holiday & Event / Christmas	10079-1	Snowman polybag	2003	?	? x ? x ?
 390	Holiday & Event / Thanksgiving	10090-1	Turkey polybag	2003	4.5	17 x 16 x 1
-166	Educational & Dacta / Technic	9700-1	Technic Control Center (Technic Control 0 Set)	1987	?	? x ? x ?
+166	Educational & Dacta / Technic	9700-1	Technic Control Center (Technic Control 0 Set)	1987	?	46.5 x 37.8 x 6.3
 179	Racers / Radio Control	8376-1	Hot Flame	2003	193	48 x 38 x 7
 171	Creator / Basic Set	4405-1	Large Creator Bucket	2003	?	? x ? x ?
 171	Creator / Basic Set	7836-1	Halloween Bucket	2003	25.26	? x ? x ?
@@ -3180,23 +3180,23 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 490	Clikits	7525-1	Sunshine Picture Clips	2004	6.08	14.3 x 14.3 x 3.8
 169	Sculptures	10152-1	Maersk Sealand Container Ship {2004 Edition}	2004	130	48 x 28.5 x 11.5
 67	Town / Classic Town / Cargo	1831-2	Maersk Sealand Container Lorry	1995	24	28.6 x 19 x 4.5
-9	Castle / Knights Kingdom II	8783-1	Jayko (USA version with 3 Cards)	2004	31	10.2 x 21.2 x 7.2
-9	Castle / Knights Kingdom II	8785-1	Santis (USA version with 3 Cards)	2004	32	10.2 x 7.2 x 21.2
-9	Castle / Knights Kingdom II	8782-1	Danju (USA version with 3 Cards)	2004	31	10.2 x 7.2 x 21.2
-9	Castle / Knights Kingdom II	8784-1	Rascus (USA version with 3 Cards)	2004	31	10.2 x 7.2 x 21.2
-9	Castle / Knights Kingdom II	8786-1	Vladek (USA version with 3 Cards)	2004	33	10.2 x 7.2 x 21.2
-9	Castle / Knights Kingdom II	8781-1	Castle of Morcia	2004	195	57.5 x 38.3 x 11
-9	Castle / Knights Kingdom II	8777-1	Vladek Encounter	2004	18.5	14 x 14.2 x 4.6
+9	Castle / Knights' Kingdom II	8783-1	Jayko (USA version with 3 Cards)	2004	31	10.2 x 21.2 x 7.2
+9	Castle / Knights' Kingdom II	8785-1	Santis (USA version with 3 Cards)	2004	32	10.2 x 7.2 x 21.2
+9	Castle / Knights' Kingdom II	8782-1	Danju (USA version with 3 Cards)	2004	31	10.2 x 7.2 x 21.2
+9	Castle / Knights' Kingdom II	8784-1	Rascus (USA version with 3 Cards)	2004	31	10.2 x 7.2 x 21.2
+9	Castle / Knights' Kingdom II	8786-1	Vladek (USA version with 3 Cards)	2004	33	10.2 x 7.2 x 21.2
+9	Castle / Knights' Kingdom II	8781-1	Castle of Morcia	2004	195	57.5 x 38.3 x 11
+9	Castle / Knights' Kingdom II	8777-1	Vladek Encounter	2004	18.5	14 x 14.2 x 4.6
 65	Star Wars / Mini / Star Wars Episode 4/5/6	6963-1	X-wing Fighter - Mini {Kabaya Version}	2004	2	10 x 13.5 x 3.4
 65	Star Wars / Mini / Star Wars Episode 4/5/6	6964-1	Boba Fett's Slave I - Mini {Kabaya Version}	2004	2	10 x 13.5 x 3.4
 65	Star Wars / Mini / Star Wars Episode 4/5/6	6965-1	TIE Interceptor - Mini {Kabaya Version}	2004	2	10 x 13.5 x 3.4
 48	Belville / Playhouse	5943-1	Interior Designer	2004	13	19 x 18.9 x 5.9
-9	Castle / Knights Kingdom II	8779-1	The Grand Tournament	2004	100	33.8 x 23.8 x 7.3
+9	Castle / Knights' Kingdom II	8779-1	The Grand Tournament	2004	100	33.8 x 23.8 x 7.3
 124	Train / 9V / My Own Train	4186872-1	Passenger Wagon Green (White Box)	2002	?	? x ? x ?
 124	Train / 9V / My Own Train	4186870-1	Open Freight Wagon (White Box)	2002	?	? x ? x ?
 124	Train / 9V / My Own Train	4186874-1	Caboose (White Box)	2002	?	? x ? x ?
-9	Castle / Knights Kingdom II	8780-1	Citadel of Orlan	2004	126	38 x 28.5 x 9.7
-9	Castle / Knights Kingdom II	8778-1	Border Ambush	2004	70	28.5 x 19 x 6
+9	Castle / Knights' Kingdom II	8780-1	Citadel of Orlan	2004	126	38 x 28.5 x 9.7
+9	Castle / Knights' Kingdom II	8778-1	Border Ambush	2004	70	28.5 x 19 x 6
 273	BIONICLE / Bohrok Va	1431-1	Tahnok Va	2002	?	? x ? x ?
 273	BIONICLE / Bohrok Va	1432-1	Nuhvok Va	2002	?	? x ? x ?
 273	BIONICLE / Bohrok Va	1433-1	Gahlok Va	2002	?	? x ? x ?
@@ -3216,26 +3216,26 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE / Titans	10202-1	Ultimate Dume Limited Edition with Exclusive Mask Of Power	2004	?	47.94 x 38.1 x 9.52
 48	Belville / Fairy-Tale	5877-1	Wedding Coach	2004	28	33.3 x 28.7 x 7
 976	LEGO Brand / LEGOLAND Parks	LLCA10-1	Dragon Sculpture (LEGOLAND California)	2000	?	? x ? x ?
-976	LEGO Brand / LEGOLAND Parks	LLCA11-1	Lion Sculpture (LEGOLAND California)	1999	?	? x ? x ?
+976	LEGO Brand / LEGOLAND Parks	LLCA11-1	Lionel the Lion Sculpture (LEGOLAND California)	1999	?	? x ? x ?
 486	Designer Sets / Creature	7209-1	Pteranodon polybag	2004	?	14 x 14 x 0
 486	Designer Sets / Creature	7210-1	Apatosaurus polybag	2004	?	14 x 14 x 0
-9	Castle / Knights Kingdom II	8774-1	Vladek (European version without Cards)	2004	35	10 x 6.5 x 17
-9	Castle / Knights Kingdom II	8770-1	Danju (European version without Cards)	2004	35	10 x 6.5 x 17
-9	Castle / Knights Kingdom II	8771-1	Jayko (European version without Cards)	2004	35	10 x 17 x 6.5
-9	Castle / Knights Kingdom II	8772-1	Rascus (European version without Cards)	2004	35	10 x 6.5 x 17
-9	Castle / Knights Kingdom II	8773-1	Santis (European version without Cards)	2004	35	10 x 6.5 x 17
+9	Castle / Knights' Kingdom II	8774-1	Vladek (European version without Cards)	2004	35	10 x 6.5 x 17
+9	Castle / Knights' Kingdom II	8770-1	Danju (European version without Cards)	2004	35	10 x 6.5 x 17
+9	Castle / Knights' Kingdom II	8771-1	Jayko (European version without Cards)	2004	35	10 x 17 x 6.5
+9	Castle / Knights' Kingdom II	8772-1	Rascus (European version without Cards)	2004	35	10 x 6.5 x 17
+9	Castle / Knights' Kingdom II	8773-1	Santis (European version without Cards)	2004	35	10 x 6.5 x 17
 166	Educational & Dacta / MINDSTORMS / RCX	9794-1	ROBOLAB Team Challenge Set (USB) {2.5}	2002	384	38 x 30.5 x 11.5
 166	Educational & Dacta / MINDSTORMS / RCX	9793-1	ROBOLAB Team Challenge Set (Serial) {2.5}	2002	384	38 x 30.5 x 11.5
 67	Town / Classic Town / Traffic	10156-1	LEGO Truck	2004	10	19 x 9.4 x 5.9
 166	Educational & Dacta / Technic	9630-1	Nonmotorized Simple Machines Set (1997 LEGO Dacta Version)	1997	466.5	38 x 30.5 x 11
 179	Racers / Radio Control	8378-1	Red Beast RC	2004	214	47.6 x 31.6 x 9.4
 390	Holiday & Event / Advent / Creator	4924-1	Advent Calendar 2004, Creator	2004	?	38 x 28.5 x 7
-166	Educational & Dacta / Technic / Supplemental	9615-1	9-Volt Motor Add-On for Simple Mechanisms	1997	?	? x ? x ?
+166	Educational & Dacta / Technic / Supplemental	9615-1	9-Volt Motor Add-On for Simple Mechanisms	1997	12	? x ? x ?
 166	Educational & Dacta / Technic	9645-1	Motorized Simple Machines Set (1997 Version)	1997	?	? x ? x ?
 124	Train / 9V / World City	10158-1	High Speed Train Car	2004	30	28.8 x 19 x 6
 124	Train / 9V / World City	10157-1	High Speed Train Locomotive	2004	30	28.6 x 18.9 x 6
-9	Castle / Knights Kingdom II	8799-1	Knights' Castle Wall	2004	70	24.2 x 23.8 x 7.1
-9	Castle / Knights Kingdom II	8800-1	Vladek's Siege Engine	2004	72	23.8 x 23.8 x 7
+9	Castle / Knights' Kingdom II	8799-1	Knights' Castle Wall	2004	70	24.2 x 23.8 x 7.1
+9	Castle / Knights' Kingdom II	8800-1	Vladek's Siege Engine	2004	72	23.8 x 23.8 x 7
 273	BIONICLE / Titans	8811-1	Toa Lhikan & Kikanalo	2004	48	28.5 x 28.5 x 7
 273	BIONICLE / Toa Metru	8601-2	Toa Vakama - 2004 San Diego Comic-Con Exclusive (Does Not Contain Exclusive Disk)	2004	?	9.5 x 9.5 x 18.9
 67	Town / World City / Airport	4032-3	Passenger Plane - EL AL Version	2004	32	19.2 x 14.4 x 4.8
@@ -3243,14 +3243,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE / Titans	10202-2	Ultimate Dume	2004	?	48 x 38 x 9
 67	Town / World City / Airport	4032-5	Passenger Plane - JAL Version	2004	32	19.2 x 14.4 x 4.8
 171	Creator / Basic Set	4278-1	Blue Tub	2003	34	? x ? x ?
-9	Castle / Knights Kingdom II	8790-1	King Mathias (Series 1) Limited Edition with Map and Cape, European	2004	34	18.2 x 18.2 x 7.1
+9	Castle / Knights' Kingdom II	8790-1	King Mathias (Series 1) Limited Edition with Map and Cape, European	2004	34	18.2 x 18.2 x 7.1
 65	Star Wars / Star Wars Episode 4/5/6	7262-1	TIE Fighter and Y-wing {Reissue} (Toys "R" Us Exclusive)	2004	101	48 x 28.6 x 5.8
 623	X-Pod	4335-1	Black Robots Pod blister pack	2004	11	11.2 x 15.5 x 6.1
 390	Holiday & Event / Advent / Clikits	7575-1	Advent Calendar 2004, Clikits	2004	12.32	48 x 28.5 x 6
 65	Star Wars / Star Wars Episode 4/5/6	4504-2	Millennium Falcon (Redesign), Original Trilogy Edition box	2004	157	57.7 x 38.3 x 9.6
 36	Technic / Model / Construction	8439-1	Front End Loader	2004	228	47 x 28 x 9
 171	Creator / Basic Set	4679-1	Bricks and Creations Tub and Super Value 500 Extra LEGO Elements	2004	34	? x ? x ?
-9	Castle / Knights Kingdom II	8809-1	King Mathias (Series 1) Limited Edition with Map and Cape, US	2004	32	18.2 x 22 x 7.5
+9	Castle / Knights' Kingdom II	8809-1	King Mathias (Series 1) Limited Edition with Map and Cape, US	2004	32	18.2 x 22 x 7.5
 486	Designer Sets / Robot	7910-1	Robot Promotional (Duracell)	2004	?	7 x 7.5 x 4
 486	Designer Sets / Harbor	7911-1	Tugboat Promotional (Duracell)	2004	2	7 x 7.5 x 4
 486	Designer Sets / Airport	7912-1	Helicopter Promotional (Duracell)	2004	5.83	7 x 7.5 x 4
@@ -3260,11 +3260,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars Episode 4/5/6	4501-2	Mos Eisley Cantina, Original Trilogy Edition box	2004	38	28.5 x 28.5 x 7
 65	Star Wars / Star Wars Episode 4/5/6	4502-2	X-wing Fighter (Dagobah), Original Trilogy Edition box	2004	116	38.2 x 28.7 x 7
 171	Creator / Basic Set	4518-1	Creator Value Pack	2004	?	38.2 x 28.5 x 7
-9	Castle / Knights Kingdom II	8782-2	Danju (USA version with 6 Cards, Target Promo)	2004	31.5	? x ? x ?
-9	Castle / Knights Kingdom II	8783-2	Jayko (USA version with 6 Cards, Target Promo)	2004	?	10.2 x 21.2 x 7.2
-9	Castle / Knights Kingdom II	8784-2	Rascus (USA version with 6 Cards, Target Promo)	2004	?	? x ? x ?
-9	Castle / Knights Kingdom II	8785-2	Santis (USA version with 6 Cards, Target Promo)	2004	?	? x ? x ?
-9	Castle / Knights Kingdom II	8786-2	Vladek (USA version with 6 Cards, Target Promo)	2004	33	? x ? x ?
+9	Castle / Knights' Kingdom II	8782-2	Danju (USA version with 6 Cards, Target Promo)	2004	31.5	? x ? x ?
+9	Castle / Knights' Kingdom II	8783-2	Jayko (USA version with 6 Cards, Target Promo)	2004	?	10.2 x 21.2 x 7.2
+9	Castle / Knights' Kingdom II	8784-2	Rascus (USA version with 6 Cards, Target Promo)	2004	?	? x ? x ?
+9	Castle / Knights' Kingdom II	8785-2	Santis (USA version with 6 Cards, Target Promo)	2004	?	? x ? x ?
+9	Castle / Knights' Kingdom II	8786-2	Vladek (USA version with 6 Cards, Target Promo)	2004	33	? x ? x ?
 67	Town / City / Airport	10159-1	City Airport - City Logo Box	2004	118	57.2 x 37.8 x 6.6
 171	Creator / Basic Set	4562-1	Creator Value Pack	2004	24.9	28.7 x 28.7 x 6.9
 171	Creator / Basic Set	4411-1	Blue Strata XXL	2004	34	? x ? x ?
@@ -3368,12 +3368,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE / Visorak	8747-1	Visorak Suukorak	2005	25	11 x 8.9 x 20
 273	BIONICLE / Titans	8755-1	Keetongu	2005	68	23.8 x 28.5 x 5.8
 422	Universal Building Set / Basic	1663-1	Basic Building Set in Bucket	1989	?	? x ? x ?
-9	Castle / Knights Kingdom II	8791-1	Sir Danju	2005	20	10.2 x 7 x 23.3
-9	Castle / Knights Kingdom II	8792-1	Sir Jayko	2005	20	10.2 x 7 x 23.3
-9	Castle / Knights Kingdom II	8793-1	Sir Rascus	2005	21	10.2 x 7 x 23.3
-9	Castle / Knights Kingdom II	8794-1	Sir Santis	2005	20	10.2 x 7 x 23.3
-9	Castle / Knights Kingdom II	8795-1	Lord Vladek	2005	20	10.2 x 7 x 23.3
-9	Castle / Knights Kingdom II	8796-1	King Mathias (Series 2)	2005	19	10.2 x 7 x 23.3
+9	Castle / Knights' Kingdom II	8791-1	Sir Danju	2005	20	10.2 x 7 x 23.3
+9	Castle / Knights' Kingdom II	8792-1	Sir Jayko	2005	20	10.2 x 7 x 23.3
+9	Castle / Knights' Kingdom II	8793-1	Sir Rascus	2005	21	10.2 x 7 x 23.3
+9	Castle / Knights' Kingdom II	8794-1	Sir Santis	2005	20	10.2 x 7 x 23.3
+9	Castle / Knights' Kingdom II	8795-1	Lord Vladek	2005	20	10.2 x 7 x 23.3
+9	Castle / Knights' Kingdom II	8796-1	King Mathias (Series 2)	2005	19	10.2 x 7 x 23.3
 486	Designer Sets / Traffic	4883-1	Gear Grinders	2005	149	28.5 x 28.5 x 5.8
 65	Star Wars / Star Wars Episode 3	7251-1	Darth Vader Transformation	2005	15	14.2 x 14.2 x 5.7
 65	Star Wars / Star Wars Episode 3	7250-1	Clone Scout Walker	2005	19	14.2 x 19 x 5.9
@@ -3411,7 +3411,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE / Toa Hagah	8762-1	Toa Iruini	2005	14	10.8 x 20 x 8.8
 273	BIONICLE / Toa Hagah	8763-1	Toa Norik	2005	14	10.8 x 8.8 x 20
 516	4 Juniors / Jack Stone / Airport	1435-1	Super Glider	2002	?	? x ? x ?
-9	Castle / Knights Kingdom II	5994-1	Catapult polybag	2005	4.98	14 x 14 x 1
+9	Castle / Knights' Kingdom II	5994-1	Catapult polybag	2005	4.98	14 x 14 x 1
 34	Space / UFO	4305-1	Xcyber	1997	2	? x ? x ?
 486	Designer Sets / Creature	7268-1	Crab	2005	?	7 x 7.5 x 4.3
 486	Designer Sets / Creature	7269-1	Scorpion	2005	2.17	7.1 x 7.8 x 4.2
@@ -3437,14 +3437,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars Episode 4/5/6	10144-1	Sandcrawler	2005	218	57.2 x 38.1 x 9
 167	DUPLO / DUPLO, Train / Thomas & Friends	5554-1	Thomas Load and Carry Train Set	2005	12	47.8 x 28.5 x 11.3
 65	Star Wars / Mini / Star Wars Episode 3	6967-2	ARC-170 Starfighter - Mini - Korean Duracell promo package with 8 AA batteries	2005	2	? x ? x ?
-9	Castle / Knights Kingdom II	8877-1	Vladek's Dark Fortress	2005	224	65 x 48 x 9.5
-9	Castle / Knights Kingdom II	8874-1	Battle Wagon	2005	33	23.8 x 28.5 x 5.8
-9	Castle / Knights Kingdom II	8875-1	King's Siege Tower	2005	50	23.5 x 28.5 x 5.7
+9	Castle / Knights' Kingdom II	8877-1	Vladek's Dark Fortress	2005	224	65 x 48 x 9.5
+9	Castle / Knights' Kingdom II	8874-1	Battle Wagon	2005	33	23.8 x 28.5 x 5.8
+9	Castle / Knights' Kingdom II	8875-1	King's Siege Tower	2005	50	23.5 x 28.5 x 5.7
 179	Racers / Power Racers	8649-1	Nitro Menace	2005	157	47.5 x 38 x 7
 36	Technic / Model / Construction	8421-1	Mobile Crane	2005	621	65 x 48 x 9.5
 65	Star Wars / Mini / Star Wars Episode 3	6966-2	Jedi Starfighter - Mini - Korean Duracell promo package with 8 AA batteries	2005	2	? x ? x ?
-9	Castle / Knights Kingdom II	8873-1	Fireball Catapult	2005	12	14.2 x 14.2 x 5.8
-9	Castle / Knights Kingdom II	8876-1	Scorpion Prison Cave	2005	74.78	38 x 38 x 7
+9	Castle / Knights' Kingdom II	8873-1	Fireball Catapult	2005	12	14.2 x 14.2 x 5.8
+9	Castle / Knights' Kingdom II	8876-1	Scorpion Prison Cave	2005	74.78	38 x 38 x 7
 36	Technic / Model / Construction	8453-2	Front-End Loader, Black Box	2004	?	? x ? x ?
 36	Technic / Model / Riding Cycle	8420-1	Street Bike	2005	272	47.8 x 28.5 x 5.8
 179	Racers / Power Racers	8651-1	Jumping Giant	2005	53	38 x 28.5 x 5.8
@@ -3491,8 +3491,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars Episode 4/5/6	6207-1	A-wing Fighter	2006	33	28.7 x 19 x 5.9
 65	Star Wars / Star Wars Episode 4/5/6	6208-1	B-wing Fighter	2006	94	38 x 28.5 x 5.8
 65	Star Wars / Star Wars Episode 4/5/6	6209-1	Slave I	2006	113	47.7 x 28.5 x 5.8
-9	Castle / Knights Kingdom II	8801-1	Knights' Attack Barge	2005	51	28.5 x 23.8 x 5.8
-9	Castle / Knights Kingdom II	8802-1	Dark Fortress Landing	2005	51	28.5 x 23.8 x 5.8
+9	Castle / Knights' Kingdom II	8801-1	Knights' Attack Barge	2005	51	28.5 x 23.8 x 5.8
+9	Castle / Knights' Kingdom II	8802-1	Dark Fortress Landing	2005	51	28.5 x 23.8 x 5.8
 273	BIONICLE / Titans	10203-1	Voporak	2005	155	47 x 37.1 x 6.5
 422	Universal Building Set / Airport	611-2	Air Canada Jet Plane	1988	3	? x ? x ?
 67	Town / Classic Town / Airport	10159-2	City Airport - Full Size Image Box	2004	118	57.3 x 38.2 x 6.9
@@ -3582,25 +3582,25 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Construction	7900-1	Heavy Loader	2006	96	57.6 x 28.5 x 6.7
 167	DUPLO / DUPLO, Town / Zoo	4968-1	Friendly Zoo	2005	4	48 x 38.4 x 11.4
 171	Creator / Basic Set	4414-1	Creator Half Tub Blue	2004	?	? x ? x ?
-9	Castle / Knights Kingdom II	8701-1	King Jayko	2006	51	23.8 x 28.5 x 6
-9	Castle / Knights Kingdom II	8702-1	Lord Vladek	2006	50	23.8 x 28.5 x 6
-9	Castle / Knights Kingdom II	8703-1	Sir Kentis	2006	18	8.8 x 22.4 x 8.8
-9	Castle / Knights Kingdom II	8704-1	Sir Adric	2006	20	8.8 x 22.4 x 8.8
-9	Castle / Knights Kingdom II	8705-1	Dracus	2006	20	8.8 x 22.4 x 8.8
-9	Castle / Knights Kingdom II	8706-1	Karzon	2006	20	8.8 x 22.4 x 8.8
+9	Castle / Knights' Kingdom II	8701-1	King Jayko	2006	51	23.8 x 28.5 x 6
+9	Castle / Knights' Kingdom II	8702-1	Lord Vladek	2006	50	23.8 x 28.5 x 6
+9	Castle / Knights' Kingdom II	8703-1	Sir Kentis	2006	18	8.8 x 22.4 x 8.8
+9	Castle / Knights' Kingdom II	8704-1	Sir Adric	2006	20	8.8 x 22.4 x 8.8
+9	Castle / Knights' Kingdom II	8705-1	Dracus	2006	20	8.8 x 22.4 x 8.8
+9	Castle / Knights' Kingdom II	8706-1	Karzon	2006	20	8.8 x 22.4 x 8.8
 36	Technic / Model / Construction	8283-1	Telehandler (Front End Loader)	2006	157	38.4 x 28.8 x 6
 124	Train / RC Train	7898-1	Cargo Train Deluxe	2006	188	65.2 x 48 x 9.6
 124	Train / RC Train	7897-1	Passenger Train	2006	120	57.6 x 38.4 x 9.6
 36	Technic / Model / Traffic	8285-1	Tow Truck	2006	820	65.2 x 43.2 x 9.6
 167	DUPLO / DUPLO, Town / Zoo	4960-1	Giant Zoo	2006	33	57.6 x 48 x 12.7
 48	Belville / Fairy-Tale	7577-1	Winter Wonder Palace	2006	31.5	57.6 x 48 x 9.6
-171	Creator / Basic Set	7795-1	Deluxe Starter Set	2006	60	? x ? x ?
+171	Creator / Creative Building & Bricks and More	7795-1	LEGO Deluxe Starter Crate	2006	60	? x ? x ?
 171	Creator / Basic Set	7793-1	Standard Starter Set	2006	?	41 x 12.2 x 28
 395	Samsonite / Basic Set	905-1	Doll Set	1963	4	? x ? x ?
 48	Belville / Fairy-Tale	7578-1	Ultimate Princesses	2006	55	38.4 x 28.8 x 7.2
-9	Castle / Knights Kingdom II	8823-1	Mistlands Tower	2006	150	47.7 x 38 x 6.9
-9	Castle / Knights Kingdom II	8822-1	Gargoyle Bridge	2006	67	38.5 x 28.5 x 6
-9	Castle / Knights Kingdom II	8821-1	Rogue Knight Battleship	2006	33	28.5 x 28.5 x 4.7
+9	Castle / Knights' Kingdom II	8823-1	Mistlands Tower	2006	150	47.7 x 38 x 6.9
+9	Castle / Knights' Kingdom II	8822-1	Gargoyle Bridge	2006	67	38.5 x 28.5 x 6
+9	Castle / Knights' Kingdom II	8821-1	Rogue Knight Battleship	2006	33	28.5 x 28.5 x 4.7
 179	Racers / Tiny Turbos	8665-1	Highway Enforcer	2006	4	10.2 x 14.7 x 4.8
 395	Samsonite / Basic Set	022-2	Doll Furniture	1965	?	? x ? x ?
 395	Samsonite / Model Maker / Traffic	107-3	4.5V Reversible Power Unit (Motor)	1968	7	26 x 20 x 5.5
@@ -3663,7 +3663,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 171	Creator / Model / Airport	4895-1	Motion Power	2006	296	48.5 x 38 x 6.8
 574	Avatar The Last Airbender	3828-1	Air Temple	2006	84	38 x 28.5 x 4.7
 574	Avatar The Last Airbender	3829-1	Fire Nation Ship	2006	168	47.7 x 28.5 x 9.5
-9	Castle / Knights Kingdom I	10176-1	Royal King's Castle	2006	316	57.15 x 38.1 x 8.89
+9	Castle / Knights' Kingdom	10176-1	Royal King's Castle	2006	316	57.15 x 38.1 x 8.89
 67	Town / City / Police	7237-2	Police Station - WITHOUT Light-Up Minifigure	2006	140	57.6 x 38.4 x 11.4
 65	Star Wars / Ultimate Collector Series / Star Wars Episode 4/5/6	10174-1	Imperial AT-ST - UCS	2006	270	47.5 x 38 x 6.6
 570	Batman I	7785-1	Arkham Asylum	2006	200	47.5 x 38 x 6.8
@@ -3682,8 +3682,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 179	Racers / Radio Control	8676-1	Sunset Cruiser	2006	54	48 x 31.8 x 9.6
 179	Racers / Power Racers	8682-1	Nitro Intimidator	2006	164	47.5 x 38 x 6.75
 36	Technic / Model / Construction	8288-1	Crawler Crane	2006	216	38 x 38 x 6.9
-171	Creator / Basic Set	5482-1	Ultimate LEGO House Building Set (Red Tub)	2006	58	41 x 28 x 19.5
-9	Castle / Knights Kingdom II	8813-1	Battle at the Pass	2006	65.1	48 x 28.6 x 5.7
+171	Creator / Creative Building & Bricks and More	5482-1	Ultimate LEGO House Building Set {Red Tub Version}	2006	58	41 x 28 x 19.5
+9	Castle / Knights' Kingdom II	8813-1	Battle at the Pass	2006	65.1	48 x 28.6 x 5.7
 548	Vikings	7020-1	Army of Vikings with Heavy Artillery Wagon	2006	49	38.2 x 19 x 6.8
 548	Vikings	7021-1	Viking Double Catapult vs. the Armoured Ofnir Dragon	2006	155	47.7 x 28.5 x 6.8
 124	Train / Supplemental / RC Train	7895-1	Switching Tracks	2006	3	28.8 x 19.2 x 6
@@ -3814,7 +3814,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Construction	7998-1	Heavy Hauler	2007	71	48 x 28.5 x 7
 422	Universal Building Set / Basic	395-2	Build-N-Store Chests	1990	?	? x ? x ?
 422	Universal Building Set / Basic	1661-2	Basic Building Set in Bucket	1989	?	22.2 x 21.2 x 26.5
-171	Creator / Basic Set	6167-1	Deluxe Brick Box	2006	61	? x ? x ?
+171	Creator / Creative Building & Bricks and More	6167-1	LEGO Deluxe Brick Box	2006	61	? x ? x ?
 422	Universal Building Set / Classic Basic	2853-1	Classic Bulk	1998	?	? x ? x ?
 273	BIONICLE / Toa Mahri	8910-1	Toa Kongu	2007	20	14.5 x 27.7 x 6.8
 273	BIONICLE / Toa Mahri	8911-1	Toa Jaller	2007	21	14.5 x 27.7 x 6.8
@@ -3828,8 +3828,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 179	Racers / Ferrari	8144-1	Ferrari 248 F1 Team (Schumacher Edition)	2007	125	57.6 x 38.4 x 7.2
 36	Technic / Model / Farm	8274-1	Combine Harvester	2007	460	48 x 38.4 x 7.2
 54	Aquazone / Aquaraiders II	7776-1	The Shipwreck	2007	66	38 x 28.5 x 4.7
-171	Creator / Basic Set	6161-1	Brick Box	2007	11.2	28.5 x 19.4 x 19.4
-171	Creator / Basic Set	6166-1	Large Brick Box	2007	35.18	37.8 x 22 x 19.5
+171	Creator / Creative Building & Bricks and More	6161-1	LEGO Brick Box	2007	11.2	28.5 x 19.4 x 19.4
+171	Creator / Creative Building & Bricks and More	6166-1	LEGO Large Brick Box	2007	35.18	37.8 x 22 x 19.5
 171	Creator / Basic Model / Construction	7876-1	Cement Truck	2007	?	7.4 x 7.8 x 4.5
 422	Universal Building Set / Classic Basic	2456-1	Big Bulk Box	1998	?	? x ? x ?
 273	BIONICLE / Promotional	7716-1	QUICK Good Guy White polybag	2006	?	? x ? x ?
@@ -3981,13 +3981,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 629	Architecture	519-9	2 x 3 Plates (Architectural Hobby and Model Building Supplemental Set)	1962	1.43	6.4 x 8.9 x 3.5
 629	Architecture	520-3	2 x 2 Plates (Architectural Hobby and Model Building Supplemental Set)	1962	1.43	6.4 x 8.9 x 3.5
 629	Architecture	521-9	1 x 1 and 1 x 2 Plates (Architectural Hobby and Model Building Supplemental Set)	1962	1.43	6.4 x 8.9 x 3.5
-9	Castle / Fantasy Era	7029-1	Skeleton Ship Attack	2007	180	57.5 x 38 x 9
-9	Castle / Fantasy Era	7094-1	King's Castle Siege	2007	310	64.5 x 43 x 9
-9	Castle / Fantasy Era	7093-1	Skeleton Tower	2007	158	47.7 x 38 x 7
-9	Castle / Fantasy Era	7092-1	Skeletons' Prison Carriage	2007	39	38 x 19 x 5.7
-9	Castle / Fantasy Era	7091-1	Knights' Catapult Defense	2007	21.44	23.8 x 14.4 x 4.7
-9	Castle / Fantasy Era	7090-1	Crossbow Attack	2007	8.83	14.2 x 14.2 x 4.7
-9	Castle / Fantasy Era	7009-1	The Final Joust	2007	8.74	19 x 14.2 x 4.7
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7029-1	Skeleton Ship Attack	2007	180	57.5 x 38 x 9
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7094-1	King's Castle Siege	2007	310	64.5 x 43 x 9
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7093-1	Skeleton Tower	2007	158	47.7 x 38 x 7
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7092-1	Skeletons' Prison Carriage	2007	39	38 x 19 x 5.7
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7091-1	Knights' Catapult Defense	2007	21.44	23.8 x 14.4 x 4.7
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7090-1	Crossbow Attack	2007	8.83	14.2 x 14.2 x 4.7
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7009-1	The Final Joust	2007	8.74	19 x 14.2 x 4.7
 34	Space / Mars Mission	7694-1	MT-31 Trike	2007	21	23.9 x 14 x 5.8
 67	Town / City / Gas Station	7993-1	Service Station	2007	162	38 x 28.5 x 7
 124	Train / RC Train	7997-1	Train Station	2007	112	38.2 x 28.6 x 9.4
@@ -4018,7 +4018,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 568	Exo-Force	8107-1	Fight for the Golden Tower	2007	176	47.7 x 38 x 6.9
 568	Exo-Force	8106-1	Aero Booster	2007	114	38 x 28.5 x 6.9
 395	Samsonite / Basic Set	610-4	Super Wheel Toy Set (tall box version)	1965	?	? x ? x ?
-171	Creator / Basic Set	6164-1	Rescue Building Set	2007	60	38.2 x 28.6 x 6.9
+171	Creator / Creative Building & Bricks and More	6164-1	LEGO Rescue Building Set	2007	60	38.2 x 28.6 x 6.9
 34	Space / Mars Mission	7699-1	MT-101 Armored Drilling Unit	2007	182	57 x 38 x 7
 422	Universal Building Set / Supplemental	990-2	Trees and Signs (1969 Version)	1969	?	20.2 x 10.1 x 2.7
 423	Classic / Basic Set	080-1	Basic Building Set with Train	1967	?	50 x 29.5 x 10.3
@@ -4065,7 +4065,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 568	Exo-Force	3885-1	Hikaru Little Flyer polybag	2007	2	13.8 x 13.8 x 1.5
 568	Exo-Force	3885-2	Hikaru Little Flyer - Boxed Version	2007	2	7.5 x 7 x 4.3
 166	Educational & Dacta / Universal Building Set	9254-2	Medium Basic Set	1996	?	? x ? x ?
-9	Castle / Fantasy Era	7036-1	Dwarves' Mine	2007	184	47.7 x 38 x 9
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7036-1	Dwarves' Mine	2007	184	47.7 x 38 x 9
 63	Service Packs / Technic	5293-1	9V Battery Box	1996	?	12.5 x 20.5 x 4
 573	SpongeBob SquarePants	3830-1	The Bikini Bottom Express	2008	66	28.5 x 28.5 x 4.5
 422	Universal Building Set / Basic	1575-2	Basic Set with Board Game	1987	?	? x ? x ?
@@ -4088,8 +4088,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 473	Sports / Soccer	880002-1	World Cup German Starter Set	1998	?	? x ? x ?
 179	Racers / Ferrari	8153-1	Ferrari F1 Truck 1:55	2008	50.6	28.8 x 28.8 x 6
 34	Space / Mars Mission	5616-1	Mini Robot	2008	1.82	9.5 x 9.5 x 4.6
-9	Castle / Fantasy Era	5615-1	The Knight	2008	1.77	9.5 x 9.5 x 4.6
-9	Castle / Fantasy Era	5614-1	The Good Wizard	2008	1.8	9.5 x 9.5 x 4.6
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	5615-1	The Knight	2008	1.77	9.5 x 9.5 x 4.6
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	5614-1	The Good Wizard	2008	1.8	9.5 x 9.5 x 4.6
 67	Town / City / Police	5612-1	Police Officer	2008	1.8	9.5 x 9.5 x 4.6
 67	Town / City / Construction	5610-1	Builder	2008	1.8	9.5 x 9.5 x 4.7
 67	Town / City / Traffic	5611-1	Public Works	2008	1.8	9.5 x 9.5 x 4.5
@@ -4108,13 +4108,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars Legends / Star Wars The Force Unleashed	7672-1	Rogue Shadow	2008	165	47.5 x 28.5 x 6.5
 573	SpongeBob SquarePants	3831-1	Rocket Ride	2008	84	38 x 28.5 x 5.7
 171	Creator / Model / Airport	4995-1	Cargo Copter	2008	212	28.5 x 28.5 x 5.7
-171	Creator / Basic Set	5584-1	Fun With Wheels	2008	15.6	28.8 x 28.8 x 9.6
+171	Creator / Creative Building & Bricks and More	5584-1	LEGO Fun with Wheels	2008	15.6	28.8 x 28.8 x 9.6
 167	DUPLO / Dino	5597-1	Dino Trap	2008	?	28.5 x 28.5 x 11
 167	DUPLO / Dino	5598-1	Dino Valley	2008	24	47.7 x 38 x 12.4
 167	DUPLO / DUPLO, Town / Fire	5601-1	Fire Station	2008	24	47.5 x 9 x 38
 167	DUPLO / DUPLO, Town / Police	5602-1	Police Station	2008	16	38.3 x 28.7 x 9.3
-171	Creator / Basic Set	6186-1	Build Your Own LEGO Harbor	2008	44	28.5 x 19 x 7
-171	Creator / Basic Set / Construction	6187-1	Road Construction Set	2008	42.6	28.4 x 28.4 x 7
+171	Creator / Creative Building & Bricks and More	6186-1	Build Your Own LEGO Harbor	2008	44	28.5 x 19 x 7
+171	Creator / Creative Building & Bricks and More	6187-1	LEGO Road Construction Set	2008	42.6	28.4 x 28.4 x 7
 179	Racers / Tiny Turbos	8152-1	Speed Chasing	2008	34	28.5 x 19 x 4.5
 48	Belville / Playhouse	7583-1	Playful Puppy	2008	10.7	19 x 14.3 x 6
 48	Belville / Recreation	7585-1	Horse Stable	2008	60	38.1 x 28.6 x 5.8
@@ -4132,7 +4132,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE / Phantoka	8685-1	Toa Kopaka	2008	19.3	25.3 x 14 x 8.4
 273	BIONICLE / Phantoka	8686-1	Toa Lewa	2008	19.4	25.3 x 14 x 8.4
 273	BIONICLE / Phantoka	8687-1	Toa Pohatu	2008	19.6	25.3 x 14 x 8.4
-171	Creator / Basic Set	5585-1	Pink Brick Box	2008	14	29 x 19.5 x 19.5
+171	Creator / Creative Building & Bricks and More	5585-1	LEGO Pink Brick Box	2008	14	29 x 19.5 x 19.5
 273	BIONICLE / Phantoka	8691-1	Antroz	2008	21	25.3 x 14 x 8
 273	BIONICLE / Phantoka	8693-1	Chirox	2008	19.8	25.3 x 14 x 8.4
 273	BIONICLE / Phantoka	8692-1	Vamprah	2008	19.55	25.3 x 14 x 8.4
@@ -4165,14 +4165,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 608	Speed Racer	8159-1	Racer X & Taejo Togokhan	2008	50.2	28.8 x 28.8 x 5.8
 608	Speed Racer	8160-1	Cruncher Block & Racer X	2008	105.6	47.8 x 28.8 x 7
 608	Speed Racer	8161-1	Grand Prix Race	2008	133	47.78 x 38.1 x 7.6
-9	Castle / Fantasy Era	7041-1	Troll Battle Wheel	2008	90	47.9 x 28.6 x 5.7
-9	Castle / Fantasy Era	7038-1	Troll Assault Wagon	2008	50.6	38 x 19 x 5.7
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7041-1	Troll Battle Wheel	2008	90	47.9 x 28.6 x 5.7
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7038-1	Troll Assault Wagon	2008	50.6	38 x 19 x 5.7
 59	MINDSTORMS / NXT	MS1038-1	Color Sensor for Mindstorms NXT	2006	?	8 x 5.2 x 3.3
 568	Exo-Force	3885-3	Hikaru Little Flyer - Duracell 12 pack AA Battery Promotion	2007	2	17.4 x 11.8 x 4.5
 568	Exo-Force	3886-3	Ryo Walker - Duracell 12 pack AA Battery Promotion	2007	2	17.4 x 11.8 x 4.5
-9	Castle / Fantasy Era	7037-1	Tower Raid	2008	120.4	38.2 x 28.5 x 5.7
-9	Castle / Fantasy Era	7040-1	Dwarves' Mine Defender	2008	19.9	24 x 14.2 x 4.7
-9	Castle / Fantasy Era	7048-1	Troll Warship	2008	149.8	57.3 x 38 x 9.4
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7037-1	Tower Raid	2008	120.4	38.2 x 28.5 x 5.7
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7040-1	Dwarves' Mine Defender	2008	19.9	24 x 14.2 x 4.7
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7048-1	Troll Warship	2008	149.8	57.3 x 38 x 9.4
 65	Star Wars / Star Wars The Clone Wars	7675-1	AT-TE Walker	2008	251	47 x 38 x 9
 65	Star Wars / Star Wars The Clone Wars	7676-1	Republic Attack Gunship	2008	250.8	65 x 38 x 9
 65	Star Wars / Star Wars The Clone Wars	7673-1	Magna Guard Starfighter	2008	151.4	43.2 x 29 x 7
@@ -4212,7 +4212,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE / Battle Vehicles	8942-1	Jetrax T6	2008	259	48 x 38.4 x 7.2
 273	BIONICLE / Battle Vehicles	8943-1	Axalara T9	2008	374	57.6 x 38.4 x 9.6
 273	BIONICLE / Warriors	8954-1	Mazeka	2008	110.5	38.4 x 28.5 x 7.2
-9	Castle / Fantasy Era	5618-1	Troll Warrior	2008	2.4	9.5 x 9.5 x 4.6
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	5618-1	Troll Warrior	2008	2.4	9.5 x 9.5 x 4.6
 34	Space / Mars Mission	5619-1	Crystal Hawk	2008	2.4	9.5 x 9.5 x 4.6
 67	Town / City / Coast Guard	5621-1	Coast Guard Kayak	2008	2.4	9.5 x 9.5 x 4.5
 34	Space / Mars Mission	7644-1	MX-81 Hypersonic Operations Aircraft	2008	307	57 x 38.1 x 7.14
@@ -4239,8 +4239,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Police	5625-1	Police 4 x 4 polybag	2008	2	13.8 x 13.9 x 0
 67	Town / City / Construction	5627-1	Mini Bulldozer polybag	2008	2.5	13.5 x 13.8 x 2.4
 67	Town / City / Coast Guard	4210-1	Coast Guard Platform	2008	185	47.5 x 37.9 x 6.8
-171	Creator / Basic Set	5522-1	Golden Anniversary Set	2008	?	47.8 x 28.8 x 7
-171	Creator / Basic Set	5582-1	Ultimate Town Building Set	2008	61	41 x 27.8 x 19
+171	Creator / Creative Building & Bricks and More	5522-1	LEGO Golden Anniversary Set	2008	?	47.8 x 28.8 x 7
+171	Creator / Creative Building & Bricks and More	5582-1	Ultimate LEGO Town Building Set	2008	61	41 x 27.8 x 19
 171	Creator / Basic Model / Robot	20001-1	Batbot polybag	2008	10.52	23 x 22.5 x 3
 179	Racers / Police	7611-1	Police Car polybag	2008	?	14 x 13.5 x 1.5
 179	Racers / Tiny Turbos	7613-1	Track Racer polybag	2008	?	? x ? x ?
@@ -4373,7 +4373,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Mini / Star Wars Episode 3	20006-1	Clone Turbo Tank - Mini polybag	2008	10.3	? x ? x ?
 545	FIRST LEGO League	9699-1	FIRST LEGO League (FLL) Challenge 2008 - Climate Connections	2008	?	39 x 30 x 15
 61	Pirates / Pirates II / Imperial Guards	8396-1	Soldier's Arsenal	2009	2.43	9.3 x 3.8 x 9
-61	Pirates / Pirates II	8397-1	Pirate Survival	2009	2.42	9.3 x 3.8 x 9
+61	Pirates / Pirates II	8397-1	Pirate Survival	2009	2.42	9.3 x 9 x 3.8
 179	Racers / Power Racers	8162-1	Race Rig	2009	20.1	26 x 14 x 6
 179	Racers / Power Racers	8163-1	Blue Sprinter	2009	21	26 x 14 x 6
 179	Racers / Power Racers	8164-1	Extreme Wheelie	2009	20	26 x 14 x 6
@@ -4410,19 +4410,19 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Model / Construction	8259-1	Mini Bulldozer	2009	43.3	19 x 14 x 4.5
 444	Galidor	8321-1	Nepol & Shimmel	2002	12.6	26 x 31.5 x 6
 444	Galidor	8313-1	Nick - Deluxe	2002	13.96	25.4 x 30.45 x 9
-171	Creator / Basic Set / Pirates	6192-1	Pirates Building Set	2009	13	19 x 14 x 5.9
-171	Creator / Basic Set / Castle	6193-1	Castle Building Set	2009	13	19 x 14 x 5.9
+171	Creator / Creative Building & Bricks and More	6192-1	LEGO Pirate Building Set	2009	13	19 x 14 x 5.9
+171	Creator / Creative Building & Bricks and More	6193-1	LEGO Castle Building Set	2009	13	19 x 14 x 5.9
 437	Explore / Little Robots / DUPLO	7449-1	Sporty	2003	12	? x ? x ?
 437	Explore / Little Robots / DUPLO	7450-1	Stretchy	2003	8	? x ? x ?
 65	Star Wars / Star Wars The Clone Wars	8037-1	Anakin's Y-wing Starfighter	2009	145	53.66 x 27.9 x 7.6
 65	Star Wars / Star Wars The Clone Wars	7748-1	Corporate Alliance Tank Droid	2009	45.5	28 x 25.9 x 4.5
 65	Star Wars / Star Wars The Clone Wars	8036-1	Separatist Shuttle	2009	70	34 x 30 x 8.5
 65	Star Wars / Star Wars The Clone Wars	8039-1	Venator-Class Republic Attack Cruiser	2009	345	58 x 37.5 x 9
-9	Castle / Fantasy Era	10193-1	Medieval Market Village	2009	280	57.7 x 37.2 x 8
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	10193-1	Medieval Market Village	2009	280	57.7 x 37.2 x 8
 65	Star Wars / Star Wars Episode 4/5/6	7749-1	Echo Base	2009	41	28 x 26 x 6.4
 65	Star Wars / Star Wars Episode 4/5/6	8038-1	The Battle of Endor	2009	300	57.7 x 37.7 x 8.4
 65	Star Wars / Star Wars Episode 4/5/6	7778-1	Midi-Scale Millennium Falcon	2009	93	38 x 25.9 x 6.9
-171	Creator / Basic Set / Fire	6191-1	Fire Fighter Building Set	2009	37	19 x 14 x 5.9
+171	Creator / Creative Building & Bricks and More	6191-1	LEGO Fire Fighter Building Set	2009	37	19 x 14 x 5.9
 273	BIONICLE / Battle Vehicles	8992-1	Cendox V1	2009	65.8	26 x 28.26 x 6.35
 273	BIONICLE / Battle Vehicles	8993-1	Kaxium V3	2009	103.9	38 x 25.8 x 6.9
 273	BIONICLE / Battle Vehicles	8994-1	Baranus V7	2009	113.8	47.78 x 27.9 x 6
@@ -4464,9 +4464,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Airport	7643-1	Air Show Plane	2009	16	19 x 9.5 x 5.9
 67	Town / City / Supplemental	8401-1	City Minifigure Collection	2009	8.6	19 x 14 x 4.2
 976	LEGO Brand / LEGO Inside Tour	LIT2005-1	Inside Tour (LIT) Exclusive 2005 Edition - LECA Automobile	2005	?	? x ? x ?
-9	Castle / Fantasy Era	7097-1	Trolls' Mountain Fortress	2009	307.2	58 x 37.3 x 10
-9	Castle / Fantasy Era	7078-1	King's Battle Chariot	2009	21.8	35.5 x 19 x 5.8
-9	Castle / Fantasy Era	7079-1	Drawbridge Defense	2009	121	47.5 x 28 x 7.1
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7097-1	Trolls' Mountain Fortress	2009	307.2	58 x 37.3 x 10
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7078-1	King's Battle Chariot	2009	21.8	35.5 x 19 x 5.8
+9	Castle / Castle (2007 Relaunch) {Fantasy Era}	7079-1	Drawbridge Defense	2009	121	47.5 x 28 x 7.1
 689	Power Miners	8907-1	Rock Hacker polybag	2009	2	? x ? x ?
 689	Power Miners	8908-1	Monster Launcher polybag	2009	2	17.2 x 16.2 x 2
 67	Town / City / Construction	5642-1	Tipper Truck polybag	2009	?	? x ? x ?
@@ -4500,7 +4500,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 609	Agents	8968-1	River Heist	2009	39.6	35.4 x 19 x 5.8
 609	Agents	8969-1	4-Wheeling Pursuit	2009	82	38.1 x 26 x 9.3
 609	Agents	8970-1	Robo Attack	2009	112.6	37.6 x 34.9 x 9.1
-171	Creator / Basic Set	5560-1	Large Pink Brick Box	2009	35.2	37 x 21.5 x 19
+171	Creator / Creative Building & Bricks and More	5560-1	LEGO Large Pink Brick Box	2009	35.2	37 x 21.5 x 19
 609	Agents	8971-1	Aerial Defense Unit	2009	291	48 x 37.5 x 9
 976	LEGO Brand / LEGO Brand Store / Grand Opening	FRISCO-1	LEGO Store Grand Opening Exclusive Set, Stonebriar Centre, Frisco, TX	2009	?	? x ? x ?
 976	LEGO Brand / LEGO Brand Store / Grand Opening	RALEIGH-1	LEGO Store Grand Opening Exclusive Set, Crabtree Valley Mall, Raleigh, NC	2009	?	? x ? x ?
@@ -4527,7 +4527,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO / Playhouse	5639-1	Family House	2009	23	47.7 x 37.5 x 10.7
 273	BIONICLE	20012-1	Click polybag	2009	8.5	22 x 20 x 5.4
 273	BIONICLE / Warriors	8998-1	Toa Mata Nui	2009	130	47.5 x 38 x 7
-171	Creator / Basic Set	5489-1	Ultimate LEGO Vehicle Building Set	2009	43	41 x 27 x 17
+171	Creator / Creative Building & Bricks and More	5489-1	Ultimate LEGO Vehicle Building Set	2009	43	41 x 27 x 17
 171	Creator / Creator Expert / Fairground Collection	10196-1	Grand Carousel	2009	299	57.8 x 47.7 x 8.8
 689	Power Miners	8708-1	Cave Crusher	2009	108	53.6 x 27.9 x 8.6
 976	LEGO Brand / LEGO Brand Store / Grand Opening	FRANKFURT-1	LEGO Store Grand Opening Exclusive Set, MyZeil, Frankfurt, Germany	2009	?	? x ? x ?
@@ -4553,7 +4553,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Grand Opening	OKLAHOMACITY-1	LEGO Store Grand Opening Exclusive Set, Penn Square Mall, Oklahoma City, OK	2009	?	? x ? x ?
 976	LEGO Brand / LEGOLAND Parks	LLCA51-1	LEGOLAND California 10th Birthday Cupcake Box (LEGOLAND California Ambassador Pass Exclusive)	2009	?	? x ? x ?
 395	Samsonite / Train / 4.5V	118-3	Motorized Freight or Passenger Train (Sears Exclusive)	1969	9	? x ? x ?
-171	Creator / Basic Set	6194-1	My Own LEGO Town	2009	42.8	28.2 x 26 x 9.4
+171	Creator / Creative Building & Bricks and More	6194-1	My LEGO Town	2009	42.8	28.2 x 26 x 9.4
 976	LEGO Brand / LEGO Brand Store / Grand Opening	BIRMINGHAM-1	LEGO Store Grand Opening Exclusive Set, Riverchase Galleria, Birmingham, AL	2009	?	? x ? x ?
 976	LEGO Brand / LEGO Brand Store / Grand Opening	CONCORD-1	LEGO Store Grand Opening Exclusive Set, Concord Mills, Concord, NC	2009	?	? x ? x ?
 36	Technic / Model / Farm	8063-1	Tractor with Trailer	2009	322.3	57.8 x 8.4 x 38
@@ -4636,8 +4636,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 733	Atlantis	8060-1	Typhoon Turbo Sub	2010	78.5	28 x 26 x 6
 67	Town / City / Gas Station	3180-1	Tank Truck	2010	47	35.2 x 19 x 8.9
 733	Atlantis	8061-1	Gateway of the Squid	2010	143.3	48 x 28.1 x 6.1
-171	Creator / Basic Set	7615-1	Basic Blue Bucket	2009	?	? x ? x ?
-171	Creator / Basic Set	7616-1	Basic Red Bucket	2009	?	? x ? x ?
+171	Creator / Creative Building & Bricks and More	7615-1	LEGO Basic Blue Bucket	2009	?	? x ? x ?
+171	Creator / Creative Building & Bricks and More	7616-1	LEGO Basic Red Bucket	2009	?	? x ? x ?
 171	Creator / Basic Model / Riding Cycle	20014-1	4 x 4 Dynamo polybag	2010	7.84	22.4 x 22.4 x 1.5
 179	Racers / Tiny Turbos	7801-1	Rally Racer polybag	2009	2	14 x 14 x 1
 179	Racers / Tiny Turbos	7802-1	Le Mans Racer polybag	2009	2	14 x 14 x 1
@@ -4662,13 +4662,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 179	Racers / Tiny Turbos	8198-1	Ramp Crash	2010	19	26 x 14.8 x 7
 171	Creator / Basic Model / Airport	5864-1	Mini Helicopter	2010	11.9	10.2 x 14.4 x 4.8
 171	Creator / Basic Model / Traffic	5865-1	Mini Dumper	2010	12	10.2 x 14.4 x 4.8
-171	Creator / Basic Set	5899-1	House Building Set	2010	12	19 x 14 x 5.9
+171	Creator / Creative Building & Bricks and More	5899-1	LEGO House Building Set	2010	12	19 x 14 x 5.9
 179	Racers / Power Racers	7970-1	Hero	2010	20.07	26 x 14 x 7
-171	Creator / Basic Set / Traffic	5898-1	Cars Building Set	2010	12.42	19 x 14 x 5.9
+171	Creator / Creative Building & Bricks and More	5898-1	LEGO Cars Building Set	2010	12.42	19 x 14 x 5.9
 67	Town	RWE-1	{RWE Erdgasfahrzeug Promotional Cabrio}	2007	?	16 x 10 x 1
 976	LEGO Brand / LEGO Brand Store / Grand Opening	BERLIN-1	LEGO Store Grand Opening Exclusive Set, Berlin, Germany	2009	?	10 x 17 x 2
 67	Town / City / Fire	7213-1	Off-Road Fire Truck & Fireboat	2010	110	47.5 x 28 x 7
-167	DUPLO / Basic Set	5497-1	Play with Numbers	2010	22	38 x 26 x 9
+167	DUPLO / Basic Set	5497-1	LEGO DUPLO Play with Numbers	2010	22	38 x 26 x 9
 65	Star Wars / Star Wars Episode 3	8091-1	Republic Swamp Speeder - Limited Edition	2010	51	38 x 26 x 5.6
 67	Town / City / Airport	3222-1	Helicopter and Limousine	2010	104	38 x 7 x 26.5
 733	Atlantis	8072-1	Sea Jet	2010	2.48	9.2 x 3.9 x 8.9
@@ -4686,9 +4686,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Farm	7684-1	Pig Farm & Tractor	2010	79	38 x 26 x 6.8
 67	Town / City / Airport	3182-1	Airport	2010	310	58 x 48 x 11
 67	Town / City / Airport	3181-1	Passenger Plane	2010	94	48 x 7.5 x 28
-167	DUPLO / Basic Set	5506-1	Large Brick Box	2010	7.6	38.1 x 19.1 x 21.6
-167	DUPLO / Basic Set	5507-1	Deluxe Brick Box	2010	15	37.6 x 20.8 x 27
-171	Creator / Basic Set	5508-1	Deluxe Brick Box	2010	60	38.5 x 26.5 x 22
+167	DUPLO / Basic Set	5506-1	LEGO DUPLO Large Brick Box	2010	7.6	38.1 x 19.1 x 21.6
+167	DUPLO / Basic Set	5507-1	LEGO DUPLO Deluxe Brick Box	2010	15	37.6 x 20.8 x 27
+171	Creator / Creative Building & Bricks and More	5508-1	LEGO Deluxe Brick Box	2010	60	38.5 x 26.5 x 22
 59	MINDSTORMS / NXT	MS1048-2	EOPD Sensor for Mindstorms NXT (Electro Optical Sensor)	2009	?	? x ? x ?
 59	MINDSTORMS / NXT	MS1060-1	Mindstorms NXT Touch Sensor Multiplexer	2009	?	? x ? x ?
 390	Holiday & Event / Christmas	santa-2	Santa Claus, Illum/C&G Promotional	?	?	? x ? x ?
@@ -4773,7 +4773,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Valentine's Day	40004-1	Heart 2010 polybag	2010	3	17 x 17 x 0.5
 166	Educational & Dacta / DUPLO / Toolo	RC9203-1	Remote Controlled Buggy Set (LEGO Tech Machines with Remote Control)	2005	?	? x ? x ?
 166	Educational & Dacta / DUPLO / Playhouse	9091-2	Playhouse Set	2010	?	42 x 30.7 x 25.7
-167	DUPLO / Basic Set	5488-1	Farm Building Set	2009	16	40.8 x 27.8 x 19
+167	DUPLO / Basic Set	5488-1	LEGO DUPLO Farm Building Set	2009	16	40.8 x 27.8 x 19
 166	Educational & Dacta / Town	9311-1	City Buildings Set	2010	?	? x ? x ?
 166	Educational & Dacta	9334-1	Animals	2010	104.5	42 x 31 x 16
 166	Educational & Dacta / Town	9314-1	Rescue Service Set	2010	82.8	41.8 x 14.9 x 30.8
@@ -4944,12 +4944,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 759	NINJAGO / The Golden Weapons	2520-1	Battle Arena	2011	126	48 x 28.1 x 6
 67	Town / City / Police	7285-1	Police Dog Unit	2011	17	19.1 x 14.1 x 6.1
 67	Town / City / Police	7288-1	Mobile Police Unit	2011	120	53.8 x 28 x 5.5
-171	Creator / Basic Set / Castle	5929-1	Knight and Castle Building Set	2011	12.5	19 x 14 x 6
+171	Creator / Creative Building & Bricks and More	5929-1	LEGO Castle Building Set	2011	12.5	19 x 14 x 6
 171	Creator / Basic Model / Construction	5761-1	Mini Digger	2011	10	10.2 x 14.3 x 4.8
 171	Creator / Basic Model / Airport	5762-1	Mini Plane	2011	10	10.2 x 14.3 x 4.8
 171	Creator / Model / Race	5763-1	Dune Hopper	2011	93	26.2 x 14.1 x 4.8
-171	Creator / Basic Set / Airport	5933-1	Airport Building Set	2011	36	28 x 26 x 7.5
-171	Creator / Basic Set / Construction	5930-1	Road Construction Building Set	2011	16	19 x 14 x 6
+171	Creator / Creative Building & Bricks and More	5933-1	LEGO Airport Building Set	2011	36	28 x 26 x 7.5
+171	Creator / Creative Building & Bricks and More	5930-1	LEGO Road Construction Building Set	2011	16	19 x 14 x 6
 171	Creator / Model / Building	5766-1	Log Cabin	2011	270	38 x 26 x 5.5
 171	Creator / Model / Traffic	5765-1	Transport Truck	2011	125.7	35.4 x 19.1 x 5.9
 171	Creator / Model / Robot	5764-1	Rescue Robot	2011	77.2	19.1 x 26 x 4.3
@@ -4980,7 +4980,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 748	Cars / Cars 2	8484-1	Ultimate Build Lightning McQueen	2011	73	35.4 x 19.1 x 9.1
 748	Cars / Cars 2	8486-1	Mack's Team Truck	2011	156.9	38.2 x 26.2 x 9.4
 748	Cars / Cars 2	8487-1	Flo's V8 Café {Cafe}	2011	162	54 x 28.2 x 7.85
-171	Creator / Basic Set	5932-1	My First LEGO Set	2011	13.2	19.1 x 19.1 x 12.8
+171	Creator / Creative Building & Bricks and More	5932-1	My First LEGO Set	2011	13.2	19.1 x 19.1 x 12.8
 67	Town / City / Police	3658-1	Police Helicopter	2011	92	38.2 x 26.2 x 5.7
 124	Train / Supplemental / RC Train	7499-1	Flexible and Straight Tracks	2011	8	26.2 x 19.1 x 6.1
 749	Hero Factory / Heroes	2141-1	Surge 2.0	2011	11.7	11.5 x 18 x 6
@@ -5010,7 +5010,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 761	Pirates of the Caribbean	4183-1	The Mill	2011	104.1	38 x 26 x 5.5
 761	Pirates of the Caribbean	4182-1	The Cannibal Escape	2011	55.7	35 x 19 x 5.5
 761	Pirates of the Caribbean	4181-1	Isla De Muerta	2011	39.2	26.2 x 19.1 x 4.6
-167	DUPLO	6051-3	Play with Letters (Undetermined version)	2011	?	38.2 x 26.2 x 11.8
+167	DUPLO / Basic Set	6051-3	LEGO DUPLO Play with Letters (Undetermined version)	2011	?	38.2 x 26.2 x 11.8
 167	DUPLO / Basic Set	5931-1	My First LEGO DUPLO Set	2011	7	19.1 x 19.1 x 12.8
 167	DUPLO / DUPLO, Town / Police	5681-1	Police Station	2011	22	48 x 37.8 x 9.4
 65	Star Wars / Ultimate Collector Series / Star Wars Episode 2	10215-1	Obi-Wan's Jedi Starfighter - UCS	2010	161	48 x 38 x 7
@@ -5135,7 +5135,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 748	Cars / Cars 2	8638-1	Spy Jet Escape	2011	106	48 x 28.2 x 6.1
 748	Cars / Cars 2	8639-1	Big Bentley Bust Out	2011	210	48 x 37.8 x 7.05
 748	Cars / Cars 2	8677-1	Ultimate Build Mater	2011	63.2	35 x 19 x 7
-748	Cars / Cars 2	8678-1	Ultimate Build Francesco	2011	?	35 x 19 x 7
+748	Cars / Cars 2	8678-1	Ultimate Build Francesco	2011	48	35 x 19 x 7
 748	Cars / Cars 2	8679-1	Tokyo International Circuit	2011	227	58.2 x 37.8 x 8.7
 227	Harry Potter / Deathly Hallows	4865-1	The Forbidden Forest	2011	20	19.1 x 14 x 4.6
 227	Harry Potter / Prisoner of Azkaban	4866-1	The Knight Bus	2011	93.2	28.3 x 26 x 6.4
@@ -5147,7 +5147,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO / DUPLO, Town / Hospital	5795-1	Big City Hospital	2011	35.5	58.2 x 48 x 12
 167	DUPLO / Basic Set	5748-1	Creative Building Kit	2011	?	22.5 x 26.2 x 19.5
 166	Educational & Dacta / Supplemental	9387-1	Wheels Set	2011	?	26 x 19 x 7
-171	Creator / Basic Set	5749-1	Creative Building Kit	2011	15	22.3 x 26.4 x 19.5
+171	Creator / Creative Building & Bricks and More	5749-1	LEGO Creative Building Kit	2011	15	22.3 x 26.4 x 19.5
 167	DUPLO / DUPLO, Town / Traffic	5684-1	Car Transporter	2011	10.5	35.4 x 19.1 x 11.8
 67	Town / City / Fire	5532-1	Fire Car polybag	2005	?	? x ? x ?
 67	Town / City / Police	5531-1	Police Motorcycle polybag	2005	?	? x ? x ?
@@ -5251,7 +5251,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 171	Creator / Basic Model / Building	30023-1	Lighthouse polybag	2011	1.5	14 x 16 x 1
 171	Creator / Creator Expert / Winter Village Collection / Holiday & Event / Christmas	10222-1	Winter Village Post Office	2011	152	48 x 28.3 x 6
 169	Sculptures	10220-1	Volkswagen T1 Camper Van (VW Bus)	2011	333	47.6 x 37.4 x 6.3
-171	Creator / Basic Set	6053-1	My First LEGO Town	2011	70	40.6 x 19 x 28
+171	Creator / Creative Building & Bricks and More	6053-1	My First LEGO Town	2011	70	40.6 x 19 x 28
 171	Creator / Basic Model / Creature	30027-1	Reindeer polybag	2011	4	17 x 16 x 1
 764	Master Builder Academy	20201-1	MBA Level One - Kit 2, Microbuild Designer polybag	2011	346	? x ? x ?
 764	Master Builder Academy	20202-1	MBA Level One - Kit 3, Robot Designer polybag	2011	334	25.4 x 25.4 x 3.1
@@ -5261,7 +5261,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 124	Train / RC Train	3677-1	Red Cargo Train	2011	307	57.5 x 37.5 x 9.8
 423	Classic / Town Plan	800-3	Town Plan	1966	?	50.5 x 42.5 x 6.5
 395	Samsonite / Basic Set	1610-3	Super Wheel Toy Set - Sears Exclusive	1965	?	? x ? x ?
-167	DUPLO / Basic Set	5416-2	Brick Box	2009	7	? x ? x ?
+167	DUPLO / Basic Set	5416-2	LEGO DUPLO Brick Box	2009	7	? x ? x ?
 63	Service Packs	10213sup-1	Supplemental Pack for Shuttle Adventure Set 10213	2010	?	? x ? x ?
 629	Architecture	21000-2	Willis Tower	2011	23	26.1 x 13.9 x 4.7
 34	Space / Alien Conquest	30140-1	ADU Walker polybag	2011	2	14 x 14 x 1.5
@@ -5281,7 +5281,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGOLAND Parks / Star Wars	LLCA53-1	Han Solo on his Tauntaun - Miniland Scale (LEGOLAND California Ambassador Pass Exclusive)	2011	38	? x ? x ?
 179	Racers / Tiny Turbos	30036-1	Buggy Racer polybag	2011	?	? x ? x ?
 1166	Games	3861-1	LEGO Champion	2011	56	43.2 x 27.2 x 6.7
-171	Creator / Basic Set	6131-1	Build and Play	2011	?	40.5 x 27.6 x 19.2
+171	Creator / Creative Building & Bricks and More	6131-1	LEGO Build & Play	2011	?	40.5 x 27.6 x 19.2
 227	Harry Potter	30111-1	The Lab polybag	2011	2	13.7 x 16.5 x 0.5
 390	Holiday & Event / Wedding	853340-1	Bride and Groom	2011	4	14 x 12.2 x 4.5
 171	Creator / Creator Expert / Modular Buildings Collection	10230-1	Mini Modulars	2012	173	38 x 26 x 9.5
@@ -5388,18 +5388,18 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 768	Super Heroes / Buildable Figures / Avengers	4530-1	The Hulk	2012	20.1	14.1 x 26.2 x 4.8
 768	Super Heroes / Buildable Figures / Avengers	4597-1	Captain America	2012	20.5	14.1 x 26.2 x 4.8
 171	Creator / Basic Model / Traffic	6910-1	Mini Sports Car	2012	10	10.2 x 14.4 x 4.8
-171	Creator / Basic Set	4637-1	Safari Building Set	2012	16	19.1 x 14.1 x 6.1
+171	Creator / Creative Building & Bricks and More	4637-1	Safari Building Set	2012	16	19.1 x 14.1 x 6.1
 171	Creator / Basic Model / Fire	6911-1	Mini Fire Rescue	2012	10	10.2 x 14.4 x 4.8
-171	Creator / Basic Set / Police	4636-1	Police Building Set	2012	16	19.1 x 14.1 x 6.1
+171	Creator / Creative Building & Bricks and More	4636-1	Police Building Set	2012	16	19.1 x 14.1 x 6.1
 167	DUPLO	6130-1	Build and Play	2011	?	? x ? x ?
 65	Star Wars / Planets Series 1 / Star Wars Episode 1	9674-1	Naboo Starfighter & Naboo	2012	16	14 x 19 x 4.5
 65	Star Wars / Planets Series 1 / Star Wars Episode 1	9675-1	Sebulba's Podracer & Tatooine	2012	16	14 x 19 x 4.5
 65	Star Wars / Planets Series 1 / Star Wars Episode 4/5/6	9676-1	TIE Interceptor & Death Star	2012	16	14 x 19 x 4.5
 53	Adventurers / Desert	5938-2	Oasis Ambush - German Edition with Audio Tape	1998	?	? x ? x ?
 166	Educational & Dacta	9388-1	Small Building Plates	2011	?	26 x 19 x 6
-171	Creator / Basic Set / Traffic	4635-1	Fun with Vehicles	2012	90	38.2 x 26.2 x 7.1
+171	Creator / Creative Building & Bricks and More	4635-1	Fun with Vehicles	2012	90	38.2 x 26.2 x 7.1
 768	Super Heroes / Superman	6862-2	Superman vs. Power Armor Lex	2012	47.3	19 x 26 x 6
-171	Creator / Basic Set	4625-1	Pink Brick Box	2012	26.5	28.8 x 19.5 x 19.2
+171	Creator / Creative Building & Bricks and More	4625-1	LEGO Pink Brick Box	2012	26.5	28.8 x 19.5 x 19.2
 768	Super Heroes / Batman II	6857-1	The Dynamic Duo Funhouse Escape	2012	163	38 x 26 x 5.5
 749	Hero Factory / Heroes	6217-1	Surge	2012	14	17 x 23 x 7
 749	Hero Factory / Heroes	6200-2	Evo	2012	14.2	17 x 23 x 7
@@ -5464,12 +5464,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Mini / Star Wars Episode 1	30057-1	Anakin's Pod Racer - Mini polybag	2012	?	13.7 x 13.7 x 0.9
 65	Star Wars / Mini / Star Wars The Clone Wars	30059-1	MTT - Mini polybag	2012	?	13.7 x 13.7 x 0.9
 67	Town / City / Traffic	30150-1	Race Car polybag	2012	2	13.7 x 13.7 x 1.3
-171	Creator / Basic Set	4626-1	Farm Brick Box	2012	22.68	28.2 x 19.5 x 19.2
+171	Creator / Creative Building & Bricks and More	4626-1	LEGO Farm Brick Box	2012	22.68	28.2 x 19.5 x 19.2
 59	MINDSTORMS / NXT	2853216-1	Infrared Link Sensor for Mindstorms NXT	2011	?	? x ? x ?
 817	LEGO Ideas (CUUSOO) / Space Exploration	21101-1	Hayabusa	2012	210	30 x 30 x 10
 171	Creator / Creator Expert / Modular Buildings Collection	10224-1	Town Hall	2012	379	48 x 58 x 12.5
 629	Architecture	21012-1	Sydney Opera House	2012	128	25.9 x 19 x 5.8
-171	Creator / Basic Set	4628-1	Fun with Bricks	2012	19.4	22.7 x 22.7 x 26
+171	Creator / Creative Building & Bricks and More	4628-1	LEGO Fun with Bricks	2012	19.4	22.7 x 22.7 x 26
 167	DUPLO	4627-1	Fun with Bricks	2012	?	? x ? x ?
 167	DUPLO	4624-1	Brick Box	2012	14	28.5 x 19.4 x 19.4
 167	DUPLO / DUPLO, Town / Fire	6168-1	Fire Station	2012	22	48 x 37.8 x 9.4
@@ -5499,12 +5499,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 252	Game / Racers	00746-99	Racers Super Speedway Board Game (Jumbo - International Version)	2002	?	35.5 x 26.5 x 8
 252	Game / BIONICLE	00747-99	BIONICLE Quest for Makuta: Adventure Game  {European Version}	1999	?	35.5 x 26.5 x 8
 167	DUPLO / Disney / Disney Princess / Cinderella	6154-1	Cinderella's Castle	2012	27	47.6 x 37.4 x 9
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	9474-1	The Battle of Helm's Deep	2012	386	58.2 x 37.8 x 8.7
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	9473-1	The Mines of Moria	2012	195	48 x 37.8 x 7.05
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	9472-1	Attack on Weathertop	2012	150	48 x 28.2 x 5.8
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	9471-1	Uruk-hai Army	2012	65	28.2 x 26.2 x 6.4
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	9470-1	Shelob Attacks	2012	40	26.2 x 19.1 x 6.1
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	9469-1	Gandalf Arrives	2012	20	19.1 x 14.1 x 4.6
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	9474-1	The Battle of Helm's Deep	2012	386	58.2 x 37.8 x 8.7
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	9473-1	The Mines of Moria	2012	195	48 x 37.8 x 7.05
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	9472-1	Attack on Weathertop	2012	150	48 x 28.2 x 5.8
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	9471-1	Uruk-hai Army	2012	65	28.2 x 26.2 x 6.4
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	9470-1	Shelob Attacks	2012	40	26.2 x 19.1 x 6.1
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	9469-1	Gandalf Arrives	2012	20	19.1 x 14.1 x 4.6
 65	Star Wars / Planets Series 2 / Star Wars Episode 4/5/6	9677-1	X-wing Starfighter & Yavin 4	2012	16	14 x 19 x 4.5
 65	Star Wars / Planets Series 2 / Star Wars Episode 4/5/6	9678-1	Twin-pod Cloud Car & Bespin	2012	16	14 x 19 x 4.5
 65	Star Wars / Planets Series 2 / Star Wars Episode 4/5/6	9679-1	AT-ST & Endor	2012	17	14 x 19 x 4.5
@@ -5529,7 +5529,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 629	Architecture	21013-1	Big Ben	2012	103.46	14 x 25.9 x 4.65
 629	Architecture	21014-1	Villa Savoye	2012	414	38 x 26 x 7
 629	Architecture	21016-1	Sungnyemun	2012	131	26 x 19 x 6
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	9476-1	The Orc Forge	2012	105	38.2 x 26.2 x 5.7
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	9476-1	The Orc Forge	2012	105	38.2 x 26.2 x 5.7
 65	Star Wars / Star Wars Episode 3	9526-1	Palpatine's Arrest	2012	137	54 x 28.5 x 8
 749	Hero Factory	11995-1	Hero Recon Team	2011	?	11.4 x 14 x 4.6
 749	Hero Factory / Heroes	6282-1	Stringer	2012	14.4	17 x 23 x 7
@@ -5618,7 +5618,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO	6143-1	Race Team	2012	?	38 x 26 x 6.6
 167	DUPLO / DUPLO, Train	6144-1	Zoo Train	2012	?	26.2 x 19 x 6
 167	DUPLO / DUPLO, Town / Traffic	6146-1	Tow Truck	2012	?	? x ? x ?
-171	Creator / Basic Set	4495173-1	Creative Building Set	2006	?	? x ? x ?
+171	Creator / Creative Building & Bricks and More	4495173-1	LEGO Creative Building Set	2006	?	? x ? x ?
 749	Hero Factory	4659607-1	Hero Factory Booster Pack polybag	2012	?	14 x 13.9 x 0
 802	Muji	8785452-1	MUJI Transparent Set	2010	?	27 x 15 x 3.5
 802	Muji	8785476-1	MUJI Sea Set	2010	?	27 x 15 x 3.8
@@ -5652,15 +5652,15 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 768	Super Heroes / Superman	30164-1	Lex Luthor polybag	2012	1.96	17.3 x 16.8 x 2
 781	Monster Fighters	10228-1	Haunted House	2012	355	58 x 47.5 x 8.5
 781	Monster Fighters	30200-1	Zombie Chauffeur Coffin Car polybag	2012	2	13.9 x 13.8 x 2
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	30210-1	Frodo with Cooking Corner polybag	2012	2	14 x 16 x 1.5
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	30211-1	Uruk-hai with Ballista polybag	2012	1	13.8 x 13.8 x 1
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	30210-1	Frodo with Cooking Corner polybag	2012	2	14 x 16 x 1.5
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	30211-1	Uruk-hai with Ballista polybag	2012	1	13.8 x 13.8 x 1
 976	LEGO Brand / LEGO Facilities	4000005-1	Kornmarken Factory 2012	2012	93	26 x 14 x 4.8
 746	Collectible Minifigures / Team GB	8909-1	Minifigure, Team GB (Complete Random Set of 1 Minifigure)	2012	2.85	8.7 x 11.8 x 1.5
 759	NINJAGO / Rise of the Snakes / Spinners / Booster Pack	4659612-1	Spinner Ring polybag	2012	6.2	8.5 x 15 x 0.7
 65	Star Wars / Star Wars Episode 1	comcon019-1	Darth Maul's Sith Infiltrator - Mini - San Diego Comic-Con 2012 Exclusive	2012	?	10.3 x 10.3 x 12.5
 759	NINJAGO / Rise of the Snakes / Spinners / Booster Pack	9556-1	Bytar polybag	2012	4	12 x 15 x 1.2
 759	NINJAGO / Rise of the Snakes / Spinners	9574-1	Lloyd ZX	2012	8	23 x 17.3 x 3.5
-789	The Hobbit and The Lord of the Rings / The Hobbit	79003-1	An Unexpected Gathering	2012	242	48 x 28 x 6
+789	The Hobbit & The Lord of the Rings / The Hobbit	79003-1	An Unexpected Gathering	2012	242	48 x 28 x 6
 67	Town / City / Construction	30151-1	Mining Dozer polybag	2012	1.8	17 x 17 x 3.5
 390	Holiday & Event / Birthday	40048-1	Birthday Cake {Blue Base Version} polybag	2012	?	? x ? x ?
 171	Creator / Creator Expert / Winter Village Collection / Holiday & Event / Christmas	10229-1	Winter Village Cottage	2012	274	47.8 x 37.5 x 6.8
@@ -5695,7 +5695,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 759	NINJAGO / Rise of the Snakes	850445-1	Character Card Shrine	2012	15	11.6 x 24 x 3.6
 781	Monster Fighters	40076-1	Zombie Car polybag	2012	4	19.5 x 19.5 x 2
 390	Holiday & Event / Halloween	40032-1	Witch polybag	2012	6.02	20 x 17.5 x 1
-171	Creator / Basic Set	4630-1	Build and Play Box	2012	20	37 x 24 x 23
+171	Creator / Creative Building & Bricks and More	4630-1	LEGO Build & Play Box	2012	20	37 x 24 x 23
 167	DUPLO	4629-1	Build and Play Box	2012	?	38 x 24 x 23
 65	Star Wars / Star Wars Episode 4/5/6	celeb2012-1	Boba Fett's Slave I - Mini - Star Wars Celebration VI Exclusive	2012	?	10.3 x 10.3 x 12.5
 545	FIRST LEGO League	9657-1	FIRST LEGO League (FLL) Challenge 2012 - Senior Solutions	2012	?	43.5 x 32 x 17
@@ -5704,7 +5704,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 764	Master Builder Academy	5001270-1	MBA Kits 2 - 3	2012	?	? x ? x ?
 764	Master Builder Academy	5001273-1	MBA Kits 4 - 6	2012	?	? x ? x ?
 787	LEGENDS OF CHIMA	70113-1	CHI Battles	2013	18.35	25.3 x 23 x 3.5
-252	Game / Castle / Knights Kingdom II	31317-99	Knights' Kingdom Save the Kingdom Board Game (English Version) with 5 Minifigures	2004	?	? x ? x ?
+252	Game / Castle / Knights' Kingdom II	31317-99	Knights' Kingdom Save the Kingdom Board Game (English Version) with 5 Minifigures	2004	?	? x ? x ?
 390	Holiday & Event / Christmas	40035-1	Rocking Horse polybag	2012	5	? x ? x ?
 390	Holiday & Event / Christmas	40034-1	Christmas Train polybag	2012	5	19.5 x 17 x 1.2
 333	Card, Game Card / NINJAGO	2855165-99	NINJAGO Masters of Spinjitzu Deck #1 Special Edition Card	2011	?	8.5 x 13 x 0.2
@@ -5723,7 +5723,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 759	NINJAGO / The Final Battle	70504-1	Garmatron	2013	102	28 x 26 x 9.4
 759	NINJAGO / The Final Battle	70505-1	Temple of Light	2013	168	35.2 x 37.5 x 6.5
 65	Star Wars / Star Wars Episode 4/5/6	75005-1	Rancor Pit	2013	156	47.5 x 27.7 x 7
-1166	Games / The Hobbit and The Lord of the Rings / The Hobbit	3920-1	The Hobbit - An Unexpected Journey	2012	51	28.4 x 27.2 x 5.6
+1166	Games / The Hobbit & The Lord of the Rings / The Hobbit	3920-1	The Hobbit - An Unexpected Journey	2012	51	28.4 x 27.2 x 5.6
 333	Card, Game Card / NINJAGO	4659640-99	NINJAGO Masters of Spinjitzu Deck #2 Special Edition Card	2012	?	8.8 x 12.8 x 0.2
 166	Educational & Dacta	9331-1	BuildToExpress Set	2009	?	30 x 18 x 5
 143	(Other) / NINJAGO	4659611-99	Ninjago Surprise Bag	2012	?	10 x 26 x 2.3
@@ -5736,11 +5736,11 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 771	Friends / Animals Series 2	41020-1	Hedgehog's Hideaway	2013	8	13 x 18 x 2
 771	Friends / Animals Series 2	41021-1	Poodle's Little Palace	2013	8	13 x 18 x 2
 771	Friends / Animals Series 2	41022-1	Bunny's Hutch	2013	8	13 x 18 x 2
-789	The Hobbit and The Lord of the Rings / The Hobbit	79002-1	Attack of the Wargs	2012	100	38 x 26 x 5.5
-789	The Hobbit and The Lord of the Rings / The Hobbit	79004-1	Barrel Escape	2012	107	38 x 26 x 5.5
-789	The Hobbit and The Lord of the Rings / The Hobbit	79010-1	The Goblin King Battle	2012	300	47.2 x 37.5 x 6.5
-171	Creator / Basic Set	10660-1	LEGO Pink Suitcase	2013	19.8	28.2 x 26.5 x 6.3
-171	Creator / Basic Set	10659-1	LEGO Blue Suitcase	2013	20.5	28.2 x 26.5 x 6.3
+789	The Hobbit & The Lord of the Rings / The Hobbit	79002-1	Attack of the Wargs	2012	100	38 x 26 x 5.5
+789	The Hobbit & The Lord of the Rings / The Hobbit	79004-1	Barrel Escape	2012	107	38 x 26 x 5.5
+789	The Hobbit & The Lord of the Rings / The Hobbit	79010-1	The Goblin King Battle	2012	300	47.2 x 37.5 x 6.5
+171	Creator / Creative Building & Bricks and More	10660-1	LEGO Pink Suitcase	2013	19.8	28.2 x 26.5 x 6.3
+171	Creator / Creative Building & Bricks and More	10659-1	LEGO Blue Suitcase	2013	20.5	28.2 x 26.5 x 6.3
 67	Town / City / Fire	60000-1	Fire Motorcycle	2013	10	12.2 x 9 x 6
 67	Town / City / Fire	60002-1	Fire Truck	2013	68	26 x 19 x 6
 67	Town / City / Fire	60003-1	Fire Emergency	2013	101	28 x 26 x 6
@@ -5770,13 +5770,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Planets Series 4 / Star Wars Episode 4/5/6	75011-1	Tantive IV & Planet Alderaan	2013	16.5	14 x 19 x 4.5
 67	Town / City / Construction	60018-1	Cement Mixer	2013	66	26 x 18.9 x 5.8
 67	Town / City / Wrecker	60017-1	Flatbed Truck	2013	66	26 x 18.9 x 5.8
-789	The Hobbit and The Lord of the Rings / The Hobbit	79001-1	Escape from Mirkwood Spiders	2012	65	26 x 19 x 6
-789	The Hobbit and The Lord of the Rings / The Hobbit	79000-1	Riddles for The Ring	2012	20	14 x 12 x 6
+789	The Hobbit & The Lord of the Rings / The Hobbit	79001-1	Escape from Mirkwood Spiders	2012	65	26 x 19 x 6
+789	The Hobbit & The Lord of the Rings / The Hobbit	79000-1	Riddles for The Ring	2012	20	14 x 12 x 6
 768	Super Heroes / Ultimate Spider-Man	76004-1	Spider-Man: Spider-Cycle Chase	2013	50	26 x 18.8 x 6
 67	Town / City / Gas Station	60016-1	Tanker Truck	2013	60	25.9 x 18.8 x 6.9
-171	Creator / Basic Set / Race	10655-1	LEGO Monster Trucks	2013	14	26 x 19 x 7
-171	Creator / Basic Set / Castle	10656-1	My First LEGO Princess	2013	12	15.5 x 14 x 6
-171	Creator / Basic Set / Construction	10657-1	My First LEGO Set	2013	20	19 x 14.3 x 12.8
+171	Creator / Creative Building & Bricks and More	10655-1	LEGO Monster Trucks	2013	14	26 x 19 x 7
+171	Creator / Creative Building & Bricks and More	10656-1	My First LEGO Princess	2013	12	15.5 x 14 x 6
+171	Creator / Creative Building & Bricks and More	10657-1	My First LEGO Set	2013	20	19 x 14.3 x 12.8
 171	Creator / Basic Model / Traffic	31000-1	Mini Speeder	2013	10	10.2 x 14.4 x 4.8
 171	Creator / Basic Model / Airport	31001-1	Mini Skyflyers	2013	10	10.2 x 14.4 x 4.8
 171	Creator / Basic Model / Race	31002-1	Super Racer	2013	62	19 x 14 x 4.5
@@ -5793,7 +5793,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Model / Riding Cycle	42007-1	Moto Cross Bike	2013	116	35.4 x 19.1 x 5.9
 36	Technic / Model / Race	42010-1	Off-Road Racer	2013	38	26 x 14 x 6
 36	Technic / Model / Race	42011-1	Race Car	2013	40	26 x 14 x 4.7
-171	Creator / Basic Set / Fire	10661-1	My First LEGO Fire Station	2013	12	15.5 x 14 x 6
+171	Creator / Creative Building & Bricks and More	10661-1	My First LEGO Fire Station	2013	12	15.5 x 14 x 6
 787	LEGENDS OF CHIMA	70102-1	CHI Waterfall	2013	30.34	25.3 x 23 x 3.5
 787	LEGENDS OF CHIMA	70006-1	Cragger's Command Ship	2013	198	47.8 x 37.2 x 6.6
 787	LEGENDS OF CHIMA	70001-1	Crawley's Claw Ripper	2013	49.35	26 x 14 x 4.6
@@ -5805,7 +5805,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 790	Teenage Mutant Ninja Turtles	79104-1	The Shellraiser Street Chase (Undetermined Version)	2013	150	47.5 x 27.7 x 5.7
 790	Teenage Mutant Ninja Turtles	79105-1	Baxter Robot Rampage	2013	93.24	28.2 x 26.1 x 6.4
 390	Holiday & Event / Christmas	3300014-1	Limited Edition 2012 Holiday Set	2012	19.9	19 x 14 x 4.5
-789	The Hobbit and The Lord of the Rings / The Hobbit	30212-1	Mirkwood Elf Guard polybag	2012	3	16.5 x 13.7 x 1.9
+789	The Hobbit & The Lord of the Rings / The Hobbit	30212-1	Mirkwood Elf Guard polybag	2012	3	16.5 x 13.7 x 1.9
 65	Star Wars / Star Wars Episode 4/5/6	75014-1	Battle Of Hoth	2013	96	38 x 26 x 5.5
 34	Space / Galaxy Squad	70700-1	Space Swarmer	2013	20	15.6 x 14.1 x 4.4
 34	Space / Galaxy Squad	70701-1	Swarm Interceptor	2013	86	26 x 18.8 x 4.8
@@ -5813,7 +5813,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 34	Space / Galaxy Squad	70703-1	Star Slicer	2013	102.88	38 x 26 x 5.5
 34	Space / Galaxy Squad	70704-1	Vermin Vaporizer	2013	150	47.75 x 27.94 x 5.87
 34	Space / Galaxy Squad	70705-1	Bug Obliterator	2013	149	55 x 27.5 x 7.2
-789	The Hobbit and The Lord of the Rings / The Hobbit	30213-1	Gandalf at Dol Guldur polybag	2012	1.82	13.85 x 13.71 x 0.83
+789	The Hobbit & The Lord of the Rings / The Hobbit	30213-1	Gandalf at Dol Guldur polybag	2012	1.82	13.85 x 13.71 x 0.83
 749	Hero Factory / Heroes	44000-1	Furno XL	2013	49.1	24 x 28 x 10.5
 749	Hero Factory / Villains	44001-1	Pyrox	2013	22	19.5 x 28 x 7
 749	Hero Factory / Heroes	44002-1	Rocka	2013	16.1	17 x 23 x 8
@@ -5873,7 +5873,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 171	Creator / Basic Model / Creature	30185-1	Little Eagle polybag	2013	?	17 x 16.6 x 1
 67	Town / City / Fire	30220-1	Fire Speedboat polybag	2013	?	16.5 x 21.1 x 1
 67	Town / City / Fire	30221-1	Fire Car polybag	2013	4	13.6 x 13.8 x 1.3
-171	Creator / Basic Set	10662-1	LEGO Creative Bucket	2013	12	22 x 20 x 26
+171	Creator / Creative Building & Bricks and More	10662-1	LEGO Creative Bucket	2013	12	22 x 20 x 26
 65	Star Wars / Mini / Star Wars The Clone Wars	30240-1	Z-95 Headhunter - Mini polybag	2013	3.7	17.2 x 17 x 1
 65	Star Wars / Mini / Star Wars The Clone Wars	30243-1	Umbaran MHC - Mini polybag	2013	?	13.7 x 14 x 1
 65	Star Wars / Mini / Star Wars Episode 1	30242-1	Republic Frigate - Mini polybag	2013	3.5	17 x 17 x 1
@@ -5937,9 +5937,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 166	Educational & Dacta	45110-1	BuildToExpress Set	2012	?	31.5 x 19 x 5
 768	Super Heroes / Man of Steel	76002-1	Superman: Metropolis Showdown	2013	25	15.5 x 14 x 4.3
 65	Star Wars / Star Wars Episode 4/5/6	75020-1	Jabba's Sail Barge	2013	219	48 x 37.8 x 7.1
-9	Castle	70404-1	King's Castle	2013	347	58 x 37.4 x 8.2
-9	Castle	70401-1	Gold Getaway	2013	45	26 x 19 x 6
-9	Castle	70403-1	Dragon Mountain	2013	102	38 x 26 x 7
+9	Castle / Castle (2013 Relaunch)	70404-1	King's Castle	2013	347	58 x 37.4 x 8.2
+9	Castle / Castle (2013 Relaunch)	70401-1	Gold Getaway	2013	45	26 x 19 x 6
+9	Castle / Castle (2013 Relaunch)	70403-1	Dragon Mountain	2013	102	38 x 26 x 7
 749	Hero Factory / Heroes	44008-1	Surge	2013	23	17 x 23 x 8
 36	Technic / Model / Off-Road	42001-1	Mini Off-Roader	2013	40	15.7 x 14 x 4.3
 36	Technic / Model / Off-Road	42005-1	Monster Truck	2013	185	28 x 26 x 7.5
@@ -5965,10 +5965,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars The Clone Wars	75022-1	Mandalorian Speeder	2013	50	26.2 x 19.1 x 6.1
 65	Star Wars / Star Wars The Clone Wars	75024-1	HH-87 Starhopper	2013	94	38 x 26 x 5.5
 65	Star Wars / Star Wars Legends / Star Wars The Old Republic	75025-1	Jedi Defender-class Cruiser	2013	250	48 x 38 x 7
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	79005-1	The Wizard Battle	2013	30	14 x 12 x 6
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	79006-1	The Council of Elrond	2013	85	35 x 18.8 x 5.7
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	79007-1	Battle at the Black Gate	2013	200	48 x 28 x 6
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	79008-1	Pirate Ship Ambush	2013	290	47.5 x 37 x 6.8
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	79005-1	The Wizard Battle	2013	30	14 x 12 x 6
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	79006-1	The Council of Elrond	2013	85	35 x 18.8 x 5.7
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	79007-1	Battle at the Black Gate	2013	200	48 x 28 x 6
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	79008-1	Pirate Ship Ambush	2013	290	47.5 x 37 x 6.8
 67	Town / City / Off-Road	60027-1	Monster Truck Transporter	2013	113	35.2 x 19 x 6.8
 67	Town / City	60023-1	City Starter Set	2013	95	28 x 25.9 x 6.2
 67	Town / City / Race	60025-1	Grand Prix Truck	2013	147	35.2 x 18.9 x 6.8
@@ -6016,8 +6016,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO / Disney / Disney Junior / Jake and the Never Land Pirates	10513-1	Never Land Hideout	2013	19.6	36 x 19 x 8.6
 167	DUPLO / Disney / Disney Junior / Jake and the Never Land Pirates	10514-1	Jake's Pirate Ship Bucky	2013	25	47.8 x 28 x 11.5
 65	Star Wars / Ultimate Collector Series / Star Wars Episode 4/5/6	10240-1	Red Five X-wing Starfighter - UCS	2013	349	58 x 37.5 x 8.5
-9	Castle	70402-1	The Gatehouse Raid	2013	65	28 x 26 x 6
-9	Castle	70400-1	Forest Ambush	2013	14.7	14 x 12.07 x 4.45
+9	Castle / Castle (2013 Relaunch)	70402-1	The Gatehouse Raid	2013	65	28 x 26 x 6
+9	Castle / Castle (2013 Relaunch)	70400-1	Forest Ambush	2013	14.7	14 x 12.07 x 4.45
 771	Friends	41013-1	Emma's Sports Car	2013	25	19.1 x 14.2 x 6.1
 771	Friends / Animals Series 3	41023-1	Fawn's Forest	2013	7.95	13 x 18 x 1.5
 771	Friends / Animals Series 3	41024-1	Parrot's Perch	2013	7.9	13 x 18 x 1.5
@@ -6040,7 +6040,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Traffic	30224-1	Lawn Mower polybag	2013	3	? x ? x ?
 976	LEGO Brand / LEGO Inside Tour	4000008-1	Inside Tour (LIT) Exclusive 2013 Edition - Villy Thomsen Truck	2013	?	? x ? x ?
 1166	Games / Super Heroes / Batman II	50003-1	DC Super Heroes - Batman	2013	64	28 x 27 x 5.3
-1166	Games / The Hobbit and The Lord of the Rings / The Lord of the Rings	50011-1	The Lord of the Rings - The Battle of Helm's Deep	2013	104	28.2 x 27.1 x 5.4
+1166	Games / The Hobbit & The Lord of the Rings / The Lord of the Rings	50011-1	The Lord of the Rings - The Battle of Helm's Deep	2013	104	28.2 x 27.1 x 5.4
 1166	Games / LEGENDS OF CHIMA	50006-1	LEGENDS OF CHIMA	2013	45	18.7 x 26.9 x 5.4
 771	Friends / Office Supplies	40080-1	Pencil Holder	2013	7.32	26 x 14 x 6
 771	Friends / Office Supplies	850581-1	Brick Calendar	2013	32.4	26 x 14 x 4.5
@@ -6048,9 +6048,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars Yoda Chronicles	yodachron-1	Holocron Chamber - The Yoda Chronicles Promotional Set (Toy Fair 2013)	2013	?	? x ? x ?
 171	Creator / Basic Set / Promotional	40078-1	Hot Dog Cart polybag	2013	3	17 x 16.8 x 2.75
 67	Town / City / Coast Guard	30225-1	Seaplane polybag	2013	4	17.2 x 16.7 x 1.2
-171	Creator / Basic Set	10663-1	LEGO Creative Chest	2013	39.9	40.5 x 27.8 x 19
+171	Creator / Creative Building & Bricks and More	10663-1	LEGO Creative Chest	2013	39.9	40.5 x 27.8 x 19
 67	Town / City / Traffic	60031-1	City Corner {Reissue}	2013	137	53.5 x 27.7 x 8.4
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	10237-1	The Tower of Orthanc	2013	394	47.5 x 58 x 8.5
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	10237-1	The Tower of Orthanc	2013	394	47.5 x 58 x 8.5
 764	Master Builder Academy	20215-1	MBA Invention Designer (Kits 10 - 12)	2013	?	43.18 x 27.31 x 7
 790	Teenage Mutant Ninja Turtles	30270-1	Kraang Laser Turret polybag	2013	1.84	13.8 x 16.7 x 1.2
 976	LEGO Brand / LEGO Brand Store / Monthly Model	40067-1	Monthly Mini Model Build Set - 2013 07 July, Crab polybag	2013	?	13.6 x 13.5 x 1
@@ -6085,10 +6085,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 749	Hero Factory	40084-1	Brain Attack polybag	2013	1.75	16 x 16 x 3
 169	Sculptures	10241-1	Maersk Line Triple-E	2014	263	58 x 37.5 x 10
 65	Star Wars / Star Wars Yoda Chronicles	comcon032-1	JEK-14 Mini Stealth Starfighter - San Diego Comic-Con 2013 Exclusive	2013	40.5	13.4 x 9.7 x 10.5
-789	The Hobbit and The Lord of the Rings / The Hobbit	comcon033-1	Micro Scale Bag End - San Diego Comic-Con 2013 Exclusive	2013	43.6	13.4 x 9.7 x 10.5
+789	The Hobbit & The Lord of the Rings / The Hobbit	comcon033-1	Micro Scale Bag End - San Diego Comic-Con 2013 Exclusive	2013	43.6	13.4 x 9.7 x 10.5
 801	Minecraft	21106-1	Minecraft Micro World - The Nether	2013	46	12 x 12 x 14
 801	Minecraft	21105-1	Minecraft Micro World - The Village	2013	52	12 x 12 x 14
-789	The Hobbit and The Lord of the Rings / The Hobbit	79013-1	Lake-town Chase	2013	137	38 x 26 x 6.8
+789	The Hobbit & The Lord of the Rings / The Hobbit	79013-1	Lake-town Chase	2013	137	38 x 26 x 6.8
 808	MIXELS / MIXELS Series 1	41500-1	Flain	2014	12.17	13 x 18 x 2
 808	MIXELS / MIXELS Series 1	41504-1	Seismo	2014	10.03	13 x 18 x 2
 808	MIXELS / MIXELS Series 1	41508-1	Volectro	2014	11.75	13 x 18 x 2.5
@@ -6163,9 +6163,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 390	Holiday & Event / Christmas	40059-1	Santa's Sleigh polybag	2013	?	17 x 17 x 2
 629	Architecture	21021-1	Marina Bay Sands	2014	179	26 x 19 x 7
 771	Friends	41027-1	Mia's Lemonade Stand	2014	17.95	15.6 x 14.1 x 4.6
-789	The Hobbit and The Lord of the Rings / The Hobbit	79011-1	Dol Guldur Ambush	2013	48	26 x 19 x 4.5
-789	The Hobbit and The Lord of the Rings / The Hobbit	79012-1	Mirkwood Elf Army	2013	63	35.5 x 19 x 5.8
-789	The Hobbit and The Lord of the Rings / The Hobbit	79014-1	Dol Guldur Battle	2013	188	53.6 x 27.8 x 7.4
+789	The Hobbit & The Lord of the Rings / The Hobbit	79011-1	Dol Guldur Ambush	2013	48	26 x 19 x 4.5
+789	The Hobbit & The Lord of the Rings / The Hobbit	79012-1	Mirkwood Elf Army	2013	63	35.5 x 19 x 5.8
+789	The Hobbit & The Lord of the Rings / The Hobbit	79014-1	Dol Guldur Battle	2013	188	53.6 x 27.8 x 7.4
 768	Super Heroes / Iron Man 3	30168-1	Gun Mounting System polybag	2013	1.83	17.3 x 16.8 x 2
 976	LEGO Brand / Promotional	lwp07-1	LEGO World Utrecht Puzzle Promotional 2013	2013	?	? x ? x ?
 787	LEGENDS OF CHIMA	70137-1	Bat Strike	2014	29	28.2 x 24.2 x 5.4
@@ -6230,8 +6230,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Race	60053-1	Race Car	2014	30	15.5 x 14 x 6
 167	DUPLO	10566-1	Creative Picnic	2014	5.8	37.6 x 19 x 14.5
 167	DUPLO	10573-1	Creative Animals	2014	10.4	26.2 x 19 x 9
-789	The Hobbit and The Lord of the Rings / The Hobbit	30216-1	Lake-town Guard polybag	2013	2	16.5 x 13.5 x 2
-789	The Hobbit and The Lord of the Rings / The Hobbit	30215-1	Legolas Greenleaf polybag	2014	1.75	12 x 11 x 1.2
+789	The Hobbit & The Lord of the Rings / The Hobbit	30216-1	Lake-town Guard polybag	2013	2	16.5 x 13.5 x 2
+789	The Hobbit & The Lord of the Rings / The Hobbit	30215-1	Legolas Greenleaf polybag	2014	1.75	12 x 11 x 1.2
 768	Super Heroes / Ultimate Spider-Man	30302-1	Spider-Man Glider polybag	2014	3.85	17 x 19 x 1
 749	Hero Factory	5000194-1	{Weapon} polybag	2012	?	? x ? x ?
 179	Racers / Tiny Turbos	40200-1	{BMW} polybag	2013	?	? x ? x ?
@@ -6250,7 +6250,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Police	60046-1	Helicopter Surveillance	2014	223	53.5 x 28 x 7.3
 67	Town / City / Police	60047-1	Police Station	2014	427	47.6 x 37.7 x 11
 67	Town / City / Police	60049-1	Helicopter Transporter	2014	140	38 x 26 x 7
-976	LEGO Brand / LEGO Brand Store / Monthly Model	40071-1	Monthly Mini Model Build Set - 2013 11 November, Lawnmower/Tractor polybag	2013	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Monthly Model	40071-1	Monthly Mini Model Build Set - 2013 11 November, Lawnmower/Tractor polybag	2013	1.8	? x ? x ?
 390	Holiday & Event / Valentine's Day	40085-1	Valentine	2014	19	14 x 12 x 6
 167	DUPLO / DUPLO, Town / Farm	10525-1	Big Farm	2014	29.3	48 x 37.4 x 10.5
 976	LEGO Brand / LEGO Employee Gift / Holiday & Event / Christmas	4000013-1	2013 Employee Exclusive - A LEGO Christmas Tale	2013	53	26 x 19 x 6
@@ -6373,7 +6373,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Monthly Model	40095-1	Monthly Mini Model Build Set - 2014 02 February, Micro Manager polybag	2014	4	20 x 19.2 x 1.2
 878	Disney / Disney Princess / Tangled	30116-1	Rapunzel's Market Visit polybag	2014	4	16.8 x 19.3 x 1.5
 804	The LEGO Movie / Supplemental	5002041-1	{The LEGO Movie Accessory Set} polybag	2014	?	16.5 x 14 x 1
-9	Castle	850889-1	Castle Dragons Accessory Set blister pack	2014	0.8	12 x 25 x 3
+9	Castle / Castle (2013 Relaunch)	850889-1	Castle Dragons Accessory Set blister pack	2014	0.8	12 x 25 x 3
 817	LEGO Ideas (CUUSOO) / Ghostbusters	21108-1	Ghostbusters Ecto-1	2014	161	35 x 19 x 6
 787	LEGENDS OF CHIMA	850910-1	Legends of Chima Battle Pack blister pack	2014	2.61	12 x 26.5 x 3
 790	Teenage Mutant Ninja Turtles	79122-1	Shredder's Lair Rescue	2014	151	38 x 26 x 6
@@ -6385,7 +6385,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars Episode 4/5/6	75050-1	B-wing	2014	135	38 x 26 x 7
 65	Star Wars / Star Wars Episode 4/5/6	75049-1	Snowspeeder	2014	74	22 x 26 x 6.5
 390	Holiday & Event / Graduation	850935-1	Graduation Set	2014	?	14 x 12 x 4.5
-171	Creator / Basic Set	10681-1	Creative Building Cube	2014	39.1	22.3 x 21.8 x 25
+171	Creator / Creative Building & Bricks and More	10681-1	LEGO Creative Building Cube	2014	39.1	22.3 x 21.8 x 25
 749	Hero Factory	40116-1	Invasion from Below polybag	2014	?	? x ? x ?
 399	Storage / Friends	40114-99	Jewelry Box, Buildable	2014	22.6	26.1 x 14.2 x 7.1
 976	LEGO Brand / LEGO Brand Store / Monthly Model	40096-1	Monthly Mini Model Build Set - 2014 03 March, Spring Tree polybag	2014	?	17 x 16.5 x 1.5
@@ -6487,10 +6487,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 771	Friends	41058-1	Heartlake Shopping Mall	2014	300	46.5 x 37.5 x 10
 167	DUPLO	10528-1	School Bus	2014	11	26.2 x 19.1 x 11.8
 167	DUPLO	10580-1	Deluxe Box of fun	2014	6	37 x 26.2 x 18
-809	Juniors / Castle	10676-1	Knights' Castle	2014	100	37 x 18 x 26.2
+809	Juniors / Castle / Castle (2013 Relaunch)	10676-1	Knights' Castle	2014	100	37 x 18 x 26.2
 768	Super Heroes / Guardians of the Galaxy	76019-1	Starblaster Showdown	2014	56.8	26 x 18.7 x 4.4
 67	Town / City / Arctic	60064-1	Arctic Supply Plane	2014	170	48 x 28 x 6
-759	NINJAGO / Rise of the Snakes	5000179-1	Ninjago Promotional Giveaway polybag	2012	?	? x ? x ?
+759	NINJAGO / Rise of the Snakes	5000179-1	Ninjago Promotional Giveaway polybag	2012	?	14 x 14 x 2
 167	DUPLO / Castle	10577-1	Big Royal Castle	2014	25	57.5 x 37.5 x 10.5
 804	The LEGO Movie	tlmpresskit-1	The LEGO Movie Press Kit	2014	?	113 x 54 x 15
 771	Friends	850967-1	Jungle Accessory Set blister pack	2014	5.6	12 x 25 x 3.5
@@ -6526,7 +6526,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 749	Hero Factory / Villains	44026-1	CRYSTAL Beast vs. BULK	2014	23.51	19.5 x 28 x 7.5
 749	Hero Factory / Villains	44029-1	QUEEN Beast vs. FURNO, EVO & STORMER	2014	49	28 x 26 x 5.7
 768	Super Heroes / Batman Classic TV Series	comcon037-1	Batman Classic TV Series Batmobile - San Diego Comic-Con 2014 Exclusive	2014	54	13.5 x 10 x 9.5
-789	The Hobbit and The Lord of the Rings / The Hobbit / The Battle of the Five Armies	79018-1	The Lonely Mountain	2014	243	58 x 37.5 x 9
+789	The Hobbit & The Lord of the Rings / The Hobbit / The Battle of the Five Armies	79018-1	The Lonely Mountain	2014	243	58 x 37.5 x 9
 787	LEGENDS OF CHIMA	30266-1	Sykor's Ice Cruiser polybag	2014	1.7	13.7 x 16.7 x 1.1
 768	Super Heroes / The Dark Knight Trilogy	76023-1	The Tumbler	2014	675	58 x 47.5 x 12
 167	DUPLO / Super Heroes / Batman II	10544-1	The Joker Challenge	2014	14.4	35.4 x 19 x 9
@@ -6590,9 +6590,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 746	Collectible Minifigures / Series 12 Minifigures	col12-16	Spooky Girl, Series 12 (Complete Set with Stand and Accessories)	2014	2.8	8.8 x 11.8 x 1.5
 804	The LEGO Movie	comcon040-1	Unikitty - San Diego Comic-Con 2014 Exclusive blister pack	2014	4.72	10 x 14 x 3
 390	Holiday & Event / Christmas	40092-1	Reindeer	2014	23.09	14 x 12 x 6
-789	The Hobbit and The Lord of the Rings / The Hobbit / The Battle of the Five Armies	79015-1	Witch-king Battle	2014	23	19 x 14 x 4.4
-789	The Hobbit and The Lord of the Rings / The Hobbit / The Battle of the Five Armies	79016-1	Attack on Lake-town	2014	91	28 x 26 x 5.7
-789	The Hobbit and The Lord of the Rings / The Hobbit / The Battle of the Five Armies	79017-1	The Battle of Five Armies	2014	122	47.5 x 28 x 6
+789	The Hobbit & The Lord of the Rings / The Hobbit / The Battle of the Five Armies	79015-1	Witch-king Battle	2014	23	19 x 14 x 4.4
+789	The Hobbit & The Lord of the Rings / The Hobbit / The Battle of the Five Armies	79016-1	Attack on Lake-town	2014	91	28 x 26 x 5.7
+789	The Hobbit & The Lord of the Rings / The Hobbit / The Battle of the Five Armies	79017-1	The Battle of Five Armies	2014	122	47.5 x 28 x 6
 390	Holiday & Event / Christmas	850949-1	Christmas Ornament Snow Hut	2014	?	8.7 x 7.5 x 7.5
 390	Holiday & Event / Christmas / Creator	850950-1	Christmas Ornament Cat	2014	2.7	8.7 x 7.5 x 7.5
 444	Galidor	8318-1	Ooni	2002	11	25.9 x 31.5 x 5.9
@@ -6614,7 +6614,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 801	Minecraft	21117-1	The Ender Dragon	2014	144	48 x 28 x 7.2
 801	Minecraft	21118-1	The Mine	2014	235	47.3 x 37.3 x 9
 801	Minecraft	21115-1	The First Night	2014	183	28 x 26 x 9.5
-171	Creator / Basic Set	5482-2	Ultimate LEGO House Building Set (Green Tub)	2006	?	? x ? x ?
+171	Creator / Creative Building & Bricks and More	5482-2	Ultimate LEGO House Building Set {Bright Green Tub Version}	2006	?	? x ? x ?
 473	Sports / Soccer	880002-4	World Cup Austrian Starter Set	1998	?	? x ? x ?
 749	Hero Factory	40117-1	Villains Minimodel polybag	2014	?	20 x 19.5 x 3
 976	LEGO Brand / LEGO Brand Store / Monthly Model	40103-1	Monthly Mini Model Build Set - 2014 11 November, Rocket polybag	2014	?	? x ? x ?
@@ -7102,9 +7102,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 860	Dimensions / Dimensions Wave 1 / NINJAGO	71215-1	Fun Pack - Ninjago (Jay and Storm Fighter)	2015	6.3	17 x 19 x 5
 860	Dimensions / Dimensions Wave 1 / NINJAGO	71216-1	Fun Pack - Ninjago (Nya and Samurai Mech)	2015	6.5	17 x 19 x 5
 860	Dimensions / Dimensions Wave 1 / NINJAGO	71217-1	Fun Pack - Ninjago (Zane and NinjaCopter)	2015	6.17	17 x 19 x 5
-860	Dimensions / Dimensions Wave 1 / The Hobbit and The Lord of the Rings / The Lord of the Rings	71218-1	Fun Pack - The Lord of the Rings (Gollum and Shelob the Great)	2015	6.2	17 x 19 x 5
-860	Dimensions / Dimensions Wave 1 / The Hobbit and The Lord of the Rings / The Lord of the Rings	71219-1	Fun Pack - The Lord of the Rings (Legolas and Arrow Launcher)	2015	6.2	17 x 19 x 5
-860	Dimensions / Dimensions Wave 1 / The Hobbit and The Lord of the Rings / The Lord of the Rings	71220-1	Fun Pack - The Lord of the Rings (Gimli and Axe Chariot)	2015	6.5	17 x 19 x 5
+860	Dimensions / Dimensions Wave 1 / The Hobbit & The Lord of the Rings / The Lord of the Rings	71218-1	Fun Pack - The Lord of the Rings (Gollum and Shelob the Great)	2015	6.2	17 x 19 x 5
+860	Dimensions / Dimensions Wave 1 / The Hobbit & The Lord of the Rings / The Lord of the Rings	71219-1	Fun Pack - The Lord of the Rings (Legolas and Arrow Launcher)	2015	6.2	17 x 19 x 5
+860	Dimensions / Dimensions Wave 1 / The Hobbit & The Lord of the Rings / The Lord of the Rings	71220-1	Fun Pack - The Lord of the Rings (Gimli and Axe Chariot)	2015	6.5	17 x 19 x 5
 860	Dimensions / Dimensions Wave 1 / LEGENDS OF CHIMA	71222-1	Fun Pack - Legends of Chima (Laval and Mighty Lion Rider)	2015	6.1	17 x 19 x 5
 860	Dimensions / Dimensions Wave 1 / LEGENDS OF CHIMA	71223-1	Fun Pack - Legends of Chima (Cragger and Swamp Skimmer)	2015	6.1	17 x 19 x 5
 860	Dimensions / Dimensions Wave 1 / LEGENDS OF CHIMA	71232-1	Fun Pack - Legends of Chima (Eris and Eagle Interceptor)	2015	6.5	17 x 19 x 5
@@ -7492,27 +7492,27 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO / DUPLO, Town / Safari	10804-1	Jungle	2016	48.6	35 x 37 x 11
 36	Technic / Model / Race	42056-1	Porsche 911 GT3 RS	2016	1350	47.5 x 37.5 x 15.5
 65	Star Wars / Star Wars Episode 4/5/6	6176782-1	Escape the Space Slug	2016	?	20 x 13 x 5.5
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	71014-1	Minifigure, Deutscher Fussball-Bund / DFB (Complete Random Set of 1 Minifigure)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	71014-1	Minifigure, Deutscher Fussball-Bund / DFB (Complete Random Set of 1 Minifigure)	2016	2.85	8.7 x 11.7 x 1.5
 171	Creator	40127-2	Mystery Pack Space Shuttle polybag	2016	?	16 x 17 x 2
 171	Creator	40128-2	Mystery Pack Robot polybag	2016	?	16 x 17 x 2
 171	Creator	40130-2	Mystery Pack Koala polybag	2016	?	16 x 17 x 2
 171	Creator	40131-2	Mystery Pack Parrot polybag	2016	?	16 x 17 x 2
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-1	Joachim Löw, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-2	Manuel Neuer, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-3	Jérôme Boateng, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-4	Mats Hummels, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-5	Benedikt Höwedes, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-6	Shkodran Mustafi, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-7	Bastian Schweinsteiger, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-8	Mesut Özil, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-9	Thomas Müller, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-10	Toni Kroos, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-11	Sami Khedira, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-12	André Schürrle, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-13	Marco Reus, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-14	Christoph Kramer, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-15	Mario Götze, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
-746	Collectible Minifigures / Deutscher Fussball-Bund / DFB	coldfb-16	Max Kruse, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-1	Joachim Löw, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-2	Manuel Neuer, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-3	Jérôme Boateng, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-4	Mats Hummels, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-5	Benedikt Höwedes, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-6	Shkodran Mustafi, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-7	Bastian Schweinsteiger, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-8	Mesut Özil, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-9	Thomas Müller, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-10	Toni Kroos, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-11	Sami Khedira, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-12	André Schürrle, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-13	Marco Reus, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-14	Christoph Kramer, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-15	Mario Götze, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
+746	Collectible Minifigures / Deutscher Fussball-Bund (DFB)	coldfb-16	Max Kruse, Deutscher Fussball-Bund / DFB (Complete Set with Stand and Accessories)	2016	2.85	8.7 x 11.7 x 1.5
 65	Star Wars / Star Wars Other / Star Wars The Freemaker Adventures	75145-1	Eclipse Fighter	2016	98.3	35.5 x 19 x 5.5
 771	Friends	30399-1	Bowling Alley polybag	2016	3.8	17 x 19.5 x 1.7
 983	Promotional	40225-1	Rio 2016 Mascots	2016	?	15.5 x 14 x 4.5
@@ -7566,7 +7566,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 860	Dimensions / Promotional / Super Heroes	71342-1	Green Arrow polybag	2016	3	13.7 x 13.7 x 1
 65	Star Wars / Star Wars Rebels	75158-1	Rebel Combat Frigate	2016	295	48 x 37.5 x 8
 768	Super Heroes / Captain America Civil War	76067-1	Tanker Truck Takedown	2016	87	35 x 19.5 x 6
-9	Castle	5004419-1	Classic Knights Minifigure	2016	24.6	15.3 x 10.4 x 3.4
+9	Castle / Crusaders & Lion Knights	5004419-1	Classic Knights Minifigure	2016	24.6	15.3 x 10.4 x 3.4
 67	Town / City / Volcano Explorers	30350-1	Volcano Jackhammer polybag	2016	3.8	? x ? x ?
 759	NINJAGO / Day of the Departed	30424-1	Dojo polybag	2016	?	17 x 18 x 0.5
 860	Dimensions / Promotional / Super Heroes	71340-1	Supergirl polybag	2016	1.8	16.7 x 16.1 x 1
@@ -8149,7 +8149,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Monthly Model	40246-1	Monthly Mini Model Build Set - 2017 08 August, Rainbow Fish polybag	2017	?	? x ? x ?
 868	NEXO KNIGHTS	5004914-1	Armor Pod polybag	2017	?	17 x 17 x 5
 976	LEGO Brand / LEGO Brand Store / Monthly Model	40247-1	Monthly Mini Model Build Set - 2017 09 September, Dinosaur polybag	2017	?	? x ? x ?
-976	LEGO Brand / LEGO Brand Store / Monthly Model	40248-1	Monthly Mini Model Build Set - 2017 10 October, Robot polybag	2017	?	? x ? x ?
+976	LEGO Brand / LEGO Brand Store / Monthly Model	40248-1	Monthly Mini Model Build Set - 2017 10 October, Robot polybag	2017	?	7.5 x 6.5 x 2
 976	LEGO Brand / LEGO Brand Store / Monthly Model	40249-1	Monthly Mini Model Build Set - 2017 11 November, St. Bernard Dog polybag	2017	?	17.5 x 17 x 1.2
 920	The LEGO NINJAGO Movie	30379-1	Quake Mech polybag	2017	3.83	17.1 x 16.7 x 0.9
 771	Friends	41325-1	Heartlake City Playground	2017	?	37 x 26 x 5
@@ -8707,9 +8707,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-8	Dean Thomas, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	3	8.7 x 11.8 x 1.5
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-9	Lord Voldemort, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	3	8.7 x 11.8 x 1.5
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-10	Dobby, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	3	8.7 x 11.8 x 1.5
-746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-11	Professor Trelawney, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	3	8.7 x 11.8 x 1.5
+746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-11	Professor Sybill Trelawney, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	3	8.7 x 11.8 x 1.5
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-12	Cedric Diggory, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	3	8.7 x 11.8 x 1.5
-746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-13	Professor Flitwick, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	3	8.7 x 11.8 x 1.5
+746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-13	Professor Filius Flitwick, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	3	8.7 x 11.8 x 1.5
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-14	Mad-Eye Moody (Barty Crouch Jr. Transformation), Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	3	8.7 x 11.8 x 1.5
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-15	Harry Potter in Pajamas, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	3	8.7 x 11.8 x 1.5
 746	Collectible Minifigures / Harry Potter / Harry Potter Series 1	colhp-16	Albus Dumbledore, Harry Potter, Series 1 (Complete Set with Stand and Accessories)	2018	3	8.7 x 11.8 x 1.5
@@ -8889,7 +8889,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Fire	30361-1	Fire ATV polybag	2019	3.8	17.1 x 16.8 x 1.5
 971	The LEGO Movie 2	30340-1	Emmet's 'Piece' Offering polybag	2019	3.7	17.2 x 19.4 x 1.5
 976	LEGO Brand / LEGO Brand Store / Grand Opening / BrickHeadz	SHIMAO-1	LEGO Store Grand Opening Exclusive Set, Shanghai, China - Shimao BrickHeadz	2018	?	? x ? x ?
-759	NINJAGO / (Other)	853899-1	Lloyd's Kendo Training Pod blister pack	2019	?	23.5 x 10.5 x 4
+759	NINJAGO / Legacy	853899-1	Lloyd's Kendo Training Pod blister pack	2019	?	23.5 x 10.5 x 4
 971	The LEGO Movie 2	30529-1	Mini Master-Building Emmet polybag	2019	3.6	17 x 17 x 1.5
 971	The LEGO Movie 2	30527-1	Lucy vs. Alien Invader polybag	2019	3.5	17.2 x 19.5 x 1.5
 171	Creator / Basic Model / Creature	30571-1	Pelican polybag	2019	3.9	17.4 x 16.9 x 1.7
@@ -9543,14 +9543,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 167	DUPLO / Basic Set	10861-1	My First Emotions	2018	?	35 x 9 x 19
 1076	Dots	30556-1	Mini Frame polybag	2020	3.75	19.8 x 19.4 x 2
 65	Star Wars / Star Wars The Mandalorian	75292-1	The Razor Crest (The Mandalorian Bounty Hunter Transport)	2020	432	48 x 37 x 7
-1070	Despicable Me and Minions / Minions The Rise Of Gru	75551-1	Brick-Built Minions and Their Lair	2020	211.82	38 x 26 x 7
-1070	Despicable Me and Minions / Minions The Rise Of Gru	75549-1	Unstoppable Bike Chase	2020	47.55	26 x 19 x 4.5
+1070	Despicable Me & Minions / Minions The Rise Of Gru	75551-1	Brick-Built Minions and Their Lair	2020	211.82	38 x 26 x 7
+1070	Despicable Me & Minions / Minions The Rise Of Gru	75549-1	Unstoppable Bike Chase	2020	47.55	26 x 19 x 4.5
 124	Train / Promotional	40370-1	Steam Engine {Reissue of Set 7810}	2020	37	26 x 14 x 7
 36	Technic / Model / Race	891970-1	Technic Bundle Pack (Sets 2129 and 8205 with Gear stpw02)	1997	?	19.5 x 46 x 5.7
 976	LEGO Brand / LEGO Brand Store / Monthly Model	40397-1	Monthly Mini Model Build Set - 2020 03 March, Fish polybag	2020	?	17 x 16.5 x 2
 390	Holiday & Event / Easter	40371-1	Easter Egg	2020	25.1	19 x 14 x 7
 167	DUPLO / Basic Set	3191-2	Edition Speciale	2006	?	? x ? x ?
-36	Technic / Throwbot / Slizer	slizerpromo-1	Slizer Promotional Pack (8503, 8505, 8508)	1999	?	? x ? x ?
+36	Technic / Throwbot & Slizer	slizerpromo-1	Slizer Promotional Pack (8503, 8505, 8508)	1999	?	? x ? x ?
 817	LEGO Ideas (CUUSOO) / Pirates / Pirates IV	21322-1	Pirates of Barracuda Bay	2020	789.4	58 x 47.7 x 12.1
 1272	Art	31197-1	Warhol Marilyn Monroe	2020	174	40.3 x 41.3 x 5.2
 1272	Art	31198-1	The Beatles	2020	171	40.2 x 41.2 x 5.2
@@ -9636,7 +9636,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 273	BIONICLE / Toa Metru	8602-2	Toa Nokama with Mini CD-ROM	2004	?	? x ? x ?
 273	BIONICLE / Toa Metru	8603-2	Toa Whenua with Mini CD-ROM	2004	?	? x ? x ?
 273	BIONICLE / Toa Metru	8604-2	Toa Onewa with Mini CD-ROM	2004	?	? x ? x ?
-273	BIONICLE / Toa Metru	8605-2	Toa Matau with Mini CD-ROM	2004	?	? x ? x ?
+273	BIONICLE / Toa Metru	8605-2	Toa Matau with Mini CD-ROM	2004	?	9.5 x 9.5 x 18.9
 273	BIONICLE / Toa Metru	8606-2	Toa Nuju with Mini CD-ROM	2004	?	? x ? x ?
 166	Educational & Dacta / MINDSTORMS / RCX	9794-2	ROBOLAB Team Challenge Set USB (2005 Version)	2005	374	38 x 30.5 x 11
 1095	Super Mario / Super Mario Power-Up Pack	71370-1	Fire Mario - Power-Up Pack	2020	3.8	12 x 8.9 x 4.5
@@ -10052,9 +10052,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Sculptures / Star Wars Episode 4/5/6	75306-1	Imperial Probe Droid	2021	127.8	19 x 35 x 9
 768	Super Heroes / Sculptures / Batman II	76182-1	Batman Cowl	2021	117	19.1 x 35.4 x 9.1
 768	Super Heroes / Batman II	76180-1	Batman vs. The Joker: Batmobile Chase	2021	51.2	35.4 x 19.1 x 5.9
-1070	Despicable Me and Minions / Minions The Rise Of Gru	75550-1	Minions Kung Fu Battle	2021	118	28.2 x 26.2 x 5.9
-1070	Despicable Me and Minions / Minions The Rise Of Gru	75546-1	Minions in Gru's Lab	2021	48.7	26.2 x 19.1 x 4.6
-1070	Despicable Me and Minions / Minions The Rise Of Gru	75547-1	Minion Pilot in Training	2021	65	35.4 x 19.1 x 5.9
+1070	Despicable Me & Minions / Minions The Rise Of Gru	75550-1	Minions Kung Fu Battle	2021	118	28.2 x 26.2 x 5.9
+1070	Despicable Me & Minions / Minions The Rise Of Gru	75546-1	Minions in Gru's Lab	2021	48.7	26.2 x 19.1 x 4.6
+1070	Despicable Me & Minions / Minions The Rise Of Gru	75547-1	Minion Pilot in Training	2021	65	35.4 x 19.1 x 5.9
 768	Super Heroes / Sculptures / Spider-Man	76187-1	Venom	2021	104	19.1 x 35.4 x 9.1
 167	DUPLO / DUPLO, Town / Space Exploration	10944-1	Space Shuttle Mission	2021	?	28.2 x 26.2 x 9.55
 169	Sculptures	10282-1	Adidas Originals Superstar	2021	173	32.5 x 11.6 x 19.7
@@ -10095,8 +10095,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 768	Super Heroes / Batman Classic TV Series	76188-1	Batman Classic TV Series Batmobile	2021	99.2	35 x 18.8 x 6
 768	Super Heroes / Spider-Man	76198-1	Spider-Man & Doctor Octopus Mech Battle	2021	49.14	26 x 18.8 x 4.8
 976	LEGO Brand / Promotional	UNITY-1	Unity - LEGO Ideas Contest Limited Edition	2021	?	? x ? x ?
-903	BrickHeadz / Despicable Me and Minions / Minions The Rise Of Gru	40420-1	Gru, Stuart & Otto	2021	?	19 x 13.7 x 6.8
-903	BrickHeadz / Despicable Me and Minions / Minions The Rise Of Gru	40421-1	Belle Bottom, Kevin & Bob	2021	43	19 x 13.7 x 6.8
+903	BrickHeadz / Despicable Me & Minions / Minions The Rise Of Gru	40420-1	Gru, Stuart & Otto	2021	?	19 x 13.7 x 6.8
+903	BrickHeadz / Despicable Me & Minions / Minions The Rise Of Gru	40421-1	Belle Bottom, Kevin & Bob	2021	43	19 x 13.7 x 6.8
 746	Collectible Minifigures / Looney Tunes	71030-2	Minifigure, Looney Tunes (Complete Series of 12 Complete Minifigure Sets)	2021	?	? x ? x ?
 1125	Vidiyo / BeatBox	43109-1	Metal Dragon BeatBox	2021	7.59	12 x 12 x 12
 1125	Vidiyo / BeatBox	43110-1	Folk Fairy BeatBox	2021	7.7	12 x 12 x 12
@@ -10211,7 +10211,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 768	Super Heroes / The Infinity Saga	76193-1	The Guardians' Ship	2021	446	58.2 x 37.8 x 8.7
 976	LEGO Brand / LEGO Brand Store / Model	40516-1	Everyone is Awesome	2021	46.2	35 x 19 x 7
 65	Star Wars / Star Wars Episode 8	75188-3	Resistance Bomber {Standard Pilot Version}	2017	289	48 x 37.8 x 7.1
-1070	Despicable Me and Minions / Minions The Rise Of Gru	30387-1	Bob Minion with Robot Arms polybag	2021	3.7	20 x 19 x 1.5
+1070	Despicable Me & Minions / Minions The Rise Of Gru	30387-1	Bob Minion with Robot Arms polybag	2021	3.7	20 x 19 x 1.5
 1272	Art	31203-1	World Map	2021	296	55.5 x 37.9 x 15.4
 67	Town / City / Wildlife Rescue	30570-1	Wildlife Rescue Hovercraft polybag	2021	3.8	17 x 17 x 2
 976	LEGO Brand / LEGO Brand Store / Grand Opening	6384342-1	LEGO Store Grand Opening Exclusive Set, Warsaw, Poland	2021	?	15 x 15 x 4.5
@@ -10264,7 +10264,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 423	Classic	66666-1	Classic Bundle Pack, 4 in 1 Value Pack (Sets 11006, 11007, 11009, and 11012 with Gear 100340000) - LEGO Masters Co-pack	2021	?	27 x 10 x 36
 976	LEGO Brand / LEGO Brand Store / Grand Opening	6384214-1	LEGO Store Grand Opening Exclusive Set, 5th Avenue, NY	2021	?	15.24 x 15.24 x 5.08
 983	Promotional	40486-1	Mini Adidas Originals Superstar	2021	11.08	14 x 12 x 4.7
-1070	Despicable Me and Minions / Minions The Rise Of Gru	40511-1	Minions Kung Fu Training blister pack	2021	1.79	15 x 25 x 3
+1070	Despicable Me & Minions / Minions The Rise Of Gru	40511-1	Minions Kung Fu Training blister pack	2021	1.79	15 x 25 x 3
 171	Creator / Creator Expert / Traffic	10290-1	Pickup Truck	2021	373	48 x 28 x 11.5
 67	Town / City / Stuntz	60294-1	Stunt Show Truck	2021	185	54 x 28.2 x 5.9
 67	Town / City / Stuntz	60295-1	Stunt Show Arena	2021	256	48 x 37.8 x 7.05
@@ -10780,7 +10780,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 771	Friends	41722-1	Horse Show Trailer	2022	414	? x ? x ?
 36	Technic / Model / Race	42143-1	Ferrari Daytona SP3	2022	1970	61 x 29.2 x 22.9
 167	DUPLO / Super Heroes / Spidey and his Amazing Friends	10963-1	Spider-Man & Friends: Funfair Adventure	2022	28	35 x 37.8 x 9.4
-9	Castle / Forestmen	40567-1	Forest Hideout	2022	52.75	26 x 13.9 x 6.1
+9	Castle / Forestmen & Forest People	40567-1	Forest Hideout	2022	52.75	26 x 13.9 x 6.1
 167	DUPLO	10971-1	Wild Animals of Africa	2022	?	19 x 14.1 x 6.1
 167	DUPLO	10972-1	Wild Animals of the Ocean	2022	18	28 x 26 x 9.5
 167	DUPLO	10973-1	Wild Animals of South America	2022	40.4	48 x 28.2 x 9.1
@@ -10826,7 +10826,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Inside Tour	4000037-1	Inside Tour (LIT) Exclusive 2022 Edition - LEGO Factory AGV	2022	?	? x ? x ?
 817	LEGO Ideas (CUUSOO)	21334-1	Jazz Quartet	2022	288	48 x 28.5 x 12
 976	LEGO Brand / LEGO Brand Store / Office Supplies	854011-1	Eiffel Tower Magnet Build blister pack	2020	3	9.7 x 19.5 x 2.2
-9	Castle / Lion Knights	10305-1	Lion Knights' Castle	2022	872	52.3 x 48 x 21.8
+9	Castle / Crusaders & Lion Knights	10305-1	Lion Knights' Castle	2022	872	52.3 x 48 x 21.8
 988	Building Event / Holiday & Event / Christmas	TRUSANTA-1	Toys "R" Us Exclusive Build - Santa at the Beach	2014	?	? x ? x ?
 167	DUPLO / Holiday & Event / Christmas	10976-1	Santa's Gingerbread House	2022	?	38 x 25.5 x 9.5
 878	Disney / Disney Princess	43205-1	Ultimate Adventure Castle	2022	267	47.5 x 37.3 x 6.8
@@ -11067,9 +11067,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1100	Monkie Kid	30656-1	Monkey King Marketplace polybag	2023	3.61	16 x 18 x 1.5
 171	Creator / Model / Creature	31133-1	White Rabbit	2023	126	26 x 18.8 x 5.9
 171	Creator / Model / Creature	31143-1	Birdhouse	2023	228	28.1 x 26 x 5.9
-903	BrickHeadz / The Hobbit and The Lord of the Rings / The Lord of the Rings	40630-1	Frodo & Gollum	2023	32	19 x 14 x 6
-903	BrickHeadz / The Hobbit and The Lord of the Rings / The Lord of the Rings	40631-1	Gandalf the Grey & Balrog	2023	56	19 x 14 x 7
-903	BrickHeadz / The Hobbit and The Lord of the Rings / The Lord of the Rings	40632-1	Aragorn & Arwen	2023	?	19 x 14 x 7
+903	BrickHeadz / The Hobbit & The Lord of the Rings / The Lord of the Rings	40630-1	Frodo & Gollum	2023	32	19 x 14 x 6
+903	BrickHeadz / The Hobbit & The Lord of the Rings / The Lord of the Rings	40631-1	Gandalf the Grey & Balrog	2023	56	19 x 14 x 7
+903	BrickHeadz / The Hobbit & The Lord of the Rings / The Lord of the Rings	40632-1	Aragorn & Arwen	2023	?	19 x 14 x 7
 842	SPEED CHAMPIONS	76917-1	2 Fast 2 Furious Nissan Skyline GT-R (R34)	2023	87	26 x 14 x 7.3
 1100	Monkie Kid	80040-1	Monkie Kid's Combi Mech	2023	89.8	26 x 18.8 x 4.4
 1100	Monkie Kid	80041-1	Mei's Dragon Jet	2023	73.2	26 x 18.8 x 4.4
@@ -11151,7 +11151,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 983	Promotional	40586-1	Moving Truck	2023	58	26 x 14 x 7
 983	Promotional	6258624-1	Classic Truck	2018	?	? x ? x ?
 390	Holiday & Event / Chinese Festivals / Model / Creature	6396381-1	Tiger	2022	?	? x ? x ?
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	10316-1	Rivendell	2023	1273.6	52.5 x 48 x 22
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	10316-1	Rivendell	2023	1273.6	52.5 x 48 x 22
 67	Town / City / Hospital	40582-1	4x4 Off-Road Ambulance Rescue	2023	54	26 x 14 x 6
 768	Super Heroes / Ant-Man and the Wasp Quantumania	76256-1	Ant-Man Construction Figure	2023	64	19 x 26.1 x 5.9
 878	Disney / Disney 100 / Up	43217-1	'Up' House​	2023	239.75	26 x 38 x 7
@@ -11505,7 +11505,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 801	Minecraft	21253-1	The Animal Sanctuary	2023	53.8	26 x 19 x 4.5
 801	Minecraft	21252-1	The Armory	2023	42	26 x 19 x 4.5
 1203	Sonic the Hedgehog	76995-1	Shadow's Escape	2023	65	26.1 x 18.9 x 4.6
-9	Castle / Dragon Knights	40601-1	Majisto's Magical Workshop	2023	91.66	26 x 19 x 7
+9	Castle / Dragon Masters & Dragon Knights	40601-1	Majisto's Magical Workshop	2023	91.66	26 x 19 x 7
 768	Super Heroes / Avengers	5008076-1	Taxi	2023	?	14.6 x 14.7 x 4.5
 67	Town / Classic Town / Race	1691-1	Black Racer	1990	?	? x ? x ?
 976	LEGO Brand / LEGO Employee Gift / Dots	6334713-1	LEGO Play Day 2020 - Dots polybag	2020	7.33	10.6 x 18 x 2.2
@@ -11692,7 +11692,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 422	Universal Building Set / Basic Set	1905-3	Mini-Building Set (Vizir Promotional Set)	1982	?	115 x 7 x 35
 1122	Botanicals	40747-1	Daffodils	2024	14	13.9 x 18.9 x 4.5
 878	Disney / Disney Princess / Sleeping Beauty	30671-1	Aurora's Forest Playground polybag	2024	5.5	16 x 18 x 2
-167	DUPLO / Basic Set	30673-1	My First Duck paper bag / polybag	2024	?	19.5 x 19.5 x 3
+167	DUPLO / Basic Set	30673-1	My First Duck paper bag / polybag	2024	3.73	19.5 x 18.9 x 3.4
 771	Friends	30658-1	Mobile Music Trailer polybag	2024	5.5	17.2 x 19.2 x 2.6
 771	Friends	30659-1	Flower Garden polybag	2024	3.76	16.8 x 17 x 1.5
 171	Creator / Model / Creature	30666-1	Gift Animals polybag	2024	3.73	17.4 x 19.5 x 1.7
@@ -11732,7 +11732,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 423	Classic	11038-1	Vibrant Creative Brick Box	2024	79	36 x 25.5 x 18
 171	Creator / Creator Expert	10331-1	Kingfisher Bird	2024	158	38 x 26 x 5.6
 983	Promotional	6422232-1	Wooden Duck	2022	?	? x ? x ?
-36	Technic / Model / Riding Cycle	42170-1	Kawasaki Ninja H2R Motorcycle	2024	238	38 x 26 x 7
+36	Technic / Model / Riding Cycle	42170-1	Kawasaki Ninja H2R	2024	238	38 x 26 x 7
 817	LEGO Ideas (CUUSOO)	21347-1	Red London Telephone Box	2024	290.2	28 x 45.6 x 8.8
 768	Super Heroes / Spider-Man	30679-1	Venom Street Bike polybag	2024	3.6	16.8 x 18.5 x 2
 976	LEGO Brand / LEGO Brand Store / Grand Opening	SHENZHEN-1	LEGO Store Grand Opening Exclusive Set, Shenzhen, China (Minifigures Version)	2020	?	? x ? x ?
@@ -11762,7 +11762,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Model / Race	42171-1	Mercedes-AMG F1 W14 E Performance	2024	634	55.3 x 37.5 x 8.5
 842	SPEED CHAMPIONS	76919-1	2023 McLaren Formula 1 Car	2024	71.1	26.3 x 14 x 7.1
 878	Disney	43242-1	Snow White and the Seven Dwarfs' Cottage	2024	674	55.1 x 37.5 x 8.5
-9	Castle	10332-1	Medieval Town Square	2024	690	55.2 x 37.3 x 12.4
+9	Castle / Castle Other	10332-1	Medieval Town Square	2024	690	55.2 x 37.3 x 12.4
 34	Space / Classic Space	40712-1	Micro Rocket Launchpad	2024	45.35	20.5 x 19 x 6
 517	Watch	lws1003-99	Watch Set, Watch System - LWS 1003	1997	?	? x ? x ?
 1285	Animal Crossing	30662-1	Maple's Pumpkin Garden polybag	2024	3.69	16.5 x 19 x 2.1
@@ -11819,8 +11819,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 746	Collectible Minifigures / Series 26 Minifigures	col26-10	Alien Beetlezoid, Series 26 (Complete Set with Stand and Accessories)	2024	1.82	9.4 x 10.6 x 2.6
 746	Collectible Minifigures / Series 26 Minifigures	col26-11	Orion, Series 26 (Complete Set with Stand and Accessories)	2024	1.82	9.4 x 10.6 x 2.6
 746	Collectible Minifigures / Series 26 Minifigures	col26-12	Blacktron Mutant, Series 26 (Complete Set with Stand and Accessories)	2024	1.82	9.4 x 10.6 x 2.6
-1070	Despicable Me and Minions / Despicable Me 4	75582-1	Brick-Built Gru and Minions	2024	165.7	25.9 x 28 x 9.4
-1070	Despicable Me and Minions / Despicable Me 4	75583-1	Minions and Gru's Family Mansion	2024	322	45.4 x 27.9 x 6.9
+1070	Despicable Me & Minions / Despicable Me 4	75582-1	Brick-Built Gru and Minions	2024	165.7	25.9 x 28 x 9.4
+1070	Despicable Me & Minions / Despicable Me 4	75583-1	Minions and Gru's Family Mansion	2024	322	45.4 x 27.9 x 6.9
 167	DUPLO	40269-1	Photo Frame polybag	2017	6.6	21.5 x 22 x 4
 976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event	6518396-1	LEGO Brand Store Exclusive Build - Lantern	2024	7.5	? x ? x ?
 167	DUPLO / Basic Set	10915-1	Alphabet Truck	2020	?	38.2 x 26.2 x 9.4
@@ -11832,8 +11832,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 983	Promotional	40684-1	Fruit Store	2024	65.8	26 x 13.9 x 6
 65	Star Wars / Diorama Collection / Star Wars Episode 1	75380-1	Mos Espa Podrace	2024	162.6	38 x 26 x 7
 65	Star Wars / Sculptures	75381-1	Droideka	2024	121.5	22.1 x 26 x 7.6
-903	BrickHeadz / Star Wars / Star Wars Episode 3	40675-1	Clone Commander Cody	2024	?	9 x 12 x 7.6
-1070	Despicable Me and Minions / Despicable Me 4	75580-1	Minions and Banana Car	2024	25.6	26.1 x 13.9 x 4.6
+903	BrickHeadz / Star Wars / Star Wars Episode 3	40675-1	Clone Commander Cody	2024	23.6	9 x 12 x 7.6
+1070	Despicable Me & Minions / Despicable Me 4	75580-1	Minions and Banana Car	2024	25.6	26.1 x 13.9 x 4.6
 65	Star Wars / Mini / Star Wars Episode 4/5/6	30685-1	TIE Interceptor - Mini polybag	2024	3.72	17 x 19 x 1.5
 65	Star Wars / Star Wars Episode 1	40686-1	Trade Federation Troop Carrier	2024	41.9	26 x 18.9 x 4.5
 65	Star Wars / Ultimate Collector Series / Star Wars Episode 4/5/6	75382-1	TIE Interceptor - UCS	2024	562	55.1 x 37.4 x 9.8
@@ -11842,8 +11842,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 976	LEGO Brand / LEGO Brand Store / Building Event	6385412-1	LEGO Brand Store Exclusive Build - Father's Day Tie	2023	?	? x ? x ?
 976	LEGO Brand / LEGO Brand Store / Promotional	6399467-1	LEGO Store Exclusive Set, Chengdu, China	2022	?	? x ? x ?
 444	Galidor	8319-1	Aquart	2002	?	? x ? x ?
-1070	Despicable Me and Minions / Despicable Me 4	75581-1	Minions' Music Party Bus	2024	116	35.2 x 18.8 x 5.6
-1070	Despicable Me and Minions / Despicable Me 4	30678-1	Minions' Jetboard polybag	2024	3.77	17.2 x 19.2 x 2.3
+1070	Despicable Me & Minions / Despicable Me 4	75581-1	Minions' Music Party Bus	2024	116	35.2 x 18.8 x 5.6
+1070	Despicable Me & Minions / Despicable Me 4	30678-1	Minions' Jetboard polybag	2024	3.77	17.2 x 19.2 x 2.3
 171	Creator / Creator Expert / Space Exploration	10341-1	NASA Artemis Space Launch System	2024	644	37.3 x 55.1 x 15.2
 1272	Art	31212-1	The Milky Way Galaxy	2024	460	55 x 37.3 x 12.7
 1268	DREAMZzz	71479-1	Zoey's Cat Motorcycle	2024	98	26 x 18.9 x 6.1
@@ -11911,9 +11911,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 850	Jurassic World / Chaos Theory	76962-1	Baby Bumpy: Ankylosaurus	2024	69.5	26.2 x 19 x 6
 850	Jurassic World / Chaos Theory	76965-1	Dinosaur Missions: Stegosaurus Discovery	2024	124	38.2 x 26 x 7
 850	Jurassic World / Chaos Theory	76966-1	Dinosaur Missions: Allosaurus Transport Truck	2024	146	45.8 x 28.1 x 7
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	10333-1	Barad-dûr	2024	1106	37.8 x 52.2 x 25.8
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	40693-1	Fell Beast	2024	59.6	20.3 x 18.8 x 4.6
-903	BrickHeadz / The Hobbit and The Lord of the Rings / The Lord of the Rings	40751-1	Legolas & Gimli	2024	39	19 x 14 x 6
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	10333-1	Barad-dûr	2024	1106	37.8 x 52.2 x 25.8
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	40693-1	Fell Beast	2024	59.6	20.3 x 18.8 x 4.6
+903	BrickHeadz / The Hobbit & The Lord of the Rings / The Lord of the Rings	40751-1	Legolas & Gimli	2024	39	19 x 14 x 6
 903	BrickHeadz / Disney / Encanto	40753-1	Mirabel Madrigal	2024	23.95	12.3 x 14 x 6.3
 67	Town / City / Wrecker	60435-1	Tow Truck	2024	91.1	25.9 x 18.9 x 5.9
 171	Creator / Basic Model / Holiday & Event / Christmas	30670-1	Santa's Sleigh Ride polybag	2024	?	17 x 19 x 2
@@ -11981,7 +11981,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 284	Ninja	3017-2	Water Spider {Kabaya Version}	1998	8	10 x 13.5 x 3.5
 284	Ninja	3019-2	Big Bat {Kabaya Version}	1998	8	10 x 13.5 x 3.5
 171	Creator / Creator Expert / Traffic	10337-1	Lamborghini Countach 5000 Quattrovalvole	2024	445	45.4 x 28 x 11.8
-9	Castle / Fantasy Era / Games	852293-1	Giant Chess	2008	359	57 x 64 x 20
+9	Castle / Castle (2007 Relaunch) {Fantasy Era} / Games	852293-1	Giant Chess	2008	359	57 x 64 x 20
 988	Building Event / Race	6535388-1	Formula 1 Grand Prix Exclusive Build - McLaren F1	2024	?	? x ? x ?
 988	Building Event	TRU02-1	Toys &#34;R&#34; Us Exclusive Build - Race Car	2009	?	? x ? x ?
 171	Creator / Creator Expert / Transformers	10338-1	Bumblebee	2024	249	26 x 38 x 9
@@ -12064,7 +12064,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1095	Super Mario / Mario Kart	72036-1	Baby Peach & Grand Prix Set	2025	206	38.2 x 26.2 x 7
 976	LEGO Brand / LEGO Brand Store / Building Event / DREAMZzz	6527186-1	LEGO Brand Store Exclusive Build - Cat Bike 2 in 1	2024	?	? x ? x ?
 1122	Botanicals	10340-1	Wreath	2024	215	26.2 x 38 x 9.5
-1122	Botanicals	10370-1	Poinsettia	2024	78.6	28 x 26 x 7.6
+1122	Botanicals	10370-1	Poinsettia	2024	81.5	28 x 26 x 7.6
 768	Super Heroes / Batman Classic TV Series	76328-1	The Classic TV Series Batmobile	2024	593	55 x 37.5 x 10
 390	Holiday & Event / Christmas	40746-1	Santa's Delivery Truck	2024	58.5	26 x 14 x 6
 171	Creator / Creator Expert	10391-1	Over the Moon with Pharrell Williams	2024	245	26 x 38.4 x 11.6
@@ -12213,7 +12213,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 746	Collectible Minifigures / Series 27 Minifigures	col27-5	Plush Toy Collector, Series 27 (Complete Set with Stand and Accessories)	2025	1.79	9.35 x 10.7 x 2.55
 771	Friends	42656-1	Heartlake City Airport and Airplane	2025	436	48 x 38 x 6.7
 746	Collectible Minifigures / Series 27 Minifigures	71048-1	Minifigure, Series 27 (Complete Random Set of 1 Minifigure)	2025	1.79	9.35 x 10.7 x 2.55
-988	Building Event / Holiday & Event / Halloween	6496959-1	Barnes & Noble Exclusive Build - Jack-o'-lantern	2023	?	17.5 x 29.4 x 1.6
+988	Building Event / Holiday & Event / Halloween	6496959-1	Barnes & Noble Exclusive Build - Jack-o'-lantern	2023	22	17.5 x 29.4 x 1.6
 903	BrickHeadz / Tom and Jerry	40793-1	Tom & Jerry Figures	2025	30.7	19 x 13.9 x 5.9
 273	BIONICLE / Supplemental	5002942-1	{BIONICLE Villain Pack} polybag	2015	?	? x ? x ?
 67	Town / City / Race	60444-1	F1 Garage & Mercedes-AMG & Alpine Cars	2025	356	45.6 x 28.2 x 7.2
@@ -12224,7 +12224,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 67	Town / City / Farm	60461-1	Tractor with Trailer	2025	58.4	20.5 x 19.1 x 4.6
 67	Town / City	60462-1	Helicopter, Fire Truck & Submarine Remix	2025	214	38.2 x 26.2 x 9.4
 67	Town / City / Fire	60463-1	Fire Truck	2025	79.9	26 x 18.9 x 4.4
-36	Technic / Model / Riding Cycle	42202-1	Ducati Panigale V4 S Motorcycle	2025	615	55.5 x 37.5 x 10
+36	Technic / Model / Riding Cycle	42202-1	Ducati Panigale V4 S	2025	615	55.5 x 37.5 x 10
 423	Classic	11039-1	Creative Food Friends	2025	?	16 x 14 x 6
 423	Classic	11040-1	Magical Transparent Box	2025	39	26.2 x 19.1 x 6.1
 423	Classic	11041-1	Creative Dinosaurs	2025	68	28 x 25.5 x 7
@@ -12380,7 +12380,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 878	Disney / Disney Princess / Beauty and the Beast	43263-1	Beauty and the Beast Castle	2025	675	37.5 x 55 x 11.5
 1122	Botanicals	40762-1	Mixed Flowerpot	2025	42	20.3 x 18.7 x 5.8
 976	LEGO Brand / LEGO Brand Store / Building Event / Race	6565151-1	LEGO Brand Store Exclusive Build - Steering Wheel	2025	?	? x ? x ?
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	10354-1	The Shire	2025	591	47.7 x 37.5 x 10.8
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	10354-1	The Shire	2025	591	47.7 x 37.5 x 10.8
 1095	Super Mario / Sculptures / Mario Kart	72037-1	Mario Kart - Mario & Standard Kart	2025	577	55 x 37.2 x 8.2
 1122	Botanicals	10347-1	Petite Sunny Bouquet	2025	85	26 x 18.5 x 6
 390	Holiday & Event / Easter	40764-1	Easter Bunny Surprise	2025	58	19 x 14 x 6
@@ -12390,12 +12390,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 850	Jurassic World / Rebirth	76972-1	Raptor Off-Road Escape	2025	93	26 x 18.9 x 6
 850	Jurassic World / Rebirth	76973-1	Raptor & Titanosaurus Tracking Mission	2025	200	45.7 x 29.1 x 7.1
 850	Jurassic World / Rebirth	76976-1	Spinosaurus & Quetzalcoatlus Air Mission	2025	339	47.5 x 37.3 x 6.6
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	40761-1	Sméagol & Déagol	2025	33	26.1 x 18.8 x 4.5
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	40761-1	Sméagol & Déagol	2025	33	26.1 x 18.8 x 4.5
 976	LEGO Brand / LEGOLAND Parks	40810-1	LEGOLAND Park Portal	2025	?	? x ? x ?
 988	Building Event / Star Wars / Mini / Star Wars Episode 4/5/6	6520657-1	Smyths Toys / Mastermind Toys Exclusive Build - X-Wing	2024	?	? x ? x ?
 807	The Simpsons	10352-1	Krusty Burger	2025	468	47.8 x 37.4 x 9
-167	DUPLO	6051-2	Play with Letters (English Version)	2011	?	? x ? x ?
-167	DUPLO	6051-1	Play with Letters (International Version)	2011	?	? x ? x ?
+167	DUPLO / Basic Set	6051-2	LEGO DUPLO Play with Letters {English Version}	2011	?	? x ? x ?
+167	DUPLO / Basic Set	6051-1	LEGO DUPLO Play with Letters {International Version}	2011	?	? x ? x ?
 171	Creator / Model / Holiday & Event	40763-1	Children's Day Teddy Bear	2025	48	20 x 19 x 6
 983	Promotional	5009157-1	Amelia Ticket Booth	2025	54	14.8 x 14.8 x 4.8
 179	Racers / Drome Racers	8360-2	Track Racer {Kabaya Version}	2003	?	? x ? x ?
@@ -12543,13 +12543,13 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 36	Technic / Model / Race	42212-1	Ferrari FXX K	2025	363	38.2 x 26.3 x 7
 36	Technic / Model / Race	42214-1	Lamborghini Revuelto	2025	475	38 x 26 x 12
 422	Universal Building Set / Basic Set	1931-1	Building Set with Storage Case	1985	?	? x ? x ?
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	10367-1	Balrog Book Nook	2025	246	38 x 25.8 x 9.2
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	10367-1	Balrog Book Nook	2025	246	38 x 25.8 x 9.2
 1350	Nike	43008-1	Nike Dunk	2025	423.7	47.8 x 37.5 x 6.5
 171	Creator / Model	40818-1	Italy Postcard	2025	28.6	19 x 13.8 x 6
 390	Holiday & Event	40814-1	Baby Elephant in the Sky	2025	92	26 x 19 x 7
 390	Holiday & Event / Birthday	40807-1	Birthday Numbers	2025	96.5	26 x 14 x 7.2
 390	Holiday & Event / Birthday	40815-1	Birthday Party Cake	2025	39	19 x 14 x 6
-1309	Fortnite	77077-1	Klombo	2025	288	45.2 x 28.1 x 7.1
+1309	Fortnite	77077-1	Klombo	2025	293	45.5 x 28.1 x 7.1
 976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event	6565152-1	LEGO Brand Store Exclusive Build - Paddle	2025	28.5	15 x 15 x 1.5
 171	Creator / Creator Expert / Traffic	10357-1	Shelby Cobra 427 S/C	2025	397	45.2 x 27.7 x 8.5
 983	Promotional	40766-1	Tribute to Jane Austen's Books	2025	60.72	20.5 x 19 x 7.3
@@ -12698,7 +12698,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1254	Braille Bricks	30711-1	Play with Braille Bricks paper bag / polybag	2025	5.83	20 x 19.5 x 2
 983	Promotional	40785-1	Northern Lights Diorama	2025	70.15	26 x 19 x 4.5
 545	FIRST LEGO League	45829-1	FIRST LEGO League (FLL) Challenge 2025 - Unearthed	2025	?	? x ? x ?
-545	FIRST LEGO League	45830-1	FIRST LEGO League (FLL) Explore 2025 - Unearthed Explore Set	2025	?	? x ? x ?
+545	FIRST LEGO League	45830-1	FIRST LEGO League (FLL) Explore 2025 - Unearthed Explore Set	2025	167	? x ? x ?
 768	Super Heroes / Batman II	76330-1	Batman Logo	2026	289.2	38 x 26 x 5.5
 768	Super Heroes / Legendary Batmobile Collection / The Batman	76332-1	The Batman Batmobile	2026	98.2	26 x 19 x 7
 768	Super Heroes / Legendary Batmobile Collection / Batman & Robin	76333-1	Batman & Robin Batmobile	2026	82	25.9 x 18.9 x 5.95
@@ -12743,7 +12743,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1272	Art	31218-1	Japanese Cherry Blossom Landscape	2026	423	47.5 x 37 x 13
 629	Architecture	21064-1	Paris - City of Love	2026	189.6	26 x 38 x 9.2
 34	Space / Classic Space	5009806-1	Retro Space Explorer	2025	?	15 x 15 x 4.5
-9	Castle	40775-1	Mini Knight's Castle	2025	140.3	26.3 x 13.8 x 9
+9	Castle / Castle Other	40775-1	Mini Knight's Castle	2025	140.3	26.3 x 13.8 x 9
 390	Holiday & Event / Christmas	40776-1	Hot Chocolate Stand	2025	56.15	20.6 x 19 x 7.1
 390	Holiday & Event / Christmas	5009615-1	Holiday Snowman {Barnes & Noble Promotional}	2025	?	? x ? x ?
 976	LEGO Brand / LEGO Employee Gift	4002025-1	2025 Employee Exclusive - Toy Store	2025	442	38.1 x 25.9 x 11.5
@@ -12761,7 +12761,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 171	Creator / Model / Holiday & Event / Christmas	40777-1	Celebration Series: 4. Gingerbread Train Ornament	2025	29	18.9 x 13.8 x 4.4
 759	NINJAGO / Legacy	71861-1	The Old Town	2026	958	51.9 x 47.4 x 17.5
 983	Promotional	40913-1	Vintage Parade Car	2026	47	20.3 x 19 x 4.5
-1043	Stranger Things	40891-1	WSQK Radio Station	2026	?	? x ? x ?
+1043	Stranger Things	40891-1	WSQK Radio Station	2026	?	20.3 x 18.9 x 5.9
 1043	Stranger Things	11370-1	The Creel House	2026	731	55 x 37 x 11.2
 903	BrickHeadz / Stranger Things	40879-1	Eleven, Max, Demogorgon and Holly Figures	2026	89	35.5 x 19.2 x 5.8
 903	BrickHeadz / Disney / Lilo & Stitch	40922-1	Angel	2026	22.36	12.1 x 14.3 x 6
@@ -12861,7 +12861,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1268	DREAMZzz	71514-1	Dino Jet	2026	417	53.5 x 27.8 x 7.5
 1268	DREAMZzz	71515-1	Tiger Shark Tank	2026	690	47.5 x 37.5 x 9
 1203	Sonic the Hedgehog	77117-1	Sonic: Speedster Lightning	2026	33.98	19 x 14 x 6
-1203	Sonic the Hedgehog	77118-1	Silver's Car vs. Knuckles' Monster Truck	2026	?	25.9 x 18.8 x 7
+1203	Sonic the Hedgehog	77118-1	Silver's Car vs. Knuckles' Monster Truck	2026	102	25.9 x 18.8 x 7
 768	Super Heroes / Spidey and his Amazing Friends	11206-1	Spidey on his Motorcycle vs. Rhino	2026	33.4	19 x 14 x 4.5
 768	Super Heroes / Spidey and his Amazing Friends	11207-1	Spidey: Underwater Vehicles	2026	81.25	26 x 19 x 6
 768	Super Heroes / Spidey and his Amazing Friends	11208-1	Team Spidey Pirate Ship	2026	222.6	26 x 22 x 4.5
@@ -12895,7 +12895,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars The Mandalorian	75436-1	The Mandalorian & Grogu's Speeder Bike	2026	17.3	14 x 12 x 4.5
 65	Star Wars / Star Wars The Mandalorian	75437-1	Cobb Vanth's Speeder	2026	49.5	20.4 x 19 x 6
 65	Star Wars / Starship Collection / Star Wars Episode 4/5/6	75440-1	AT-AT	2026	125	28.1 x 26.2 x 5.9
-65	Star Wars / Starship Collection / Star Wars Episode 4/5/6	75441-1	Venator-Class Attack Cruiser	2026	189	35.4 x 19.2 x 9
+65	Star Wars / Starship Collection / Star Wars Episode 3	75441-1	Venator-Class Attack Cruiser	2026	189	35.4 x 19.2 x 9
 65	Star Wars / Star Wars The Mandalorian	75443-1	Grogu's Homestead	2026	?	19 x 14 x 4.5
 65	Star Wars / Star Wars Other / Star Wars Mechs	75448-1	Clone Shock Trooper Mech	2026	40.4	14 x 15.8 x 4.5
 65	Star Wars / Sculptures / Star Wars Episode 7	75452-1	BB-8	2026	109	28 x 26 x 7.5
@@ -12913,7 +12913,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 842	SPEED CHAMPIONS	77258-1	F1 ACADEMY LEGO Race Car	2026	66	26 x 14 x 4.7
 746	Collectible Minifigures / Series 28 Minifigures	71051-1	Minifigure, Series 28 (Complete Random Set of 1 Minifigure)	2026	1.77	9.35 x 10.65 x 2.5
 712	Video Game / Creator	5700-99	Creator - PC CD-ROM	1998	?	22.2 x 26.3 x 5.3
-390	Holiday & Event / Birthday	40905-1	Birthday Cupcake	2026	?	? x ? x ?
+390	Holiday & Event / Birthday	40905-1	Birthday Cupcake	2026	28	18.9 x 13.9 x 6
 227	Harry Potter / Chamber of Secrets	30724-1	Dumbledore's Office with Harry Potter paper bag	2026	5.6	16.8 x 17.9 x 2.8
 167	DUPLO / Toolo	2917-1	Aeroplane	1996	?	24 x 19 x 7
 976	LEGO Brand / LEGO Brand Store / Building Event / Town	6614213-1	LEGO Brand Store Exclusive Build - Bike Burger Cart	2026	5	19 x 14.5 x 1.5
@@ -12949,7 +12949,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars Episode 4/5/6	75425-1	Mos Eisley Cantina	2026	231.3	38 x 26 x 7
 65	Star Wars / Star Wars Episode 4/5/6	75426-1	Millennium Falcon	2026	336	45.2 x 27.8 x 7
 1359	Editions	43019-1	Soccer Ball	2026	218.55	37.7 x 35.1 x 9.2
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	11373-1	Sauron's Helmet	2026	149	18.9 x 35.1 x 9.1
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	11373-1	Sauron's Helmet	2026	149	18.9 x 35.1 x 9.1
 390	Holiday & Event / Valentine's Day	40886-1	Penguins in Love	2026	?	14 x 19 x 7
 983	Promotional	40906-1	Restaurants of the World: Japan	2026	?	20.3 x 18.8 x 6
 976	LEGO Brand / LEGO Brand Store / Building Event	6575529-1	LEGO Brand Store Exclusive Build - Hoop	2025	?	? x ? x ?
@@ -12984,7 +12984,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 65	Star Wars / Star Wars The Mandalorian and Grogu	75444-1	AT-RT Attack	2026	112	25.9 x 18.8 x 6
 36	Technic / Model / Race	42228-1	McLaren MCL39 F1 Car	2026	642.6	55.5 x 37.5 x 10
 169	Sculptures	40955-1	Maersk Dual-Fuel Container Vessel	2026	346	55.5 x 37.5 x 10
-976	LEGO Brand / LEGO House	40507-1	I ❤️ Billund	2026	?	38 x 26 x 11.5
+976	LEGO Brand / LEGO House	40507-1	I ❤️ Billund	2026	272	38 x 26 x 11.5
 976	LEGO Brand / LEGOLAND Parks	40952-1	LEGOLAND Castle	2026	?	? x ? x ?
 36	Technic / Model / Airport	30736-1	White Seaplane paper bag	2026	5.5	17 x 18 x 1.6
 842	SPEED CHAMPIONS	30734-1	Mini F1 ACADEMY Car paper bag	2026	5.5	17 x 18 x 1.7
@@ -13028,7 +13028,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1359	Editions	43033-1	2026 U.S. Soccer National Team Jersey	2026	83	26.5 x 18.9 x 9
 842	SPEED CHAMPIONS	77262-1	Ken Block's 1965 Ford Mustang Hoonicorn RTR V1	2026	106	26.2 x 14.1 x 6.2
 1332	Bluey	30713-1	Fancy Restaurant with Bingo paper bag	2026	5.5	17 x 18 x 2.3
-171	Creator / Basic Model / Holiday & Event / Halloween	30717-1	Fun Halloween Skeleton paper bag	2026	?	17 x 18 x 2.8
+171	Creator / Basic Model / Holiday & Event / Halloween	30717-1	Fun Halloween Skeleton paper bag	2026	5.56	17 x 18 x 2.8
 746	Collectible Minifigures / Series 29 Minifigures	71052-1	Minifigure, Series 29 (Complete Random Set of 1 Minifigure)	2026	1.79	9.4 x 10.7 x 2.6
 746	Collectible Minifigures / Series 29 Minifigures	col29-1	Robot T. rex, Series 29 (Complete Set with Stand and Accessories)	2026	1.79	9.4 x 10.7 x 2.6
 746	Collectible Minifigures / Series 29 Minifigures	col29-2	Marine Biologist, Series 29 (Complete Set with Stand and Accessories)	2026	1.79	9.4 x 10.7 x 2.6
@@ -13043,63 +13043,63 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 746	Collectible Minifigures / Series 29 Minifigures	col29-11	Mysterious Ronin, Series 29 (Complete Set with Stand and Accessories)	2026	1.79	9.4 x 10.7 x 2.6
 746	Collectible Minifigures / Series 29 Minifigures	col29-12	Unicorn Elf, Series 29 (Complete Set with Stand and Accessories)	2026	1.79	9.4 x 10.7 x 2.6
 850	Jurassic World / Jurassic Park	77984-1	Jurassic Park Jeep Wrangler	2026	677	47.7 x 37.4 x 10.8
-850	Jurassic World / Dinosaur Fossils / Jurassic Park	77985-1	Dinosaur Fossils: Triceratops	2026	?	43.1 x 28 x 6
+850	Jurassic World / Dinosaur Fossils / Jurassic Park	77985-1	Dinosaur Fossils: Triceratops	2026	298	43.1 x 28 x 6
 988	Building Event / Star Wars / Mini / Star Wars Episode 4/5/6	TRUTIE-1	Toys &#34;R&#34; Us Exclusive Build - TIE Fighter	2014	?	? x ? x ?
 988	Building Event / Star Wars / Mini / Star Wars Episode 4/5/6	TRUXWING-1	Toys &#34;R&#34; Us Exclusive Build - X-Wing Fighter	2014	?	? x ? x ?
 983	Promotional	5010075-1	Dolphin	2026	?	15 x 15 x 4.5
 1384	Shrek	72423-1	Shrek, Donkey & Puss in Boots	2026	376	26 x 38 x 9.3
 768	Super Heroes / Spider-Man Brand New Day	76346-1	Spider-Man Hero Figure	2026	179.2	38 x 26.2 x 7
-768	Super Heroes / Spider-Man Brand New Day	76350-1	Spider-Man vs. Hulk Epic Clash	2026	?	26 x 38 x 6.9
+768	Super Heroes / Spider-Man Brand New Day	76350-1	Spider-Man vs. Hulk Epic Clash	2026	197	26 x 38 x 6.9
 768	Super Heroes / Spider-Man Brand New Day	76349-1	Spider-Man Prison Transport Chase	2026	89	26 x 22 x 7.4
 65	Star Wars / Promotional / Star Wars The Mandalorian	40917-1	The Darksaber	2026	66.6	25.8 x 18.8 x 4.6
 65	Star Wars / Ultimate Collector Series / Star Wars The Mandalorian	75442-1	The Mandalorian's N-1 Starfighter - UCS	2026	551	55 x 37.6 x 8.3
 227	Harry Potter / Sculptures	76462-1	Hogwarts House Crest	2026	153	22 x 26 x 9.4
 227	Harry Potter / Sculptures	76469-1	Dobby the Free Elf	2026	140	19 x 26.2 x 6
-227	Harry Potter	76471-1	Knockturn Alley Wizarding Shops	2026	?	38 x 26 x 7
+227	Harry Potter	76471-1	Knockturn Alley Wizarding Shops	2026	243	38 x 26 x 7
 227	Harry Potter / Prisoner of Azkaban	76475-1	Forbidden Forest: Expecto Patronum	2026	98	26.2 x 19.1 x 6
 878	Disney / Toy Story / Toy Story 5	43304-1	Blaze's Horse Ranch	2026	190.7	28 x 26 x 5.7
 227	Harry Potter / Chamber of Secrets	76473-1	Hogwarts Castle: East Wing	2026	863	37.4 x 55.2 x 11.6
 227	Harry Potter / Chamber of Secrets	76478-1	Book Nook: Dumbledore's Office	2026	373	43.1 x 28.3 x 8.8
 227	Harry Potter / Sculptures / Sorcerer's Stone	76477-1	Norbert: Hagrid's Baby Dragon	2026	111	35.2 x 18.9 x 5.7
-227	Harry Potter / Sculptures	76474-1	Hogwarts Herbology Plants	2026	?	38 x 26 x 6.8
+227	Harry Potter / Sculptures	76474-1	Hogwarts Herbology Plants	2026	199	38 x 26 x 6.8
 976	LEGO Brand / LEGO Brand Store / Building Event / Star Wars / Star Wars The Mandalorian and Grogu	6626049-1	LEGO Brand Store Exclusive Build - Star Wars N-1 Starfighter	2026	10	21.5 x 21.5 x 1.7
 988	Building Event / Star Wars / Star Wars The Mandalorian and Grogu	5010305-1	Barnes & Noble Exclusive Build - The Mandalorian & Grogu	2026	70	17 x 29 x 3
-171	Creator / Basic Model / Holiday & Event / Christmas	30718-1	Cataclaws Snow Adventure paper bag	2026	?	17 x 18 x 2.5
+171	Creator / Basic Model / Holiday & Event / Christmas	30718-1	Cataclaws Snow Adventure paper bag	2026	5.41	17 x 18 x 2.5
 903	BrickHeadz / Shrek	40923-1	Shrek, Donkey & Gingy Figures	2026	46.96	19.4 x 14.2 x 7
 988	Building Event	5009813-1	Toys &#34;R&#34; Us Exclusive Build - Giraffe Playtime	2025	?	17.5 x 29.8 x 1.5
 390	Holiday & Event / Chinese Festivals	80121-1	Ancient Moon-Gazing Inn	2026	465	47.6 x 37.6 x 9.1
 390	Holiday & Event / Chinese Festivals	80120-1	Prosperity Carp Leaping	2026	217	38 x 25.8 x 6.8
 976	LEGO Brand / LEGO Brand Store / Building Event / Holiday & Event / Birthday	6385444-1	LEGO Brand Store Exclusive Build - Birthday Cake	2018	?	? x ? x ?
-878	Disney	43302-1	Main Street, U.S.A.	2026	?	55.5 x 37.5 x 15.2
+878	Disney	43302-1	Main Street, U.S.A.	2026	1075	55.5 x 37.5 x 15.2
 171	Creator / Model	31383-1	Floral Perfume Bottle	2026	125	26 x 19 x 6.5
 171	Creator / Model / Creature	31386-1	Majestic Lion	2026	382	38 x 26 x 5.6
-171	Creator / Model / Pirates / Pirates IV	31387-1	Iconic Pirate Ship	2026	?	? x ? x ?
-171	Creator / Model / Creature	31388-1	Family of Koalas	2026	?	? x ? x ?
+171	Creator / Model / Pirates / Pirates IV	31387-1	Iconic Pirate Ship	2026	596	37.5 x 35.2 x 9.1
+171	Creator / Model / Creature	31388-1	Family of Koalas	2026	738	47.9 x 37.5 x 6.9
 171	Creator / Model / Recreation	31389-1	Iconic Ferris Wheel	2026	500	43 x 28 x 7
-171	Creator / Model / Creature	31393-1	Gray Wolf	2026	?	? x ? x ?
+171	Creator / Model / Creature	31393-1	Gray Wolf	2026	303.27	28.3 x 26.3 x 7.5
 1122	Botanicals	11505-1	Woodland Mushrooms	2026	245	38 x 26.2 x 7.1
 1122	Botanicals	11511-1	Water Lilies	2026	47.5	19 x 26.2 x 6
 1122	Botanicals	11514-1	Cosmos Flowers	2026	28.8	14.2 x 19.2 x 4.6
 67	Town / City / Construction	60494-1	Dump Truck & Front End Loader	2026	396	54 x 28 x 11.5
 67	Town / City / Food & Drink	60496-1	Pizza Delivery Experience	2026	204.1	38 x 26 x 5.4
-67	Town / City / Recreation	60501-1	Lava Land	2026	?	53.8 x 28 x 11.5
+67	Town / City / Recreation	60501-1	Lava Land	2026	567	53.8 x 28 x 11.5
 67	Town / City / Traffic	60506-1	Classic Beach Streetcar	2026	253.5	38 x 26 x 9.2
-67	Town / City / Train / RC Train	60509-1	Harbor Freight Train	2026	?	? x ? x ?
-67	Town / City / Train / RC Train	60511-1	Vintage Steam Train	2026	?	43 x 28 x 7
+67	Town / City / Train / RC Train	60509-1	Harbor Freight Train	2026	240	53.8 x 28 x 7.5
+67	Town / City / Train / RC Train	60511-1	Vintage Steam Train	2026	198	43 x 28 x 7
 67	Town / City / Construction	60480-1	Backhoe Loader	2026	133.6	26 x 22 x 6
 67	Town / City / Airport	60492-1	Passenger Jet	2026	86	26 x 22 x 6
-67	Town / City / Traffic	60497-1	Drive-Through Car Wash	2026	?	38 x 26 x 7
+67	Town / City / Traffic	60497-1	Drive-Through Car Wash	2026	224	38 x 26 x 7
 67	Town / City / Recreation	60512-1	Mountain Bike Adventure Van	2026	106	26 x 19 x 6
 903	BrickHeadz / Transformers	40924-1	Megatron Robot & Vehicle	2026	34	19.1 x 13.9 x 6.8
 36	Technic / Model / Race	42229-1	Fast & Furious Mitsubishi Eclipse	2026	353	38 x 26 x 6.9
 36	Technic / Model / Race	42231-1	Fast & Furious Dodge Charger R/T	2026	610	42.9 x 27.9 x 11.6
 36	Technic / Model / Race	42241-1	Bugatti Chiron Pur Sport	2026	318	38 x 26 x 6.8
-36	Technic / Model / Construction	42242-1	Mercedes-Benz Unimog U 5023 with Crane	2026	?	43.1 x 28.4 x 8.7
-771	Friends	42697-1	Creative Dollhouse Suitcase	2026	?	33 x 23.5 x 14
-771	Friends	42700-1	Candy & Cupcake Ferris Wheel	2026	?	38 x 26 x 5.5
-771	Friends	42703-1	Mermaid Roller Coaster Ride	2026	?	53.6 x 27.8 x 7.5
-771	Friends	42704-1	Heartlake City Grand Hotel	2026	?	47.7 x 37.4 x 9
-771	Friends	42705-1	Cozy Fall Forest Cabin	2026	?	47.7 x 37.5 x 6.6
+36	Technic / Model / Construction	42242-1	Mercedes-Benz Unimog U 5023 with Crane	2026	512	43.1 x 28.4 x 8.7
+771	Friends	42697-1	Creative Dollhouse Suitcase	2026	93	33 x 23.5 x 14
+771	Friends	42700-1	Candy & Cupcake Ferris Wheel	2026	167	38 x 26 x 5.5
+771	Friends	42703-1	Mermaid Roller Coaster Ride	2026	297	53.6 x 27.8 x 7.5
+771	Friends	42704-1	Heartlake City Grand Hotel	2026	505	47.7 x 37.4 x 9
+771	Friends	42705-1	Cozy Fall Forest Cabin	2026	458	47.7 x 37.5 x 6.6
 759	NINJAGO / NINJAGO Legends	71870-1	The Twin Titan Mechs	2026	430	47.8 x 37.4 x 9
 759	NINJAGO / NINJAGO Legends	71871-1	Battle at the Dragon's Blade	2026	251	43.1 x 28.4 x 7.1
 759	NINJAGO / NINJAGO Legends	71872-1	Ultra Dragon Battle	2026	456	51.8 x 47.4 x 9
@@ -13107,23 +13107,23 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1309	Fortnite	77080-1	Supply Drop	2026	?	22 x 26 x 6
 1309	Fortnite	77081-1	KIT	2026	?	28 x 43 x 8.7
 1309	Fortnite	77082-1	Rave Cave	2026	594	55.4 x 37.4 x 11.5
-801	Minecraft	21592-1	Chicken Jockey Desert Attack	2026	?	20.4 x 18.9 x 7.1
+801	Minecraft	21592-1	Chicken Jockey Desert Attack	2026	81	20.4 x 18.9 x 7.1
 801	Minecraft	21594-1	The Skeleton	2026	127	22 x 26 x 9.5
 801	Minecraft	21595-1	The Ender Dragon	2026	202.3	38 x 26 x 5.5
 801	Minecraft	21596-1	Evoker Village Attack	2026	192.2	43 x 28 x 6.1
 801	Minecraft	21597-1	Ghast Station	2026	?	28 x 43 x 7
 801	Minecraft	21598-1	Underwater Adventure	2026	?	? x ? x ?
-801	Minecraft	21593-1	First Night Adventure	2026	?	? x ? x ?
+801	Minecraft	21593-1	First Night Adventure	2026	70	26 x 19 x 7
 878	Disney / Disney Princess / Moana	43292-1	Pua	2026	221.72	38 x 26 x 7
-878	Disney / Disney Princess / Moana	43293-1	Kakamora	2026	?	26 x 22 x 6
-878	Disney / Disney Princess / Moana	43282-1	Village House & Boat	2026	?	20.4 x 19 x 4.4
-878	Disney / Lilo & Stitch	43296-1	Stitch & Scrump	2026	?	38 x 26 x 5.5
+878	Disney / Disney Princess / Moana	43293-1	Kakamora	2026	80.7	26 x 22 x 6
+878	Disney / Disney Princess / Moana	43282-1	Village House & Boat	2026	52.75	20.4 x 19 x 4.4
+878	Disney / Lilo & Stitch	43296-1	Stitch & Scrump	2026	158.5	38 x 26 x 5.5
 878	Disney / Lilo & Stitch	43280-1	Beach Fun with Lilo & Stitch	2026	79	26.1 x 19 x 4.5
-878	Disney / Disney Princess / Beauty and the Beast	43289-1	Belle & the Beast's Enchanted Castle	2026	?	22 x 26 x 6
+878	Disney / Disney Princess / Beauty and the Beast	43289-1	Belle & the Beast's Enchanted Castle	2026	118.75	22 x 26 x 6
 878	Disney / Disney Princess / Aladdin	43295-1	Jasmine's Jewelry Box	2026	136	28 x 26 x 5.8
 878	Disney / Disney Princess / Tangled	43297-1	Rapunzel's Castle	2026	?	37.4 x 36 x 9
 878	Disney / Disney Princess / Tangled	43294-1	Rapunzel's Mini Tower	2026	60.55	20.3 x 19 x 4.4
-878	Disney / Disney Princess / Cinderella	43283-1	Cinderella Animal Friends Castle	2026	?	26 x 22 x 6
+878	Disney / Disney Princess / Cinderella	43283-1	Cinderella Animal Friends Castle	2026	149	26 x 22 x 6
 878	Disney / Disney Princess / The Little Mermaid	43299-1	Ariel's Royal Wedding Boat	2026	?	38.1 x 26.1 x 6.9
 903	BrickHeadz / Toy Story	40860-1	Toy Story	2026	63.44	35.7 x 19.2 x 7
 903	BrickHeadz / Disney / Alice in Wonderland	40925-1	Alice in Wonderland	2026	75.18	35.4 x 19.3 x 7
@@ -13132,37 +13132,50 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1332	Bluey	11221-1	School with Rusty and Bluey	2026	?	26 x 19 x 4.4
 1203	Sonic the Hedgehog	40926-1	SEGA Genesis Console	2026	98.6	25.8 x 22 x 9.4
 842	SPEED CHAMPIONS	77260-1	Fast & Furious Toyota Supra MK4	2026	?	26 x 14 x 6
-842	SPEED CHAMPIONS	77261-1	Ferrari 499P	2026	?	26.2 x 14.1 x 6
+842	SPEED CHAMPIONS	77261-1	Ferrari 499P	2026	89	26.2 x 14.1 x 6
 759	NINJAGO / Dragons Rising Season 4	71862-1	Lloyd's Dragon Mech Battle Pack	2026	16.48	12 x 14.3 x 4.3
 759	NINJAGO / Dragons Rising Season 4	71863-1	Zilvar and Grimtak	2026	70	26.3 x 14.1 x 4.6
 759	NINJAGO / Dragons Rising Season 4	71864-1	Kai and Cole's Combiner Vehicles	2026	92.8	26 x 19 x 9
 759	NINJAGO / Dragons Rising Season 4	71865-1	Zane's Ice Dragon Battle	2026	?	? x ? x ?
 759	NINJAGO / Dragons Rising Season 4	71868-1	Wyldfyre's Transforming Dragon Mech	2026	238	43.1 x 28.2 x 6
 759	NINJAGO / Dragons Rising Season 4	71869-1	Land Bounty	2026	502	37.5 x 35.4 x 9
-771	Friends	42676-1	Fun Water Park Day	2026	?	26 x 22 x 6
-771	Friends	42682-1	Nature Glamping Cabin	2026	?	? x ? x ?
+771	Friends	42676-1	Fun Water Park Day	2026	120	26 x 22 x 6
+771	Friends	42682-1	Nature Glamping Cabin	2026	89.53	20.4 x 18.9 x 7.15
 771	Friends	42690-1	Forest Tea Party	2026	?	? x ? x ?
-771	Friends	42693-1	Creative Flower Shop	2026	?	26 x 22 x 7.3
-771	Friends	42694-1	Pizza Truck	2026	?	19 x 14 x 6.9
-771	Friends	42701-1	Koala Habitat & Care Center	2026	?	43 x 28 x 6
-771	Friends	42702-1	Spinning Flower & Fairy Teacup Ride	2026	?	35.2 x 19 x 5.7
+771	Friends	42693-1	Creative Flower Shop	2026	119	26 x 22 x 7.3
+771	Friends	42694-1	Pizza Truck	2026	47.7	19 x 14 x 6.9
+771	Friends	42701-1	Koala Habitat & Care Center	2026	219	43 x 28 x 6
+771	Friends	42702-1	Spinning Flower & Fairy Teacup Ride	2026	100.5	35.2 x 19 x 5.7
 171	Creator / Model	31390-1	Floral Art Painting	2026	136	26 x 19 x 4.5
 171	Creator / Model	31391-1	Fashion Bag with Storage	2026	133	26 x 19 x 6
 171	Creator / Model	31392-1	Music Decor Piano	2026	216.7	26 x 22 x 7.4
 65	Star Wars / Helmet Collection / Star Wars The Mandalorian and Grogu	75458-1	Imperial Remnant AT-RT Driver Helmet	2026	195	18.8 x 35.3 x 11.6
 65	Star Wars / Sculptures / Star Wars Episode 4/5/6	75461-1	Up-Scaled Darth Vader Minifigure	2026	304	26.2 x 38 x 9.2
+65	Star Wars / Star Wars The Mandalorian	75459-1	Imperial Lambda-Class Shuttle	2026	?	? x ? x ?
 171	Creator / Creator Expert / Traffic	11380-1	Road Bike	2026	412	47.6 x 37.5 x 6.6
 629	Architecture	21066-1	New York City - The Big Apple	2026	399	35 x 37.5 x 9.5
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	11377-1	Minas Tirith	2026	1774	37.8 x 52 x 34.7
-789	The Hobbit and The Lord of the Rings / The Lord of the Rings	40893-1	Grond	2026	?	20.5 x 19 x 6
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	11377-1	Minas Tirith	2026	1774	37.8 x 52 x 34.7
+789	The Hobbit & The Lord of the Rings / The Lord of the Rings	40893-1	Grond	2026	51	20.5 x 19 x 6
 167	DUPLO / Bluey	10469-1	Pizza Girls with Muffin and Bluey	2026	?	28 x 26 x 11.6
 423	Classic	11045-1	Creative Colorful Bricks	2026	253	38 x 26 x 11.5
 167	DUPLO / Super Heroes / Spidey and his Amazing Friends	10464-1	Team Spidey Webquarters	2026	?	42.9 x 27.9 x 8.4
 167	DUPLO	10480-1	Discovery Forest with Wild Animals	2026	?	55.2 x 37.5 x 11.3
 167	DUPLO	10472-1	Animal Building Game	2026	?	53.7 x 27.8 x 11.5
 167	DUPLO / Disney / Disney Princess / Frozen	10462-1	Frozen Creative Box with Elsa and Olaf	2026	?	? x ? x ?
-167	DUPLO / Basic Set	10479-1	My First Colorful Creative Box	2026	?	28.2 x 26 x 11.5
+167	DUPLO / Basic Set	10479-1	My First Colorful Creative Box	2026	31.65	28.2 x 26 x 11.5
 768	Super Heroes / Iron Man and his Awesome Friends	11209-1	Ultron vs. Iron Man	2026	?	20.3 x 18.9 x 4.6
 768	Super Heroes / Iron Man and his Awesome Friends	11211-1	Loki vs. Team Iron Man	2026	?	26 x 22.2 x 6
-1359	Editions	43017-1	McLaren Mastercard F1 Team Oscar Piastri Helmet	2026	?	38 x 26 x 7
+1359	Editions	43017-1	McLaren Mastercard F1 Team Oscar Piastri Helmet	2026	227	38 x 26 x 7
 1359	Editions	43023-1	McLaren Mastercard F1 Team Lando Norris Helmet	2026	?	? x ? x ?
+983	Promotional	5010224-1	Sports Stadium	2026	?	14.7 x 14.9 x 4.5
+983	Promotional	40902-1	Tribute to Leonardo da Vinci	2026	?	26 x 19 x 4.5
+988	Building Event / Star Wars / Star Wars The Mandalorian	5010391-1	Best Buy Exclusive Build - Bo Katan	2026	4.5	16 x 14 x 2.5
+36	Technic / Model	40894-1	Koenigsegg Sadair's Spear Steering Wheel	2026	?	? x ? x ?
+36	Technic / Model / Race	42232-1	Koenigsegg Sadair's Spear	2026	1704	52 x 37.5 x 22.5
+36	Technic / Model / Race	42240-1	Aston Martin Aramco AMR25 F1 Car	2026	675	55.3 x 37.5 x 10
+768	Super Heroes / Bust Collection	76356-1	Venom Bust	2026	?	? x ? x ?
+171	Creator / Creator Expert	11374-1	Arcade Pinball Machine	2026	677	55 x 37.5 x 10
+988	Building Event / Star Wars / Star Wars Episode 4/5/6	6626051-1	The Entertainer / Bricktastic Exclusive Build - Bantha	2026	?	? x ? x ?
+817	LEGO Ideas (CUUSOO) / Castle	40912-1	Sea Serpent	2026	70.5	20.3 x 19.1 x 6
+983	Promotional	5010053-1	Airplane	2026	?	14.8 x 14.8 x 4.5
+399	Storage / Super Heroes / The LEGO Batman Movie	853638-99	Minifigure Display Frame, The LEGO Batman Movie	2017	6	30 x 30 x 3
