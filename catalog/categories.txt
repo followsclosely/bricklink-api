@@ -137,6 +137,7 @@ Category ID	Category Name
 830	Avengers
 844	Avengers Age of Ultron
 828	Avengers Assemble
+1399	Avengers Doomsday
 1032	Avengers Endgame
 954	Avengers Infinity War
 293	Baby
@@ -264,6 +265,7 @@ Category ID	Category Name
 423	Classic
 590	Classic Basic
 489	Classic Castle
+688	Classic Pirates
 314	Classic Space
 627	Classic Town
 490	Clikits
@@ -278,6 +280,7 @@ Category ID	Category Name
 479	Cockpit
 1147	Coin
 746	Collectible Minifigures
+1403	Collectible Minifigures Other
 1330	Collectibles
 552	Coloring Book
 331	Comic Book
@@ -295,7 +298,11 @@ Category ID	Category Name
 74	Crane
 1392	Creative Building & Bricks and More
 171	Creator
+1393	Creator 3in1
+1400	Creator 6in1
+1401	Creator 8in1
 1068	Creator Expert
+1394	Creator Other
 726	Creature
 1371	Crocs
 291	Crusaders & Lion Knights
@@ -360,6 +367,7 @@ Category ID	Category Name
 1076	Dots
 964	Dragon Masters
 281	Dragon Masters & Dragon Knights
+1406	Dragons Rising
 1264	Dragons Rising Season 1
 1291	Dragons Rising Season 2
 1316	Dragons Rising Season 3
@@ -521,8 +529,8 @@ Category ID	Category Name
 317	Idea Book
 1110	IKEA
 272	Imperial Armada
-269	Imperial Guards
-270	Imperial Soldiers
+269	Imperial Guards {Redcoats}
+270	Imperial Soldiers {Bluecoats}
 958	Incredibles 2
 605	Indiana Jones
 274	Indians
@@ -682,6 +690,7 @@ Category ID	Category Name
 1300	Minions The Rise Of Gru
 394	Minitalia
 1278	Minnie
+1405	Miscellaneous Exclusive
 550	Mission Deep Freeze
 549	Mission Deep Sea
 1204	Mission: Impossible
@@ -725,7 +734,9 @@ Category ID	Category Name
 284	Ninja
 759	NINJAGO
 1337	NINJAGO Legends
+1402	NINJAGO Other
 630	NXT
+1404	Object
 383	Off-Road
 1113	Office Supplies
 1347	One Piece
@@ -754,11 +765,10 @@ Category ID	Category Name
 1193	Pick-a-Model
 660	Piraka
 61	Pirates
-688	Pirates I
-687	Pirates II
-841	Pirates III
-1267	Pirates IV
+687	Pirates &#40;2009 Relaunch&#41;
+841	Pirates &#40;2015 Relaunch&#41;
 761	Pirates of the Caribbean
+1267	Pirates Other
 1081	Placeholder
 798	Planes
 1281	Planes Fire & Rescue
@@ -786,6 +796,7 @@ Category ID	Category Name
 1201	Portal 2
 949	Possession
 251	Post Office
+1395	Postcards
 503	Poster
 721	Power Functions
 689	Power Miners
@@ -936,6 +947,8 @@ Category ID	Category Name
 103	Stairs
 1145	Stamp
 1355	Star Trek
+1397	Star Trek The Next Generation
+1398	Star Trek The Original Series
 65	Star Wars
 1270	Star Wars Ahsoka
 1242	Star Wars Andor
@@ -1070,6 +1083,7 @@ Category ID	Category Name
 849	The Simpsons Series 2
 1251	The Way of Water
 1202	The Wizard of Oz
+1396	The X-Files
 562	Thomas & Friends
 1225	Thor Love and Thunder
 909	Thor Ragnarok

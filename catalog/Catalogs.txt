@@ -439,7 +439,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 367	1992 / Town / Classic Town	m92usto	1992 Mini Town US (103317-US)	1992	4.5
 515	2004	c04asia2	2004 Large UK/Asia June - December (425.8472-UK/Asia)	2004	148
 361	1986 / Fabuland	c86def	1986 Small Fabuland German (114313-(D-Prom.))	1986	11
-365	1990 / Pirates / Pirates I	m90pir	1990 Mini Pirates (114317-US)	1990	4.8
+365	1990 / Pirates / Classic Pirates	m90pir	1990 Mini Pirates (114317-US)	1990	4.8
 358	1983	c83eus	1983 Medium European Square (119483-EU)	1983	8
 359	1984	m84eu1	1984 Mini European (104183-EU)	1984	5.1
 362	1987	m87us	1987 Mini US (119717-US)	1987	5.1
@@ -674,7 +674,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 372	1997 / Castle / Fright Knights	m97fk	1997 Mini Fright Knights (4108486-EU/LO)	1997	4.4
 372	1997 / Town / Divers	m97div	1997 Mini Divers (4108507-KO)	1997	?
 372	1997 / Technic	m97tech	1997 Mini Technic (4.108.490-EU)	1997	4.6
-371	1996 / Pirates / Pirates I	m96pir	1996 Mini Pirates (4.103.795-EU/LO)	1996	4.4
+371	1996 / Pirates / Classic Pirates	m96pir	1996 Mini Pirates (4.103.795-EU/LO)	1996	4.4
 371	1996 / Western	m96west	1996 Mini Western (4.105.477-EU)	1996	5
 371	1996 / Castle	m96euca2	1996 Mini Castle (4.103.794-EU/LO)	1996	4.5
 371	1996 / Space / Exploriens	m96expl	1996 Mini Exploriens (4.103.793-EU/LO)	1996	4.5
@@ -750,12 +750,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 367	1992 / Castle	m92castle	1992 Mini Castle (101683-EU/OS)	1992	5.3
 367	1992 / Town / Classic Town	m92town	1992 Mini Town (101483-EU/OS)	1992	5
 366	1991 / Town / Classic Town	m91town	1991 Mini Town European (831383-EU)	1991	5
-366	1991 / Pirates / Pirates I	m91pirate	1991 Mini Pirates European (831683-EU)	1991	5
+366	1991 / Pirates / Classic Pirates	m91pirate	1991 Mini Pirates European (831683-EU)	1991	5
 366	1991 / Castle	m91castle	1991 Mini Castle Overseas (833885-OS)	1991	?
 366	1991 / Universal Building Set / Basic	m91ca2	1991 Mini Basic Canadian (833118)	1991	?
 365	1990 / Universal Building Set / Basic	m90basic	1990 Mini Basic (112983-EU)	1990	?
 365	1990 / Town / Classic Town	m90euto	1990 Mini Town European (113183-EU)	1990	5
-364	1989 / Pirates / Pirates I	m89eupi	1989 Mini Pirates European (108783-EU)	1989	5
+364	1989 / Pirates / Classic Pirates	m89eupi	1989 Mini Pirates European (108783-EU)	1989	5
 364	1989	m89os	1989 Mini Overseas (102185-OS)	1989	5.4
 363	1988	m88os	1988 Mini Overseas (104085-OS)	1988	5.1
 362	1987	m87os	1987 Mini Overseas (151785-OS)	1987	5
@@ -781,7 +781,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 555	1961	c61au	1961 Australian	1961	5.3
 555	1961	c61au1	1961 Australian (True Building)	1961	?
 344	1969	c69fr	1969 Large French (3351-Fr)	1969	13
-364	1989 / Pirates / Pirates I	c89de4	1989 Medium Pirates - Die Jagd auf den Piratenschatz (The Hunt for the Pirate Treasure)	1989	10
+364	1989 / Pirates / Classic Pirates	c89de4	1989 Medium Pirates - Die Jagd auf den Piratenschatz (The Hunt for the Pirate Treasure)	1989	10
 361	1986 / Educational & Dacta	c86dedac1	1986/1987 Large German Dacta - Das Lego Programm fur die Schule (2900034-D)	1986	54
 370	1995	c95dedc	1995 Dealer Catalog German (924.121-D)	1995	164
 368	1993 / Educational & Dacta	c93ukdac	1993 Large UK Dacta - Equipment for Junior Classrooms (950463-UK)	1993	?
@@ -936,7 +936,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 346	1971	c71be2	1971 Medium Belgian - Nouveautés Autos (3522-Be (fr.))	1971	5
 544	2005	c05sah5	2005 Shop at Home - November (WOR U-3170)	2005	117
 371	1996 / Castle	m96cas	1996 Mini Castle North America (4.103.770-NA)	1996	4.2
-371	1996 / Pirates / Pirates I	m96pir2	1996 Mini Pirates North America (4.103.771-NA)	1996	4.2
+371	1996 / Pirates / Classic Pirates	m96pir2	1996 Mini Pirates North America (4.103.771-NA)	1996	4.2
 368	1993 / Town / Paradisa	m93para	1993 Mini Paradisa (110283-EU/OS)	1993	5
 544	2005	c05sah6	2005 Shop at Home - December (WOR U-3171)	2005	67
 372	1997 / Technic	c97detec1	1997 Medium Technic German Foldout (925.376-D)	1997	18.5
@@ -1061,7 +1061,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 367	1992	c92eu6	1992 Medium European (100784/100884-EU IV (E/P))	1992	35
 366	1991 / Space	m91space	1991 Mini Space (832417-US)	1991	4.6
 363	1988	c88eu3	1988 Medium European (101378/101478-EU-III (UK/F/B/NL))	1988	35
-369	1994 / Pirates / Pirates I	m94pirate	1994 Mini Pirates European (991783-EU)	1994	5.1
+369	1994 / Pirates / Classic Pirates	m94pirate	1994 Mini Pirates European (991783-EU)	1994	5.1
 565	2006	c06sah3	2006 Shop at Home - Summer Version #2 'Over 45 New Items' (WOR U-3657)	2006	145
 366	1991	m91ca	1991 Mini Canadian (833218)	1991	4.58
 368	1993	c93itdc	1993 Dealer Assortimento Lego Italian (922584-I)	1993	220
@@ -1245,10 +1245,10 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 365	1990 / Town / Classic Town	m90osto	1990 Mini Town Overseas (113185-OS)	1990	2
 366	1991 / Town / Classic Town	m91osto	1991 Mini Town Overseas (833685-OS)	1991	5.3
 366	1991 / Space	m91eusp	1991 Mini Space European (831483-EU)	1991	5.1
-367	1992 / Pirates / Pirates I	m92pirate	1992 Mini Pirates (101783-EU/OS)	1992	5.1
+367	1992 / Pirates / Classic Pirates	m92pirate	1992 Mini Pirates (101783-EU/OS)	1992	5.1
 367	1992 / Space	m92space	1992 Mini Space (101583-EU/OS)	1992	5.2
 367	1992 / Technic	m92eutec	1992 Mini Technic European (101983-EU)	1992	5
-368	1993 / Pirates / Pirates I	m93pirate	1993 Mini Pirates (110183-EU/OS)	1993	5
+368	1993 / Pirates / Classic Pirates	m93pirate	1993 Mini Pirates (110183-EU/OS)	1993	5
 368	1993 / Space	m93space3	1993 Mini Space (109983-EU/OS)	1993	4
 368	1993 / Technic	m93tech	1993 Mini Technic (110383-EU/OS)	1993	5.3
 369	1994 / Town / Paradisa	m94para	1994 Mini Paradisa / Belville (991883-EU)	1994	5
@@ -1393,7 +1393,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 377	2001 / BIONICLE	m01bio6	2001 Mini Bionicle - Pohatu (4130827)	2001	4.5
 377	2001 / BIONICLE	m01bio4	2001 Mini Bionicle - Kopaka (4130832)	2001	4.5
 375	2000 / Technic / RoboRiders	m00tech5	2000 Mini RoboRiders (4132668)	2000	4.5
-365	1990 / Pirates / Pirates I	m90eupir	1990 Mini Pirates European (113483-EU)	1990	5.2
+365	1990 / Pirates / Classic Pirates	m90eupir	1990 Mini Pirates European (113483-EU)	1990	5.2
 515	2004 / Creator	m04cre	2004 Mini Creator (4234559/4234560)	2004	4.5
 374	1999 / Belville	c99bel	1999 Medium Belville (4129025)	1999	30
 341	1966	c66ch	1966 Swiss (3150-schw)	1966	5
@@ -1461,7 +1461,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 368	1993	c93de2	1993 Large German (922710-D)	1993	86
 369	1994	c94usgirls	1994 Medium Belville / Paradisa US (996117/996217-US)	1994	9.9
 369	1994	c94eugirls	1994 Medium Belville / Paradisa European (990983/991083-EU)	1994	9.7
-370	1995 / Pirates / Pirates I	m95pir	1995 Mini Pirates (4.100.046-EU/OS)	1995	5
+370	1995 / Pirates / Classic Pirates	m95pir	1995 Mini Pirates (4.100.046-EU/OS)	1995	5
 491	2003 / Holiday & Event / Christmas	c03de3	2003 Medium German Christmas (4227135)	2003	24
 357	1982	c82at	1982 Medium Austrian (93.300-A)	1982	46
 361	1986	c86at	1986 Large Austrian (2000200-A)	1986	66
@@ -1482,12 +1482,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 581	2007	c07sah3	2007 Shop at Home - Summer (WOR U-4714)	2007	150
 581	2007	c07sah3de	2007 Shop at Home - Summer German (WOR U-4639)	2007	156
 344	1969	c69frdc	1969 Dealer Commercial French	1969	?
-369	1994 / Pirates / Pirates I	c94fdc	1994 Dealer French 'Pirate Launch Folder' (923344-F)	1994	26
+369	1994 / Pirates / Classic Pirates	c94fdc	1994 Dealer French 'Pirate Launch Folder' (923344-F)	1994	26
 352	1977	c77fdc	1977 Dealer French 'New Range Folder' (99.102-F)	1977	?
 342	1967	c67fdc	1967 Dealer French 'Launch Folder'	1967	?
 374	1999	c99fdc	1999 Dealer French (927.275-F)	1999	255
 347	1972 / Homemaker	c72de5	1972 Medium German - LEGO Puppenstuben (97410-Ty)	1972	6.9
-369	1994 / Pirates / Pirates I	m94pir2	1994 Mini Pirates Overseas (998885-OS)	1994	5.1
+369	1994 / Pirates / Classic Pirates	m94pir2	1994 Mini Pirates Overseas (998885-OS)	1994	5.1
 378	2002 / Sports / Soccer	m02jafb	2002 Mini Football / Soccer Japanese (4177783)	2002	4.5
 356	1981	c81eupg2	1981 For Parents / Pour les parents / Para los padres (Parents Guide) (109785/109885-OS)	1981	28
 360	1985	c85eupg1	1985 Für Mama und Papa / Pour maman et papa/ Per mamma e papà (Parents Guide) (109582/109682 EU II (D/A/CH/F/I))	1985	26
@@ -1845,7 +1845,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 601	2008	c08sah5uk	2008 Shop at Home - Autumn UK	2008	?
 491	2003 / BIONICLE	m03bio1	2003 Mini Bionicle (4221432/4221433)	2003	4.4
 357	1982	c82eupg3	1982 For Parents / Pour les parents / Voor Ouders (Parents Guide) (114778/114878-EU III (UK/F/B))	1982	28.4
-371	1996 / Pirates / Pirates I	m96pir4	1996 Mini Pirates European (4.105.475-EU)	1996	4.6
+371	1996 / Pirates / Classic Pirates	m96pir4	1996 Mini Pirates European (4.105.475-EU)	1996	4.6
 369	1994	c94sk	1994 Medium Slovak	1994	?
 344	1969	c69be2	1969 Medium Belgian - Lego nieuwigheden (3354-Be)	1969	5
 647	2009	c09nl1	2009 Large Dutch January - May (455.2561-NL)	2009	81
@@ -1870,7 +1870,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 366	1991 / Town / Classic Town	m91townus	1991 Mini Town (832317-US)	1991	4.5
 370	1995	822578	1995 Insert - LEGO Club - US (822578)	1995	3.2
 371	1996 / Space / Exploriens	m96expl3	1996 Mini Exploriens North America (4.103.769-NA)	1996	4.2
-369	1994 / Pirates / Pirates I	m94napi	1994 Mini Pirates North America (996817-NA)	1994	4.6
+369	1994 / Pirates / Classic Pirates	m94napi	1994 Mini Pirates North America (996817-NA)	1994	4.6
 601	2008	c08fr2	2008 Large French August - December (454.2093-FR)	2008	106
 365	1990	c90usdc	1990 Dealer Large US	1990	239
 647	2009	c09it1	2009 Large Italian January - May (455.2566-IT)	2009	108
@@ -1878,7 +1878,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 601	2008	c08decnl	2008 Holiday Special 'Sinterklaas' (Het Grote Boek van LEGO)	2008	?
 515	2004	c04be2	2004 Large Belgian June - December (425.8463-FR/B)	2004	148
 348	1973 / Minitalia	c73itmibo	1973 Medium Italian - Minitalia Boats (97715)	1973	3
-647	2009	c09sah2pm	2009 Shop at Home - Spring (Power Miners cover)	2009	99.22
+647	2009	c09sah2pm	2009 Shop at Home - Spring (Power Miners Cover) (U-6599)	2009	99.22
 356	1981	c81uspg	1981 Medium Parents Guide US (109717/109817-US)	1981	22.3
 647	2009	c09sah2swUK	2009 Shop at Home - Spring UK (Star Wars cover)	2009	?
 647	2009	c09sah2UK	2009 Shop at Home - Spring UK (Farm cover)	2009	?
@@ -2277,14 +2277,14 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 743	2010	c10nldcn	2010 Dealer Large NL Novelties December - May (458.2903-NL)	2010	188
 743	2010 / Game	c10nldcga	2010 Dealer Large NL Board Games	2010	58
 374	1999 / Service Packs	s99dk	1999 Medium Service Packs Danish (927.181-DK)	1999	9.4
-367	1992 / Pirates / Pirates I	m92uspi	1992 Mini Pirates US (103617-US)	1992	4.6
+367	1992 / Pirates / Classic Pirates	m92uspi	1992 Mini Pirates US (103617-US)	1992	4.6
 371	1996	4103352	1996 Insert - Lego Direct - US/Canadian (4103352)	1996	5.6
-370	1995 / Pirates / Pirates I	m95napi	1995 Mini Pirates North America (4.100.017-NA)	1995	4.6
+370	1995 / Pirates / Classic Pirates	m95napi	1995 Mini Pirates North America (4.100.017-NA)	1995	4.6
 367	1992 / Castle	m92usca	1992 Mini Castle (103517-US)	1992	4.6
 374	1999 / Rock Raiders	m99rr3	1999 Mini Rock Raiders Videogame (4127383 / 4127386)	1999	4
 369	1994	c94bcin7	1994 Insert - Builders Club (970054)	1994	3.2
 368	1993	970102	1993 Insert - Builders Club (970102)	1993	3.2
-368	1993 / Pirates / Pirates I	m93pirate2	1993 Mini Pirates US (114317-US)	1993	4.6
+368	1993 / Pirates / Classic Pirates	m93pirate2	1993 Mini Pirates US (114317-US)	1993	4.6
 366	1991	c91bcin2	1991 Insert - Builders Club - 'Hey kids! Are you a Lego maniac?' (970001/970003)	1991	2.9
 369	1994	c94bcin5	1994 Insert - Builders Club (970023)	1994	3.2
 375	2000	4131067	2000 Insert - Lego Shop at Home (4131067)	2000	4.8
@@ -2306,7 +2306,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 544	2005	4271827-1	2005 Insert - LEGO Club - US/Canadian Purple Version	2005	7.2
 565	2006	4271827-2	2006 Insert - LEGO Club - US/Canadian Blue Version	2006	7.3
 601	2008	4271827-3	2008 Insert - LEGO Club - US/Canadian (WOR U-5959)	2008	4.3
-366	1991 / Pirates / Pirates I	m91pirate2	1991 Mini Pirates (832617-US)	1991	4.7
+366	1991 / Pirates / Classic Pirates	m91pirate2	1991 Mini Pirates (832617-US)	1991	4.7
 365	1990 / DUPLO	m90dup	1990 Mini Duplo (114417-US)	1990	4.8
 349	1974	c74ca	1974 Large Canadian	1974	20.9
 351	1976	c76ca	1976 Large Canadian	1976	18.9
@@ -4177,7 +4177,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1066	2020	c20dk2	2020 Large Danish June - December (DA-6322550 / 6322464)	2020	186
 756	2011 / DUPLO	c11dupit	2011 Small Duplo Italian (4649741/11_INT)	2011	33
 786	2013 / Architecture	c13arch	2013 Small Architecture (128282-D0003)	2013	3
-366	1991 / Pirates / Pirates I	m91pirate3	1991 Mini Pirates Overseas (833985-OS)	1991	?
+366	1991 / Pirates / Classic Pirates	m91pirate3	1991 Mini Pirates Overseas (833985-OS)	1991	?
 1066	2020	c20uk2	2020 Large UK June - December (MEA_EN 6322692)	2020	139.94
 1066	2020	c20de3	2020 Large German / Austrian June - December (DE/A Batch2 w/Xmas insert - 6322737, DE/A w/SMYTH w/Xmas - 6322743, DE/A w/FH w/Xmas - 6322738)	2020	192.9
 1066	2020	c20ee2	2020 Large Estonian June - December (632.2688 ET)	2020	182
@@ -4407,7 +4407,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1213	2022	c22pl1	2022 Large Polish January - May (6395189-PL)	2022	?
 370	1995	c95pl	1995 Large Polish (923.963-PL)	1995	106
 368	1993 / DUPLO	c93czdup	1993 Medium Duplo Czech (922713-TJK)	1993	7
-368	1993 / Pirates / Pirates I	c93czin	1993 Insert - Pirates Competition Czech (920625-TJE)	1993	8
+368	1993 / Pirates / Classic Pirates	c93czin	1993 Insert - Pirates Competition Czech (920625-TJE)	1993	8
 368	1993 / Technic	c93cztec	1993 Medium Technic Czech Foldout (922714-CR)	1993	22
 1213	2022	c22sah1de	2022 Shop at Home - January German (WOR 1703)	2022	150
 1213	2022	c22sk1	2022 Large Slovak January - May (6395190-SK)	2022	165
@@ -4474,7 +4474,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 361	1986	c86fr2	1986 Medium French	1986	?
 364	1989 / Educational & Dacta	c89dedac	1989 Large German Dacta - Das DUPLO/LEGO Programm für den Kindergarten (950131-D)	1989	?
 366	1991 / Holiday & Event / Christmas	c91be1	1991 Medium Belgian Christmas Edition	1991	?
-365	1990 / Pirates / Pirates I	m90ospir	1990 Mini Pirates Overseas (113485-OS)	1990	?
+365	1990 / Pirates / Classic Pirates	m90ospir	1990 Mini Pirates Overseas (113485-OS)	1990	?
 1213	2022 / Dots	m22nadots2	2022 Mini Dots North America (6415671)	2022	4.34
 1213	2022 / Dots	m22nadots3	2022 Mini Dots North America (6415461)	2022	4.2
 1119	2021 / Dots	m21nadots3	2021 Mini Dots North America (6351953)	2021	3.8
@@ -5048,7 +5048,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 373	1998	c98ja2	1998 Medium Japanese (4112648/4112649-J)	1998	19
 371	1996	c96ja2	1996 Large Japanese	1996	79
 377	2001 / Life on Mars	c01ja4	2001 Medium Life on Mars Japanese	2001	?
-371	1996 / Pirates / Pirates I	m96pirja	1996 Mini Pirates Japanese (4.103.835-J)	1996	5
+371	1996 / Pirates / Classic Pirates	m96pirja	1996 Mini Pirates Japanese (4.103.835-J)	1996	5
 371	1996 / Castle	m96casja	1996 Mini Castle Japanese (4.103.834-J)	1996	5
 371	1996 / Western	m96westjp	1996 Mini Western Japanese (4.105.478-J)	1996	5
 581	2007	c07rudc1	2007 Dealer Russian - Novelties January - May 2007 (4507027-RU)	2007	140
@@ -5079,3 +5079,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1287	2024	c24it1	2024 Large Italian / Swiss January - June (IT-TC - 6488897, IT - 6488860, CH/I - 6488846)	2024	?
 1360	2026	c26it1	2026 Large Italian / Swiss January - June (Italy - 6605853, CH/I - 6605839)	2026	?
 1119	2021	c21aw1	2021 Adults Welcome - Summer (WOR 1667)	2021	?
+515	2004	c04sah7	2004 Shop at Home - Summer (38 Pages) - (WOR U-1645)	2004	90
+743	2010 / Game	c10spg	2010 LEGO Games Spring Preview Foldout	2010	?
+491	2003	c03sah3d	2003 Shop at Home - Summer - Version D Bionicle Rahkshi on Cover (38 Pages) (WOR U-0702)	2003	103
+491	2003	c03sah6b	Shop at Home - Holiday Version 2 (50 Pages) (WOR U-1132)	2003	?
+348	1973	c73nldof	1973 Dutch Price List & Order Form	1973	4
