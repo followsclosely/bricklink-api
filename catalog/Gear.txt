@@ -9222,7 +9222,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 712	Video Game / Island Xtreme Stunts	GBA001	Island Xtreme Stunts - Nintendo Game Boy Advance	2002	?	? x ? x ?
 503	Poster / NEXO KNIGHTS	p16nex02	Nexo Knights Poster, Double-Sided showing Kingdom Map	2016	?	? x ? x ?
 517	Watch / Star Wars	8020394	Watch Set, SW R2-D2 and C-3PO (2015)	2015	81	10 x 15 x 3
-517	Watch / Star Wars	8020356	Watch Set, SW Luke Skywalker, Orange Box, sw292 Artwork	2015	73	10 x 15 x 3
+517	Watch / Star Wars	8020356	Watch Set, SW Luke Skywalker, Orange Box, sw0292 Artwork	2015	73	10 x 15 x 3
 517	Watch / Star Wars	8020325	Watch Set, SW Stormtrooper (2015)	2015	83	10 x 15 x 3
 517	Watch / Star Wars	8020431	Watch Set, SW Darth Maul Kids (2015)	2015	72	10 x 15 x 3
 712	Video Game	MSPre	My Style Preschool - Mac and PC CD-ROM	2000	?	? x ? x ?
@@ -9348,7 +9348,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 334	Key Chain / Elves	853560	Elves Azari the Fire Elf Key Chain	2016	15	? x ? x ?
 334	Key Chain / Elves	853562	Elves Naida the Water Elf Key Chain	2016	15	? x ? x ?
 1007	Accessory Pack / LEGENDS OF CHIMA	6043203	Legends of Chima Rip Cord Pack, Crocodile	2013	?	? x ? x ?
-399	Storage	853564	Display Case, Elves Me and My Dragon Display	2016	293	? x ? x ?
+399	Storage	853564	Display Case, Elves Me and My Dragon Display	2016	293	23.5 x 14.2 x 5.8
 526	Retail Display Flag / Star Wars / Star Wars The Clone Wars	SW2013Ban3	Display Flag Cloth, Star Wars Clone Wars, Z-95 Headhunter - Large	2013	300	88 x 200 x 0
 160	Sticker Sheet	Gstk188	Sticker Sheet, LEGO Logo 22 x 22 cm	?	?	22 x 22 x 0.1
 160	Sticker Sheet	Gstk189	Sticker Sheet, LEGO Logo 30 x 30 cm	?	?	30 x 30 x 0.1
@@ -10333,7 +10333,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 525	Human Toiletries / Aquazone / Aquanauts	Bathbottle4	Bath and Shower Foam, Bottle with Aquanaut Minifigure Black	1998	256	10.8 x 22 x 4.5
 525	Human Toiletries / Aquazone / Aquanauts	Bathbottle5	Bath and Shower Foam, Bottle with Aquanaut Minifigure Blue	1998	256	10.8 x 22 x 4.5
 513	Media Audio & Video / Super Heroes / Justice League	883929487554	Video DVD - Justice League: Cosmic Clash without Minifigure	2016	?	? x ? x ?
-517	Watch / Star Wars	8020356b	Watch Set, SW Luke Skywalker, Orange Box, sw880a Artwork	2015	?	9.5 x 15 x 3
+517	Watch / Star Wars	8020356b	Watch Set, SW Luke Skywalker, Orange Box, sw0880a Artwork	2015	?	9.5 x 15 x 3
 14	Magnet / LEGOLAND Parks	MAGDE001	Magnet Flat, Minifigure I Brick LEGOLAND Female	2015	42	6.6 x 9.2 x 0.4
 14	Magnet / LEGOLAND Parks	MAGDE002	Magnet Flat, Minifigure I Brick LEGOLAND Male	2015	42	6.6 x 9.2 x 0.4
 14	Magnet / LEGOLAND Parks	MAGDE006	Magnet Flat, LEGOLAND Deutschland Resort - Schloss Neuschwanstein	2015	42	6.6 x 9.2 x 0.4
@@ -15415,7 +15415,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1113	Office Supplies / Belville	sharp03	Pencil Sharpener, Trans-Dark Pink Heart Shape	?	12.11	4.8 x 4.1 x 2.45
 399	Storage	95564	Shopping Bag, West Edmonton Mall Store Grand Opening Promotional	2020	50	41 x 31 x 1
 995	Party Supplies	RDP95714	Gifting Set - LEGO VIP Exclusive, Santa	2020	200	34 x 43 x 0.5
-517	Watch	worbit	Watch Set, Orbit	1997	?	10.6 x 22 x 2.6
+517	Watch	927170	Watch Set, Orbit	1997	?	10.6 x 22 x 2.6
 517	Watch	9913	Watch Set, Cyclone - Starter	1999	?	6.6 x 13 x 3.8
 517	Watch	9911	Watch Set, Cyclone - Plus	1999	?	6.6 x 13 x 3.8
 336	Clock / NINJAGO / Rebooted	9009792	Digital Clock, NINJAGO Kai (Rebooted, Techno Robe) Figure Alarm Clock	2014	?	? x ? x ?
@@ -24699,3 +24699,4 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 380	Card, Trading Card / Star Wars	sw01pl197	Star Wars Trading Card Game (Polish) Series 1 - # 197 Han Spotyka Kylo	2018	2	6.2 x 8.8 x 0.02
 380	Card, Trading Card / Star Wars	sw01pl209	Star Wars Trading Card Game (Polish) Series 1 - # 209 Bombowiec Ruchu Oporu	2018	2	8.8 x 6.2 x 0.02
 1104	Paper, Flyer / Technic	6663680	Flyer 2026 Technic Set 42235 Insert - Forza Horizon 6, Get Set For The Race!	2026	7.05	21 x 29.8 x 0.01
+380	Card, Trading Card / NINJAGO	njo11deLE09	NINJAGO Trading Card Game (German) Series 11 - # LE9 Wilder Lloyd Limited Edition	2026	2	6.2 x 8.8 x 0.02

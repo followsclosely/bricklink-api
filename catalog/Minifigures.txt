@@ -978,7 +978,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 36	Technic	tech040a	Technic Figure Blue Legs, Red Top with Zipper, Blue Arms, Black Hair, White Helmet	1986	14
 174	Studios	stu009	Pilot	2000	3.37
 67	Town / Classic Town	pck005	Jacket Green with 2 Large Pockets - Black Legs, Blue Helmet 4 Stars & Stripes, Trans-Light Blue Visor	1993	3.68
-174	Studios	stu010	Female with Crop Top and Navel Pattern (Blank Back)	2000	3.57
+174	Studios	stu010	Actress - Female, Red Hoodie over Blue Crop Top and Navel Pattern, White Legs, Brown Ponytail Hair	2000	3.57
 67	Town / Town Jr. / Construction	jbl002	Bulldozer Logo - Blue Legs, Red Construction Helmet	1995	3.38
 34	Space / Life on Mars	lom018	Life on Mars (LoM) Martian - Blue Body, Orange Legs	2001	2.21
 61	Pirates / Classic Pirates	pi002	Captain Red Beard - Plain Pirate Hat	2001	3.54
@@ -1397,7 +1397,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 174	Studios	cc4058	Cameraman, Red Legs, Red Cap	2001	3.37
 174	Studios	cc4064	Actor 2	2001	3.5
 174	Studios	cc4066	Actor 1	2001	3.37
-174	Studios	cc4063	Cameraman 2 with TV logo	2001	3.37
+174	Studios	cc4063	Cameraman - Red Jacket with Zipper, TV Logo and ID Badge - LEGO Logo on Back, White Legs and Cap, Headset	2001	3.37
 473	Sports / Soccer	soc092	Soccer Player - Green and White Team with Number 10 on Back	2000	3.36
 473	Sports / Soccer	soc093	Soccer Player - Green and White Team with Number 11 on Back	?	3.36
 473	Sports / Soccer	soc094	Soccer Player White & Blue Team with shirt #18	2002	3.36
@@ -1697,7 +1697,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / Classic Town	trn096	Suit with 3 Buttons Black - Light Gray Legs, White Cap	1987	3.37
 67	Town / Classic Town	pln055	Plain Blue Torso with Blue Arms, White Legs, Black Male Hair	1998	3.36
 473	Sports / Soccer	soc097	Soccer Player Womens Team Goalie, Black Cap	2001	3.37
-174	Studios	cc4065	Male Actor, Red Shirt, Black Wide Brim Hat	2001	3.5
+174	Studios	cc4065	Male Actor, Red Shirt with Tattered Green Vest - LEGO Logo on Back, Black Wide Brim Hat	2001	3.5
 67	Town / Classic Town	trn097	Suit with 3 Buttons Black - Blue Legs, Blue Hat	1983	3.4
 67	Town / Classic Town	but023	Shirt with 3 Buttons - Blue, Black Legs, Light Gray Cowboy Hat	1983	3.67
 67	Town / Classic Town	ncklc009	Necklace Gold - Blue Legs, Black Pigtails Hair	1983	3.26
@@ -1928,7 +1928,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 48	Belville	belvfairy05	Belville Fairy (Millimy) - Light Yellow with Stars Pattern (4119533)	1999	3.5
 78	FreeStyle	fre002	FreeStyle Timmy with Black Legs and Green Wizard / Witch Hat	1998	4.33
 167	DUPLO	4555pb077	Duplo Figure, Female, Red Legs, Yellow Top with Red Buttons & Wrench in Pocket, Construction Hat White	1995	15.6
-174	Studios	stu010a	Female with Crop Top and Navel Pattern - LEGO Logo on Back, Red Hair	2001	3.57
+174	Studios	stu010a	Actress - Female, Red Hoodie over Blue Crop Top and Navel Pattern - LEGO Logo on Back, White Legs, Red Ponytail Hair	2001	3.57
 9	Castle / Black Falcons	cas301	Black Falcon - Black Legs, Black Chin-Guard, Shield Bottom Round, Quiver	1984	4.04
 153	Fabuland	fab2i	Fabuland Bulldog - Fireman, White Head, Red Fire Helmet and Top with Buttons	1987	11.6
 167	DUPLO / Western	31181pb03	Duplo Figure, Female Lady, Brown Dress, Yellow Top, Black Hair (Native American)	1998	18
@@ -4481,7 +4481,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town	twn104	Black Vest with Blue Striped Tie, Black Hips and Yellow Legs, Black Short Tousled Hair	2010	3.34
 67	Town	twn105	Vest over Red and White Striped Shirt, Dark Blue Short Legs, Red Short Bill Cap	2010	2.95
 67	Town	twn106	Overalls Farmer Green, Red Construction Helmet	2010	3.3
-174	Studios	stu010b	Female with Crop Top and Navel Pattern - LEGO Logo on Back, Reddish Brown Hair	2010	3.51
+174	Studios	stu010b	Actress - Female, Red Hoodie over Blue Crop Top and Navel Pattern - LEGO Logo on Back, White Legs, Reddish Brown Ponytail Hair	2010	3.51
 65	Star Wars / Star Wars Episode 4/5/6	sw0250a	Crix Madine, Tan Hips and Legs	2009	3.34
 689	Power Miners	pm032	Power Miner - Brains, Gray Outfit	2010	4.73
 734	Prince of Persia	pop001	Alamut Merchant	2010	4.29
@@ -6766,7 +6766,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Avengers Assemble	sh0101	MODOK	2014	8
 768	Super Heroes / Ultimate Spider-Man	sh0102	Green Goblin - Olive Green Skin, Large Figure	2014	35.5
 768	Super Heroes / Ultimate Spider-Man	sh0103	Mary Jane 5	2014	3.86
-768	Super Heroes / Ultimate Spider-Man	sh0104	Power Man	2014	2.97
+768	Super Heroes / Ultimate Spider-Man	sh0104	Power Man (Luke Cage)	2014	2.97
 768	Super Heroes / Ultimate Spider-Man	sh0105	Electro - Medium Blue Outfit, Trans-Medium Blue Head	2014	2.97
 67	Town / City / Off-Road	cty0475	Monster Truck Driver, Racing Suit with Black and White Swirls, Black Helmet with Trans-Brown Visor, Crooked Smile	2014	3.65
 768	Super Heroes / Batman II	sh0097	Batman - Dark Blue Wetsuit and Flippers	2014	5
@@ -8611,8 +8611,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 878	Disney / Disney Princess / Beauty and the Beast	dp027	Wardrobe - Yellowish Green Doors, without Stickers	?	18.33
 878	Disney / Disney Princess / Beauty and the Beast	dp028	Mrs. Potts - Dark Pink Flower	2016	0.8
 878	Disney / Disney Princess / Beauty and the Beast	3899pb006	Chip Potts (Minifigure, Utensil Cup) (6152347)	2016	0.3
-878	Disney / Disney Princess / Beauty and the Beast	dp024	Belle	2016	4.48
-878	Disney / Disney Princess / Beauty and the Beast	dp025	Beast / Prince Adam - Mini Doll, Black Cropped Trousers, White Leggings	2016	4.26
+878	Disney / Disney Princess / Beauty and the Beast	dp024	Belle - Mini Doll, Bright Light Yellow Dress, Skirt Wide, Gloves	2016	4.48
+878	Disney / Disney Princess / Beauty and the Beast	dp025	Beast / Prince Adam - Mini Doll, Black Cropped Trousers, White Leggings, Cape	2016	4.26
 65	Star Wars / Star Wars Other	sw0761	Rebel Pilot - Zin Evalon	2016	3.5
 976	LEGO Brand	gen075	Mr. Rebrick (2014)	2014	4
 771	Friends	frnd0171	Friends Stephanie - Medium Azure Layered Skirt, White Top with Stars	2016	3.46
@@ -12309,7 +12309,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0381	Friends Stephanie - Bright Pink Layered Skirt, Metallic Light Blue Swimsuit Top, Pearl Dark Gray Sandals, Flower	2020	3.3
 768	Super Heroes / Batman II	sh0661	Bronze Tiger - Rebirth	2020	3
 768	Super Heroes / Batman II	sh0662	Mr. Freeze, Pearl Dark Gray	2020	4.19
-878	Disney / Disney Princess / Beauty and the Beast	dp096	Belle - Dress with Red Roses, White Sleeves	2020	4.5
+878	Disney / Disney Princess / Beauty and the Beast	dp096	Belle - Mini Doll, Bright Light Orange Dress with Bright Light Yellow Skirt Wide with Red Roses, Open Mouth Smile	2020	4.5
 768	Super Heroes / Batman II	sh0663	Batman - 4 Arms Backpack	2020	7.8
 65	Star Wars / Star Wars The Mandalorian	sw1116	Imperial Scout Trooper - Male, Dual Molded Helmet, Light Nougat Head, Cheek Lines	2020	4.3
 572	LEGOLAND Parks	LLP017	LEGOLAND Park Boy with Black Hair, Green Ninjago Hoodie, Sand Blue Short Legs	2020	3.4
@@ -12374,7 +12374,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0391	Friends Olivia (Nougat) - Bright Light Yellow Skirt, Dark Pink Top with Blue Jacket	2020	3.6
 771	Friends	frnd0392	Friends Andrea - Tan Skirt, Coral, Lime and Medium Azure Top, Gold Boots	2020	3.4
 1042	Hidden Side	hs069	Shadow-Walker - Wings	2020	4.3
-878	Disney / Disney Princess / Beauty and the Beast	dp097	Beast / Prince Adam - Mini Doll, Medium Blue Trousers	2020	4.3
+878	Disney / Disney Princess / Beauty and the Beast	dp097	Beast / Prince Adam - Mini Doll, Medium Blue Trousers, Cape	2020	4.3
 768	Super Heroes / Avengers	sh0665	Rescue (Pepper Potts) - Red Armor	2020	4
 878	Disney / Disney Princess / Beauty and the Beast	dp098	Cogsworth - Printed Face, Winder Key	2020	4.5
 878	Disney / Disney Princess / Beauty and the Beast	dp100	Wardrobe - Yellowish Green Doors, Printed Face on Tile, Modified 2 x 3 Pentagonal, Tan Curved Slopes	2020	18
@@ -12727,8 +12727,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Fire	cty1251	Fire - Male, Black Jacket and Legs with Reflective Stripes and Red Collar, White Fire Helmet, Trans-Brown Visor, Black Beard	2021	4.3
 67	Town / City / Fire	cty1252	Fire - Female, White Open Jacket over Shirt, Light Bluish Gray Legs, Reddish Brown Hair	2021	3.67
 67	Town / City / Fire	cty1253	Fire Fighter - Bob	2021	4.61
-878	Disney / Disney Princess / The Little Mermaid	dp108	Ariel, Human (Light Nougat) - White Dress, Pearl Gold Tiara	2021	?
-878	Disney / Disney Princess / The Little Mermaid	dp109	Prince Eric - Uniform with Gold Epaulettes	2021	?
+878	Disney / Disney Princess / The Little Mermaid	dp108	Ariel, Human (Light Nougat) - White Dress, Pearl Gold Tiara	2021	4.97
+878	Disney / Disney Princess / The Little Mermaid	dp109	Prince Eric - Uniform with Gold Epaulettes, Medium Blue Trousers	2021	2.98
 67	Town / City / Fire	cty1254	Fire Fighter, Female - Freya McCloud, Black Suit	2021	3.95
 67	Town / City / Fire	cty1255	Fire - Reflective Stripes with Utility Belt and Flashlight, White Fire Helmet, Beard Stubble, Brown Eyebrows	2021	3.42
 67	Town / City / Police	cty1256	Police - Clara the Criminal, Pearl Dark Gray Aviator Cap	2021	3.68
@@ -13487,9 +13487,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / The Infinity Saga	sh0754	Miek	2021	0.7
 768	Super Heroes / The Infinity Saga	sh0752	Korg	2021	4.5
 36	Technic	tech005a	Technic Figure Blue Legs, White Top with Blue Technic Logo, Blue Arms, White Helmet	1988	14.58
-878	Disney / Disney Princess / Beauty and the Beast	dp127	Belle - Dress with Red Roses, no Sleeves	2021	4.5
-878	Disney / Disney Princess / Beauty and the Beast	dp126	Beast / Prince Adam - Mini Doll, Medium Blue Trousers, Bow	2021	4.2
-878	Disney / Disney Princess / Beauty and the Beast	dp128	Belle - Medium Blue Dress, Closed Mouth Smile	2021	3.46
+878	Disney / Disney Princess / Beauty and the Beast	dp127	Belle - Mini Doll, Bright Light Yellow Dress, Skirt Wide with Red Roses, Open Mouth Smile	2021	4.5
+878	Disney / Disney Princess / Beauty and the Beast	dp126	Beast / Prince Adam - Mini Doll, Medium Blue Trousers, Cape, Bow	2021	4.2
+878	Disney / Disney Princess / Beauty and the Beast	dp128	Belle - Mini Doll, Medium Blue Dress, Closed Mouth Smile	2021	3.46
 878	Disney / Disney Princess / Beauty and the Beast	dp129	Cogsworth - Printed Face with Tongue, 1 x 2 Brick Body without Pendulum Sticker	2021	2.93
 878	Disney / Disney Princess / Beauty and the Beast	dp129s	Cogsworth - Printed Face with Tongue, 1 x 2 Brick Body with Pendulum Sticker	2021	2.98
 878	Disney / Disney Princess / Beauty and the Beast	dp130	Wardrobe - Yellowish Green Doors, Printed Face on Tile, Modified 2 x 3 Pentagonal, Drawer Handles	2021	16.8
@@ -13503,7 +13503,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0473	Friends River - Dark Purple Jacket	2021	2.89
 227	Harry Potter	hp315	Hermione Granger - Gryffindor Robe Open, Sweater, Shirt and Tie, Black Short Legs	2021	3.72
 167	DUPLO / DUPLO, Town / Circus	4555pb113a	Duplo Figure, Male, Blue Legs, White Top with Blue Bandana, White Cowboy Hat, White in Eyes	1988	17
-878	Disney / Disney Princess / Beauty and the Beast	dp132	Belle - Medium Blue Dress, Open Mouth Smile	2021	3.46
+878	Disney / Disney Princess / Beauty and the Beast	dp132	Belle - Mini Doll, Medium Blue Dress, Open Mouth Smile	2021	3.46
 878	Disney / Disney Princess / Tangled	dp133	Rapunzel - Mini Doll, Metallic Pink Laced Dress	2021	3.6
 746	Collectible Minifigures / Super Heroes / Marvel Studios Series 1	colmar01	The Scarlet Witch, Marvel Studios, Series 1 (Minifigure Only without Stand and Accessories)	2021	4.48
 746	Collectible Minifigures / Super Heroes / Marvel Studios Series 1	colmar02	The Vision, Marvel Studios, Series 1 (Minifigure Only without Stand and Accessories)	2021	3.31
@@ -14011,7 +14011,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 167	DUPLO	47394pb030c	Duplo Figure Lego Ville, Female, Dark Red Legs, Sand Green Sweater, Light Bluish Gray Hair, Green Eyes, Glasses	?	?
 878	Disney / Disney Princess / The Little Mermaid	dp150	Arista	2022	3.81
 878	Disney / Disney Princess / The Little Mermaid	dp151	Ariel, Mermaid (Light Nougat) - Medium Lavender Shell Bra Top, Dark Turquoise Tail, Medium Blue Eyes, Bright Pink Flower	2022	3.62
-878	Disney / Disney Princess / The Little Mermaid	dp152	King Triton - Mini Doll	2022	4.02
+878	Disney / Disney Princess / The Little Mermaid	dp152	King Triton - Mini Doll (Light Nougat)	2022	4.02
 167	DUPLO	47394pb062a	Duplo Figure Lego Ville, Male, Dark Blue Legs, Red Top with Black Vest, Nougat Hands, Blue Cap, Blue Eyes, Moustache	?	15.74
 67	Town / City / Space Exploration	cty1413	Lunar Research Astronaut - Female, White and Dark Azure Suit, White Helmet, Metallic Gold Visor, Backpack Clips, Smirk	2022	5.92
 67	Town / City / Space Exploration	cty1414	Lunar Research Astronaut - Male, White and Dark Azure Suit, White Helmet, Metallic Gold Visor, Backpack Lights, Beard	2022	6.66
@@ -14166,7 +14166,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Thor Love and Thunder	sh0816	King Valkyrie	2022	4.1
 878	Disney / Disney Princess / Tangled	dp103a	Rapunzel - Mini Doll, Dark Purple and Lavender Bows	2021	3.8
 878	Disney / Disney Princess / The Little Mermaid	dp154	Ariel, Human (Light Nougat) - White Dress	2021	4.6
-878	Disney / Disney Princess / Beauty and the Beast	dp155	Belle - Dress with Red Roses, no Sleeves, Closed Mouth Smile	2021	4.5
+878	Disney / Disney Princess / Beauty and the Beast	dp155	Belle - Mini Doll, Bright Light Yellow Dress, Skirt Wide with Red Roses, Closed Mouth Smile	2021	4.5
 67	Town / City / Construction	cty1435	Construction Worker - Male, Dark Blue Plaid Button Shirt, Orange Legs, White Construction Helmet, Safety Glasses	2022	3.4
 878	Disney / Disney Princess / Beauty and the Beast	dp156	Cogsworth - 1 x 1 Brick with Plate, Round 1 x 1 with Flower Edge	2021	0.55
 878	Disney / Disney Princess / Beauty and the Beast	dp157	Lumière {Lumiere} - 2 Candle Flames	2021	1.9
@@ -15044,7 +15044,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town / City / Police	cty1558	Police - City Bandit Crook Male, White Shirt with Dark Bluish Gray Prison Stripes, Black Legs, Black Knit Cap, Sunglasses	2023	3.38
 893	DC Super Hero Girls	shg021	Kryptomite - Blue, Large Crystals, Hands	2017	2.5
 976	LEGO Brand / LEGO Employee Gift	gen173	TRÆK VEJRET Minifigure	?	3.4
-842	SPEED CHAMPIONS	sc104	Brian O'Conner	2023	3.5
+842	SPEED CHAMPIONS	sc104	Brian O'Conner - White Top, Light Bluish Gray Legs	2023	3.5
 801	Minecraft	min140	Steve (Light Nougat) - Bright Green Legs, Helmet and Armor	2023	5.11
 801	Minecraft	min141	Stray - Pearl Gold Armor	2023	3.65
 1095	Super Mario	mar0149	Turnip	2023	7
@@ -15147,7 +15147,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 878	Disney / Peter Pan & Wendy	dis084	Wendy Darling - Micro Doll	2023	1.97
 878	Disney / Peter Pan & Wendy	dis082	Captain Hook - Micro Doll	2023	2.19
 878	Disney / Disney Princess / Cinderella	dp173	Cinderella - Dress with Sparkles and Bow, Bright Light Blue Top, Coral Lips, Thin Hinge	2023	2.93
-878	Disney / Disney Princess / Beauty and the Beast	dp174	Belle - Dress with Red Roses, no Sleeves, Dark Pink Lips, Open Mouth, Long Eyelashes	2023	4.48
+878	Disney / Disney Princess / Beauty and the Beast	dp174	Belle - Mini Doll, Bright Light Yellow Dress, Skirt Wide with Red Roses, Open Mouth Smile, Long Eyelashes	2023	4.48
 67	Town / City	cty1582	Cozy House Resident - Male, Bright Green Sweater with Bright Light Yellow Zigzag Lines, Dark Tan Medium Legs, Dark Orange Hair	2023	3.47
 67	Town / City	cty1583	Cozy House Resident - Male, Dark Azure Jacket with Classic Space Logo, Dark Brown Legs, Black Short Coiled Hair	2023	3.63
 67	Town / City	cty1584	Cozy House Resident - Female, White Shirt with Mountains Logo, Dark Blue Legs, Reddish Brown Hair	2023	3.85
@@ -15429,7 +15429,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 878	Disney / Disney 100	dis120	Raya - Tan Conical Hat, Yellow Top, Reddish Brown Boots, Open Mouth	2023	3.86
 878	Disney / Disney 100	dis122	Wendy Darling - Mini Doll	2023	3.2
 878	Disney / Disney 100	dis121	Tinker Bell - Mini Doll	2023	3.02
-878	Disney / Disney Princess / Beauty and the Beast	dis123	Belle - Small Skirt	2023	3.25
+878	Disney / Disney Princess / Beauty and the Beast	dis123	Belle - Mini Doll, Yellow and Bright Light Yellow Dress with Skirt Full Length, Red Rose	2023	3.25
 878	Disney / Disney 100	dis124	Mulan - Yellowish Green and Bright Light Yellow Robe, Black Shoes, Small Grin	2023	3.3
 878	Disney / Disney 100	dis125	Elsa - Glitter Cape with Two Tails, Medium Blue Skirt with White Shoes, Small Open Mouth Smile	2023	3.21
 878	Disney / Disney 100	dis126	Anna - Black Dress, Magenta and Dark Purple Cape, Narrow Smile	2023	3.78
@@ -16967,7 +16967,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 67	Town	twn508	Helen Lasichanh	2024	3.86
 65	Star Wars / Star Wars Episode 4/5/6	sw1391	Rebel Fleet Trooper - Male, Vest with Pockets, Black Neck, Dark Brown Eyebrows	2024	4.1
 65	Star Wars / Star Wars Episode 4/5/6	sw1392	Rebel Fleet Trooper - Female, Vest with Pockets, Black Neck	2024	4.1
-817	LEGO Ideas (CUUSOO) / Disney / Beauty and the Beast	idea199	Belle - Minifigure, Dress with White Creases	2024	4.24
+817	LEGO Ideas (CUUSOO) / Disney / Beauty and the Beast	idea199	Belle - Minifigure, Yellow and Bright Light Yellow Dress with White Creases	2024	4.24
 817	LEGO Ideas (CUUSOO) / Disney	idea202	Geppetto	2024	3.8
 817	LEGO Ideas (CUUSOO) / Disney / Lilo & Stitch	idea201	Lilo - Long Dress	2024	3.92
 817	LEGO Ideas (CUUSOO) / Disney / Encanto	idea200	Bruno Madrigal	2024	3.9
@@ -17477,7 +17477,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 768	Super Heroes / Avengers	sh1036	Dum-E - Yellow Mechanical Claw	2025	1.72
 65	Star Wars / Star Wars Episode 1	sw1418	DRK-1 Dark Eye Probe Droid - Black, Round Tiles	2024	1.62
 878	Disney / Disney Princess / Beauty and the Beast	dp217	Gaston - Quiver	2025	3.92
-878	Disney / Disney Princess / Beauty and the Beast	dp213	Belle - Minifigure, Dress with Gold Sparkles	2025	4.24
+878	Disney / Disney Princess / Beauty and the Beast	dp213	Belle - Minifigure, Yellow and Bright Light Yellow Dress, Gold Brooch	2025	4.24
 878	Disney / Disney Princess / Beauty and the Beast	dp215	Beast / Prince Adam - Minifigure	2025	5.25
 878	Disney / Disney Princess / Beauty and the Beast	dp216	LeFou	2025	3.12
 878	Disney / Disney Princess / Beauty and the Beast	dp214	Maurice	2025	3.76
@@ -18101,7 +18101,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars Episode 4/5/6	sw1457	Han Solo - Black Vest with Pockets over Tan Shirt with Dark Bluish Gray Creases, Dark Blue Legs with Belts	2025	3.65
 65	Star Wars / Star Wars Episode 4/5/6	sw1454	Imperial Stormtrooper - Male, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Umber Head	2025	4.35
 65	Star Wars / Star Wars Episode 4/5/6	sw1455	Imperial Stormtrooper - Male, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Medium Nougat Head	2025	4.35
-65	Star Wars / Star Wars Episode 4/5/6	sw1456	Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Light Nougat Head	2025	4.35
+65	Star Wars	sw1456	Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Light Nougat Head	2025	4.35
 65	Star Wars / Star Wars Episode 4/5/6	sw1463	Imperial Stormtrooper - Male, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Medium Tan Head	2025	4.35
 65	Star Wars / Star Wars Episode 4/5/6	sw1464	Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Sienna Head	2025	4.35
 65	Star Wars / Star Wars Episode 4/5/6	sw1461	Interrogation Droid - Syringe and Wand	2025	3.5
@@ -18593,7 +18593,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1197	BrickLink Designer Program	bdp265	Art Factory Bassist - Female, Dark Brown Jacket over Red Hawaiian Shirt, Dark Red Legs with Coral and Gold Vertical Stripes, Dark Brown Hair	2026	4.43
 1197	BrickLink Designer Program	bdp271	Art Factory Ballerina Student - Girl, White Dress with Ruffled Collar, White Medium Legs, Dark Brown Hair with Two Buns on Top, White Skirt	2026	3.94
 1197	BrickLink Designer Program	bdp269	Art Factory Maintenance Worker - Male, Black Jacket with Reflective Stripes, Dark Bluish Gray Legs with Knee Pads, Light Bluish Gray Combed Hair	2026	3.34
-227	Harry Potter	hp615	Ginny Weasley - Gryffindor Robe Clasped, Black Short Legs, Skirt	?	3.9
+227	Harry Potter	hp615	Ginny Weasley - Gryffindor Robe Clasped, Black Short Legs, Skirt (b25hp03fr)	?	3.9
 1374	Project Hail Mary	phm001	Ryland Grace	2026	4.58
 67	Town / City / Race	cty1993	Race Car Driver - Male, White, Black and Lime Racing Suit, White Legs, Black Hair	2025	3.6
 390	Holiday & Event / Chinese Festivals	hol415	Man - Red Tang Jacket with Gold Chinese Scrollwork, Red Legs, Black Smooth Hair	2026	3.5
@@ -18747,7 +18747,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars The Mandalorian and Grogu	sw1522	Din Grogu / The Child / 'Baby Yoda' - Long Robe, Beskar Rondel with Mudhorn Signet	2026	1.02
 65	Star Wars / Star Wars The Mandalorian and Grogu	sw1523	Anzellan - Black Hood (6581506)	2026	0.68
 65	Star Wars / Star Wars The Mandalorian and Grogu	sw1524	Anzellan - Dark Brown Hood (6581505)	2026	0.69
-65	Star Wars / Star Wars The Mandalorian and Grogu	sw1525	Imperial Stormtrooper - Dual Molded Helmet with Light Bluish Gray Panels on Back, Black Pauldron, Shoulder Belts, Medium Nougat Head	2026	4.5
+65	Star Wars / Star Wars The Mandalorian and Grogu	sw1525	Imperial Stormtrooper - Male, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Medium Nougat Head, Black Pauldron	2026	4.5
 65	Star Wars / Star Wars The Mandalorian and Grogu	sw1526	Colonel Ward - Sand Green Jacket, Reddish Brown Legs	2026	3.84
 65	Star Wars / Star Wars The Mandalorian and Grogu	sw1527	Garazeb 'Zeb' Orrelios - Republic Flightsuit	2026	3.77
 67	Town / City / Race	cty2003	Stunt Driver - Male, Dark Turquoise Jacket with Dark Green Panel, Dark Tan Legs, Black Helmet, Trans-Clear Visor	2026	3.66
@@ -18884,7 +18884,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 759	NINJAGO / NINJAGO Legends	njo1084	Jin - Twin Titan Mech Suit	2026	4.08
 759	NINJAGO / NINJAGO Legends	njo1085	Mira - Twin Titan Mech Suit	2026	4.14
 842	SPEED CHAMPIONS	sc147	Ken Block	2026	3.74
-842	SPEED CHAMPIONS	sc148	Brian O'Conner	?	3.5
+842	SPEED CHAMPIONS	sc148	Brian O'Conner - Black Top, Blue Legs	2026	3.5
 227	Harry Potter / Prisoner of Azkaban	hp630	Sirius Black - Dark Brown Hair, Sand Blue Jacket over Tattered Striped Shirt, Printed Legs	2026	3.8
 227	Harry Potter / Half-Blood Prince	hp631	Harry Potter - Light Bluish Gray Hoodie Open, Sand Blue Legs	2026	3.5
 227	Harry Potter / Half-Blood Prince	hp632	Hermione Granger - Warm Pink Jacket, Dark Tan Legs	2026	4.59
@@ -18990,9 +18990,9 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 771	Friends	frnd0918	Friends Aliya - Coral Sweater Vest, Dark Red Skirt, Medium Nougat Boots	2026	3.4
 771	Friends	frnd0919	Friends Zac - Bright Light Yellow Jacket with Landscape, Red Cropped Trousers, Dark Blue Shoes	2026	2.93
 771	Friends	frnd0920	Friends Astrid	2026	3.44
-65	Star Wars / Star Wars The Mandalorian	sw1530	Dr. Penn Pershing	?	3.52
-65	Star Wars / Star Wars The Mandalorian	sw1529	Imperial Shuttle Pilot - Light Nougat Head, Black Aviator Cap	?	3.56
-65	Star Wars / Star Wars The Mandalorian	sw1531	Moff Gideon - Cape, Medium Brown Head	?	3.59
+65	Star Wars / Star Wars The Mandalorian	sw1530	Dr. Penn Pershing	2026	3.52
+65	Star Wars / Star Wars The Mandalorian	sw1529	Imperial Shuttle Pilot - Light Nougat Head, Black Aviator Cap	2026	3.56
+65	Star Wars / Star Wars The Mandalorian	sw1531	Moff Gideon - Cape, Medium Brown Head	2026	3.59
 34	Space / Classic Space	sp149	Classic Space - Bright Light Blue with Air Tanks	2026	4.03
 34	Space / Classic Space	sp150	Spacebaby - Classic Space, Bright Light Blue	2026	1.1
 878	Disney / Lilo & Stitch	dis211	Lilo - Short Legs, Bright Pink Flower	2026	3.55
@@ -19070,9 +19070,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 817	LEGO Ideas (CUUSOO) / The X-Files	idea281	Dana Scully - Bright Light Blue Scrubs, White Lab Coat	2026	3.63
 801	Minecraft	min271	Hero - Medium Lavender Legs, Helmet and Armor	2026	5
 1095	Super Mario	mar0231	Jumpman, Pixelated (6608464)	2026	0.9
-768	Super Heroes / Iron Man and his Awesome Friends	sh1148	Ultron - Helmet	?	?
+768	Super Heroes / Iron Man and his Awesome Friends	sh1148	Ultron - Helmet	2026	3.98
 768	Super Heroes	sh1147	Venom - Printed Arms	2026	3.05
 771	Friends	frnd0923	Friends Paisley - Medium Blue Vest, Coral Skirt Full Length Pleated, Bright Pink Sun Cap	2026	3.61
+759	NINJAGO / Legacy	njo1090	Kai ZX - Legacy, Neck Bracket (Ninjago Destiny's Bounty Adventures Board Game)	?	4.22
+759	NINJAGO / Legacy	njo1091	Zane ZX - Legacy, Neck Bracket (Ninjago Destiny's Bounty Adventures Board Game)	?	4.22
+759	NINJAGO / Legacy	njo1092	Cole ZX - Legacy, Neck Bracket (Ninjago Destiny's Bounty Adventures Board Game)	?	4.22
 1347	One Piece	op034	Sanji Vinsmoke - White Hoodie	2026	3.63
 1347	One Piece	op035	Monkey D. Luffy - Yellow Vest, Straw Hat on Back	2026	5.1
 1347	One Piece	op036	Nefertari Vivi	2026	3.9
@@ -19118,8 +19121,8 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 1347	One Piece	op033	Mr. 3 (Galdino)	2026	3.6
 65	Star Wars / Star Wars Episode 4/5/6	sw1538	Boba Fett - Pauldron, Helmet, Jet Pack, Printed Arms and Legs, Rangefinder	?	4.24
 65	Star Wars / Star Wars The Mandalorian	sw1543	Kuiil - Backpack	2026	3.89
-1369	Pokémon	pk001	Zinnia	?	3.65
-1203	Sonic the Hedgehog	son034	Tails (Miles Prower) - Smirk	?	5.88
+1369	Pokémon	pk001	Zinnia	2026	3.65
+1203	Sonic the Hedgehog	son034	Tails (Miles Prower) - Grin	2026	5.88
 1347	One Piece	op045	Roronoa Zoro - Tan Shirt, Hair, Open Mouth Scowl / Open Mouth Grin	2026	3.5
 1347	One Piece	op048	Nami - Dark Turquoise Shirt, Black Legs	2026	3.95
 1347	One Piece	op049	Usopp - Lavender Bandana	2026	3.65
@@ -19127,14 +19130,30 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 65	Star Wars / Star Wars The Mandalorian	sw1539	The Mandalorian / Din Djarin / 'Mando' - Brown Durasteel Armor, Printed Arms, Dark Tan Mud Splotches	2026	3.7
 65	Star Wars / Star Wars The Mandalorian	sw1541	Jawa - Dark Bluish Gray Offworld Outfit, Strap with Pouches, Necklace and Pendants (Elder)	2026	3.45
 65	Star Wars / Star Wars The Mandalorian	sw1542	Jawa - Dark Bluish Gray Offworld Outfit, Straps with Pouches	2026	3.45
-1359	Editions	edi014	Olivia Rodrigo - Bright Light Blue and White Outfit	?	4.02
-801	Minecraft / Minecraft Dungeons II	min277	Ren	?	3.43
-801	Minecraft / Minecraft Dungeons II	min275	Valorie - Dark Red Outfit	?	3.43
-801	Minecraft / Minecraft Dungeons II	min276	Flores	?	3.43
-801	Minecraft / Minecraft Dungeons II	min274	Kellen	?	4.4
+1359	Editions	edi014	Olivia Rodrigo - Bright Light Blue and White Outfit	2026	4.02
+801	Minecraft / Minecraft Dungeons II	min277	Ren	2026	3.43
+801	Minecraft / Minecraft Dungeons II	min275	Valorie - Dark Red Outfit	2026	3.43
+801	Minecraft / Minecraft Dungeons II	min276	Flores	2026	3.43
+801	Minecraft / Minecraft Dungeons II	min274	Kellen	2026	4.4
 65	Star Wars / Star Wars The Mandalorian	sw1540	Jawa - Dark Bluish Gray Offworld Outfit, Strap with Pouches	2026	3.45
+1347	One Piece	op051	Miss All Sunday (Nico Robin)	2026	4.36
 801	Minecraft	min278	Space Sentinel - Light Bluish Gray Legs	2026	4.2
 850	Jurassic World	jw149	ACU Guard / Ranger - Male, Dark Blue Cap	2026	3.37
 801	Minecraft	min279	Steve (Nougat) - Medium Lavender Legs, Helmet and Armor	2026	5.02
 801	Minecraft	min280	Deep Sea Diver	2026	3.47
 801	Minecraft	min281	Drowned Zombie - Dark Brown, Dark Turquoise, Green, Sand Green, White, Medium Azure Pixelated Vest	2026	3.47
+1332	Bluey	blu009	Bluey in Grannies Costume (Janet)	2026	5.8
+1332	Bluey	blu010	Bingo in Grannies Costume (Rita)	2026	5.74
+572	LEGOLAND Parks	LLP038	Child - Girl, White Sweater with Red Horizontal Stripes, Dark Purple Medium Legs, Reddish Brown Wavy Hair with Ponytail	2026	4.32
+572	LEGOLAND Parks	LLP039	Child - Boy, Light Bluish Gray Hoodie with Dark Red Shirt, Dark Tan Medium Legs,  Dark Blue Beanie, Dark Tan Hair	2026	3.64
+850	Jurassic World	jw150	Billy Brennan	2026	3.57
+878	Disney / Disney Princess / Beauty and the Beast	dp247	Cogsworth - Printed Face with Teeth, Log Profile Body	2026	2.73
+878	Disney / Disney Princess / Beauty and the Beast	dp248	Beast / Prince Adam - Mini Doll, Black Trousers, Reddish Brown Boots	2026	3.86
+878	Disney / Disney Princess / Beauty and the Beast	dp249	Belle - Mini Doll, Yellow and Bright Light Yellow Dress with Skirt Full Length, Gold Brooch	2026	3.24
+842	SPEED CHAMPIONS	sc150	BMW M3 (E30) Driver	2026	3.5
+768	Super Heroes / Batman II	sh1150	The Riddler - Orange Prison Jumpsuit, Side Pockets, Helicopter Backpack	2026	8.95
+1359	Editions	edi015	Lando Norris	2026	3.55
+850	Jurassic World / The Lost World: Jurassic Park	jw151	Dr. Sarah Harding	?	3.9
+850	Jurassic World / The Lost World: Jurassic Park	jw152	Dr. Ian Malcolm - Open Vest over Dark Blue Shirt	?	3.45
+1332	Bluey	blu011	Rusty	2026	3.86
+1203	Sonic the Hedgehog	son035	Shadow the Hedgehog - Doom Power Transformation	2026	13.14

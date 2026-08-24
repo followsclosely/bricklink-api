@@ -7952,8 +7952,12 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 572	LEGOLAND Parks	b05lldkpg	LEGOLAND Denmark Park Guide 2005 with Map	2005	18	10 x 21 x 0.1
 1004	Guide Book / LEGO Brand	b17lwg	LEGO World Denmark 2017 Guide with Map (203498_DA)	2017	17	10.5 x 14.9 x 0.2
 1024	Magazine, NINJAGO	mag2026njo143de	NINJAGO Magazine 2026 Issue 143 (German)	2026	?	? x ? x ?
+1063	Magazine, Super Heroes / Batman II	mag2026shba45de	Batman Magazine 2026 Issue 45 (German)	2026	81	21 x 28 x 0.13
+1063	Magazine, Super Heroes / Avengers	mag2026shav36de	Avengers Magazine 2026 Issue 36 (German)	2026	81	21 x 28 x 0.13
 332	Informational Book / Minecraft	b26min01nl	Minecraft - Groot LEGO Minecraft Boek (Dutch Edition)	2026	1302	25.7 x 30.6 x 2.9
 331	Comic Book / NINJAGO / Legacy	com2024njol24de	NINJAGO Legacy Comic 2024 Issue 24 (German)	2024	?	? x ? x ?
 1021	Magazine, City	mag2026cty90de	City Magazine 2026 Issue 90 (German)	2026	?	? x ? x ?
 1024	Magazine, NINJAGO / Legacy	mag2026njol45de	NINJAGO Legacy Magazine 2026 Issue 45 (German)	2026	?	? x ? x ?
 462	Magazine	mag2007marbm	LEGO Magazine 2007 March-April (BrickMaster Edition)	2007	?	? x ? x ?
+1024	Magazine, NINJAGO	mag2026njo144de	NINJAGO Magazine 2026 Issue 144 (German)	2026	?	? x ? x ?
+1063	Magazine, Super Heroes / Batman II	mag2026shba46de	Batman Magazine 2026 Issue 46 (German)	2026	81	21 x 28 x 0.13

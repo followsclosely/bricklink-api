@@ -220,6 +220,7 @@ Category ID	Category Name
 8	Brick, Round
 736	Brick, Round, Decorated
 903	BrickHeadz
+1408	BrickHeadz Other
 1196	BrickLink
 1197	BrickLink Designer Program
 1140	BricQ
@@ -1005,6 +1006,7 @@ Category ID	Category Name
 1095	Super Mario
 1134	Super Mario Expansion Set
 1133	Super Mario Maker Set
+1407	Super Mario Other
 1135	Super Mario Power-Up Pack
 1114	Super Mario Series 1
 1126	Super Mario Series 2
