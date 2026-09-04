@@ -302,7 +302,6 @@ Category ID	Category Name
 1393	Creator 3in1
 1400	Creator 6in1
 1401	Creator 8in1
-1068	Creator Expert
 1394	Creator Other
 726	Creature
 1371	Crocs
@@ -527,6 +526,7 @@ Category ID	Category Name
 963	Hunted
 263	Hydronauts
 304	Ice Planet 2002
+1068	Icons &#40;Creator Expert&#41;
 317	Idea Book
 1110	IKEA
 272	Imperial Armada
@@ -564,6 +564,7 @@ Category ID	Category Name
 1390	KPop Demon Hunters
 90	Ladder
 723	Lamborghini
+1413	Landmark
 569	Large Figure Part
 703	Last Crusade
 496	Launch Command
@@ -725,6 +726,7 @@ Category ID	Category Name
 1373	Monsters, Inc.
 986	Monthly Model
 433	Mosaic
+1412	Mother&#39;s Day
 504	Motor, Non-Electric
 802	Muji
 1188	Mulan
@@ -902,6 +904,8 @@ Category ID	Category Name
 31	Slope
 438	Slope, Curved
 775	Slope, Curved, Decorated
+1409	Slope, Curved, Inverted
+1410	Slope, Curved, Inverted, Decorated
 33	Slope, Decorated
 32	Slope, Inverted
 776	Slope, Inverted, Decorated
@@ -1028,6 +1032,7 @@ Category ID	Category Name
 134	Technic, Axle
 135	Technic, Brick
 133	Technic, Connector
+1411	Technic, Decorated
 638	Technic, Disk
 242	Technic, Figure Accessory
 483	Technic, Flex Cable

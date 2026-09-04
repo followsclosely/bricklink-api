@@ -5558,7 +5558,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1109	Magazine, Explorer	mag2021ex08de	Explorer Magazine 2021 Issue 8 (German)	2021	89	21 x 28 x 0.2
 1261	Magazine, LEGO Life	mag2021life03de	LEGO Life Magazine 2021 Issue 3 July (German)	2021	58	20.2 x 26.8 x 0.2
 1024	Magazine, NINJAGO	mag2021njo78de	NINJAGO Magazine 2021 Issue 78 (German)	2021	?	? x ? x ?
-332	Informational Book / Star Wars	9783831039807	Star Wars - Lexikon der Minifiguren - Neuausgabe (Hardcover) (German Edition)	2020	?	18.9 x 3.3 x 23.8
+332	Informational Book / Star Wars	b20sw11de	Star Wars - Lexikon der Minifiguren: Neuausgabe (Hardcover) (German Edition)	2020	909	18.9 x 23.8 x 3.3
 1025	Magazine, Star Wars	mag2021sw74de	Star Wars Magazine 2021 Issue 74 (German)	2021	?	? x ? x ?
 1024	Magazine, NINJAGO	mag2021njo05nl	NINJAGO Magazine 2021 Issue 5 (Dutch)	2021	151	21 x 28 x 0.13
 1063	Magazine, Super Heroes / Avengers	mag2021shav02nl	Avengers Magazine 2021 Issue 2 (Dutch)	2021	145	21 x 28 x 0.13
@@ -5931,7 +5931,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 766	Activity Book / Harry Potter	b22hp04uk	Harry Potter - Official Yearbook 2023 (English - UK Edition)	2022	440	21.6 x 28.5 x 1
 332	Informational Book / Harry Potter	b22hp14uk	Harry Potter - A Spellbinding Guide to Hogwarts Houses (Hardcover) (English - UK Edition)	2022	485.4	19.3 x 23 x 2.4
 766	Activity Book / Harry Potter	b21hp05uk	Harry Potter - Official Yearbook 2022 (Softcover) (English - UK Edition)	2021	438.6	22 x 29 x 0.9
-332	Informational Book / Harry Potter	b21hp08uk	Harry Potter - Hogwarts at Christmas (Hardcover) (English - UK Edition)	2021	?	? x ? x ?
+332	Informational Book / Harry Potter	b21hp08uk	Harry Potter - Hogwarts at Christmas (Hardcover) (English - UK Edition)	2021	482	19.5 x 23 x 2.5
 766	Activity Book / Harry Potter	b22hp01de	Harry Potter - Zauberspaß in Hogwarts (German Edition)	2022	?	? x ? x ?
 1109	Magazine, Explorer	mag2022ex06de	Explorer Magazine 2022 Issue 6 (German)	2022	88	21 x 28 x 0.2
 1109	Magazine, Explorer	mag2022ex05pl	Explorer Magazine 2022 Issue 5 (Polish)	2022	114.5	21 x 28 x 0.2
@@ -6495,7 +6495,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 1063	Magazine, Super Heroes / Batman II	mag2023shba28uk	Batman Magazine 2023 Issue 28 (English - UK)	2023	85	20.7 x 27.6 x 0.2
 1063	Magazine, Super Heroes / Avengers	mag2023shav19de	Avengers Magazine 2023 Issue 19 (German)	2023	81	21 x 28 x 0.13
 1063	Magazine, Super Heroes / Avengers	mag2023shav18de	Avengers Magazine 2023 Issue 18 (German)	2023	81	21 x 28 x 0.13
-332	Informational Book / Harry Potter	b22hp14de	Harry Potter - Magische Hogwarts-Häuser (Hardcover) (German Edition)	2022	?	? x ? x ?
+332	Informational Book / Harry Potter	b22hp14de	Harry Potter - Magische Hogwarts-Häuser (Hardcover) (German Edition)	2022	510	19.4 x 23 x 2.5
 1024	Magazine, NINJAGO	mag2023njo105de	NINJAGO Magazine 2023 Issue 105 (German)	2023	81	21 x 28 x 0.13
 1025	Magazine, Star Wars	mag2023sw99de	Star Wars Magazine 2023 Issue 99 (German)	2023	81	21 x 28 x 0.13
 1063	Magazine, Super Heroes / Spider-Man	mag2023shsp03nl	Spider-Man Magazine 2023 Issue 3 (Dutch)	2023	103	21 x 28 x 1.5
@@ -7961,3 +7961,5 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)	Dimensions
 462	Magazine	mag2007marbm	LEGO Magazine 2007 March-April (BrickMaster Edition)	2007	?	? x ? x ?
 1024	Magazine, NINJAGO	mag2026njo144de	NINJAGO Magazine 2026 Issue 144 (German)	2026	?	? x ? x ?
 1063	Magazine, Super Heroes / Batman II	mag2026shba46de	Batman Magazine 2026 Issue 46 (German)	2026	81	21 x 28 x 0.13
+332	Informational Book / Super Heroes / Batman II	b26sh02	Batman - Adventures in Gotham City (Hardcover)	2026	514	18.8 x 23.7 x 2.7
+766	Activity Book / Minecraft	b26min02nl	Minecraft - Bouw Je Avontuur: Kies Je Eigen Weg (Box Set) (Dutch Edition)	2026	396	20.5 x 27.2 x 3.1

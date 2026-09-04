@@ -1375,7 +1375,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 378	2002 / Holiday & Event / Christmas	c02sahdehol	2002 Shop at Home - Christmas German - Weihnachten (WOR U-0073)	2002	145
 544	2005 / Holiday & Event / Christmas	c05dewc2	2005 Insert - World Club Magazine German - Christmas - Weihnachten	2005	35
 362	1987	c87nl	1987 Large Dutch (920311-NL)	1987	?
-358	1983	c83nl	1983 Large Dutch (93500-NL)	1983	?
+358	1983	c83nl	1983 Large Dutch (93500-NL)	1983	64
 355	1980	c80nlm2	1980 Medium Dutch (99870-NL)	1980	35
 342	1967	c67nl3	1967 Dutch Bouwen en spelen (3218-Ho)	1967	5
 371	1996 / Technic	c96det	1996 Medium Technic German Foldout (925.061-D)	1996	20
@@ -1492,7 +1492,7 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 356	1981	c81eupg2	1981 For Parents / Pour les parents / Para los padres (Parents Guide) (109785/109885-OS)	1981	28
 360	1985	c85eupg1	1985 Für Mama und Papa / Pour maman et papa/ Per mamma e papà (Parents Guide) (109582/109682 EU II (D/A/CH/F/I))	1985	26
 370	1995	c95de3	1995 Large German (Mit Teilnahmeschein für die 12. Deutsche LEGO Meisterschaft - 923.963-D)	1995	102
-352	1977	c77nl2	1977 Large Dutch 37 (98760-NL)	1977	?
+352	1977	c77nl2	1977 Large Dutch 37 (98760-NL)	1977	25
 368	1993 / Town / Classic Town	m93usto	1993 Mini Town US (113817-US)	1993	4.52
 377	2001 / DUPLO	c01dup	2001 Small Duplo - 'Magic Zauber Magique Magia' (4157590)	2001	9.3
 369	1994 / Town / Classic Town	m94nato	1994 Mini Town North America (996417-NA)	1994	4.5
@@ -5084,3 +5084,4 @@ Category ID	Category Name	Number	Name	Year Released	Weight (in Grams)
 491	2003	c03sah3d	2003 Shop at Home - Summer - Version D Bionicle Rahkshi on Cover (38 Pages) (WOR U-0702)	2003	103
 491	2003	c03sah6b	Shop at Home - Holiday Version 2 (50 Pages) (WOR U-1132)	2003	?
 348	1973	c73nldof	1973 Dutch Price List & Order Form	1973	4
+1360	2026	c26nl2	2026 Large Dutch July - December (NL f/Brand Retail: 66045084 NL for EUC: 6645100 NL: 6645110)	2026	197
