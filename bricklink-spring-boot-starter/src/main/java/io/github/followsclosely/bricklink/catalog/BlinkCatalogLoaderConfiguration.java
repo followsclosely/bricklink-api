@@ -95,4 +95,14 @@ public class BlinkCatalogLoaderConfiguration {
         log.info("Created BlinkGearCatalogLoader bean: {}", loader);
         return loader;
     }
+
+    @Bean
+    @Lazy
+    @ConditionalOnMissingBean(BlinkElementCatalogLoader.class)
+    public BlinkElementCatalogLoader blinkElementCatalogLoader() {
+        BlinkElementCatalogLoader loader = new BlinkElementCatalogLoader();
+        loader.setRootDirectory(rootDirectory.getAbsolutePath());
+        log.info("Created BlinkElementCatalogLoader bean: {}", loader);
+        return loader;
+    }
 }
